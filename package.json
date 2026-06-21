@@ -1,0 +1,26 @@
+{
+  "name": "church-utils",
+  "version": "2.0.0",
+  "main": "launcher.js",
+  "repository": "git@github.com:xtiam57/church-utils.git",
+  "author": "Christiam Mena <christiam.mena@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node launcher.js",
+    "dev": "nodemon server.js",
+    "dev:launcher": "nodemon launcher.js",
+    "biblia": "node generate-bible.js && node generate-hymnals.js",
+    "build": "node generate-hymnals.js",
+    "prebuild:exe": "node -e \"try{require('fs').unlinkSync('dist/IglesiaVidaNueva.exe')}catch(e){}; console.log('🧹 EXE anterior eliminado.')\"",
+    "build:exe": "npx pkg launcher.js --targets node18-win-x64 --output dist/IglesiaVidaNueva.exe --config pkg-config.json"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "morgan": "^1.11.0",
+    "multer": "^2.1.1",
+    "nodemon": "^3.1.14",
+    "open": "^8.4.2",
+    "qrcode": "^1.5.4",
+    "socket.io": "^4.8.3"
+  }
+}

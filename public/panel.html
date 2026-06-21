@@ -1,0 +1,1168 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Panel de Estado — Sistema de Proyección</title>
+  <meta name="description"
+    content="Panel de administración del sistema de proyección para iglesias. Muestra estado de red, códigos QR y dispositivos conectados.">
+  <link rel="stylesheet" href="/assets/fonts/fonts.css">
+  <style>
+    :root {
+      --bg-main: #06080f;
+      --bg-card: rgba(14, 18, 32, 0.75);
+      --bg-card-hover: rgba(22, 28, 50, 0.85);
+      --border-color: rgba(255, 255, 255, 0.06);
+      --border-glow: rgba(99, 102, 241, 0.3);
+      --text-main: #f0f1f5;
+      --text-muted: #8b90a0;
+      --text-dim: #5a5e70;
+      --accent: #6366f1;
+      --accent-glow: rgba(99, 102, 241, 0.15);
+      --gold: #e2c475;
+      --gold-glow: rgba(226, 196, 117, 0.15);
+      --success: #10b981;
+      --success-glow: rgba(16, 185, 129, 0.12);
+      --danger: #ef4444;
+      --warning: #f59e0b;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Inter', 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg-main);
+      color: var(--text-main);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* ── Fondo ambiental ────────────────────────────────────────── */
+    .ambient-bg {
+      position: fixed;
+      inset: 0;
+      z-index: 0;
+      pointer-events: none;
+      overflow: hidden;
+    }
+
+    .ambient-blob {
+      position: absolute;
+      border-radius: 50%;
+      filter: blur(120px);
+      opacity: 0.08;
+    }
+
+    .blob-1 {
+      width: 60vw;
+      height: 60vw;
+      background: #6366f1;
+      top: -20%;
+      left: -15%;
+      animation: driftBlob 40s ease-in-out infinite alternate;
+    }
+
+    .blob-2 {
+      width: 50vw;
+      height: 50vw;
+      background: #e2c475;
+      bottom: -25%;
+      right: -10%;
+      animation: driftBlob 35s ease-in-out infinite alternate-reverse;
+    }
+
+    @keyframes driftBlob {
+      0% {
+        transform: translate(0, 0) scale(1);
+      }
+
+      50% {
+        transform: translate(5%, 8%) scale(1.1);
+      }
+
+      100% {
+        transform: translate(-3%, -5%) scale(0.95);
+      }
+    }
+
+    /* ── Layout ─────────────────────────────────────────────────── */
+    .page-container {
+      position: relative;
+      z-index: 1;
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 32px 24px 60px;
+    }
+
+    /* ── Header ─────────────────────────────────────────────────── */
+    .page-header {
+      text-align: center;
+      margin-bottom: 40px;
+      animation: fadeInDown 0.8s ease;
+    }
+
+    .church-icon {
+      font-size: 2.5rem;
+      margin-bottom: 12px;
+      display: block;
+      animation: gentlePulse 3s ease-in-out infinite;
+    }
+
+    .page-title {
+      font-family: 'Outfit', sans-serif;
+      font-size: clamp(1.6rem, 4vw, 2.2rem);
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      background: linear-gradient(135deg, #ffffff 0%, var(--gold) 60%, #ffffff 100%);
+      background-size: 200% 200%;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: shimmerText 6s ease-in-out infinite;
+    }
+
+    .page-subtitle {
+      font-size: 0.92rem;
+      color: var(--text-muted);
+      margin-top: 6px;
+      font-weight: 400;
+      letter-spacing: 0.01em;
+    }
+
+    @keyframes shimmerText {
+
+      0%,
+      100% {
+        background-position: 0% 50%;
+      }
+
+      50% {
+        background-position: 100% 50%;
+      }
+    }
+
+    @keyframes gentlePulse {
+
+      0%,
+      100% {
+        transform: scale(1);
+      }
+
+      50% {
+        transform: scale(1.05);
+      }
+    }
+
+    @keyframes fadeInDown {
+      from {
+        opacity: 0;
+        transform: translateY(-20px);
+      }
+
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    /* ── Status Cards Grid ──────────────────────────────────────── */
+    .status-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 16px;
+      margin-bottom: 36px;
+      animation: fadeInUp 0.6s 0.2s ease both;
+    }
+
+    .status-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 16px;
+      padding: 20px;
+      position: relative;
+      overflow: hidden;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .status-card:hover {
+      background: var(--bg-card-hover);
+      border-color: rgba(255, 255, 255, 0.12);
+      transform: translateY(-2px);
+    }
+
+    .status-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 2px;
+      border-radius: 16px 16px 0 0;
+    }
+
+    .status-card.card-server::before {
+      background: linear-gradient(90deg, var(--success), transparent);
+    }
+
+    .status-card.card-network::before {
+      background: linear-gradient(90deg, var(--accent), transparent);
+    }
+
+    .status-card.card-hotspot::before {
+      background: linear-gradient(90deg, var(--gold), transparent);
+    }
+
+    .status-card.card-devices::before {
+      background: linear-gradient(90deg, #8b5cf6, transparent);
+    }
+
+    .status-label {
+      font-size: 0.72rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--text-dim);
+      margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .status-value {
+      font-size: 1.6rem;
+      font-weight: 700;
+      font-family: 'Outfit', sans-serif;
+      line-height: 1.2;
+    }
+
+    .status-detail {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      margin-top: 6px;
+    }
+
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      display: inline-block;
+      animation: pulseDot 2s ease-in-out infinite;
+    }
+
+    .dot-green {
+      background: var(--success);
+      box-shadow: 0 0 8px var(--success);
+    }
+
+    .dot-yellow {
+      background: var(--warning);
+      box-shadow: 0 0 8px var(--warning);
+    }
+
+    .dot-red {
+      background: var(--danger);
+      box-shadow: 0 0 8px var(--danger);
+    }
+
+    .dot-blue {
+      background: var(--accent);
+      box-shadow: 0 0 8px var(--accent);
+    }
+
+    @keyframes pulseDot {
+
+      0%,
+      100% {
+        opacity: 1;
+      }
+
+      50% {
+        opacity: 0.5;
+      }
+    }
+
+    /* ── Sección de conexión ─────────────────────────────────────── */
+    .section-title {
+      font-family: 'Outfit', sans-serif;
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--text-main);
+      margin-bottom: 20px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      letter-spacing: -0.01em;
+    }
+
+    .section-title .icon {
+      font-size: 1.3rem;
+    }
+
+    /* ── QR Grid ────────────────────────────────────────────────── */
+    .qr-section {
+      margin-bottom: 40px;
+      animation: fadeInUp 0.6s 0.4s ease both;
+    }
+
+    .qr-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 20px;
+    }
+
+    .qr-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 16px;
+      padding: 24px;
+      text-align: center;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .qr-card:hover {
+      background: var(--bg-card-hover);
+      border-color: var(--border-glow);
+      transform: translateY(-4px);
+      box-shadow: 0 12px 40px rgba(0, 0, 0, 0.3), 0 0 20px var(--accent-glow);
+    }
+
+    .qr-card-title {
+      font-family: 'Outfit', sans-serif;
+      font-size: 1rem;
+      font-weight: 700;
+      margin-bottom: 4px;
+      color: var(--text-main);
+    }
+
+    .qr-card-desc {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+
+    .qr-image-container {
+      background: rgba(255, 255, 255, 0.04);
+      border-radius: 12px;
+      padding: 16px;
+      margin-bottom: 14px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 200px;
+    }
+
+    .qr-image-container svg {
+      width: 180px;
+      height: 180px;
+    }
+
+    .qr-url {
+      font-family: 'JetBrains Mono', 'Fira Code', monospace;
+      font-size: 0.78rem;
+      color: var(--accent);
+      background: rgba(99, 102, 241, 0.08);
+      border: 1px solid rgba(99, 102, 241, 0.15);
+      border-radius: 8px;
+      padding: 8px 12px;
+      word-break: break-all;
+      cursor: pointer;
+      transition: all 0.2s;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+    }
+
+    .qr-url:hover {
+      background: rgba(99, 102, 241, 0.15);
+      border-color: rgba(99, 102, 241, 0.3);
+    }
+
+    .qr-url .copy-icon {
+      font-size: 0.85rem;
+      opacity: 0.6;
+    }
+
+    .qr-url.copied {
+      background: var(--success-glow);
+      border-color: rgba(16, 185, 129, 0.3);
+      color: var(--success);
+    }
+
+    /* ── Sección de acceso rápido ────────────────────────────────── */
+    .quick-access {
+      margin-bottom: 40px;
+      animation: fadeInUp 0.6s 0.6s ease both;
+    }
+
+    .access-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 12px;
+    }
+
+    .access-btn {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      padding: 16px 20px;
+      color: var(--text-main);
+      text-decoration: none;
+      font-family: inherit;
+      font-size: 0.92rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .access-btn:hover {
+      background: var(--bg-card-hover);
+      border-color: var(--border-glow);
+      transform: translateY(-2px);
+    }
+
+    .access-btn .btn-icon {
+      font-size: 1.4rem;
+      flex-shrink: 0;
+    }
+
+    .access-btn .btn-label {
+      flex: 1;
+    }
+
+    .access-btn .btn-arrow {
+      color: var(--text-dim);
+      font-size: 1.1rem;
+      transition: transform 0.2s;
+    }
+
+    .access-btn:hover .btn-arrow {
+      transform: translateX(3px);
+      color: var(--accent);
+    }
+
+    /* ── Configuración hotspot ───────────────────────────────────── */
+    .config-section {
+      margin-bottom: 40px;
+      animation: fadeInUp 0.6s 0.8s ease both;
+    }
+
+    .config-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 16px;
+      padding: 24px;
+      max-width: 520px;
+    }
+
+    .config-group {
+      margin-bottom: 16px;
+    }
+
+    .config-label {
+      font-size: 0.78rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--text-muted);
+      margin-bottom: 6px;
+    }
+
+    .config-input {
+      width: 100%;
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      padding: 10px 14px;
+      color: var(--text-main);
+      font-family: inherit;
+      font-size: 0.92rem;
+      transition: all 0.2s;
+    }
+
+    .config-input:focus {
+      outline: none;
+      border-color: var(--border-glow);
+      box-shadow: 0 0 0 3px var(--accent-glow);
+      background: rgba(255, 255, 255, 0.06);
+    }
+
+    .config-actions {
+      display: flex;
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+    .btn-save {
+      background: var(--accent);
+      color: white;
+      border: none;
+      border-radius: 8px;
+      padding: 10px 24px;
+      font-family: inherit;
+      font-size: 0.88rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .btn-save:hover {
+      background: #4f46e5;
+      transform: translateY(-1px);
+    }
+
+    .btn-save:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+      transform: none;
+    }
+
+    .save-feedback {
+      font-size: 0.82rem;
+      color: var(--success);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+
+    .save-feedback.visible {
+      opacity: 1;
+    }
+
+    /* ── Network info banner ────────────────────────────────────── */
+    .network-info-banner {
+      background: linear-gradient(135deg, rgba(99, 102, 241, 0.08) 0%, rgba(226, 196, 117, 0.06) 100%);
+      border: 1px solid rgba(99, 102, 241, 0.15);
+      border-radius: 16px;
+      padding: 24px 28px;
+      margin-bottom: 36px;
+      display: flex;
+      align-items: center;
+      gap: 24px;
+      flex-wrap: wrap;
+      animation: fadeInUp 0.6s 0.3s ease both;
+    }
+
+    .net-info-item {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+      min-width: 140px;
+    }
+
+    .net-info-label {
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--text-dim);
+      font-weight: 600;
+    }
+
+    .net-info-value {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: var(--text-main);
+      font-family: 'Outfit', sans-serif;
+    }
+
+    .net-info-value.ip-value {
+      color: var(--accent);
+      font-family: 'JetBrains Mono', 'Fira Code', monospace;
+    }
+
+    .net-info-divider {
+      width: 1px;
+      height: 36px;
+      background: var(--border-color);
+      flex-shrink: 0;
+    }
+
+    /* ── Hotspot instructions ───────────────────────────────────── */
+    .hotspot-instructions {
+      background: rgba(245, 158, 11, 0.06);
+      border: 1px solid rgba(245, 158, 11, 0.15);
+      border-radius: 12px;
+      padding: 16px 20px;
+      margin-top: 16px;
+    }
+
+    .hotspot-instructions h4 {
+      font-size: 0.88rem;
+      color: var(--warning);
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .hotspot-instructions p {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      line-height: 1.6;
+    }
+
+    /* ── Password toggle ────────────────────────────────────────── */
+    .password-wrapper {
+      position: relative;
+    }
+
+    .password-toggle {
+      position: absolute;
+      right: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 1rem;
+      padding: 4px;
+      transition: color 0.2s;
+    }
+
+    .password-toggle:hover {
+      color: var(--text-main);
+    }
+
+    /* ── Footer ─────────────────────────────────────────────────── */
+    .page-footer {
+      text-align: center;
+      padding: 24px 0;
+      border-top: 1px solid var(--border-color);
+      margin-top: 40px;
+      animation: fadeInUp 0.6s 1s ease both;
+    }
+
+    .footer-text {
+      font-size: 0.78rem;
+      color: var(--text-dim);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+    }
+
+    .footer-church {
+      color: var(--gold);
+      font-weight: 600;
+    }
+
+    /* ── Responsive ─────────────────────────────────────────────── */
+    @media (max-width: 600px) {
+      .page-container {
+        padding: 20px 16px 40px;
+      }
+
+      .status-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+      }
+
+      .status-card {
+        padding: 14px;
+      }
+
+      .status-value {
+        font-size: 1.25rem;
+      }
+
+      .qr-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .network-info-banner {
+        flex-direction: column;
+        gap: 12px;
+        align-items: flex-start;
+      }
+
+      .net-info-divider {
+        display: none;
+      }
+
+      .access-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    /* ── Loading skeleton ───────────────────────────────────────── */
+    .skeleton {
+      background: linear-gradient(90deg, rgba(255, 255, 255, 0.04) 25%, rgba(255, 255, 255, 0.08) 50%, rgba(255, 255, 255, 0.04) 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.5s infinite;
+      border-radius: 8px;
+    }
+
+    @keyframes shimmer {
+      0% {
+        background-position: 200% 0;
+      }
+
+      100% {
+        background-position: -200% 0;
+      }
+    }
+
+    /* ── Toast notification ─────────────────────────────────────── */
+    .toast {
+      position: fixed;
+      bottom: 24px;
+      left: 50%;
+      transform: translateX(-50%) translateY(100px);
+      background: var(--bg-card);
+      border: 1px solid var(--border-glow);
+      border-radius: 12px;
+      padding: 12px 24px;
+      color: var(--text-main);
+      font-size: 0.88rem;
+      font-weight: 500;
+      z-index: 9999;
+      opacity: 0;
+      transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+      backdrop-filter: blur(12px);
+    }
+
+    .toast.show {
+      transform: translateX(-50%) translateY(0);
+      opacity: 1;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Ambient background -->
+  <div class="ambient-bg">
+    <div class="ambient-blob blob-1"></div>
+    <div class="ambient-blob blob-2"></div>
+  </div>
+
+  <div class="page-container">
+
+    <!-- Header -->
+    <header class="page-header">
+      <span class="church-icon">⛪</span>
+      <h1 class="page-title" id="page-title">Panel de Estado</h1>
+      <p class="page-subtitle" id="page-subtitle">Sistema de Proyección</p>
+    </header>
+
+    <!-- Status Cards -->
+    <div class="status-grid">
+      <div class="status-card card-server">
+        <div class="status-label">
+          <span class="status-dot dot-green" id="server-dot"></span>
+          Estado del Servidor
+        </div>
+        <div class="status-value" id="server-status">Activo</div>
+        <div class="status-detail" id="server-port">Puerto: ...</div>
+      </div>
+
+      <div class="status-card card-network">
+        <div class="status-label">
+          <span class="status-dot dot-blue" id="network-dot"></span>
+          Red Activa
+        </div>
+        <div class="status-value" id="network-type">...</div>
+        <div class="status-detail" id="network-name">Detectando...</div>
+      </div>
+
+      <div class="status-card card-hotspot">
+        <div class="status-label">
+          <span class="status-dot dot-yellow" id="hotspot-dot"></span>
+          Punto de Acceso
+        </div>
+        <div class="status-value" id="hotspot-status">...</div>
+        <div class="status-detail" id="hotspot-ssid"></div>
+      </div>
+
+      <div class="status-card card-devices">
+        <div class="status-label">
+          <span class="status-dot dot-blue" id="devices-dot"></span>
+          Dispositivos
+        </div>
+        <div class="status-value" id="devices-count">0</div>
+        <div class="status-detail">Conectados via Socket.IO</div>
+      </div>
+    </div>
+
+    <!-- Network Info Banner -->
+    <div class="network-info-banner" id="network-banner">
+      <div class="net-info-item">
+        <span class="net-info-label">IP Local</span>
+        <span class="net-info-value ip-value" id="banner-ip">...</span>
+      </div>
+      <div class="net-info-divider"></div>
+      <div class="net-info-item">
+        <span class="net-info-label">Puerto</span>
+        <span class="net-info-value" id="banner-port">...</span>
+      </div>
+      <div class="net-info-divider"></div>
+      <div class="net-info-item">
+        <span class="net-info-label">Sistema Operativo</span>
+        <span class="net-info-value" id="banner-os">...</span>
+      </div>
+      <div class="net-info-divider"></div>
+      <div class="net-info-item">
+        <span class="net-info-label">Node.js</span>
+        <span class="net-info-value" id="banner-node">...</span>
+      </div>
+    </div>
+
+    <!-- QR Codes Section -->
+    <div class="qr-section">
+      <h2 class="section-title"><span class="icon">📱</span> Códigos QR — Escanea desde tu celular</h2>
+      <div class="qr-grid" id="qr-grid">
+        <!-- QR cards loaded dynamically -->
+        <div class="qr-card">
+          <div class="qr-image-container skeleton" style="height:200px"></div>
+        </div>
+        <div class="qr-card">
+          <div class="qr-image-container skeleton" style="height:200px"></div>
+        </div>
+        <div class="qr-card">
+          <div class="qr-image-container skeleton" style="height:200px"></div>
+        </div>
+        <div class="qr-card">
+          <div class="qr-image-container skeleton" style="height:200px"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Quick Access -->
+    <div class="quick-access">
+      <h2 class="section-title"><span class="icon">🚀</span> Acceso Rápido</h2>
+      <div class="access-grid" id="access-grid">
+        <a class="access-btn" href="/" id="link-principal">
+          <span class="btn-icon">📖</span>
+          <span class="btn-label">Control de Versículos</span>
+          <span class="btn-arrow">→</span>
+        </a>
+        <a class="access-btn" href="/pantalla" target="_blank" id="link-pantalla">
+          <span class="btn-icon">📺</span>
+          <span class="btn-label">Pantalla de Versículos</span>
+          <span class="btn-arrow">→</span>
+        </a>
+        <a class="access-btn" href="/canticosadmin" id="link-canticos">
+          <span class="btn-icon">🎵</span>
+          <span class="btn-label">Control de Cánticos</span>
+          <span class="btn-arrow">→</span>
+        </a>
+        <a class="access-btn" href="/canticospantalla" target="_blank" id="link-canticospantalla">
+          <span class="btn-icon">🎤</span>
+          <span class="btn-label">Pantalla de Cánticos</span>
+          <span class="btn-arrow">→</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- Configuration Section -->
+    <div class="config-section">
+      <h2 class="section-title"><span class="icon">⚙️</span> Configuración del Punto de Acceso</h2>
+      <div class="config-card">
+        <div class="config-group">
+          <div class="config-label">Nombre de la Red (SSID)</div>
+          <input type="text" class="config-input" id="config-ssid" placeholder="IGLESIA_VIDA_NUEVA">
+        </div>
+        <div class="config-group">
+          <div class="config-label">Contraseña</div>
+          <div class="password-wrapper">
+            <input type="password" class="config-input" id="config-password" placeholder="Contraseña de la red"
+              style="padding-right: 40px;">
+            <button class="password-toggle" onclick="togglePassword()" id="password-toggle-btn"
+              title="Mostrar/ocultar contraseña">👁️</button>
+          </div>
+        </div>
+        <div class="config-group">
+          <div class="config-label">Nombre de la Iglesia</div>
+          <input type="text" class="config-input" id="config-church-name" placeholder="Iglesia Vida Nueva">
+        </div>
+        <div class="config-group">
+          <div class="config-label">Lema</div>
+          <input type="text" class="config-input" id="config-church-lema"
+            placeholder="Una Iglesia Para Un Mundo Dividido">
+        </div>
+        <div class="config-actions">
+          <button class="btn-save" id="btn-save-config" onclick="guardarConfiguracion()">💾 Guardar Cambios</button>
+          <div class="save-feedback" id="save-feedback">✅ Guardado correctamente</div>
+        </div>
+
+        <div class="hotspot-instructions" id="hotspot-instructions" style="display:none">
+          <h4>⚠️ Información del Punto de Acceso</h4>
+          <p id="hotspot-instructions-text"></p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="page-footer">
+      <div class="footer-text">
+        <span>Sistema de Proyección</span>
+        <span>•</span>
+        <span class="footer-church" id="footer-church">Iglesia Vida Nueva</span>
+        <span>•</span>
+        <span>v2.0</span>
+      </div>
+    </footer>
+  </div>
+
+  <!-- Toast notification -->
+  <div class="toast" id="toast"></div>
+
+  <!-- Socket.IO -->
+  <script src="/socket.io/socket.io.js"></script>
+  <script>
+    const socket = io();
+
+    // ── Estado local ──────────────────────────────────────────────
+    let estado = {};
+    let qrs = {};
+
+    // ── Cargar estado inicial ─────────────────────────────────────
+    async function cargarEstado() {
+      try {
+        const res = await fetch('/api/estado');
+        estado = await res.json();
+        actualizarUI();
+      } catch (e) {
+        console.error('Error cargando estado:', e);
+      }
+    }
+
+    async function cargarQRs() {
+      try {
+        const res = await fetch('/api/qr');
+        qrs = await res.json();
+        renderizarQRs();
+      } catch (e) {
+        console.error('Error cargando QRs:', e);
+      }
+    }
+
+    async function cargarConfig() {
+      try {
+        const res = await fetch('/api/config');
+        const config = await res.json();
+
+        document.getElementById('config-ssid').value = config.hotspot?.ssid || '';
+        document.getElementById('config-password').value = config.hotspot?.password || '';
+        document.getElementById('config-church-name').value = config.iglesia?.nombre || '';
+        document.getElementById('config-church-lema').value = config.iglesia?.lema || '';
+      } catch (e) {
+        console.error('Error cargando configuración:', e);
+      }
+    }
+
+    // ── Actualizar la UI con los datos del estado ─────────────────
+    function actualizarUI() {
+      // Servidor
+      document.getElementById('server-status').textContent = 'Activo ✓';
+      document.getElementById('server-port').textContent = 'Puerto: ' + (estado.puerto || '3000');
+
+      // Red
+      const tipoRed = (estado.red?.tipo || 'desconocido').toUpperCase();
+      document.getElementById('network-type').textContent = tipoRed;
+      document.getElementById('network-name').textContent = estado.red?.nombre || 'Desconocida';
+
+      const netDot = document.getElementById('network-dot');
+      if (estado.red?.ip && estado.red.ip !== 'localhost') {
+        netDot.className = 'status-dot dot-green';
+      } else {
+        netDot.className = 'status-dot dot-red';
+      }
+
+      // Hotspot
+      const hotspotActivo = estado.red?.hotspotActivo;
+      document.getElementById('hotspot-status').textContent = hotspotActivo ? 'Activo' : 'Inactivo';
+      document.getElementById('hotspot-ssid').textContent = hotspotActivo ? ('SSID: ' + (estado.red?.hotspotSSID || '')) : 'No creado';
+      const hsDot = document.getElementById('hotspot-dot');
+      hsDot.className = hotspotActivo ? 'status-dot dot-green' : 'status-dot dot-yellow';
+
+      // Dispositivos
+      document.getElementById('devices-count').textContent = estado.dispositivosConectados || 0;
+
+      // Banner
+      document.getElementById('banner-ip').textContent = estado.ip || 'localhost';
+      document.getElementById('banner-port').textContent = estado.puerto || '3000';
+      document.getElementById('banner-os').textContent = estado.red?.sistemaOperativo || 'Windows';
+      document.getElementById('banner-node').textContent = estado.nodeVersion || '';
+
+      // Header con nombre de iglesia
+      const churchName = estado.iglesia?.nombre || 'Sistema de Proyección';
+      document.getElementById('page-subtitle').textContent = churchName;
+      document.getElementById('footer-church').textContent = churchName;
+
+      // Hotspot instructions
+      if (estado.hotspotInstrucciones) {
+        const instrDiv = document.getElementById('hotspot-instructions');
+        const instrText = document.getElementById('hotspot-instructions-text');
+        instrDiv.style.display = 'block';
+        instrText.innerHTML = estado.hotspotInstrucciones.join('<br>');
+      }
+    }
+
+    // ── Renderizar QR codes ───────────────────────────────────────
+    function renderizarQRs() {
+      const grid = document.getElementById('qr-grid');
+      if (!qrs || Object.keys(qrs).length === 0) {
+        grid.innerHTML = '<div style="grid-column: span 4; text-align: center; color: var(--text-muted); padding: 40px;">Generando códigos QR...</div>';
+        return;
+      }
+
+      // Orden de los QRs (excluir panel de los QR para escaneo)
+      const orden = ['principal', 'canticosadmin', 'pantalla', 'canticospantalla'];
+      const colores = {
+        principal: '#6366f1',
+        canticosadmin: '#e2c475',
+        pantalla: '#10b981',
+        canticospantalla: '#8b5cf6'
+      };
+
+      grid.innerHTML = orden.map(clave => {
+        const qr = qrs[clave];
+        if (!qr) return '';
+
+        return `
+          <div class="qr-card">
+            <div class="qr-card-title">${qr.nombre}</div>
+            <div class="qr-card-desc">${qr.descripcion}</div>
+            <div class="qr-image-container">
+              ${qr.svg || '<div style="color:var(--text-muted)">Error</div>'}
+            </div>
+            <div class="qr-url" onclick="copiarURL('${qr.url}', this)" title="Click para copiar">
+              <span class="copy-icon">📋</span>
+              ${qr.url}
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    // ── Copiar URL al portapapeles ────────────────────────────────
+    async function copiarURL(url, element) {
+      try {
+        await navigator.clipboard.writeText(url);
+        element.classList.add('copied');
+        element.innerHTML = '<span class="copy-icon">✅</span> ¡Copiado!';
+        mostrarToast('URL copiada al portapapeles');
+
+        setTimeout(() => {
+          element.classList.remove('copied');
+          element.innerHTML = `<span class="copy-icon">📋</span> ${url}`;
+        }, 2000);
+      } catch (e) {
+        // Fallback
+        mostrarToast('No se pudo copiar automáticamente');
+      }
+    }
+
+    // ── Guardar configuración ─────────────────────────────────────
+    async function guardarConfiguracion() {
+      const btn = document.getElementById('btn-save-config');
+      btn.disabled = true;
+      btn.textContent = '⏳ Guardando...';
+
+      const config = {
+        hotspot: {
+          ssid: document.getElementById('config-ssid').value.trim(),
+          password: document.getElementById('config-password').value.trim()
+        },
+        iglesia: {
+          nombre: document.getElementById('config-church-name').value.trim(),
+          lema: document.getElementById('config-church-lema').value.trim()
+        }
+      };
+
+      try {
+        const res = await fetch('/api/config', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(config)
+        });
+
+        const data = await res.json();
+
+        if (data.exito) {
+          const feedback = document.getElementById('save-feedback');
+          feedback.classList.add('visible');
+          setTimeout(() => feedback.classList.remove('visible'), 3000);
+          mostrarToast('✅ Configuración guardada correctamente');
+        } else {
+          mostrarToast('❌ Error al guardar: ' + (data.error || 'desconocido'));
+        }
+      } catch (e) {
+        mostrarToast('❌ Error de red al guardar configuración');
+      }
+
+      btn.disabled = false;
+      btn.textContent = '💾 Guardar Cambios';
+    }
+
+    // ── Toggle password visibility ────────────────────────────────
+    function togglePassword() {
+      const input = document.getElementById('config-password');
+      const btn = document.getElementById('password-toggle-btn');
+      if (input.type === 'password') {
+        input.type = 'text';
+        btn.textContent = '🙈';
+      } else {
+        input.type = 'password';
+        btn.textContent = '👁️';
+      }
+    }
+
+    // ── Toast notification ────────────────────────────────────────
+    function mostrarToast(mensaje) {
+      const toast = document.getElementById('toast');
+      toast.textContent = mensaje;
+      toast.classList.add('show');
+      setTimeout(() => toast.classList.remove('show'), 3000);
+    }
+
+    // ── Socket.IO: actualizaciones en tiempo real ─────────────────
+    socket.on('info-red-actualizada', (data) => {
+      console.log('🔄 Red actualizada:', data);
+      cargarEstado();
+      cargarQRs();
+      mostrarToast('📡 Red actualizada — nueva IP: ' + data.ip);
+    });
+
+    socket.on('dispositivos-actualizados', (data) => {
+      document.getElementById('devices-count').textContent = data.total || 0;
+    });
+
+    // ── Inicialización ────────────────────────────────────────────
+    document.addEventListener('DOMContentLoaded', () => {
+      cargarEstado();
+      cargarQRs();
+      cargarConfig();
+
+      // Refrescar estado cada 15 segundos
+      setInterval(cargarEstado, 15000);
+    });
+  </script>
+</body>
+
+</html>

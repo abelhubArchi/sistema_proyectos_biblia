@@ -1,0 +1,899 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PANTALLA DE VERSICULOS</title>
+  <link rel="stylesheet" href="/assets/fonts/fonts.css">
+
+</head>
+
+<style>
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  html,
+  body {
+    height: 100%;
+    font-family: "Open Sans", sans-serif;
+    background: #0A0E1A;
+    color: #F5F0E8;
+    overflow: hidden;
+  }
+
+  /* ── Fondo ── */
+  .bg {
+    position: fixed;
+    inset: -6%;
+    background: url('/fondo_defecto.PNG') center center / cover no-repeat;
+    animation: kenBurns 30s ease-in-out infinite alternate;
+    transition: background-image 0s, opacity 1.2s ease;
+  }
+
+  /* Para GIFs: desactivar kenBurns para no cortar la animación */
+  .bg.is-gif {
+    animation: none;
+    inset: 0;
+  }
+
+  .bg-overlay {
+    position: fixed;
+    inset: 0;
+    background: radial-gradient(ellipse 80% 100% at 50% 50%, rgba(10, 14, 26, 0.50) 0%, rgba(10, 14, 26, 0.85) 100%);
+  }
+
+  /* Gradientes animados */
+  @keyframes gradientAnimation {
+    0% {
+      background-position: 0% 50%;
+    }
+
+    50% {
+      background-position: 100% 50%;
+    }
+
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+  .gradient-aurora {
+    background: linear-gradient(135deg, #0A2E36, #1C0A35, #0A1C35, #0f2c1f);
+    background-size: 400% 400%;
+    animation: gradientAnimation 20s ease infinite;
+  }
+
+  .gradient-atardecer {
+    background: linear-gradient(135deg, #2c0f20, #360a0a, #1a0826, #3b200a);
+    background-size: 400% 400%;
+    animation: gradientAnimation 20s ease infinite;
+  }
+
+  .gradient-paz {
+    background: linear-gradient(135deg, #09122c, #161e38, #0e273c, #1f112e);
+    background-size: 400% 400%;
+    animation: gradientAnimation 20s ease infinite;
+  }
+
+  .gradient-mistico {
+    background: linear-gradient(135deg, #18092a, #0b1c2b, #2b0b1c, #0d091a);
+    background-size: 400% 400%;
+    animation: gradientAnimation 20s ease infinite;
+  }
+
+  /* ── Escena ── */
+  .escena {
+    position: relative;
+    z-index: 1;
+    height: calc(100vh - 72px);
+    /* Leave space for banner */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: clamp(20px, 3vh, 60px) clamp(16px, 3vw, 48px);
+    gap: 0;
+    overflow: hidden;
+  }
+
+  /* ── Logo ── */
+  .logo {
+    position: fixed;
+    top: 25px;
+    right: 25px;
+    z-index: 1000;
+  }
+
+  .logo img {
+    width: clamp(70px, 7vw, 120px);
+    height: auto;
+    filter: drop-shadow(0 0 15px rgba(255, 255, 255, .43)) drop-shadow(0 0 40px rgba(255, 185, 7, .3));
+    animation: brilloLogo 4s ease-in-out infinite;
+    transition: transform 0.3s ease;
+  }
+
+  .logo img:hover {
+    transform: scale(1.05);
+  }
+
+  /* Fallback si no existe logo.png */
+  .logo-fallback {
+    font-size: 36px;
+    display: none;
+  }
+
+  /* ── Tarjeta del versículo ── */
+  .tarjeta {
+    width: 100%;
+    max-width: 92%;
+    flex: 1 1 0;
+    min-height: 0;
+    background: rgba(5, 7, 13, 0.22);
+    border: 1px solid rgba(201, 168, 76, 0.18);
+    border-radius: 20px;
+    backdrop-filter: saturate(180%) blur(10px);
+    -webkit-backdrop-filter: saturate(180%) blur(24px);
+    padding: clamp(18px, 2.5vh, 40px) clamp(20px, 3vw, 50px);
+    position: relative;
+    overflow: hidden;
+    opacity: 0;
+    transform: translateY(20px);
+    animation: cardRise 1s 0.8s cubic-bezier(.22, 1, .36, 1) forwards;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  /* Línea dorada superior */
+  .tarjeta::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 12%;
+    right: 12%;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(201, 168, 76, 0.6), transparent);
+  }
+
+  /* Brillo de esquina */
+  .tarjeta::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(ellipse at top left, rgba(201, 168, 76, 0.10) 0%, transparent 65%);
+    pointer-events: none;
+  }
+
+  /* Comilla decorativa */
+  .comilla {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 7rem;
+    line-height: 0;
+    color: rgba(201, 168, 76, 0.30);
+    position: absolute;
+    top: 52px;
+    left: 44px;
+    user-select: none;
+  }
+
+  /* Texto del versículo */
+  .verso {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(1.1rem, 2.2vw, 2.2rem);
+    font-style: italic;
+    font-weight: 400;
+    line-height: 1.65;
+    color: #F5F0E8;
+    letter-spacing: 0.01em;
+    margin-bottom: clamp(16px, 2.5vh, 36px);
+    min-height: 2em;
+  }
+
+  /* Referencia */
+  .referencia {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #E2C475;
+    letter-spacing: 0.04em;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    opacity: 0;
+    transition: opacity 0.6s ease;
+  }
+
+  .referencia::before {
+    content: '—';
+    color: rgba(201, 168, 76, 0.4);
+    font-weight: 300;
+  }
+
+  .referencia.visible {
+    opacity: 1;
+  }
+
+  /* Estado de espera */
+  .esperando {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-size: 1.1rem;
+    color: rgba(245, 240, 232, 0.35);
+    letter-spacing: 0.05em;
+  }
+
+  /* ── Info actualización ── */
+  #info {
+    position: fixed;
+    bottom: 80px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 0.62rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: rgba(245, 240, 232, 0.28);
+    opacity: 0;
+    animation: fadeIn 1s 1.8s ease forwards;
+    z-index: 50;
+  }
+
+  /* ── Animaciones ── */
+  @keyframes kenBurns {
+    0% {
+      transform: scale(1.06) translate(0%, 0%);
+    }
+
+    50% {
+      transform: scale(1.10) translate(-1.5%, -0.8%);
+    }
+
+    100% {
+      transform: scale(1.06) translate(1.2%, 0.5%);
+    }
+  }
+
+  @keyframes fadeIn {
+    to {
+      opacity: 1;
+    }
+  }
+
+  @keyframes cardRise {
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes blink {
+    50% {
+      opacity: 0;
+    }
+  }
+
+  .cursor {
+    display: inline-block;
+    width: 2px;
+    height: 1em;
+    background: #C9A84C;
+    margin-left: 3px;
+    vertical-align: middle;
+    animation: blink 1.1s step-end infinite;
+    border-radius: 1px;
+  }
+
+  .busqueda-text {
+    font-size: 2rem;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .bg {
+      animation: none;
+    }
+
+    .tarjeta,
+    .logo,
+    #info {
+      opacity: 1 !important;
+      transform: none !important;
+      animation: none !important;
+    }
+  }
+
+  @media (max-width: 600px) {
+    .tarjeta {
+      padding: 44px 28px 36px;
+    }
+
+    .comilla {
+      font-size: 5rem;
+      top: 38px;
+      left: 20px;
+    }
+
+    .logo {
+      top: 18px;
+      left: 20px;
+    }
+
+    .logo img {
+      height: 40px;
+    }
+  }
+
+  /* ── Contenedor de versículos ── */
+  .versiculos-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: clamp(10px, 2vh, 28px);
+  }
+
+  .versiculo-item {
+    position: relative;
+    width: 100%;
+    margin-bottom: 0;
+  }
+
+  /* Texto principal del versículo */
+  .versiculo-texto {
+    font-weight: 900;
+    color: white;
+    text-align: center;
+    line-height: 1.3;
+    max-width: 96%;
+    margin: 0 auto;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    will-change: font-size;
+    transition: font-size 0.25s ease;
+    text-shadow:
+      0 0 8px rgba(0, 0, 0, .9),
+      0 0 20px rgba(0, 0, 0, .8),
+      0 0 40px rgba(0, 0, 0, .5);
+    position: relative;
+    overflow: hidden;
+  }
+
+  /* Capítulo y versículo pequeños al inicio */
+  .versiculo-mini {
+    font-size: 0.55em;
+    vertical-align: super;
+    color: #da7115;
+    font-weight: 900;
+    margin-right: 0.3em;
+  }
+
+  /* Referencia abajo a la derecha */
+  .versiculo-referencia {
+    margin-top: clamp(8px, 1.5vh, 24px);
+    text-align: right;
+    font-size: clamp(1rem, 2.2vw, 3rem);
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: capitalize;
+    color: #FFD700;
+    text-shadow: 0 0 2px #FFD700;
+    animation: brilloDorado 10s ease-in-out infinite;
+  }
+
+  @keyframes brilloDorado {}
+
+  .versiculo-item {
+    opacity: 0;
+    transform: translateY(30px) scale(0.98);
+    animation: aparecerVersiculo 500ms ease-out forwards;
+  }
+
+  @keyframes aparecerVersiculo {
+    0% {
+      opacity: 0;
+      transform: translateY(30px) scale(0.98);
+      filter: blur(8px);
+    }
+
+    50% {
+      opacity: .7;
+      filter: blur(2px);
+    }
+
+    100% {
+      opacity: 1;
+      transform: translateY(0) scale(1);
+      filter: blur(0);
+    }
+  }
+
+  .fade-out {
+    animation: desaparecerVersiculo 0.8s ease-in forwards;
+  }
+
+  @keyframes desaparecerVersiculo {
+    from {
+      opacity: 1;
+      transform: scale(1);
+    }
+
+    to {
+      opacity: 0;
+      transform: scale(1.02);
+      filter: blur(5px);
+    }
+  }
+
+  /* Destello dorado que cruza el texto */
+  .versiculo-texto::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -150%;
+    width: 50%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 215, 0, .25), transparent);
+    animation: luzDivina 4s ease-in-out;
+    pointer-events: none;
+  }
+
+  @keyframes luzDivina {
+    from {
+      left: -150%;
+    }
+
+    to {
+      left: 150%;
+    }
+  }
+
+  @keyframes brilloLogo {
+
+    0%,
+    100% {
+      filter: drop-shadow(0 0 15px rgba(255, 255, 255, .5)) drop-shadow(0 0 40px rgba(255, 255, 255, .3));
+    }
+
+    50% {
+      filter: drop-shadow(0 0 25px rgba(255, 255, 255, .8)) drop-shadow(0 0 60px rgba(255, 255, 255, .5));
+    }
+  }
+
+  /* ── BANNER IGLESIA (permanente, parte inferior) ── */
+  .iglesia-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    height: 68px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    background: linear-gradient(180deg, transparent 0%, rgba(5, 8, 20, 0.82) 35%, rgba(5, 8, 20, 0.95) 100%);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    border-top: 1px solid rgba(201, 168, 76, 0.15);
+    padding: 0 20px;
+    pointer-events: none;
+  }
+
+  .iglesia-banner::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 15%;
+    right: 15%;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(201, 168, 76, 0.4), transparent);
+  }
+
+  .iglesia-nombre {
+    font-family: 'Cormorant Garamond', 'Outfit', serif;
+    font-size: clamp(0.85rem, 1.6vw, 1.1rem);
+    font-weight: 600;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #E2C475;
+    text-shadow: 0 0 12px rgba(226, 196, 117, 0.35);
+  }
+
+  .iglesia-lema {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(0.62rem, 1.1vw, 0.8rem);
+    font-weight: 400;
+    font-style: italic;
+    letter-spacing: 0.08em;
+    color: rgba(245, 240, 232, 0.45);
+  }
+</style>
+
+<body>
+
+  <!-- Fondo: reemplaza /assets/background.jpg para cambiarlo -->
+  <div class="bg" id="bg-layer-1"></div>
+  <div class="bg" id="bg-layer-2" style="opacity:0;"></div>
+  <div class="bg-overlay"></div>
+
+  <!-- Logo: reemplaza /assets/logo.png para cambiarlo -->
+  <div class="logo">
+    <img src="/assets/logo.png" alt="Logo"
+      onerror="this.style.display='none'; document.querySelector('.logo-fallback').style.display='block'" />
+  </div>
+
+  <!-- Pantalla principal -->
+  <div class="escena">
+    <div class="tarjeta">
+      <span class="comilla" aria-hidden="true">"</span>
+
+      <!-- Contenido: controlado por JS externo o interno -->
+      <div id="contenido">
+        <p class="verso esperando">Esperando búsqueda...</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Barra de estado -->
+  <div id="info">Actualización: en espera</div>
+
+  <!-- Banner permanente Iglesia Vida Nueva -->
+  <div class="iglesia-banner" aria-label="Identidad de la iglesia">
+    <div class="iglesia-nombre">Iglesia Vida Nueva</div>
+    <div class="iglesia-lema">Una Iglesia Unida Para Un Mundo Dividido</div>
+  </div>
+
+  <!-- Cargar Socket.IO -->
+  <script src="/socket.io/socket.io.js"></script>
+  <script>
+    // Conectar a Socket.IO
+    var socket;
+    try {
+      socket = io();
+    } catch (e) {
+      console.warn("Socket.io no disponible", e);
+      socket = { emit: function () { }, on: function () { } };
+    }
+
+    var autoFondoEnabled = true;
+    var fallbackGradient = "linear-gradient(135deg, #18092a, #0b1c2b, #2b0b1c, #0d091a)";
+    var currentFondoUrl = "";
+
+    // Escuchar redirección de pantalla
+    socket.on("cambiar-pantalla", (targetUrl) => {
+      if (targetUrl === "/canticospantalla") {
+        window.location.href = "/canticospantalla";
+      }
+    });
+
+    // ─── Gestión de fondos con cross-fade ───────────────────────────────
+    let activeBgLayer = 1;
+
+    function setBackground(bgValue) {
+      const layer1 = document.getElementById('bg-layer-1');
+      const layer2 = document.getElementById('bg-layer-2');
+      const activeLayer = activeBgLayer === 1 ? layer1 : layer2;
+      const inactiveLayer = activeBgLayer === 1 ? layer2 : layer1;
+
+      const isGif = bgValue && bgValue.toLowerCase().endsWith('.gif');
+      const isGradient = bgValue && bgValue.startsWith('gradient:');
+
+      // Reset inactive layer
+      inactiveLayer.className = 'bg';
+      inactiveLayer.style.backgroundImage = '';
+
+      if (isGradient) {
+        const name = bgValue.split(':')[1];
+        inactiveLayer.classList.add('gradient-' + name);
+      } else if (isGif) {
+        inactiveLayer.classList.add('is-gif');
+        const url = bgValue.startsWith('/') ? bgValue : '/' + bgValue;
+        inactiveLayer.style.backgroundImage = `url('${url}')`;
+      } else {
+        const url = bgValue.startsWith('/') ? bgValue : '/' + bgValue;
+        inactiveLayer.style.backgroundImage = `url('${url}')`;
+      }
+
+      // Cross-fade
+      inactiveLayer.style.opacity = '1';
+      activeLayer.style.opacity = '0';
+      activeBgLayer = activeBgLayer === 1 ? 2 : 1;
+    }
+
+    // Escuchar cambio de fondo
+    socket.on("cambiar-fondo", (url) => {
+      setBackground(url);
+    });
+
+    // ─── Estado ───────────────────────────────────────────────────────────
+    let ultimoContenidoMostrado = '';
+    let ultimaBusquedaId = null;
+    let rafId = null;
+    let intervalId = null;
+
+    // Lista de resultados actual para navegación prev/next
+    let resultadosActuales = [];
+    let indiceActual = 0;
+
+    // ─── fitText: adaptar versículos al espacio disponible ────────────────
+    let _fitTimeout1 = null, _fitTimeout2 = null, _fitTimeout3 = null;
+
+    function fitAllVerses() {
+      const tarjeta = document.querySelector('.tarjeta');
+      if (!tarjeta) return false;
+      const textEls = tarjeta.querySelectorAll('.versiculo-texto');
+      if (textEls.length === 0) return false;
+
+      // Force layout before reading dimensions
+      void tarjeta.offsetHeight;
+      const cardH = tarjeta.clientHeight;
+
+      // If the card has no height yet (animations, not rendered), skip
+      if (cardH < 50) return false;
+
+      // Disable transitions during measurement
+      textEls.forEach(el => {
+        el.style.transition = 'none';
+        el.style.fontSize = '10px';
+      });
+      void tarjeta.offsetHeight;
+
+      const minPx = 18;
+      const maxPx = 160;
+
+      // Binary search: find the largest font size where content fits
+      let lo = minPx, hi = maxPx, best = minPx;
+
+      for (let i = 0; i < 30; i++) {
+        const mid = Math.floor((lo + hi) / 2);
+        if (mid <= lo) break;
+
+        textEls.forEach(el => { el.style.fontSize = mid + 'px'; });
+        void tarjeta.offsetHeight;
+
+        if (tarjeta.scrollHeight <= cardH) {
+          best = mid;
+          lo = mid;
+        } else {
+          hi = mid;
+        }
+      }
+
+      const finalSize = Math.max(minPx, best);
+      textEls.forEach(el => {
+        el.style.fontSize = finalSize + 'px';
+      });
+
+      // Re-enable transitions after paint
+      requestAnimationFrame(() => {
+        textEls.forEach(el => { el.style.transition = 'font-size 0.3s ease'; });
+      });
+
+      return true;
+    }
+
+    // Schedule fitAllVerses with multiple retries to handle animation timing
+    function scheduleAjuste() {
+      clearTimeout(_fitTimeout1);
+      clearTimeout(_fitTimeout2);
+      clearTimeout(_fitTimeout3);
+
+      // Try immediately after next paint
+      requestAnimationFrame(() => {
+        if (!fitAllVerses()) {
+          // Card wasn't ready, retry soon
+          _fitTimeout1 = setTimeout(fitAllVerses, 100);
+        }
+      });
+      // Safety retries for animation delays
+      _fitTimeout2 = setTimeout(fitAllVerses, 200);
+      _fitTimeout3 = setTimeout(fitAllVerses, 500);
+    }
+
+    function ajustarTodosLosTextos() {
+      scheduleAjuste();
+    }
+
+    // ResizeObserver: re-fit whenever the card changes size
+    const _tarjetaEl = document.querySelector('.tarjeta');
+    if (_tarjetaEl && typeof ResizeObserver !== 'undefined') {
+      let _roTimer = null;
+      new ResizeObserver(() => {
+        clearTimeout(_roTimer);
+        _roTimer = setTimeout(() => {
+          const textEls = _tarjetaEl.querySelectorAll('.versiculo-texto');
+          if (textEls.length > 0) fitAllVerses();
+        }, 80);
+      }).observe(_tarjetaEl);
+    }
+
+    // ─── Mostrar un verso específico ──────────────────────────────────────
+    function mostrarVerso(verso, index) {
+      const textoFormateado = verso.texto
+        .replace(/\/n/g, ' ')
+        .replace(/_/g, '')
+        .replace(/\s+/g, ' ')
+        .trim();
+
+      let html = '<div class="busqueda-text">Reina Valera 1960</div>';
+      html += '<div class="versiculos-container">';
+      html += `<div class="versiculo-item" style="animation-delay:0s">
+  <div class="versiculo-texto">
+    <span class="versiculo-mini">${verso.capitulo}:${verso.versiculo}</span>
+    "${textoFormateado}"
+  </div>
+  <div class="versiculo-referencia">
+    ${verso.libroNombre || verso.libro} ${verso.capitulo}:${verso.versiculo}
+  </div>
+</div>`;
+      html += '</div>';
+
+      const contenidoDiv = document.getElementById('contenido');
+      contenidoDiv.innerHTML = html;
+
+      scheduleAjuste();
+
+      document.getElementById('info').textContent =
+        `✅ Verso ${index + 1} de ${resultadosActuales.length}`;
+    }
+
+    // ─── Actualizar pantalla (polling + socket) ───────────────────────────
+    async function actualizarPantalla() {
+      try {
+        const response = await fetch('/api/ultima-busqueda');
+        if (!response.ok) return;
+        const datos = await response.json();
+
+        const contenidoDiv = document.getElementById('contenido');
+        const infoDiv = document.getElementById('info');
+
+        const busquedaId = `${datos.texto}-${datos.resultados?.length || 0}-${datos.timestamp}`;
+        if (busquedaId === ultimaBusquedaId) return;
+        ultimaBusquedaId = busquedaId;
+
+        if (!datos.resultados || datos.resultados.length === 0) {
+          contenidoDiv.innerHTML = '<div class="loading">Esperando búsqueda...</div>';
+          infoDiv.textContent = 'Esperando...';
+          resultadosActuales = [];
+          indiceActual = 0;
+          return;
+        }
+
+        // Guardar resultados para navegación
+        resultadosActuales = datos.resultados;
+        indiceActual = 0;
+
+        // ── Construir HTML ─────────────────────────────────────────────
+        let html = '<div class="busqueda-text">Reina Valera 1960</div>';
+        const clase = datos.resultados.length > 1 ? 'versiculos-multiples' : '';
+        html += `<div class="versiculos-container ${clase}">`;
+
+        datos.resultados.forEach((verso, index) => {
+          const textoFormateado = verso.texto
+            .replace(/\/n/g, ' ')
+            .replace(/_/g, '')
+            .replace(/\s+/g, ' ')
+            .trim();
+
+          html += `<div class="versiculo-item" style="animation-delay:${index * 0.15}s">
+  <div class="versiculo-texto">
+    <span class="versiculo-mini">${verso.capitulo}:${verso.versiculo}</span>
+    "${textoFormateado}"
+  </div>
+  <div class="versiculo-referencia">
+    ${verso.libroNombre || verso.libro} ${verso.capitulo}:${verso.versiculo}
+  </div>
+</div>`;
+        });
+        html += '</div>';
+
+        if (html === ultimoContenidoMostrado) return;
+        ultimoContenidoMostrado = html;
+
+        contenidoDiv.innerHTML = html;
+
+        scheduleAjuste();
+
+        const hora = new Date(datos.timestamp).toLocaleTimeString('es-ES');
+        infoDiv.textContent = `✅ Actualizado a las ${hora}`;
+
+      } catch (err) {
+        console.error('Error actualizando pantalla:', err);
+      }
+    }
+
+    // ─── Eventos de navegación de versículos (desde el control) ──────────
+    socket.on("navegar-versiculo", (direccion) => {
+      if (resultadosActuales.length === 0) return;
+      if (direccion === 'siguiente') {
+        indiceActual = Math.min(indiceActual + 1, resultadosActuales.length - 1);
+      } else if (direccion === 'anterior') {
+        indiceActual = Math.max(indiceActual - 1, 0);
+      }
+      mostrarVerso(resultadosActuales[indiceActual], indiceActual);
+    });
+
+    socket.on("proyectar-versiculo", (data) => {
+      if (data && data.resultados) {
+        resultadosActuales = data.resultados;
+        indiceActual = data.indice || 0;
+        mostrarVerso(resultadosActuales[indiceActual], indiceActual);
+      }
+    });
+
+    // ─── Limpiar pantalla (quitar versículo) ──────────────────────────────
+    socket.on("limpiar-pantalla", (data) => {
+      if (data && data.tipo === 'versiculo') {
+        // Limpiar contenido y mostrar fondo por defecto
+        const contenidoDiv = document.getElementById('contenido');
+        contenidoDiv.innerHTML = '<p class="verso esperando">Esperando búsqueda...</p>';
+        document.getElementById('info').textContent = 'Actualización: en espera';
+        resultadosActuales = [];
+        indiceActual = 0;
+        ultimoContenidoMostrado = '';
+        ultimaBusquedaId = null;
+        // Cambiar al fondo por defecto
+        setBackground('/fondo_defecto.PNG');
+      }
+    });
+
+    // Re-ajustar al cambiar tamaño de ventana
+    let resizeTimer;
+    window.addEventListener('resize', () => {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(ajustarTodosLosTextos, 120);
+    });
+
+    // Polling cada 1 segundo
+    intervalId = setInterval(actualizarPantalla, 1000);
+    actualizarPantalla();
+
+    /**
+     * showVerse(texto, referencia)
+     * Llama esta función desde tu código externo para mostrar un versículo.
+     */
+    function showVerse(texto, referencia) {
+      const contenido = document.getElementById('contenido');
+
+      contenido.innerHTML = `
+        <p class="verso" id="verseText"></p>
+        <span class="referencia" id="verseRef"></span>
+      `;
+
+      const verseEl = document.getElementById('verseText');
+      const refEl = document.getElementById('verseRef');
+
+      let i = 0;
+      const cursor = document.createElement('span');
+      cursor.className = 'cursor';
+      verseEl.appendChild(cursor);
+
+      const speed = Math.max(18, Math.min(40, Math.round(3000 / texto.length)));
+
+      (function tick() {
+        if (i < texto.length) {
+          verseEl.insertBefore(document.createTextNode(texto[i++]), cursor);
+          setTimeout(tick, speed);
+        } else {
+          cursor.remove();
+          refEl.textContent = referencia;
+          requestAnimationFrame(() => refEl.classList.add('visible'));
+        }
+      })();
+
+      document.getElementById('info').textContent = 'Actualización: ' + new Date().toLocaleTimeString('es-BO');
+    }
+
+    window.showVerse = showVerse;
+  </script>
+</body>
+
+</html>

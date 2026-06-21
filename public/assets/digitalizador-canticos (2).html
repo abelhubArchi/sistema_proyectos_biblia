@@ -1,0 +1,972 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Digitalizador de Cánticos</title>
+<style>
+  /* ─── TOKENS ─── */
+  :root {
+    --bg:        #0d0f14;
+    --surface:   #161924;
+    --card:      #1e2231;
+    --border:    #2a3047;
+    --accent:    #7c6af7;
+    --accent2:   #4fd1c5;
+    --text:      #e8eaf2;
+    --muted:     #7a82a0;
+    --success:   #4fd1c5;
+    --warn:      #f6ad55;
+    --font-ui:   'Segoe UI', system-ui, sans-serif;
+    --font-mono: 'Cascadia Code', 'Fira Code', 'Consolas', monospace;
+    --radius:    10px;
+    --shadow:    0 4px 24px rgba(0,0,0,.45);
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--font-ui);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* ─── HEADER ─── */
+  header {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 18px 32px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+  .logo-icon {
+    width: 36px; height: 36px;
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    border-radius: 8px;
+    display: grid; place-items: center;
+    font-size: 18px;
+    flex-shrink: 0;
+  }
+  header h1 {
+    font-size: 1.15rem;
+    font-weight: 600;
+    letter-spacing: .02em;
+  }
+  header span {
+    font-size: .78rem;
+    color: var(--muted);
+    margin-left: 10px;
+    font-weight: 400;
+  }
+  .badge {
+    margin-left: auto;
+    background: rgba(124,106,247,.15);
+    color: var(--accent);
+    border: 1px solid rgba(124,106,247,.3);
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-size: .72rem;
+    font-weight: 600;
+    letter-spacing: .05em;
+  }
+
+  /* ─── MAIN LAYOUT ─── */
+  main {
+    flex: 1;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto 1fr;
+    gap: 20px;
+    padding: 24px 32px;
+    max-width: 1400px;
+    margin: 0 auto;
+    width: 100%;
+  }
+
+  /* ─── SECTION LABELS ─── */
+  .section-label {
+    font-size: .7rem;
+    font-weight: 700;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .section-label::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
+
+  /* ─── INPUT PANEL ─── */
+  .panel-input { grid-column: 1; grid-row: 1 / 3; display: flex; flex-direction: column; }
+
+  textarea {
+    flex: 1;
+    min-height: 420px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    color: var(--text);
+    font-family: var(--font-mono);
+    font-size: .82rem;
+    line-height: 1.65;
+    padding: 16px 18px;
+    resize: vertical;
+    outline: none;
+    transition: border-color .2s;
+  }
+  textarea::placeholder { color: var(--muted); font-family: var(--font-ui); }
+  textarea:focus { border-color: var(--accent); }
+
+  /* ─── CONTROLS ─── */
+  .controls {
+    margin-top: 14px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  button {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    padding: 9px 18px;
+    border-radius: 8px;
+    font-size: .83rem;
+    font-weight: 600;
+    cursor: pointer;
+    border: none;
+    transition: transform .1s, opacity .2s, box-shadow .2s;
+    font-family: var(--font-ui);
+  }
+  button:active { transform: scale(.97); }
+  button:disabled { opacity: .45; cursor: not-allowed; }
+
+  .btn-primary {
+    background: linear-gradient(135deg, var(--accent), #9b8bff);
+    color: #fff;
+    box-shadow: 0 0 0 0 rgba(124,106,247,.4);
+  }
+  .btn-primary:not(:disabled):hover { box-shadow: 0 0 18px rgba(124,106,247,.45); }
+
+  .btn-ghost {
+    background: var(--card);
+    color: var(--text);
+    border: 1px solid var(--border);
+  }
+  .btn-ghost:not(:disabled):hover { border-color: var(--accent); color: var(--accent); }
+
+  .btn-teal {
+    background: rgba(79,209,197,.12);
+    color: var(--accent2);
+    border: 1px solid rgba(79,209,197,.25);
+  }
+  .btn-teal:not(:disabled):hover { background: rgba(79,209,197,.22); }
+
+  /* ─── OUTPUT PANEL ─── */
+  .panel-output { grid-column: 2; grid-row: 1 / 3; display: flex; flex-direction: column; }
+
+  .output-toolbar {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 12px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  #resultado {
+    flex: 1;
+    min-height: 420px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    font-family: var(--font-mono);
+    font-size: .79rem;
+    line-height: 1.7;
+    padding: 16px 18px;
+    color: #c9d1f0;
+    overflow-y: auto;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+
+  /* JSON syntax coloring */
+  .json-key    { color: #7c9ef7; }
+  .json-str    { color: #a8e0a0; }
+  .json-num    { color: #f6ad55; }
+  .json-bool   { color: var(--accent2); }
+  .json-null   { color: var(--muted); }
+
+  /* ─── STATS BAR ─── */
+  #stats-bar {
+    display: none;
+    grid-column: 1 / 3;
+    grid-row: 0;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 12px 20px;
+    gap: 24px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  #stats-bar.visible { display: flex; }
+  .stat {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .stat-val {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--accent);
+    line-height: 1;
+  }
+  .stat-lbl {
+    font-size: .68rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: .08em;
+    margin-top: 2px;
+  }
+  .stats-sep { width: 1px; background: var(--border); height: 32px; }
+
+  /* ─── TOAST ─── */
+  #toast {
+    position: fixed;
+    bottom: 28px;
+    right: 28px;
+    background: var(--accent);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: .85rem;
+    font-weight: 600;
+    box-shadow: var(--shadow);
+    opacity: 0;
+    transform: translateY(12px);
+    transition: opacity .25s, transform .25s;
+    pointer-events: none;
+    z-index: 999;
+  }
+  #toast.show { opacity: 1; transform: translateY(0); }
+
+  /* ─── TABS ─── */
+  .tabs {
+    display: flex;
+    gap: 4px;
+    margin-bottom: 10px;
+  }
+  .tab {
+    padding: 6px 16px;
+    border-radius: 7px 7px 0 0;
+    font-size: .78rem;
+    font-weight: 600;
+    cursor: pointer;
+    border: 1px solid var(--border);
+    border-bottom: none;
+    background: var(--bg);
+    color: var(--muted);
+    transition: color .15s, background .15s;
+    letter-spacing: .02em;
+    user-select: none;
+  }
+  .tab.active {
+    background: var(--card);
+    color: var(--text);
+    border-color: var(--border);
+    border-bottom: 1px solid var(--card);
+    margin-bottom: -1px;
+    position: relative;
+    z-index: 1;
+  }
+  .tab-panel { display: none; flex: 1; flex-direction: column; }
+  .tab-panel.active { display: flex; flex-direction: column; }
+
+  /* Vista texto plano */
+  #vista-texto {
+    flex: 1;
+    min-height: 420px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 0 var(--radius) var(--radius) var(--radius);
+    font-family: var(--font-ui);
+    font-size: .85rem;
+    line-height: 1.8;
+    padding: 0;
+    color: var(--text);
+    overflow-y: auto;
+  }
+  /* Cuando el JSON está activo, su borde superior izquierdo va recto */
+  #tab-json.active ~ .tab-panel-wrap #resultado {
+    border-radius: 0 var(--radius) var(--radius) var(--radius);
+  }
+
+  .cantico-bloque {
+    padding: 20px 22px 16px;
+    border-bottom: 1px solid var(--border);
+  }
+  .cantico-bloque:last-child { border-bottom: none; }
+
+  .cantico-titulo {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--accent);
+    letter-spacing: .04em;
+    margin-bottom: 2px;
+  }
+  .cantico-tono {
+    font-size: .72rem;
+    color: var(--accent2);
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    margin-bottom: 14px;
+  }
+  .diapo-header {
+    font-size: .65rem;
+    font-weight: 700;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    margin: 12px 0 4px;
+  }
+  .diapo-texto {
+    background: var(--surface);
+    border-left: 3px solid var(--accent);
+    border-radius: 0 6px 6px 0;
+    padding: 10px 14px;
+    font-size: .87rem;
+    line-height: 1.75;
+    color: var(--text);
+    white-space: pre-wrap;
+  }
+  .vista-vacia {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    min-height: 420px;
+    color: var(--muted);
+    font-size: .85rem;
+  }
+
+  /* ─── RESPONSIVE ─── */
+  @media (max-width: 820px) {
+    main { grid-template-columns: 1fr; padding: 16px; }
+    .panel-input, .panel-output { grid-column: 1; grid-row: auto; }
+    #stats-bar { grid-column: 1; }
+    header { padding: 14px 16px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo-icon">🎵</div>
+  <h1>Digitalizador de Cánticos<span>para proyección en iglesias</span></h1>
+  <div class="badge">v1.0</div>
+</header>
+
+<main>
+  <!-- Stats bar (aparece tras procesar) -->
+  <div id="stats-bar">
+    <div class="stat"><span class="stat-val" id="s-canticos">0</span><span class="stat-lbl">Cánticos</span></div>
+    <div class="stats-sep"></div>
+    <div class="stat"><span class="stat-val" id="s-estrofas">0</span><span class="stat-lbl">Estrofas totales</span></div>
+    <div class="stats-sep"></div>
+    <div class="stat"><span class="stat-val" id="s-diapos">0</span><span class="stat-lbl">Diapositivas</span></div>
+    <div class="stats-sep"></div>
+    <div class="stat"><span class="stat-val" id="s-lineas">0</span><span class="stat-lbl">Líneas limpias</span></div>
+  </div>
+
+  <!-- Panel izquierdo: entrada -->
+  <div class="panel-input">
+    <div class="section-label">Texto de entrada</div>
+    <textarea id="entrada"
+      placeholder="Pega aquí TODOS los cánticos de golpe...
+
+Formatos de título aceptados:
+  30.ESTÁ AQUÍ, ESTÁ AQUÍ
+  30. ESTÁ AQUÍ, ESTÁ AQUÍ
+  1.A DIOS SEA LA GLORIA
+
+El sistema los separará y procesará automáticamente."></textarea>
+    <div class="controls">
+      <button class="btn-primary" onclick="procesar()">⚡ Procesar</button>
+      <button class="btn-ghost" onclick="limpiar()">✕ Limpiar</button>
+      <button class="btn-ghost" onclick="cargarEjemplo()">📄 Ejemplo</button>
+    </div>
+  </div>
+
+  <!-- Panel derecho: salida -->
+  <div class="panel-output">
+    <div class="section-label">Resultado</div>
+
+    <!-- Tabs -->
+    <div class="tabs">
+      <div class="tab active" id="tab-json" onclick="cambiarTab('json')">{ } JSON</div>
+      <div class="tab" id="tab-texto" onclick="cambiarTab('texto')">📄 Texto plano</div>
+    </div>
+
+    <!-- Panel JSON -->
+    <div class="tab-panel active" id="panel-json">
+      <div class="output-toolbar">
+        <button class="btn-ghost" id="btn-copiar" onclick="copiarJSON()" disabled>📋 Copiar JSON</button>
+        <button class="btn-ghost" id="btn-descargar" onclick="descargarJSON()" disabled>⬇ Descargar JSON</button>
+        <button class="btn-teal" id="btn-exportar" onclick="exportarCancionero()" disabled>📂 Exportar Cancionero</button>
+      </div>
+      <div id="resultado" style="border-radius:0 var(--radius) var(--radius) var(--radius)">El resultado aparecerá aquí...</div>
+    </div>
+
+    <!-- Panel Texto plano -->
+    <div class="tab-panel" id="panel-texto">
+      <div class="output-toolbar">
+        <button class="btn-ghost" id="btn-copiar-texto" onclick="copiarTexto()" disabled>📋 Copiar texto</button>
+        <button class="btn-ghost" id="btn-descargar-texto" onclick="descargarTexto()" disabled>⬇ Descargar .txt</button>
+      </div>
+      <div id="vista-texto"><div class="vista-vacia">El resultado aparecerá aquí...</div></div>
+    </div>
+  </div>
+</main>
+
+<div id="toast"></div>
+
+<script>
+/* ═══════════════════════════════════════════════════
+   DIGITALIZADOR DE CÁNTICOS PARA PROYECCIÓN — v1.0
+   ═══════════════════════════════════════════════════ */
+
+// ─── Constantes de configuración ───────────────────
+const MAX_LINEAS_POR_DIAPOSITIVA = 6;
+const MAX_CHARS_POR_DIAPOSITIVA  = 250;
+
+// Notas musicales base (castellano / solfeo)
+const NOTAS = ['DO', 'RE', 'MI', 'FA', 'SOL', 'LA', 'SI'];
+
+/**
+ * Detecta si una LÍNEA completa es exclusivamente acordes.
+ * Un acorde tiene la forma: NOTA[#b]?[m|M|maj|min|sus|aug|dim]?[0-9]?
+ * Puede haber múltiples acordes separados por espacios.
+ */
+function esLineaDeAcordes(linea) {
+  const trim = linea.trim();
+  if (!trim) return false;
+
+  // Patrón de un acorde individual en notación española
+  const patronAcorde =
+    /^(DO|RE|MI|FA|SOL|LA|SI)(#|b|##|bb)?(m|M|maj|min|sus2|sus4|sus|aug|dim|add)?(\d+)?(\/[A-Z][a-z#b]*)?$/;
+
+  const tokens = trim.split(/\s+/);
+  if (tokens.length === 0) return false;
+
+  return tokens.every(t => patronAcorde.test(t));
+}
+
+/**
+ * Extrae el título del cántico.
+ * Maneja: "1. TÍTULO", "30.TÍTULO", "30 . TÍTULO", "TÍTULO"
+ */
+function extraerTitulo(linea) {
+  // Eliminar número + punto (con o sin espacios alrededor del punto)
+  return linea.replace(/^\d+\s*\.\s*/, '').trim();
+}
+
+/**
+ * Extrae el tono si la línea lo contiene.
+ * Formato esperado: "(Tono: X)" o "Tono: X"
+ * Retorna el valor del tono o null.
+ */
+function extraerTono(linea) {
+  const match = linea.match(/[Tt]ono\s*:\s*([^)]+)/);
+  return match ? match[1].trim() : null;
+}
+
+/**
+ * Detecta si una línea es encabezado de título.
+ * Soporta: "30.ESTÁ AQUÍ", "30. ESTÁ AQUÍ", "1.A DIOS SEA LA GLORIA"
+ */
+function esLineaTitulo(linea) {
+  const trim = linea.trim();
+  if (!trim) return false;
+  // Formato "N.TÍTULO" o "N. TÍTULO" (espacio opcional después del punto)
+  if (/^\d+\s*\.\s*[A-ZÁÉÍÓÚÜÑ¡!¿?,]/.test(trim)) return true;
+  // Todo en mayúsculas (al menos 4 caracteres), sin ser acordes
+  if (/^[A-ZÁÉÍÓÚÜÑ\s,.'!¡¿?]+$/.test(trim) && trim.length > 3 && !esLineaDeAcordes(trim)) {
+    if (/[AEIOUÁÉÍÓÚÜ]/.test(trim) || trim.split(/\s+/).some(t => t.length > 3)) {
+      return true;
+    }
+  }
+  return false;
+}
+
+/**
+ * Detecta si una línea es de metadatos a ignorar
+ * (tonos, paréntesis con instrucciones, etc.)
+ */
+function esLineaMetadatos(linea) {
+  const trim = linea.trim();
+  return (
+    /^\(.*[Tt]ono.*\)$/.test(trim) ||
+    /^[Tt]ono\s*:/.test(trim) ||
+    /^\(.*\)$/.test(trim)  // cualquier cosa entre paréntesis sola en la línea
+  );
+}
+
+/**
+ * Divide una estrofa en bloques aptos para diapositiva.
+ * Criterio: máximo MAX_LINEAS_POR_DIAPOSITIVA líneas
+ *           O máximo MAX_CHARS_POR_DIAPOSITIVA caracteres.
+ */
+function dividirEnDiapositivas(lineas) {
+  const diapositivas = [];
+  let bloque = [];
+  let charsBloque = 0;
+
+  for (const linea of lineas) {
+    const esNuevoBloque =
+      bloque.length >= MAX_LINEAS_POR_DIAPOSITIVA ||
+      (charsBloque + linea.length + 1) > MAX_CHARS_POR_DIAPOSITIVA;
+
+    if (esNuevoBloque && bloque.length > 0) {
+      diapositivas.push(bloque.join('\n'));
+      bloque = [];
+      charsBloque = 0;
+    }
+
+    bloque.push(linea);
+    charsBloque += linea.length + 1;
+  }
+
+  if (bloque.length > 0) {
+    diapositivas.push(bloque.join('\n'));
+  }
+
+  return diapositivas;
+}
+
+/**
+ * procesarCantico(texto)
+ * Analiza el texto de UN cántico y retorna el objeto estructurado.
+ */
+function procesarCantico(texto) {
+  const lineasCrudas = texto.split('\n');
+
+  let titulo      = '';
+  let tono        = '';
+  const estrofas  = [];
+  let bloqueActual = [];
+
+  // ── Primera pasada: detectar título y tono ──────
+  let primeraLineaUtil = true;
+
+  for (const linea of lineasCrudas) {
+    const trim = linea.trim();
+
+    // Título (primera línea significativa)
+    if (!titulo && trim && esLineaTitulo(trim)) {
+      titulo = extraerTitulo(trim);
+      continue;
+    }
+
+    // Tono
+    if (!tono) {
+      const t = extraerTono(trim);
+      if (t) { tono = t; continue; }
+    }
+
+    // Saltar metadatos
+    if (esLineaMetadatos(trim)) continue;
+
+    // Saltar acordes puros
+    if (esLineaDeAcordes(trim)) continue;
+
+    // Línea vacía → separador de estrofa
+    if (!trim) {
+      if (bloqueActual.length > 0) {
+        estrofas.push(bloqueActual);
+        bloqueActual = [];
+      }
+      continue;
+    }
+
+    // Línea de letra real
+    bloqueActual.push(trim);
+  }
+
+  // Cerrar última estrofa si quedó sin línea vacía final
+  if (bloqueActual.length > 0) {
+    estrofas.push(bloqueActual);
+  }
+
+  // ── Construir diapositivas ─────────────────────
+  const diapositivas = [];
+  estrofas.forEach(lineas => {
+    dividirEnDiapositivas(lineas).forEach(d => diapositivas.push(d));
+  });
+
+  // ── Letra completa ─────────────────────────────
+  const letraCompleta = estrofas.map(e => e.join('\n')).join('\n\n');
+
+  return {
+    titulo,
+    tono,
+    cantidadEstrofas: estrofas.length,
+    letraCompleta,
+    estrofas: estrofas.map((lineas, i) => ({
+      numero: i + 1,
+      texto:  lineas.join('\n')
+    })),
+    diapositivas
+  };
+}
+
+/**
+ * procesarCancionero(texto)
+ * Detecta múltiples cánticos en el texto y retorna un array.
+ *
+ * Separador: línea que comienza con NÚMERO + PUNTO (con o sin espacios)
+ * seguido de al menos una letra mayúscula.
+ *
+ * Formatos soportados:
+ *   "30.ESTÁ AQUÍ"        (sin espacio)
+ *   "30. ESTÁ AQUÍ"       (con espacio)
+ *   "1.A DIOS SEA LA GLORIA"
+ *   "123.TÍTULO"
+ */
+function procesarCancionero(texto) {
+  // Lookahead: línea que empiece con dígitos, punto opcional espacio, luego mayúscula
+  const PATRON_SEPARADOR = /(?=^\d+\s*\.\s*[A-ZÁÉÍÓÚÜÑ])/m;
+
+  const bloques = texto.split(PATRON_SEPARADOR).filter(b => b.trim());
+
+  if (bloques.length === 0) {
+    return [procesarCantico(texto)];
+  }
+
+  return bloques.map(b => procesarCantico(b));
+}
+
+// ═══════════════════════════════════════════════════
+//  UI
+// ═══════════════════════════════════════════════════
+
+let jsonActual = null; // guarda el resultado para descargar/copiar
+
+function procesar() {
+  const texto = document.getElementById('entrada').value;
+  if (!texto.trim()) {
+    mostrarToast('⚠ Pega primero el texto del cancionero.', '#f6ad55');
+    return;
+  }
+
+  try {
+    const resultado = procesarCancionero(texto);
+    jsonActual = resultado.length === 1 ? resultado[0] : resultado;
+
+    // Renderizar con sintaxis coloreada
+    document.getElementById('resultado').innerHTML = colorearJSON(
+      JSON.stringify(jsonActual, null, 2)
+    );
+
+    // Actualizar stats
+    const totalEstrofas  = resultado.reduce((a, c) => a + c.cantidadEstrofas, 0);
+    const totalDiapos    = resultado.reduce((a, c) => a + c.diapositivas.length, 0);
+    const totalLineas    = resultado.reduce((a, c) => a + c.letraCompleta.split('\n').filter(l=>l).length, 0);
+
+    document.getElementById('s-canticos').textContent = resultado.length;
+    document.getElementById('s-estrofas').textContent = totalEstrofas;
+    document.getElementById('s-diapos').textContent   = totalDiapos;
+    document.getElementById('s-lineas').textContent   = totalLineas;
+    document.getElementById('stats-bar').classList.add('visible');
+
+    // Habilitar botones
+    ['btn-copiar','btn-descargar','btn-exportar','btn-copiar-texto','btn-descargar-texto'].forEach(id => {
+      document.getElementById(id).disabled = false;
+    });
+
+    // Renderizar vista texto plano
+    renderTextoPlano(resultado);
+
+    mostrarToast(`✓ ${resultado.length} cántico${resultado.length > 1 ? 's' : ''} procesados — ${totalDiapos} diapositivas generadas`);
+  } catch(e) {
+    document.getElementById('resultado').textContent = '⚠ Error al procesar:\n' + e.message;
+    mostrarToast('⚠ Error al procesar el texto.', '#e53e3e');
+  }
+}
+
+function limpiar() {
+  document.getElementById('entrada').value = '';
+  document.getElementById('resultado').textContent = 'El resultado aparecerá aquí...';
+  document.getElementById('vista-texto').innerHTML = '<div class="vista-vacia">El resultado aparecerá aquí...</div>';
+  jsonActual = null;
+  document.getElementById('stats-bar').classList.remove('visible');
+  ['btn-copiar','btn-descargar','btn-exportar','btn-copiar-texto','btn-descargar-texto'].forEach(id => {
+    document.getElementById(id).disabled = true;
+  });
+}
+
+function copiarJSON() {
+  if (!jsonActual) return;
+  navigator.clipboard.writeText(JSON.stringify(jsonActual, null, 2))
+    .then(() => mostrarToast('📋 JSON copiado al portapapeles'))
+    .catch(() => mostrarToast('⚠ No se pudo copiar.', '#f6ad55'));
+}
+
+function descargarJSON() {
+  if (!jsonActual) return;
+  const blob = new Blob([JSON.stringify(jsonActual, null, 2)], { type: 'application/json' });
+  const url  = URL.createObjectURL(blob);
+  const a    = document.createElement('a');
+  a.href     = url;
+  a.download = 'cancionero.json';
+  a.click();
+  URL.revokeObjectURL(url);
+  mostrarToast('⬇ Archivo descargado');
+}
+
+/**
+ * Exporta un archivo de texto estructurado por cántico,
+ * listo para revisión humana o importación en sistemas de proyección.
+ */
+function exportarCancionero() {
+  if (!jsonActual) return;
+  const lista = Array.isArray(jsonActual) ? jsonActual : [jsonActual];
+  const lineas = [];
+
+  lista.forEach((c, i) => {
+    lineas.push(`${'═'.repeat(50)}`);
+    lineas.push(`CÁNTICO ${i + 1}: ${c.titulo}`);
+    if (c.tono) lineas.push(`Tono: ${c.tono}`);
+    lineas.push(`Estrofas: ${c.cantidadEstrofas}  |  Diapositivas: ${c.diapositivas.length}`);
+    lineas.push('');
+
+    c.diapositivas.forEach((d, j) => {
+      lineas.push(`── Diapositiva ${j + 1} ──`);
+      lineas.push(d);
+      lineas.push('');
+    });
+  });
+
+  const blob = new Blob([lineas.join('\n')], { type: 'text/plain;charset=utf-8' });
+  const url  = URL.createObjectURL(blob);
+  const a    = document.createElement('a');
+  a.href     = url;
+  a.download = 'cancionero_diapositivas.txt';
+  a.click();
+  URL.revokeObjectURL(url);
+  mostrarToast('📂 Cancionero exportado');
+}
+
+// ─── Tabs ────────────────────────────────────────────
+function cambiarTab(tab) {
+  document.getElementById('tab-json').classList.toggle('active', tab === 'json');
+  document.getElementById('tab-texto').classList.toggle('active', tab === 'texto');
+  document.getElementById('panel-json').classList.toggle('active', tab === 'json');
+  document.getElementById('panel-texto').classList.toggle('active', tab === 'texto');
+}
+
+/**
+ * Renderiza la vista de texto plano: título, tono y diapositivas
+ * sin ningún carácter \n visible, todo formateado con HTML.
+ */
+function renderTextoPlano(lista) {
+  const contenedor = document.getElementById('vista-texto');
+  contenedor.innerHTML = '';
+
+  lista.forEach((c, i) => {
+    const bloque = document.createElement('div');
+    bloque.className = 'cantico-bloque';
+
+    // Título
+    const titulo = document.createElement('div');
+    titulo.className = 'cantico-titulo';
+    titulo.textContent = `${i + 1}. ${c.titulo || '(Sin título)'}`;
+    bloque.appendChild(titulo);
+
+    // Tono
+    if (c.tono) {
+      const tono = document.createElement('div');
+      tono.className = 'cantico-tono';
+      tono.textContent = `Tono: ${c.tono}`;
+      bloque.appendChild(tono);
+    }
+
+    // Diapositivas
+    c.diapositivas.forEach((d, j) => {
+      const hdr = document.createElement('div');
+      hdr.className = 'diapo-header';
+      hdr.textContent = `Diapositiva ${j + 1}`;
+      bloque.appendChild(hdr);
+
+      const texto = document.createElement('div');
+      texto.className = 'diapo-texto';
+      // Cada línea en su propio <span> con salto visual, sin \n literal
+      texto.innerHTML = d.split('\n').map(l =>
+        `<span style="display:block">${l || '&nbsp;'}</span>`
+      ).join('');
+      bloque.appendChild(texto);
+    });
+
+    contenedor.appendChild(bloque);
+  });
+}
+
+/**
+ * Genera el texto plano para copiar/descargar (sin \n escapados,
+ * saltos de línea reales, sin JSON).
+ */
+function generarTextoCrudo(lista) {
+  return lista.map((c, i) => {
+    const enc = [
+      `${'─'.repeat(48)}`,
+      `${i + 1}. ${c.titulo}`,
+      c.tono ? `Tono: ${c.tono}` : null,
+      ''
+    ].filter(l => l !== null).join('\n');
+
+    const diapos = c.diapositivas.map((d, j) =>
+      `[ Diapositiva ${j + 1} ]\n${d}`
+    ).join('\n\n');
+
+    return enc + diapos;
+  }).join('\n\n\n');
+}
+
+function copiarTexto() {
+  if (!jsonActual) return;
+  const lista = Array.isArray(jsonActual) ? jsonActual : [jsonActual];
+  navigator.clipboard.writeText(generarTextoCrudo(lista))
+    .then(() => mostrarToast('📋 Texto copiado al portapapeles'))
+    .catch(() => mostrarToast('⚠ No se pudo copiar.', '#f6ad55'));
+}
+
+function descargarTexto() {
+  if (!jsonActual) return;
+  const lista = Array.isArray(jsonActual) ? jsonActual : [jsonActual];
+  const blob = new Blob([generarTextoCrudo(lista)], { type: 'text/plain;charset=utf-8' });
+  const url  = URL.createObjectURL(blob);
+  const a    = document.createElement('a');
+  a.href = url; a.download = 'cancionero_texto.txt'; a.click();
+  URL.revokeObjectURL(url);
+  mostrarToast('⬇ Archivo de texto descargado');
+}
+
+// ─── Ejemplo de demostración ────────────────────────
+function cargarEjemplo() {
+  document.getElementById('entrada').value =
+`30.ESTÁ AQUÍ, ESTÁ AQUÍ
+(Tono: RE menor)
+
+Está aquí, está aquí
+REm SOLm FAM
+El Espíritu de Dios está aquí
+LA7 REm
+
+Para sanar los corazones
+SOLm REm
+Y liberar al cautivo
+LA7 REm
+
+Está aquí, está aquí
+SOLm FAM REm
+Su gloria llena este lugar
+LA7 REm
+
+31.TE EXALTARÉ, MI DIOS, MI REY
+(Tono: RE menor)
+
+Te exaltaré, mi Dios, mi Rey
+REm SOLm FAM
+
+Y bendeciré tu nombre,
+LA7 REm
+
+Eternamente y para siempre
+SOLm FAM
+
+Cada día te bendeciré
+LA7 REm
+
+Y alabaré tu nombre
+SOLm REm FAM REm
+
+Eternamente y para siempre
+SOLm REm FAM REm
+
+Grande es Jehová
+SIbM DO7 SIbM FAM
+
+Y digno de suprema alabanza
+LA7 REm
+
+Y su grandeza es inescrutable
+SIbM DO7 SIbM FAM
+
+Cada día te bendeciré.
+LA7 REm
+
+32.SANTO, SANTO, SANTO
+(Tono: SOL mayor)
+
+Santo, santo, santo
+SOL DO SOL
+
+El Señor Dios Todopoderoso
+RE SOL
+
+Que era, que es y que ha de venir
+DO SOL RE SOL
+
+Digno eres Señor y Dios nuestro
+DO SOL
+
+De recibir la gloria y la honra
+RE SOL`;
+  mostrarToast('📄 Ejemplo cargado — haz clic en Procesar');
+}
+
+// ─── Utilidades UI ──────────────────────────────────
+
+/** Colorea el JSON para presentación visual */
+function colorearJSON(str) {
+  return str
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+    .replace(/("(\\u[a-zA-Z0-9]{4}|\\[^u]|[^\\"])*"(\s*:)?|\b(true|false|null)\b|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?)/g, m => {
+      let cls = 'json-num';
+      if (/^"/.test(m)) {
+        cls = /:$/.test(m) ? 'json-key' : 'json-str';
+      } else if (/true|false/.test(m)) {
+        cls = 'json-bool';
+      } else if (/null/.test(m)) {
+        cls = 'json-null';
+      }
+      return `<span class="${cls}">${m}</span>`;
+    });
+}
+
+let toastTimer = null;
+function mostrarToast(msg, color = 'var(--accent)') {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.style.background = color;
+  t.classList.add('show');
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => t.classList.remove('show'), 3200);
+}
+
+// Atajo de teclado: Ctrl+Enter para procesar
+document.addEventListener('keydown', e => {
+  if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') procesar();
+});
+</script>
+</body>
+</html>

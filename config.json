@@ -1,0 +1,14 @@
+{
+  "hotspot": {
+    "ssid": "IGLESIA_VIDA_NUEVA",
+    "password": "VidaNueva2026"
+  },
+  "servidor": {
+    "puerto": 3000,
+    "abrirNavegador": true
+  },
+  "iglesia": {
+    "nombre": "Iglesia Vida Nueva",
+    "lema": "Una Iglesia Para Un Mundo Dividido"
+  }
+}

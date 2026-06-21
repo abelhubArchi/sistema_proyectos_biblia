@@ -1,0 +1,21 @@
+{
+  "pkg": {
+    "assets": [
+      "public/**/*",
+      "src/**/*",
+      "dist/biblia/**/*",
+      "dist/himnario/**/*",
+      "config.json",
+      "node_modules/qrcode/**/*",
+      "node_modules/open/**/*"
+    ],
+    "scripts": [
+      "server.js",
+      "network-manager.js",
+      "qr-generator.js",
+      "buscar-versiculos.js",
+      "src/buscador.js",
+      "src/himnos.js"
+    ]
+  }
+}

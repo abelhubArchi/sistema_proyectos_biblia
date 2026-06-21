@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscador de Versículos Bíblicos</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #f7b307 0%, #140a55 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            max-width: 700px;
+            width: 100%;
+            padding: 40px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 30px;
+            font-size: 28px;
+        }
+
+        .buscador-wrapper {
+            position: relative;
+            margin-bottom: 20px;
+        }
+
+        .buscador {
+            width: 100%;
+            padding: 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            font-size: 16px;
+            transition: all 0.3s ease;
+        }
+
+        .buscador:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .predicciones {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background: white;
+            border: 2px solid #e0e0e0;
+            border-top: none;
+            border-radius: 0 0 10px 10px;
+            max-height: 300px;
+            overflow-y: auto;
+            display: none;
+            z-index: 100;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .predicciones.active {
+            display: block;
+        }
+
+        .prediccion-item {
+            padding: 12px 15px;
+            cursor: pointer;
+            border-bottom: 1px solid #f0f0f0;
+            transition: background 0.2s;
+        }
+
+        .prediccion-item:hover {
+            background: #f5f5f5;
+        }
+
+        .prediccion-item.selected {
+            background: #667eea;
+            color: white;
+        }
+
+        .prediccion-main {
+            font-weight: 500;
+            margin-bottom: 3px;
+        }
+
+        .prediccion-preview {
+            font-size: 13px;
+            opacity: 0.7;
+        }
+
+        .resultados {
+            margin-top: 30px;
+        }
+
+        .resultado-item {
+            background: #f9f9f9;
+            border-left: 4px solid #667eea;
+            padding: 15px;
+            margin-bottom: 12px;
+            border-radius: 5px;
+            animation: slideIn 0.3s ease;
+        }
+
+        .prediccion-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .prediccion-contenido {
+            flex: 1;
+        }
+
+        .btn-copiar {
+            width: 40px;
+            height: 40px;
+
+            border: none;
+            border-radius: 10px;
+
+            cursor: pointer;
+
+            background: rgba(255, 215, 0, .15);
+            color: #FFD700;
+
+            font-size: 18px;
+
+            transition: .2s;
+        }
+
+        .btn-copiar:hover {
+            transform: scale(1.1);
+
+            background: rgba(255, 215, 0, .3);
+
+            box-shadow:
+                0 0 10px rgba(255, 215, 0, .4),
+                0 0 20px rgba(255, 215, 0, .2);
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .resultado-referencia {
+            font-weight: 600;
+            color: #667eea;
+            margin-bottom: 8px;
+        }
+
+        .resultado-texto {
+            color: #555;
+            line-height: 1.6;
+            font-size: 15px;
+        }
+
+        .error {
+            background: #fee;
+            color: #c33;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            display: none;
+        }
+
+        .error.show {
+            display: block;
+        }
+
+        .info {
+            text-align: center;
+            color: #999;
+            font-size: 13px;
+            margin-top: 20px;
+        }
+
+        .ejemplos {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 15px;
+            justify-content: center;
+        }
+
+        .ejemplo-btn {
+            background: #f0f0f0;
+            border: none;
+            padding: 8px 12px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 13px;
+            transition: all 0.2s;
+            color: #666;
+        }
+
+        .ejemplo-btn:hover {
+            background: #667eea;
+            color: white;
+        }
+
+        .loading {
+            display: none;
+            text-align: center;
+            color: #667eea;
+            margin-top: 20px;
+        }
+
+        .loading.show {
+            display: block;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Buscador Bíblico</h1>
+
+        <div class="buscador-wrapper">
+            <input type="text" id="buscador" class="buscador" placeholder="Busca: apo 21:4, jn 3:16, amor, fe..."
+                autocomplete="off">
+            <span id="clear-buscador" style="display:none; position:absolute; right:15px; top:50%; transform:translateY(-50%); cursor:pointer; font-size:24px; color:#999; line-height:1;" title="Limpiar búsqueda">&times;</span>
+            <div id="predicciones" class="predicciones"></div>
+        </div>
+
+        <div class="ejemplos">
+            <button class="ejemplo-btn" onclick="buscar('apo 21:4')">Apo 21:4</button>
+            <button class="ejemplo-btn" onclick="buscar('jn 3:16')">Jn 3:16</button>
+            <button class="ejemplo-btn" onclick="buscar('amor')">Amor</button>
+            <button class="ejemplo-btn" onclick="buscar('fe')">Fe</button>
+        </div>
+
+        <div id="error" class="error"></div>
+        <div id="loading" class="loading">⏳ Buscando...</div>
+        <div id="resultados" class="resultados"></div>
+    <div class="nav-buttons" style="display:flex; gap:10px; justify-content:center; margin-top:15px;">
+        <button class="ejemplo-btn" onclick="prevVersiculo()" style="background:#667eea; color:white; font-weight:600;">◀ Anterior</button>
+        <button class="ejemplo-btn" onclick="nextVersiculo()" style="background:#667eea; color:white; font-weight:600;">Siguiente ▶</button>
+    </div>
+        <div class="info"> Escribe una cita (ej: apo 21:4) o una palabra para buscar</div>
+
+        <div class="control-panel-extras" style="margin-top: 30px; border-top: 1px solid #eee; padding-top: 20px;">
+            <h3 style="font-size: 16px; color: #444; margin-bottom: 12px; text-align: center; font-family: inherit;">
+                Panel de Control Adicional</h3>
+            <div style="display: flex; gap: 10px; justify-content: center; margin-bottom: 20px; flex-wrap: wrap;">
+                <button class="ejemplo-btn"
+                    style="background: #667eea; color: white; padding: 10px 16px; font-weight: 600;"
+                    onclick="irAAdminCanticos()">
+                    CONTROL DE ALABANZAS
+                </button>
+                <button class="ejemplo-btn"
+                    style="background: #ef4444; color: white; padding: 10px 16px; font-weight: 600;"
+                    onclick="quitarVersiculo()">
+                    ❌ QUITAR VERSÍCULO
+                </button>
+            </div>
+
+            <h4 style="font-size: 13px; color: #666; margin-bottom: 10px; text-align: center; font-family: inherit;">
+                Fondo de Proyección de Versículos</h4>
+            <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap;">
+                <button class="ejemplo-btn" onclick="abrirFondoModal()" style="background: #667eea; color: white; font-weight: 600;">
+                    🌅 Seleccionar Fondo
+                </button>
+                <button class="ejemplo-btn" onclick="triggerSubirFondo()" style="background: #10b981; color: white; font-weight: 600;">
+                    📤 Subir Fondo
+                </button>
+                <input type="file" id="subir-fondo-input" accept=".jpg,.jpeg,.png,.gif,.webp" style="display:none" onchange="subirFondoArchivo(this)">
+            </div>
+            <div style="text-align: center; margin-top: 15px;">
+                <label style="font-size: 14px; color: #555; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; user-select: none;">
+                    <input type="checkbox" id="auto-fondo-checkbox" onchange="toggleAutoFondo(this.checked)">
+                    <span>Cambiar fondo automáticamente al cambiar versículo</span>
+                </label>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal para Cambiar Fondo -->
+    <div id="fondo-modal" style="display:none; position:fixed; z-index:1000; left:0; top:0; width:100%; height:100%; background:rgba(0,0,0,0.6); backdrop-filter:blur(4px); align-items:center; justify-content:center; padding:20px;">
+        <div style="background:#fff; border-radius:16px; padding:24px; width:100%; max-width:520px; box-shadow:0 20px 60px rgba(0,0,0,0.3); animation: slideIn 0.25s ease;">
+            <div style="display:flex; justify-content:space-between; align-items:center; border-bottom:1px solid #eee; padding-bottom:12px; margin-bottom:16px;">
+                <h3 style="font-size:1.1rem; color:#333; margin:0;">Seleccionar Fondo de Proyección</h3>
+                <span style="font-size:24px; cursor:pointer; color:#999; line-height:1;" onclick="cerrarFondoModal()">&times;</span>
+            </div>
+            <div id="fondos-grid" style="display:grid; grid-template-columns:repeat(auto-fill, minmax(100px,1fr)); gap:12px; max-height:300px; overflow-y:auto; padding-right:6px; margin-bottom:12px;">
+                <!-- Fondos dinámicos -->
+            </div>
+            <!-- Colores animados -->
+            <div style="border-top:1px solid #eee; padding-top:12px;">
+                <div style="font-size:0.75rem; color:#999; margin-bottom:8px; text-transform:uppercase; letter-spacing:1px;">Colores Animados</div>
+                <div style="display:grid; grid-template-columns:repeat(4,1fr); gap:8px;">
+                    <div onclick="seleccionarFondo('gradient:aurora')" style="height:50px;border-radius:8px;cursor:pointer;border:2px solid #e0e0e0;background:linear-gradient(135deg,#0A2E36,#1C0A35,#0A1C35,#0f2c1f);background-size:400% 400%;animation:modalGrad 6s ease infinite;display:flex;align-items:flex-end;padding:4px;" title="Aurora">
+                        <span style="font-size:0.6rem;color:rgba(255,255,255,0.8);width:100%;text-align:center;">Aurora</span>
+                    </div>
+                    <div onclick="seleccionarFondo('gradient:atardecer')" style="height:50px;border-radius:8px;cursor:pointer;border:2px solid #e0e0e0;background:linear-gradient(135deg,#2c0f20,#360a0a,#1a0826,#3b200a);background-size:400% 400%;animation:modalGrad 6s ease infinite;display:flex;align-items:flex-end;padding:4px;" title="Atardecer">
+                        <span style="font-size:0.6rem;color:rgba(255,255,255,0.8);width:100%;text-align:center;">Atardecer</span>
+                    </div>
+                    <div onclick="seleccionarFondo('gradient:paz')" style="height:50px;border-radius:8px;cursor:pointer;border:2px solid #e0e0e0;background:linear-gradient(135deg,#09122c,#161e38,#0e273c,#1f112e);background-size:400% 400%;animation:modalGrad 6s ease infinite;display:flex;align-items:flex-end;padding:4px;" title="Paz">
+                        <span style="font-size:0.6rem;color:rgba(255,255,255,0.8);width:100%;text-align:center;">Paz</span>
+                    </div>
+                    <div onclick="seleccionarFondo('gradient:mistico')" style="height:50px;border-radius:8px;cursor:pointer;border:2px solid #e0e0e0;background:linear-gradient(135deg,#18092a,#0b1c2b,#2b0b1c,#0d091a);background-size:400% 400%;animation:modalGrad 6s ease infinite;display:flex;align-items:flex-end;padding:4px;" title="Místico">
+                        <span style="font-size:0.6rem;color:rgba(255,255,255,0.8);width:100%;text-align:center;">Místico</span>
+                    </div>
+                </div>
+            </div>
+            <style>@keyframes modalGrad{0%,100%{background-position:0% 50%}50%{background-position:100% 50%}}</style>
+        </div>
+    </div>
+
+    <!-- Cargar Socket.IO -->
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+        const buscadorInput = document.getElementById('buscador');
+        const clearBuscadorBtn = document.getElementById('clear-buscador');
+        const prediccionesDiv = document.getElementById('predicciones');
+        const resultadosDiv = document.getElementById('resultados');
+        const errorDiv = document.getElementById('error');
+        const loadingDiv = document.getElementById('loading');
+
+        var timeoutPredic = null;
+        var selectedIndex = -1;
+        
+        var estadoVersiculos = {
+            resultados: [],
+            indice: 0,
+            libro: null,
+            capitulo: null,
+            versiculo: null
+        };
+
+        // Lógica del botón X para limpiar el buscador
+        buscadorInput.addEventListener('input', () => {
+            clearBuscadorBtn.style.display = buscadorInput.value.length > 0 ? 'block' : 'none';
+        });
+
+        clearBuscadorBtn.addEventListener('click', () => {
+            buscadorInput.value = '';
+            clearBuscadorBtn.style.display = 'none';
+            prediccionesDiv.classList.remove('active');
+            buscadorInput.focus();
+        });
+
+        // Evento para predicciones en tiempo real
+        buscadorInput.addEventListener('input', (e) => {
+            clearTimeout(timeoutPredic);
+            const texto = e.target.value.trim();
+
+            if (texto.length === 0) {
+                prediccionesDiv.classList.remove('active');
+                return;
+            }
+
+            timeoutPredic = setTimeout(() => {
+                obtenerPredicciones(texto);
+            }, 200);
+        });
+
+        // Eventos del teclado para navegar predicciones
+        buscadorInput.addEventListener('keydown', (e) => {
+            const items = prediccionesDiv.querySelectorAll('.prediccion-item');
+
+            if (e.key === 'ArrowDown') {
+                e.preventDefault();
+                selectedIndex = Math.min(selectedIndex + 1, items.length - 1);
+                actualizarSeleccion(items);
+            } else if (e.key === 'ArrowUp') {
+                e.preventDefault();
+                selectedIndex = Math.max(selectedIndex - 1, -1);
+                actualizarSeleccion(items);
+            } else if (e.key === 'Enter') {
+                e.preventDefault();
+                if (selectedIndex >= 0 && items[selectedIndex]) {
+                    const item = items[selectedIndex];
+                    const completo = item.dataset.completo || item.textContent;
+                    buscadorInput.value = completo;
+                    prediccionesDiv.classList.remove('active');
+                    buscar(completo);
+                } else {
+                    buscar(buscadorInput.value);
+                }
+            } else if (e.key === 'Escape') {
+                prediccionesDiv.classList.remove('active');
+            }
+        });
+
+        // Cerrar predicciones al hacer click fuera
+        document.addEventListener('click', (e) => {
+            if (!e.target.closest('.buscador-wrapper')) {
+                prediccionesDiv.classList.remove('active');
+            }
+        });
+
+        async function obtenerPredicciones(texto) {
+            try {
+                const response = await fetch('/predicciones', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ texto })
+                });
+
+                const data = await response.json();
+
+                if (data.predicciones && data.predicciones.length > 0) {
+                    mostrarPredicciones(data.predicciones);
+                } else {
+                    prediccionesDiv.classList.remove('active');
+                }
+            } catch (error) {
+                console.error('Error al obtener predicciones:', error);
+            }
+        }
+
+        function mostrarPredicciones(predicciones) {
+            prediccionesDiv.innerHTML = predicciones.map((pred, index) => `
+        <div class="prediccion-item" data-completo="${pred.completo || ''}" data-index="${index}">
+            
+            <div class="prediccion-contenido">
+                <div class="prediccion-main">${pred.display}</div>
+                ${pred.texto ? `<div class="prediccion-preview">${pred.texto}</div>` : ''}
+            </div>
+
+            <button
+                class="btn-copiar"
+                data-texto="${pred.completo || pred.display}"
+                title="Copiar al buscador">
+                ✏️
+            </button>
+
+        </div>
+    `).join('');
+
+            prediccionesDiv.classList.add('active');
+            selectedIndex = -1;
+
+            // Click en la predicción = buscar
+            prediccionesDiv.querySelectorAll('.prediccion-item').forEach(item => {
+
+                item.addEventListener('click', (e) => {
+
+                    // Ignorar si se hizo click en el botón
+                    if (e.target.classList.contains('btn-copiar')) {
+                        return;
+                    }
+
+                    const completo = item.dataset.completo || item.textContent;
+
+                    buscadorInput.value = completo;
+
+                    prediccionesDiv.classList.remove('active');
+
+                    buscar(completo);
+                });
+            });
+
+            // Click en el botón ✏️ = copiar al input
+            prediccionesDiv.querySelectorAll('.btn-copiar').forEach(btn => {
+
+                btn.addEventListener('click', (e) => {
+
+                    e.stopPropagation();
+
+                    const texto = btn.dataset.texto;
+
+                    buscadorInput.value = texto;
+
+                    buscadorInput.focus();
+
+                    buscadorInput.setSelectionRange(
+                        texto.length,
+                        texto.length
+                    );
+
+                    prediccionesDiv.classList.remove('active');
+                });
+            });
+        }
+
+        function actualizarSeleccion(items) {
+            items.forEach((item, index) => {
+                item.classList.toggle('selected', index === selectedIndex);
+                if (index === selectedIndex) {
+                    item.scrollIntoView({ block: 'nearest' });
+                }
+            });
+        }
+
+        async function buscar(texto) {
+            if (!texto.trim()) return;
+
+            errorDiv.classList.remove('show');
+            resultadosDiv.innerHTML = '';
+            loadingDiv.classList.add('show');
+
+            try {
+                const response = await fetch('/buscar', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ busqueda: texto })
+                });
+
+                const data = await response.json();
+                loadingDiv.classList.remove('show');
+
+                if (data.tipo === 'error') {
+                    mostrarError(data.mensaje);
+                } else if (data.resultados && data.resultados.length > 0) {
+                    estadoVersiculos.resultados = data.resultados;
+                    estadoVersiculos.indice = 0;
+                    estadoVersiculos.libro = data.resultados[0].libro;
+                    estadoVersiculos.capitulo = data.resultados[0].capitulo;
+                    estadoVersiculos.versiculo = data.resultados[0].versiculo;
+                    mostrarResultados(data.resultados);
+                    triggerAutoFondo(); // Cambiar fondo si la opción está activada
+                } else {
+                    mostrarError('No se encontraron resultados');
+                }
+            } catch (error) {
+                loadingDiv.classList.remove('show');
+                mostrarError('Error en la búsqueda: ' + error.message);
+            }
+        }
+
+        function mostrarResultados(resultados) {
+            resultadosDiv.innerHTML = resultados.map(resultado => `
+                <div class="resultado-item">
+                    <div class="resultado-referencia">
+                        ${resultado.libroNombre || resultado.libro} ${resultado.capitulo}:${resultado.versiculo}
+                    </div>
+                    <div class="resultado-texto">"${resultado.texto}"</div>
+                </div>
+            `).join('');
+        }
+
+        function mostrarError(mensaje) {
+            errorDiv.textContent = '❌ ' + mensaje;
+            errorDiv.classList.add('show');
+        }
+
+        // Configuración de Socket.IO para redirección y cambio de fondo
+        var socket;
+        try {
+            socket = io();
+        } catch(e) {
+            console.warn("Socket.io no disponible", e);
+            socket = { emit: function(){}, on: function(){} };
+        }
+
+        // Al entrar al buscador, redirigir automáticamente la pantalla a /pantalla
+        socket.emit("cambiar-pantalla", "/pantalla");
+
+        function irAAdminCanticos() {
+            socket.emit("cambiar-pantalla", "/canticospantalla");
+            setTimeout(() => {
+                window.location.href = "/canticosadmin";
+            }, 100);
+        }
+
+        function cambiarFondo(url) {
+            socket.emit("cambiar-fondo", url);
+        }
+
+        function quitarVersiculo() {
+            socket.emit("limpiar-pantalla", { tipo: 'versiculo' });
+        }
+
+        async function nextVersiculo() {
+            if (!estadoVersiculos.resultados || estadoVersiculos.resultados.length === 0) return;
+            
+            if (estadoVersiculos.indice < estadoVersiculos.resultados.length - 1) {
+                estadoVersiculos.indice++;
+                const verso = estadoVersiculos.resultados[estadoVersiculos.indice];
+                estadoVersiculos.libro = verso.libro;
+                estadoVersiculos.capitulo = verso.capitulo;
+                estadoVersiculos.versiculo = verso.versiculo;
+                
+                socket.emit("navegar-versiculo", "siguiente");
+                triggerAutoFondo(); // Cambiar fondo si la opción está activada
+            } else {
+                try {
+                    const response = await fetch('/api/versiculo-siguiente', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({
+                            libro: estadoVersiculos.libro,
+                            capitulo: estadoVersiculos.capitulo,
+                            versiculo: estadoVersiculos.versiculo
+                        })
+                    });
+                    const data = await response.json();
+                    if (data.verso) {
+                        const query = `${data.verso.libroNombre || data.verso.libro} ${data.verso.capitulo}:${data.verso.versiculo}`;
+                        document.getElementById('buscador').value = query;
+                        buscar(query);
+                    }
+                } catch (error) {
+                    console.error('Error al obtener versículo siguiente:', error);
+                }
+            }
+        }
+
+        async function prevVersiculo() {
+            if (!estadoVersiculos.resultados || estadoVersiculos.resultados.length === 0) return;
+            
+            if (estadoVersiculos.indice > 0) {
+                estadoVersiculos.indice--;
+                const verso = estadoVersiculos.resultados[estadoVersiculos.indice];
+                estadoVersiculos.libro = verso.libro;
+                estadoVersiculos.capitulo = verso.capitulo;
+                estadoVersiculos.versiculo = verso.versiculo;
+                
+                socket.emit("navegar-versiculo", "anterior");
+                triggerAutoFondo(); // Cambiar fondo si la opción está activada
+            } else {
+                try {
+                    const response = await fetch('/api/versiculo-anterior', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({
+                            libro: estadoVersiculos.libro,
+                            capitulo: estadoVersiculos.capitulo,
+                            versiculo: estadoVersiculos.versiculo
+                        })
+                    });
+                    const data = await response.json();
+                    if (data.verso) {
+                        const query = `${data.verso.libroNombre || data.verso.libro} ${data.verso.capitulo}:${data.verso.versiculo}`;
+                        document.getElementById('buscador').value = query;
+                        buscar(query);
+                    }
+                } catch (error) {
+                    console.error('Error al obtener versículo anterior:', error);
+                }
+            }
+        }
+
+        // ══════════════════════════════════════════════════════════════
+        // SISTEMA DE FONDOS — modal + subida (igual que en canticosadmin)
+        // ══════════════════════════════════════════════════════════════
+        var fondosList = [];
+        var fondoActualActivo = "";
+        var autoFondoEnabled = false;
+
+        // Cargar fondos al inicio para usarlos en fondo automático
+        async function cargarFondosInicial() {
+            try {
+                const response = await fetch('/api/fondos');
+                fondosList = await response.json();
+            } catch (err) {
+                console.error("Error al cargar los fondos:", err);
+            }
+        }
+        cargarFondosInicial();
+
+        function toggleAutoFondo(checked) {
+            autoFondoEnabled = checked;
+        }
+
+        const gradientesEstaticos = [
+            'gradient:aurora',
+            'gradient:atardecer',
+            'gradient:paz',
+            'gradient:mistico'
+        ];
+
+        function triggerAutoFondo() {
+            if (autoFondoEnabled) {
+                const combinados = [...fondosList.map(f => f.url || f), ...gradientesEstaticos];
+                if (combinados.length > 0) {
+                    // Evitar repetir el fondo actual si es posible
+                    let index;
+                    let fullUrl;
+                    let intentos = 0;
+                    do {
+                        index = Math.floor(Math.random() * combinados.length);
+                        const url = combinados[index];
+                        fullUrl = url.startsWith('gradient:') ? url : '/' + url;
+                        intentos++;
+                    } while (fullUrl === fondoActualActivo && combinados.length > 1 && intentos < 5);
+
+                    socket.emit("cambiar-fondo", fullUrl);
+                    fondoActualActivo = fullUrl;
+                    actualizarFondoActivoUI();
+                }
+            }
+        }
+
+        // Sincronizar fondo actual con otros clientes
+        socket.on("cambiar-fondo", (url) => {
+            fondoActualActivo = url;
+            actualizarFondoActivoUI();
+        });
+
+        async function abrirFondoModal() {
+            const modal = document.getElementById('fondo-modal');
+            modal.style.display = 'flex';
+
+            try {
+                const response = await fetch('/api/fondos');
+                fondosList = await response.json();
+                renderFondosGrid();
+            } catch (err) {
+                console.error("Error al cargar los fondos:", err);
+            }
+        }
+
+        function cerrarFondoModal() {
+            const modal = document.getElementById('fondo-modal');
+            modal.style.display = 'none';
+        }
+
+        function renderFondosGrid() {
+            const grid = document.getElementById('fondos-grid');
+            if (!grid) return;
+
+            if (fondosList.length === 0) {
+                grid.innerHTML = '<div style="grid-column: span 3; text-align: center; color: #999;">No se encontraron fondos</div>';
+                return;
+            }
+
+            grid.innerHTML = fondosList.map(fondo => {
+                const url = fondo.url || fondo;
+                const nombre = (fondo.nombre || url.split('/').pop().split('.').shift());
+                const tipo = fondo.tipo || 'imagen';
+                const isActivo = (url === fondoActualActivo || ('/' + url) === fondoActualActivo || url === ('/' + fondoActualActivo));
+                return `
+                    <div style="cursor:pointer; border-radius:8px; overflow:hidden; border:2px solid ${isActivo ? '#667eea' : '#e0e0e0'}; aspect-ratio:16/9; position:relative; background-size:cover; background-position:center; background-image:url('/${url}'); transition:all 0.2s; ${isActivo ? 'box-shadow:0 0 8px rgba(102,126,234,0.4);' : ''}" 
+                         onclick="seleccionarFondo('${url}')"
+                         onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
+                        <div style="position:absolute; bottom:0; left:0; right:0; background:rgba(0,0,0,0.7); color:white; font-size:0.65rem; padding:2px 4px; text-align:center; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">
+                            ${nombre}${tipo !== 'imagen' ? ' (' + tipo + ')' : ''}
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function seleccionarFondo(url) {
+            const fullUrl = url.startsWith('gradient:') ? url : '/' + url;
+            fondoActualActivo = fullUrl;
+            socket.emit("cambiar-fondo", fullUrl);
+            actualizarFondoActivoUI();
+            cerrarFondoModal();
+        }
+
+        function actualizarFondoActivoUI() {
+            // Re-render grid if modal is open
+            const modal = document.getElementById('fondo-modal');
+            if (modal && modal.style.display === 'flex') {
+                renderFondosGrid();
+            }
+        }
+
+        // Cerrar modal al hacer click fuera del contenido
+        window.addEventListener('click', (e) => {
+            const modal = document.getElementById('fondo-modal');
+            if (e.target === modal) {
+                cerrarFondoModal();
+            }
+        });
+
+        // Función para subir un fondo desde archivo
+        function triggerSubirFondo() {
+            document.getElementById('subir-fondo-input').click();
+        }
+
+        async function subirFondoArchivo(input) {
+            const file = input.files[0];
+            if (!file) return;
+            const formData = new FormData();
+            formData.append('fondo', file);
+            try {
+                const res = await fetch('/api/subir-fondo', { method: 'POST', body: formData });
+                const data = await res.json();
+                if (data.exito) {
+                    // Abrir modal y auto-seleccionar el fondo nuevo
+                    await abrirFondoModal();
+                    seleccionarFondo(data.url);
+                    alert(`✅ Fondo "${data.nombre}" subido exitosamente`);
+                } else {
+                    alert('Error al subir el fondo: ' + (data.error || 'desconocido'));
+                }
+            } catch (e) {
+                alert('Error de red al subir el fondo.');
+                console.error(e);
+            }
+            // Reset input para permitir subir el mismo archivo otra vez
+            input.value = '';
+        }
+    </script>
+</body>
+
+</html>

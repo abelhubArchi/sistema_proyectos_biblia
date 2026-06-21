@@ -1,0 +1,137 @@
+{
+  "EL HOMBRE DE GALILEA": [
+    {
+      "id": 1,
+      "texto": "//El hombre de Galilea",
+      "seleccionada": true
+    },
+    {
+      "id": 2,
+      "texto": "Va pasando ya",
+      "seleccionada": true
+    },
+    {
+      "id": 3,
+      "texto": "El hombre de Galilea",
+      "seleccionada": true
+    },
+    {
+      "id": 4,
+      "texto": "Va pasando ya.//",
+      "seleccionada": true
+    },
+    {
+      "id": 5,
+      "texto": "Déjalo que te toque",
+      "seleccionada": true
+    }
+  ],
+  "SI ME PREGUNTAN PORQUE ESTOY CONTENTO": [
+    {
+      "id": 1,
+      "texto": "Si me preguntan",
+      "seleccionada": false
+    },
+    {
+      "id": 2,
+      "texto": "Porque estoy contento",
+      "seleccionada": false
+    },
+    {
+      "id": 3,
+      "texto": "Si me preguntan",
+      "seleccionada": false
+    },
+    {
+      "id": 4,
+      "texto": "Porque canto así.",
+      "seleccionada": false
+    },
+    {
+      "id": 5,
+      "texto": "//Es porque Cristo",
+      "seleccionada": true
+    },
+    {
+      "id": 6,
+      "texto": "Me ha lavado con su sangre",
+      "seleccionada": true
+    },
+    {
+      "id": 7,
+      "texto": "En una nube blanca",
+      "seleccionada": false
+    },
+    {
+      "id": 8,
+      "texto": "Volverá por mí.//",
+      "seleccionada": true
+    }
+  ],
+  "DEL CULTO EL TIEMPO LLEGA": [
+    {
+      "id": 1781240638088,
+      "texto": "Nueva línea",
+      "seleccionada": true
+    }
+  ],
+  "PRONTO VUELVE JESUCRISTO": [
+    {
+      "id": 1781291173372,
+      "texto": "Nueva línea",
+      "seleccionada": true
+    }
+  ],
+  "YO TENGO UN AMIGO, QUE ME AMA": [
+    {
+      "id": 1,
+      "texto": "Yo tengo un amigo que me ama,",
+      "seleccionada": true
+    },
+    {
+      "id": 2,
+      "texto": "Me ama, me ama,",
+      "seleccionada": true
+    },
+    {
+      "id": 3,
+      "texto": "Yo tengo un amigo que me ama;",
+      "seleccionada": true
+    },
+    {
+      "id": 4,
+      "texto": "Su nombre es Jesús.",
+      "seleccionada": true
+    },
+    {
+      "id": 5,
+      "texto": "Que me ama, que me ama",
+      "seleccionada": true
+    },
+    {
+      "id": 6,
+      "texto": "Que me ama con su inmenso amor.",
+      "seleccionada": true
+    },
+    {
+      "id": 7,
+      "texto": "Que me ama, que me ama",
+      "seleccionada": true
+    },
+    {
+      "id": 8,
+      "texto": "Su nombre es Jesús.",
+      "seleccionada": true
+    },
+    {
+      "id": 9,
+      "texto": "Tú tienes un amigo que te ama...",
+      "seleccionada": true
+    },
+    {
+      "id": 10,
+      "texto": "Tenemos un amigo que nos ama...",
+      "seleccionada": true
+    }
+  ]
+}
