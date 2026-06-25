@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "ALABEMOS CON GOZO A DIOS",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Si Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "A nuestro Dios cantemos hoy de corazón.",
+        "Consuelo y paz, gozo también siempre nos da.",
+        ":Cuán admirable es su bondad",
+        "Para la humanidad. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cantemos hoy canción de amor a nuestro Dios.",
+        "Con gran poder pronto él vendrá y nos juzgará.",
+        ":Y nuestras obras en ese día",
+        "Todas saldrán a luz. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Hay aflicción, pena y dolor viviendo aquí,",
+        "Pero al estar con el Señor gran gozo habrá.",
+        ":Le alabaremos estando aquí",
+        "A nuestro Padre Dios. (Bis)"
+      ]
+    }
+  ]
+}

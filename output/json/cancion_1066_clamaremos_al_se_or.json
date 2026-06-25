@@ -1,0 +1,29 @@
+{
+  "numero": null,
+  "titulo": "CLAMAREMOS AL SEÑOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "CLAMAREMOS AL SEÑOR,",
+        "DE ALABANZAS DIGNO ES",
+        "DE MIS ENEMIGOS",
+        "ME SALVARÁ.",
+        "JESÚS VIVE!",
+        "MI ROCA Y SALVACIÓN,",
+        "BENDITO SEA SU NOMBRE",
+        "PARA SIEMPRE//"
+      ]
+    }
+  ]
+}

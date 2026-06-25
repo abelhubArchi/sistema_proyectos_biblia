@@ -1,0 +1,35 @@
+{
+  "numero": null,
+  "titulo": "EL VICTORIOSO VIVE EN MI",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "EL VICTORIOSO VIVE EN MI",
+        "LAS CIRCUNSTANCIAS",
+        "NO ME MUEVEN A MI,",
+        "EL VICTORIOSO VIVE EN MI."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "YO CANTARÉ Y DANZARÉ",
+        "CELEBRARÉ LA VICTORIA DEL SEÑOR,",
+        "NO TEMERÉ A PELEAR,",
+        "PUES LA VICTORIA ES DEL  SEÑOR."
+      ]
+    }
+  ]
+}

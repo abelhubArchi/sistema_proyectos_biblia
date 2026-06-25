@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "TUS OJOS REVELAN",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "TUS OJOS REVELAN QUE YO NADA",
+        "PUEDO ESCONDER QUE NO SOY NADA SIN TI.",
+        "OH FIEL JESUS",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "TODO LO SABES DE MI,",
+        "CUANDO MIRAS EL CORAZÓN",
+        "TODO LO PUEDES VER MUY DENTRO DE MI",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "LLEVA MI VIDA A UNA SOLA VERDAD,",
+        "QUE CUANDO ME MIRAS,",
+        "NADA PUEDO OCULTAR",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "SE QUE ES TU FIDELIDAD",
+        "QUE LLEVA MI VIDA MAS ALLÁ",
+        "DE LO QUE PUEDO IMAGINAR SE QUE NO PUEDO NEGAR",
+        "QUE TU MIRADA PUESTA EN MÍ, ME LLENA DE TU PAZ/"
+      ]
+    }
+  ]
+}

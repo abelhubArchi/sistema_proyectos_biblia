@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "DA LO MEJOR AL MAESTRO",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Da lo mejor al Maestro; tu juventud, tu vigor,",
+        "Dale el ardor de tu alma; lucha del bien en favor.",
+        "Cristo nos dio el ejemplo, siendo el joven de valor;",
+        "Séle devoto ferviente; dale de tí lo mejor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Da lo mejor al Maestro;",
+        "Tu juventud, tu vigor;",
+        "Dale el ardor de tu alma,",
+        "De la verdad lucha en pro.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Da lo mejor al maestro; dale de tu alma el honor;",
+        "Que sea El en tu vida el móvil de cada acción.",
+        "Dale y te será dado el Hijo amado de Dios.",
+        "Sírvele día por día; dale de ti lo mejor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Da lo mejor al Maestro; nada supera su amor;",
+        "Se dio por ti a sí mismo dejando gloria y honor.",
+        "No murmuró al dar su vida por salvarte del error.",
+        "Ámale más cada día; dale de ti lo mejor."
+      ]
+    }
+  ]
+}

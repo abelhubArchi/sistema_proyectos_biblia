@@ -1,0 +1,30 @@
+{
+  "numero": null,
+  "titulo": "PUEDO CONFIAR EN EL SEÑOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "PUEDO CONFIAR  EN EL SEÑOR",
+        "NO ME VA A FALLAR//",
+        "SI EL SOL LLEGARA A OSCURECER Y NO BRILLA MÁS,",
+        "YO IGUALCONFÍO EN EL SEÑOR NO ME A FALLAR.",
+        "PUEDO DESCANSAR, PUEDO DESCANSAR",
+        "QUE A SU MANSIÓN, CRISTO ME GUIARÁ",
+        "SI EL SOL LLEGARA A OSCURECER",
+        "Y NO BRILLA MÁS, YO IGUAL CONFÍO EN EL SEÑOR",
+        "NO ME VA A FALLAR"
+      ]
+    }
+  ]
+}

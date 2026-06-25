@@ -1,0 +1,31 @@
+{
+  "numero": null,
+  "titulo": "FUERTE DIOS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "FUERTE DIOS CONSOLADOR",
+        "PRINCIPE DE PAZ.",
+        "GRAN SEÑOR, VENCEDOR",
+        "SIEMPRE VIVES Y SIEMPRE  REINARÁS",
+        "",
+        "DIOS TE EXALTO, DIOS TE EXALTO.",
+        "ERES TODO PARA MI,",
+        "TU CREACIÓN CANTA DE TI,",
+        "DIOS TE EXALTO",
+        "TE EXALTO CRISTO MI REY/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "numero": 43,
+  "titulo": "VIENE OTRA VEZ",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cantan los ángeles con dulce voz,",
+        "Canten los hombres con sonora voz;",
+        "Cristo vendrá nuestro Rey vencedor",
+        "Cristo vendrá otra vez.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Viene otra vez, viene otra vez.",
+        "En gloria viene al mundo otra vez,",
+        "Viene otra vez, viene otra vez;",
+        "El viene pronto a reinar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Ved en la tierra, los aires y el mar,",
+        "Grandes señales cumpliéndose ya,",
+        "Todo indicando que pronto vendrá,",
+        "Nuestro glorioso Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Todos los muertos en Cristo saldrán,",
+        "De sus sepulcros y alegres irán,",
+        "Para encontrar a su Rey subirán,",
+        "Cristo vendrá otra vez.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Ven en las nubes, ¡Oh buen Salvador!",
+        "¡Ven a la tierra te ruego, Señor!",
+        "¡Ven, que tu iglesia te espera. Jesús!",
+        "Cristo vendrá otra vez."
+      ]
+    }
+  ]
+}

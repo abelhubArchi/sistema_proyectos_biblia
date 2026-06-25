@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "TE DOY GRACIAS, BENDITO CRISTO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Te doy gracias mi buen Cristo,",
+        "Por redimir mis pecados.",
+        "Con tu sangre derramada,",
+        "Limpiaste mi ser entero.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Mi Salvador Jesucristo,",
+        "No me dejes, ni me olvides;",
+        "Te seguiré por doquiera,",
+        "Y así podré estar contigo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Te doy gracias mi buen Cristo,",
+        "por tu libertad preciosa;",
+        "Del gran tentador maligno,",
+        "Y del sufrimiento eterno.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Te doy gracias mi buen Cristo.",
+        "Me diste la vida eterna,",
+        "Por tu hijo me aceptaste.",
+        "Con tu amor profundo y santo."
+      ]
+    }
+  ]
+}

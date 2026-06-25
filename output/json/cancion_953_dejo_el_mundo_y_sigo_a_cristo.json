@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "DEJO EL MUNDO Y SIGO A CRISTO",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Dejo el mundo y sigo a Cristo",
+        "Porque el mundo pasará;",
+        "Mas su amor, amor bendito,",
+        "Por los siglos durará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "¡Oh, que gran misericordia!",
+        "¡Oh, de amor sublime don!",
+        "¡Plenitud de vida eterna,",
+        "Prenda viva de perdón!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Dejo el mundo y sigo a Cristo,",
+        "Paz y gozo en él tendré,",
+        "Y al mirar que va conmigo,",
+        "Siempre salvo cantaré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Dejo el mundo y sigo a Cristo,",
+        "Su sonrisa quiero ver,",
+        "Como luz que mi camino",
+        "Haga aquí resplandecer.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Dejo el mundo y sigo a Cristo",
+        "Acogiéndome a su cruz,",
+        "Y después ir a mirarle",
+        "¡Cara a cara en plena luz!"
+      ]
+    }
+  ]
+}

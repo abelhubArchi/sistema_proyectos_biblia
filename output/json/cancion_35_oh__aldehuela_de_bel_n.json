@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "OH, ALDEHUELA DE BELÉN",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Oh, ¡aldehuela de Belén! afortunada tú,",
+        "Pues en tus campos brilla hoy la sempiterna Luz.",
+        "El Hijo, el Deseado, con santa expectación",
+        "Por toda gente y edad, en ti, Belén nació.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Allá do el Redentor nació los ángeles están",
+        "Velando todos con amor el Niño sin igual.",
+        "¡Estrellas rutilantes, a Dios la gloria dad!",
+        "Pues hoy el cielo nos mostró su buena voluntad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¡Cuan silencioso allí bajó preciado y puro Don!",
+        "Así también aquí dará sus bendiciones Dios.",
+        "Ningún oído acaso perciba su venir;",
+        "Mas El de humilde corazón, se habrá de recibir.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "¡Oh, Santo Niño de Belén, desciende con tu amor,",
+        "Y echando fuera todo mal nace en nosotros hoy!",
+        "Angélicos cantores le anuncian al nacer;",
+        "Ven con nosotros a morar, Jesús, Emanuel."
+      ]
+    }
+  ]
+}

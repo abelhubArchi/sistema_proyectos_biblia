@@ -1,0 +1,32 @@
+{
+  "numero": null,
+  "titulo": "ENTRA CON ACCIÓN DE GRACIAS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ENTRA CON ACCIÓN DE GRACIAS,",
+        "POR SUS ATRIOS ALABAD",
+        "ENTRA A SU PRESENCIA CON GOZO,",
+        "CANTANDO GRANDE Y FUERTE ES JEHOVÁ",
+        "ALABAD AL SON DE TROMPETAS,",
+        "CON PANDERO Y ARPA TAMBIÉN,",
+        "QUE TODA LA CREACIÓN CANTA HOY",
+        "ALABÁNDOLE CON EL CORAZÓN.",
+        "",
+        "PORQUE BUENO ES DIOS///",
+        "PARA SIEMPRE ES SU MISERICORDIA."
+      ]
+    }
+  ]
+}

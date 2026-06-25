@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "Wasiy Tiyan",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "//Wasiy tiyan intimanta aswanta k'anchaj.//",
+        "Janaj pachapi.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "//Bendito Cristo, Qanwan kawsamusaj//",
+        "Janaj pachapi.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "//Qan munanki riyta chayqa, usqayta jamuy//",
+        "Señor Jesusman."
+      ]
+    }
+  ]
+}

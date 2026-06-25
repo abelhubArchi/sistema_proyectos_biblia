@@ -1,0 +1,34 @@
+{
+  "numero": null,
+  "titulo": "Chinkasqa Almasta",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Chinkasqa almasta pusamuy Qan, Señor.",
+        "/Qanta manaraj rejsisqankuwan",
+        "Wañuyman rishanku./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Pusamuy Qan, Señor, amaña saqeychu.",
+        "/Kawsayninkupi kusisqas kanku,",
+        "Almanku Ilakisqas./"
+      ]
+    }
+  ]
+}

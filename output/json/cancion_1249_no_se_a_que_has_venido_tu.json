@@ -1,0 +1,24 @@
+{
+  "numero": null,
+  "titulo": "NO SE A QUE HAS VENIDO TU",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "NO SÉ A QUE HAS VENIDO TU",
+        "YO VINE A ALABAR A DIOS//",
+        "ALELU, ALELU, ALELUYA."
+      ]
+    }
+  ]
+}

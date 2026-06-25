@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "Digno",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "No tengo nada que ofrecer",
+        "Nada que te pueda sorprender,",
+        "Solo un corazón",
+        "Quebrantado una y otra vez.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Y no hay nada que me enamore más",
+        "Nada que me apasione más,",
+        "solo tu presencia",
+        "Solo tu mirada me hacen suspirar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "//Me inclino ante Tí",
+        "Rey que perdona multitud de errores //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Digno eternamente digno",
+        "impresionante y digno, solo ante ti yo,",
+        ".",
+        "//Me inclino ante Tí",
+        "Rey que perdona multitud de errores//"
+      ]
+    }
+  ]
+}

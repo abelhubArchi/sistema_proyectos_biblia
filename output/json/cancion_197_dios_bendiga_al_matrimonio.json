@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "DIOS BENDIGA AL MATRIMONIO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Estas dos personas se unen hoy en presencia del Señor.",
+        "Que Dios las bendiga con su amor dándoles su gozo y paz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Si al Señor le siguen fieles muy contentos vivirán,",
+        "El los guiará en todo y un hogar feliz será.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cumple hermano, lo que dice Dios. Por tu esposa",
+        "ten amor",
+        "Y consuélala en el dolor, gocen juntos en el bien.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "A quien por esposo tienes hoy ten respeto y mucho amor,",
+        "Y ayúdale con oración; Dios te manda, hermana, así.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Lean la palabra del Señor. Juntos tengan oración.",
+        "Así vivirán con gozo y paz conducidos por Jesús."
+      ]
+    }
+  ]
+}

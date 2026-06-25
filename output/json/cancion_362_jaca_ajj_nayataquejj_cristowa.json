@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "JACAÑAJJ NAYATAQUEJJ CRISTOWA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jacañajj nayajja Cristoruw catuyjjta,",
+        "Jupawa nayaru take ch'am churitu;",
+        "Cristojjaw irpitu urus, arumasa,",
+        "Janiw qhitis jupatjj apakquitaspati.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Jacafiajj nayataquejj Tatit Cristowa,",
+        "Jiwañas nayataquejj gananciaraquiw;",
+        "Jaccasinjj juparuquiwa sirviñ munta,",
+        "Take chuymajjampi. take ch'aniajjanipi.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Acá orakena jacafiajj utjquipan,",
+        "Criston aruparjamaw sarnakañ munta;",
+        "Jiwjjá ucapachajj Cristompiw cusisi',",
+        "Wifiayan, wiñayapaw juparnp jacasi\".",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jumasti jilata, ¿cunjamas jacascta?",
+        "¿ Cristotacjamat jacta, aruparjama,",
+        "Jucha lurasinacch jichhacam sarnakta?",
+        "Cristomp jacañanac cusisifiajj utjí."
+      ]
+    }
+  ]
+}

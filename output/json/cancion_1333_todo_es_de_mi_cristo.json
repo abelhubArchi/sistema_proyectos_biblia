@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "TODO ES DE MI CRISTO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Todo es de mi Cristo,",
+        "por él y para él/",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/// A él sea la gloria ///",
+        "Por siempre Amén",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cuan profundas riquezas de la sabidutria de Dios",
+        "Insondables sus juicios y sus caminos son",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/// A TI sea la gloria ///",
+        "Por siempre Amén"
+      ]
+    }
+  ]
+}

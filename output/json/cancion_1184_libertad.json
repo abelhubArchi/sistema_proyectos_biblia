@@ -1,0 +1,39 @@
+{
+  "numero": null,
+  "titulo": "LIBERTAD",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Me has dado libertad, salí de mi prisión",
+        "tu gran poder en mi rompió",
+        "las cadenas de mi gran opresión",
+        "Me has dado salvación, cautivo ya no soy",
+        "no vivo mas en condenación",
+        "he sido libre por tu gran amor."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Libertad tu me has dado",
+        "libertad de mi cadenas",
+        "libertad no soy esclavo",
+        "soy tan libre puedo casi volar",
+        "Libre soy en Jesús, libre soy por su cruz",
+        "he visto en el la luz por que la tienes tu."
+      ]
+    }
+  ]
+}

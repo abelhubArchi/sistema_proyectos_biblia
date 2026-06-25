@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "Moisespaj Tiempompeqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/En los tiempos de Moisés, todos juntos trajeron/",
+        "/Al Santo templo de Dios sus ofrendas y diezmos./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Tus ofrendas para Dios, debes dar sin mezquinar./",
+        "/Al que da de corazón. Dios bendice aún más./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/¡Oh! hermanos de Dios, es una parte de los diez,/",
+        "/En la Biblia dice así, separemos para El./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/¡Qué alegría! es servir a Dios nuestro Creador./",
+        "/Toda nuestra posesión. El nos da para vivir./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "/Oh hermanos, de Dios es la riqueza terrenal,",
+        "En la Biblia dice El, \"Plata y oro Míos son\"./"
+      ]
+    }
+  ]
+}

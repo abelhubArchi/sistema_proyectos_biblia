@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Salvadorninchej Jesusta (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Es digno nuestro Salvador de nuestra adoración.",
+        "Venid cantemos su loor de todo corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Ensalcemos a Jesús, aclamemos con júbilo;",
+        "Aleluya, aleluya, aleluya, AMEN.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Jesús es digno del amor de los que redimió.",
+        "Es digno de una vida fiel, de celo y devoción.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Si somos salvos por Jesús debemos elevar",
+        "Un cántico de gratitud y culto sin cesar."
+      ]
+    }
+  ]
+}

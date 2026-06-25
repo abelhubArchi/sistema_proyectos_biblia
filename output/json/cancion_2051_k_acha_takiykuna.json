@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "K'acha Takiykuna",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "K'acha takiykuna Diosllapaj kachun,",
+        "Tukuynejpi uyarikushan.",
+        "Janaj pachamanta Cristo Salvador",
+        "Wañuymanta salvaj jamorqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Gloria, gloría kachun Dios llaman,",
+        "Tukuy yupaychana Payllata.",
+        "Chay Belén llajtapi yupaychaykuna",
+        "Uyarikullachuntaj kaypi.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Kusiywan junfasqa sonqonchej kachun.",
+        "Diosninchej khuyakun runasta.",
+        "Nak'ariy, nanaypi kashajkunaman",
+        "Dios rikuchin munakuyninta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Sonqosninchejpitaj kusiy junfasqa,",
+        "Salvawajninchej Jesusmanta.",
+        "Yupaychana Payta takiykunawan,",
+        "Jesucristo Salvajninchejta."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "numero": null,
+  "titulo": "CELEBRAD ALABANZA - TORRE FUERTE",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Celebrad con alabanza,",
+        "festejad con gratitud",
+        "El Señor ha quebrantado",
+        "las cadenas danza en júbilo",
+        "El preso será liberado,",
+        "no morirá y tendrá su pan",
+        "Porque el Señor de los ejércitos,",
+        "es su Dios, es su Dios"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Mi Torre Fuerte, mi Fortaleza",
+        "Es mi Señor, mi Salvador y mi Bandera",
+        "El me ciñe de poder, de perfecto caminar",
+        "Y mi pie hace firme estar"
+      ]
+    }
+  ]
+}

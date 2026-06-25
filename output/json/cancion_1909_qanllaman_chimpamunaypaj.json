@@ -1,0 +1,51 @@
+{
+  "numero": null,
+  "titulo": "Qanllaman Chimpamunaypaj",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Qanllaman chimpaykamunaypaj yanapaway, Señorniy.",
+        "Qanta sirvikuyta munayki, atiyniykita qoway./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Tukuy sonqo qhatíkunaypaj Qanllapiña kawsani.",
+        "Santa Palabraykiman jiña pusakuway gloriaman.",
+        "Waqaychaway, Señorniy, waqaychayvay, Señorniy.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Runakuna salvakunampaj kunallan tiempo kashan.",
+        "Ni pi Cristo jiña kanmanchu munakuywan salvawaj,",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Pajtá, q'aya, q’aya nishawaj. Q’aya ni atíwajchu.",
+        "Nina larwayllamanña riwaj.",
+        "Kunallan Diosman chimpay."
+      ]
+    }
+  ]
+}

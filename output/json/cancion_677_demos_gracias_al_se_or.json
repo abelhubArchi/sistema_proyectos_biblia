@@ -1,0 +1,34 @@
+{
+  "numero": null,
+  "titulo": "Demos Gracias Al Señor",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Demos gracias al Señor",
+        "Demos gracias",
+        "demos gracias por su amor"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Por las mañanas las aves canta",
+        "Las alabanzas a Cristo Salvador",
+        "y tu amigo por que no cantas",
+        "Las alabanzas a Cristo Salvador"
+      ]
+    }
+  ]
+}

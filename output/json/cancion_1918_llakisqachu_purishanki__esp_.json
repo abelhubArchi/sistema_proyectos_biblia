@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "Llakisqachu Purishanki (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¿Estás triste y agobiado? escucha. Jesús te llama.",
+        "Limpiar quiere tus pecados, bien sabes que Dios te ama.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Ven pronto a Cristo, El te dará tu descanso.",
+        "Ven pronto a Cristo, vida eterna sólo El te dará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¿Estas tu desprevenido? Y si andas en el pecado,",
+        "Estas alejado de tu Dios, es porque das lugar a Satán."
+      ]
+    }
+  ]
+}

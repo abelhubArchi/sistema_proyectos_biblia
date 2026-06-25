@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "SERVIR A CRISTO ES GRATO",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Servir a Cristo es grato. ¡Qué gracia que El me da!",
+        "Su vida en mí con luz divina resplandecerá;",
+        "Me llena de su gozo el bendito Salvador,",
+        "Me maravillo de su gran justicia y santo amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Servir a Cristo es grato,",
+        "Encuentro todo en El;",
+        "Me ayuda y da victoria,",
+        "Servirle quiero fiel.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Servir a Cristo es grato. Por El yo dejaré",
+        "El mundo malo, y ya su copa amarga beberé;",
+        "Si sufro yo con El, puedo yo con El reinar",
+        "Aquí y en gloria, su promesa quiero reclamar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Servir a Cristo es grato. Su brazo es mi sostén.",
+        "En aflicción, enfermedad o en tiempo de gran bien;",
+        "Las pruebas de esta vida no dan temor jamás,",
+        "Y venga lo que venga tengo yo gran gozo y paz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Servir a Cristo es grato. Me da su protección,",
+        "Es placentero andar con El gozando comunión;",
+        "¡Cuan grande compasión Cristo al mundo demostró!",
+        "La gran promesa de su amor su muerte comprobó."
+      ]
+    }
+  ]
+}

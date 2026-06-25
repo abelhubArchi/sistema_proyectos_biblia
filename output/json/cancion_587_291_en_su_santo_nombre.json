@@ -1,0 +1,38 @@
+{
+  "numero": null,
+  "titulo": "291 EN SU SANTO NOMBRE",
+  "carpeta": "04 Poder del Evangelio",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ":En su Santo nombre de mi Padre",
+        "He confiado. (bis)",
+        "",
+        ":Con su poder me ha salvado,",
+        "Con su poder me ha sanado",
+        "Oh aleluya mi salvador. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        ": Santo Espíritu divino",
+        "Hoy desciende. (bis)",
+        ": Más ya no vivo yo",
+        "Más Cristo vive en mí. (bis)"
+      ]
+    }
+  ]
+}

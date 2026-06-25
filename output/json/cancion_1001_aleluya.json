@@ -1,0 +1,27 @@
+{
+  "numero": null,
+  "titulo": "Aleluya",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Aleluya, Aleluya",
+        "Aleluya, Aleluya",
+        "Dios te adoro, Dios te adoro",
+        "Dios te adoro, Dios te adoro",
+        "Eres Santo, Eres Santo",
+        "Eres Santo, Eres Santo"
+      ]
+    }
+  ]
+}

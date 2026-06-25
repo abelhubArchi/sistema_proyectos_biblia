@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "JAMAS TU CORAZÓN SE TURBE",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jamás tu corazón se turbe,",
+        "Mas cree en Dios, también en mí;",
+        "Porque en la casa de mi Padre",
+        "Mansión preparo para ti.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Jamás el corazón se turbe,",
+        "Jamás el corazón se turbe,",
+        "Jamás el corazón se turbe,",
+        "Ni tenga más temor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "No pierdas la confianza y calma",
+        "En tiempo negro del turbión,",
+        "Mas cual soldado sé valiente,",
+        "Sé fuerte y lucha con tesón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "No dudes, siempre ten confianza,",
+        "Jesús es tu gran galardón,",
+        "En el conflicto está a tu lado,",
+        "En El la vista siempre pon."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "Munakoj Jatun Dios (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Bondadoso Jesucristo,",
+        "A tus pies rindo mi vida.",
+        "De cuantos pecados tenga,",
+        "Tu perdón hoy te imploro.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Bondadoso oh Jesús,",
+        "Mi vida hoy te entrego.",
+        "/Quiero andar por tu sendero",
+        "De la luz y vida eterna./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "A tu gloriosa morada",
+        "Llegaré yo por tu gracia.",
+        "Cuando ya esté en tu gloria,",
+        "Te alabaré yo por siempre.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Bondadoso Jesucristo,",
+        "Como podré agradarte.",
+        "En la cruenta cruz sufriste,",
+        "A este mundo redimiste."
+      ]
+    }
+  ]
+}

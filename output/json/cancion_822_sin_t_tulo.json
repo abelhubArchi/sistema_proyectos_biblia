@@ -1,0 +1,109 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "xMinisterio",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "//Cuando venga de los cielos",
+        "El Señor,estes vivo o estes muerto",
+        "Que cuenta le vas a dar.//"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Amigo ya no peques mas",
+        "Jesus te dice ven a mi",
+        "recuerda que es tu salvador",
+        "recuerda que murio por ti."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "//Ohh vienen los angeles,",
+        "vienen los angeles",
+        "alabar al Rey//",
+        "AMEN."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "El gozo que tengo yo,",
+        "el mundo no me lo dio,",
+        "el mundo no me lo dio,",
+        "y como no me lo dio,",
+        "no me lo puede quitar,",
+        "y como no me lo dio",
+        "no me lo puede quitar."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Si empezamos a cantar,",
+        "esta tierra tiembla,",
+        "si empezamos a orar,",
+        "hablaremos nuevas lenguas,"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 6,
+      "lineas": [
+        "//Elías oro y el fuego bajo,",
+        "oro Josué, y el sol se paro.//"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 7,
+      "lineas": [
+        "\"Este gozo que yo siento en mi alma,",
+        "solo Cristo me lo pudo dar",
+        "Solo Cristo me lo pudo dar\""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 8,
+      "lineas": [
+        "Pero que felicidad, pero que felicidad,",
+        "cantando todos en coro",
+        "a nuestro Padre celestial (2x)"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 9,
+      "lineas": [
+        "Yo no se a lo que tu has venido,",
+        "pero yo vine alabar a Dios\" (2x)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 10,
+      "lineas": [
+        "\"Yo vine, yo vine, yo vine alabar a Dios\" (2x)"
+      ]
+    }
+  ]
+}

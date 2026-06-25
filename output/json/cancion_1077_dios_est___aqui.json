@@ -1,0 +1,35 @@
+{
+  "numero": null,
+  "titulo": "DIOS ESTÁ  AQUI",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Dios está aquí tan cierto",
+        "como el aire que respiro.",
+        "Dios está aquí tan cierto",
+        "como que le canto y me puedes oír."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Lo puedes notar a tu lado en este mismo instante",
+        "Lo puedes sentir muy dentro de tu corazón",
+        "Lo puedes notar en ese problema que tienes",
+        "Jesús está aquí, si tú quieres le puedes seguir"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "Cristo Salvadorniytaqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Quiero ver a Jesucristo, mi precioso Salvador,",
+        "Quiero ver el alto cielo, ver el trono del Señor.",
+        "Ver la faz de mi Maestro, quien por mí sufrió la cruz.",
+        "Viviré en esa patria, de eterno gozo y luz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Quiero ver aquella tierra, donde reina eterno amor.",
+        "Quiero estar en las moradas, de Jesús mi Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Quiero dar a Jesucristo, sin reserva mi amor,",
+        "Quiero ser un mensajero conduciendo al pecador",
+        "A la cruz de Jesucristo y a la patria celestial,",
+        "Do podrá vivir por siempre, con el coro angelical.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Por la obra redentora, de Jesús mi Salvador,",
+        "Viviré por las edades, do podré gozar su amor.",
+        "Por la sangre del Cordero, aunque indigno sé que soy.",
+        "Con las huestes redimidas, loores al Señor yo doy."
+      ]
+    }
+  ]
+}

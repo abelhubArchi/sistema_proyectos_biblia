@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "DULCE ORACION",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Dulce oración, dulce oración,",
+        "De toda influencia mundanal",
+        "Elevas tú mi corazón,",
+        "Al tierno Padre celestial.",
+        "¡Oh, cuántas veces tuve en ti",
+        "Auxilio en ruda tentación;",
+        "Y cuántos bienes recibí,",
+        "Mediante ti, dulce oración!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Dulce oración, dulce oración,",
+        "Al trono excelso de bondad",
+        "Tu llevarás mi petición",
+        "A Dios que escucha con piedad.",
+        "Por fe espero recibir",
+        "La gran divina bendición.",
+        "Y siempre a mi Señor servir",
+        "Por tu virtud, dulce oración.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Dulce oración, dulce oración,",
+        "Que aliento y gozo al alma das,",
+        "En esta tierra de aflicción",
+        "Consuelo siempre me serás,",
+        "Hasta el momento en que veré",
+        "Francas las puertas de Sión,",
+        "Entonces me despediré",
+        "Feliz, de tí, dulce oración."
+      ]
+    }
+  ]
+}

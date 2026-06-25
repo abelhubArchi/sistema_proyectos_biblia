@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Imaynachus kasqay jiña",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Imaynachus kasqay jiña, chimpamuyki Qanman Señor.",
+        "Qanllamin wajyashawanki; Señorniy, chimpaykamuyki.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Usqayllata chimpamuyki, Salvacionta mañakuspa.",
+        "Qanlla atinki salvawayta. Señorniy, chimpaykamuyki",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Llakisqa kashani Señor, Wañuyilaman risharqani",
+        "Perdonniyta mask'akuspa; Señorniy, chimpaykamuyki",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Qhuyayniyki salvawanña, Qanllataña sirvisqayki.",
+        "Tükuy kusiy sonqomanta; Señorniy, chimpaykamuyki"
+      ]
+    }
+  ]
+}

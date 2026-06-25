@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "Takisaj Señorllaman (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Voy a seguir cantando hasta que venga el Rey.",
+        "Voy a seguir cantando a mi Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Tus manos, Señor, extiende a tu pueblo.",
+        "Tus manos. Señor, de amor y santidad./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Voy a seguir anunciando hasta que venga el Rey,",
+        "Voy a seguir anunciando del Señor./"
+      ]
+    }
+  ]
+}

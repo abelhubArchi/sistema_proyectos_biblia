@@ -1,0 +1,65 @@
+{
+  "numero": null,
+  "titulo": "LLENAS MI VIDA DE PAZ",
+  "carpeta": "xMinisterio",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "transición",
+      "lineas": [
+        "*",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Llenas mi vida de pasión",
+        "Consumes tú mi corazón.",
+        "En tus brazos puedo descansar,",
+        "Sólo en tí puedo yo confiar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tú eres mi principio mi final",
+        "Nada soy si no estás.",
+        "Tú eres mi destino mi verdad",
+        "Nada soy si no estás.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Yo te amaré,",
+        "Te alabaré.",
+        "Toda mi vida",
+        "Tu Nombre proclamaré,",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Yo te amaré,",
+        "Te adoraré.",
+        "Mi amor por siempre",
+        "Sólo a ti entregaré."
+      ]
+    }
+  ]
+}

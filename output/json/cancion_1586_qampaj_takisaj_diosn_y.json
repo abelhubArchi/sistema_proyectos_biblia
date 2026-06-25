@@ -1,0 +1,43 @@
+{
+  "numero": null,
+  "titulo": "Qampaj Takisaj Diosníy",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Qampaj takisaj, Diosníy, mana runaspajchu",
+        "Nitaj lantikunapajchu, Qanllapajña takisaj.",
+        "Runasqa qhaparenqanku: \"Maypi kashan Diosniyki?\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cielopi kashan Diosninchej, tukuyta ruwarqa.",
+        "Lantikunarí ruwasqas qolqe, qoríllamanta.",
+        "Runaj ruwasqan kasparí, mana atiynin kanchu.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Diosta munakunki chay, yupaychay Payllata.",
+        "Payllamin yanapasonqa, Paylla sonqochasonqa.",
+        "Lantikunata saqespa, Diosllataña sirvikuy."
+      ]
+    }
+  ]
+}

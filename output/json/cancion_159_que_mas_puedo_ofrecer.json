@@ -1,0 +1,29 @@
+{
+  "numero": null,
+  "titulo": "Que mas puedo ofrecer",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "QUE MAS PUEDO OFRECERTE",
+        "SOLAMENTE MI CORAZON//",
+        "",
+        "SOLAMENTE MI CORAZON",
+        "TE PUEDO OFRECER MI SEÑOR//",
+        "",
+        "MI VIDA MI VIDA",
+        "SOLO ES TUYO MI SEÑOR//"
+      ]
+    }
+  ]
+}

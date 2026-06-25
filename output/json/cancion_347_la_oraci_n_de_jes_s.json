@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "LA ORACIÓN DE JESÚS",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Si Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jesús y sus discípulos amados",
+        "Fueron al huerto de Getsemaní.",
+        "Allí pidió de Dios la fortaleza",
+        "Para cumplir su santa voluntad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cristo el Señor les exhortó:",
+        "\"Velad y orad para vencer el mal. \"",
+        "Siempre hay poder en la oración",
+        "Para vencer las obras de Satán.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Jesús pidió con gran dolor y angustia",
+        "La fortaleza de su Padre Dios.",
+        "Y fue tan grande ésta, su agonía",
+        "Que por la frente sangre le brotó.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Los seguidores del divino maestro",
+        "Durmieron con cansancio y confusión.",
+        "\"¿Orar no pueden ni por una hora?\"",
+        "Con gran dolor Jesús les preguntó.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Cristo nos manda que oremos siempre",
+        "Sin desmayar ni con vacilación.",
+        "A Dios con fe pidamos fortaleza",
+        "Para vencer las trampas de Satán."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Kay Mosoj Watapi",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Kay mosoj watapi, Diosníy, qayllamuyku",
+        "Bendicionniykita mañakususpa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Khuyakuyniykiwan mosoj runa kani.",
+        "Kawsay qowasqaykiwan kusisqa kani./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Qanman chimpamuyku kay kamachisniyki,",
+        "Yanapariwayku Qanta sirvikuyta./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Qanman qayllamuyku kay mosoj p'unchaypi",
+        "Tukuy sonqoykuwan Qanta yupaychaspa./"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "numero": null,
+  "titulo": "Jesusniy Waqaychawan (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Jesús me pastorea, yo voy con El hasta el fin./",
+        "/Yo voy con El, yo voy con El hasta el fin./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/En horas de peligro confío siempre en El.",
+        "/Yo voy con El, doquiera con mi Jesús./"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "numero": null,
+  "titulo": "Cristoj Ladonman Rispa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristoj ladonman rispa,",
+        "Rikunakusun ancha kusiywan.",
+        "Cristoj ladompi kaspa, wiñaypaj",
+        "Kusikusunchej.",
+        "Ñawpariwankiman qan chayqa,",
+        "Suyariwanki jamunaykama.",
+        "Cristoj ladonman rispa, wiñaypaj",
+        "Kusikannisun."
+      ]
+    }
+  ]
+}

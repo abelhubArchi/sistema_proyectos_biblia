@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Jesusnillaymin Librawarqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Jesucristo ya me liberó de toda maldad./",
+        "/Al Señor seguiré, a El mi vida daré por la eternidad./",
+        "/Yo voy a gozar en mi hogar celestial,",
+        "En presencia de Dios./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Con mi vida nueva ¡oh hermanos! yo voy a brillar.",
+        "/Ahora soy nuevo ser, porque Dios me cambió,",
+        "Con su gran poder./",
+        "/Mi anhelo es vivir sólo para mi Dios,",
+        "De este mundo no soy./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Vengan pues, hermanos, alabad a nuestro Señor./",
+        "/No rechaces jamás a nuestro buen Señor,",
+        "Siempre te ama a tí./",
+        "/Amado hermano, nunca tú desmayes",
+        "En la senda de Dios./"
+      ]
+    }
+  ]
+}

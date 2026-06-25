@@ -1,0 +1,77 @@
+{
+  "TE EXALTARÉ, MI DIOS, MI REY": [
+    {
+      "numero": 1,
+      "texto": "Te exaltaré, mi Dios, mi Rey\nY bendeciré tu nombre,\nEternamente y para siempre\nCada día te bendeciré\nY alabaré tu nombre\nEternamente y para siempre\nGrande es Jehová\nY digno de suprema alabanza\nY su grandeza es inescrutable\nCada día te bendeciré",
+      "tipo": "estrofa"
+    }
+  ],
+  "QUIERO CANTAR UNA LINDA CANCIÓN": [
+    {
+      "numero": 1,
+      "texto": "Quiero cantar una linda canción,\nDe un hombre que me transformó;\nQuiero cantar una linda canción\nDe aquel que mi vida cambió."
+    },
+    {
+      "numero": 2,
+      "texto": "Es mi amigo Jesús,\nEs mi amigo más fiel\nÉl es Dios, Él es Rey\nEs amor; es verdad"
+    },
+    {
+      "numero": 3,
+      "texto": "Sólo en Él encontré,\nEsa paz que busqué\nSólo en Él encontré,\nLa felicidad"
+    }
+  ],
+  "A JESUCRISTO VEN SIN TARDAR": [
+    {
+      "numero": 1,
+      "texto": "A Jesucristo /ven sin tardar,\nQue entre nosotros /hoy Él está,\nY te convida /con dulce afán,\nTierno diciendo: /\"Ven\".",
+      "tipo": "estrofa"
+    },
+    {
+      "numero": 2,
+      "texto": "¡Oh, cuan grata /nuestra reunión                                                               Cuando allá Se/ñor, en tu mansión,\nConPgo estemos /en comunión\nGozando eterno /bien!\nPiensa que Él sólo puede colmar",
+      "tipo": "coro"
+    },
+    {
+      "numero": 3,
+      "texto": "Tu triste pecho de gozo y paz;\nY porque anhela tu bienestar,\nVuelve a decirte: \"Ven\".\nSu voz escucha sin vacilar,",
+      "tipo": "estrofa"
+    },
+    {
+      "numero": 4,
+      "texto": "Y grato acepta lo que hoy te da,\nTal vez mañana no habrá lugar,\nNo te detengas, ven.",
+      "tipo": "estrofa"
+    }
+  ],
+  "DEL CULTO EL TIEMPO LLEGA": [
+    {
+      "numero": 1,
+      "texto": "Del culto el tiempo llega, comienza la oración.\nEl alma a Dios se entrega; ¡Silencio y atención!",
+      "tipo": "estrofa"
+    },
+    {
+      "numero": 2,
+      "texto": "Si al santo Dios la mente queremos elevar,\nSilencio reverente habremos de guardar.\n",
+      "tipo": "coro"
+    },
+    {
+      "numero": 3,
+      "texto": "Mil coros celestiales a Dios cantando están,\nA ellos los mortales sus voces unirán.\n",
+      "tipo": "estrofa"
+    },
+    {
+      "numero": 4,
+      "texto": "Alcemos, pues, el alma con santa devoción,\nGozando en dulce calma de Dios la comunión.\n",
+      "tipo": "estrofa"
+    },
+    {
+      "numero": 5,
+      "texto": "La Biblia bendecida, de Dios revelación,\nA meditar convida en nuestra condición.\n",
+      "tipo": "estrofa"
+    },
+    {
+      "numero": 6,
+      "texto": "¡Silencio! que ha llegado del culto la oración.\nDios se halla a nuestro lado: ¡Silencio y devoción!",
+      "tipo": "estrofa"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "TU NOS CREASTE",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "personalizado",
+      "nombre": "C1",
+      "lineas": [
+        "TU NOS CREASTE CON UN PROPOSITO",
+        "PARA TU NOMBRE GLORIFICAR",
+        "Y CADA DIA SOBRE LA TIERRA",
+        "PROCLAMAREMOS TU MAJESTAD",
+        ""
+      ]
+    },
+    {
+      "tipo": "personalizado",
+      "nombre": "C2",
+      "lineas": [
+        "TU NOS CREASTE PARA ALABARTE",
+        "PARA TU GLORIA MANIFESTAR",
+        "Y CADA DIA SOBRE LA TIERRA",
+        "ANUNCIAREMOS TU GRAN BONDAD",
+        ""
+      ]
+    },
+    {
+      "tipo": "personalizado",
+      "nombre": "C3",
+      "lineas": [
+        "QUEREMOS DARTE GLORIA Y HONOR",
+        "QUEREMOS DARTE LA ADORACION",
+        "QUEREMOS EXALTARTE POR SIEMPRE///",
+        "POR SIEMPRE Y SIEMPRE",
+        ""
+      ]
+    },
+    {
+      "tipo": "personalizado",
+      "nombre": "C4",
+      "lineas": [
+        "A TUS PIES  RINDO TODO SEÑOR",
+        "LO QUE TENGO SEÑOR",
+        "Y MI DEVOCION ENTERA",
+        "SOLO A TI TE LA DOY."
+      ]
+    }
+  ]
+}

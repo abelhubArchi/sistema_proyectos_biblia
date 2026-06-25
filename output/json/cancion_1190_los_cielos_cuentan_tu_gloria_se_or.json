@@ -1,0 +1,35 @@
+{
+  "numero": null,
+  "titulo": "LOS CIELOS CUENTAN TU GLORIA SEÑOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "LOS CIELOS CUENTAN TU GLORIA SEÑOR",
+        "EL FIRMAMENTO ANUNCIA TUS OBRAS",
+        "DE DIA Y DE NOCHE ES OIDA SU VOZ",
+        "PROCLAMANDO TU GRANDEZA"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Y YO PROCLAMARE TU GRANDEZA Y TU PODER",
+        "Y ANUNCIARE CON MI VIDA QUE TU ERES EL REY",
+        "Y COMO EL CIELO Y LAS ESTRELLAS",
+        "PORTADOR DE TU GLORIA SERE"
+      ]
+    }
+  ]
+}

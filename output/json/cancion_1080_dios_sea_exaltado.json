@@ -1,0 +1,38 @@
+{
+  "numero": null,
+  "titulo": "DIOS SEA EXALTADO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Dios sea exaltado,",
+        "sus enemigos sean esparcidos.",
+        "Penetrando en el reino de las tinieblas",
+        "con alabanza.",
+        "Subiré a las montañas,",
+        "gritaré a las naciones",
+        "Que el reino de las tinieblas",
+        "está cayendo"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Está cayendo, está cayendo,",
+        "está cayendo, está cayendo",
+        "Ya se ha caído"
+      ]
+    }
+  ]
+}

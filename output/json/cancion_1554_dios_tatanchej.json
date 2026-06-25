@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Dios Tatanchej",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Dios Tatanchej Churinta kachamun./",
+        "/Munakuywan kay mundota salvan./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Jesucristo perdonta qowanchej./",
+        "/Chimpaykuna tukuy juchanchejwan./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Dios Tatanchej tukuy ta wajyashan/",
+        "/Salvanampaj nina larwaymanta./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Kunampacha Jesusman qayllaykuy’",
+        "/Salvacionta ama qhesachaychu./"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "numero": null,
+  "titulo": "Vine a alabar a Dios",
+  "carpeta": "ADORACION",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Vine alabar a dios",
+        "Vine alabar a dios,",
+        "Vine alabar su Nombre",
+        "vine alabar a Dios,",
+        "",
+        "El vino a mi vida",
+        "un día tan especial,",
+        "Cambió mi corazón",
+        "en nuevo corazón"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Esta es la razón",
+        "porque le alabo a Él",
+        "vine alabar a Dios."
+      ]
+    }
+  ]
+}

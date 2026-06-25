@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Uj P’unchay Chayamonqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Pronto viene el Señor, fin de este mundo será.",
+        "A sus santos redimidos, arrebatará con El./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Cuando venga el Señor, hasta las nubes El vendrá.",
+        "A sus santos redimidos, arrebatará con El.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Este mundo es temporal, reina llanto y dolor.",
+        "Cuando estemos en su gloria, hallaremos gozo y paz./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Allí no habrá más dolor, ni más muerte, ni ansiedad.",
+        "Cuando estemos en el cielo, hallaremos gozo y paz./"
+      ]
+    }
+  ]
+}

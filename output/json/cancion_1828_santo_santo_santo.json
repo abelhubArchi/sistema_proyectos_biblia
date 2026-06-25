@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Santo Santo Santo",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Santo, santo, santo, may jiña atiyniyoj,",
+        "Tukuy wawasniyki yupaychasonqanku.",
+        "Santo, santo, santo, Qanllata adorasqayku,",
+        "Kinsa kutí santo, bendecisqa kanki.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Santo, santo, santo, ujchasqa takimuyku",
+        "Tukuy wawasniyki tukuy sonqoykuwan.",
+        "Qori pillusniyoj, kusiywan juntTasqastaj,",
+        "Lliphej tronoykiman takej chimpamuyku.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Santo, santo, santo, may chhikas angelkuna",
+        "Munaynillaykita paykuna ruwanku.",
+        "Qonqorikamunku Iliphej k’anchaymykipi",
+        "Qan karqankipuni, kunan, wiñaypajpis.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Santo, santo, santo, may jatun kayniykeqa,",
+        "Ruwasqasniykeqa cielopi jallp’api.",
+        "Santo, santo, santo, tukuy yupaychasuyku",
+        "Kinsa kuti, santo, bendecisqa kanki."
+      ]
+    }
+  ]
+}

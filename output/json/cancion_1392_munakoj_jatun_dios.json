@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "Munakoj Jatun Dios",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Munakoj jatun Dios Tatáy,",
+        "Qanllaman qayllaykamuyki.",
+        "Juchasniywan chimpamuyki;",
+        "Perdonaway juchasniyta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Khuyarikuway, Tatáy,",
+        "Qanllaman qayllaykamuyki.",
+        "/Sumaj k'anchaj ñanniykita",
+        "Kusisqalla ríy munani./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Janaj pacha llajtaykiman",
+        "Pusawayku, Dios Tatayku,",
+        "Qanta yupaychanaykupaj.",
+        "Janaj pacha llajtaykipi.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Munakoj jatun Dios Tatáy,",
+        "Imawantaj junt’asqayku?",
+        "Runasrayku wañorqanki",
+        "May jinata ñak'arispa."
+      ]
+    }
+  ]
+}

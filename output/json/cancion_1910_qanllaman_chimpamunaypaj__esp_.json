@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Qanllaman Chimpamunaypaj (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Nuestras vidas consagrar a Tí, ayúdanos, oh Señor.",
+        "Cuanto anhelamos servirte a Tí, concédenos tu poder.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Vivir quiero sólo para Tí, seguirte de corazón.",
+        "Según tu Palabra, La Verdad, anhelo servirte a Tí.",
+        "Ayúdame, oh Señor, Ayúdame, oh Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/El tiempo es oportuno. Señor, ¿cuántos podrán salvarse?",
+        "Ningún otro puede salvarme, sólo Cristo mi Señor./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Si tu esperas hasta mañana, te será muy tarde ya.",
+        "Irás a un destino muy fatal. Acude hoy mismo a Jesús./"
+      ]
+    }
+  ]
+}

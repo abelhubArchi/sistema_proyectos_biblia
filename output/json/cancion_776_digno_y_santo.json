@@ -1,0 +1,42 @@
+{
+  "numero": null,
+  "titulo": "Digno y Santo",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "//Digno es el cordero Santo, santo, santo es el",
+        "levantamos nuestras alabanza al que en el trono esta//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Santo, santo, santo Dios todopoderoso",
+        "quien fue, quien es y quien vendra",
+        "la creacion te canta y damos gloria a el.",
+        "//tu eres digno por siempre y siempre.//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "//levantamos nuestra alabanza al que en el trono esta//"
+      ]
+    }
+  ]
+}

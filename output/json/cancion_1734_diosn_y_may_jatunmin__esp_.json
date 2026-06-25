@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Diosníy May Jatunmin (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Sin Tí nada somos en el mundo.",
+        "Sin Tí nada podemos hacer.",
+        "/Ni las hojas de los árboles se mueven,",
+        "Si no es con tu poder./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Oh Dios, eres Todopoderoso,",
+        "Por Ti todo podemos hacer.",
+        "/Contra el diablo, contra el mundo y la carne,",
+        "Siempre podemos vencer./"
+      ]
+    }
+  ]
+}

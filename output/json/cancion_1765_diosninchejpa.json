@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "Diosninchejpa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Diosninchejpa Palabranta tarpumunachej,",
+        "Vallesnejpi, orqosnejpi willamunachej./",
+        "/Mana kutirispa, Jesusllata qhaway.",
+        "Rinachej chay ñanninta munakuynimpi./"
+      ]
+    }
+  ]
+}

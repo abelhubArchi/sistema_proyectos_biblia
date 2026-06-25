@@ -1,0 +1,65 @@
+{
+  "numero": null,
+  "titulo": "07 Vine Adorarte",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tú  eres  la  luz",
+        "Que brillo en las tinieblas",
+        "Abrio mis ojos pude ver,",
+        ".",
+        "Mi corazón adora tu hermosura",
+        "Esperanza de mi vida eres tú",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "// Vine adorarte",
+        "Vine a postrarme",
+        "Vine   a decir que eres mi Dios",
+        ".",
+        "Solo tú eres grande",
+        "Solo tú eres digno",
+        "Eres asombroso para mi //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Tú eres el rey",
+        "Grandemente exaltado",
+        "Glorioso por siempre Señor",
+        ".",
+        "El mundo que creaste humilde viniste",
+        "Y pobre te hiciste por Amor",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "////Nunca sabré",
+        "Cuanto costo",
+        "Ver mi maldad",
+        "Sobre esa cruz////"
+      ]
+    }
+  ]
+}

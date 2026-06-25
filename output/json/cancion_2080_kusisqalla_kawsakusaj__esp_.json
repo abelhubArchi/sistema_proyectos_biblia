@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Kusisqalla Kawsakusaj (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Seré feliz al terminar",
+        "Mi día aquí y al cielo entrar.",
+        "No habrá tristeza, sólo belleza,",
+        "Allí do El me ha de llevar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Seré feliz cuando El vendrá,",
+        "Y la victoria El ganará.",
+        "¡Oh cuan precioso! seré dichoso,",
+        "Cuando el Señor Jesús vendrá."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "numero": null,
+  "titulo": "Jesus es mi luz",
+  "carpeta": "ALABANZA",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Jesus es mi luz y salvacion,",
+        "de quien temere,el es mi fortaleza",
+        "cuando se juntaron contra mi",
+        "Mis enemigos, mis angustiadores",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "aunque un ejercito acampe contra mi",
+        "no temera mi corazon",
+        "aunque contra mi se levanten guerras",
+        "yo vivire confiado",
+        "pues una cosa yo,he demando ami Dios esa buscare",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Jesus es mi luz y salvacion,",
+        "de quien temere,el es mi fortaleza",
+        "cuando se juntaron contra mi",
+        "mis enemigos mis angustiadores",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "vivire en su casa todos los dias,de mi existencia",
+        "Contemprar su hermosura,y esconderme bajo el manto",
+        "Señor,señor"
+      ]
+    }
+  ]
+}

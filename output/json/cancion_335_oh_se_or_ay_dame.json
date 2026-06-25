@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "OH SEÑOR AYÚDAME",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¡Oh Señor! ayúdame en mi aflicción.",
+        "Sólo Tú eres mi esperanza; sólo Tú me fortaleces.",
+        "No hay otro Salvador fuera de tí",
+        "Médico que da salud y vida. Tú eres rey de reyes.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cuando andaba así en la oscuridad,",
+        "Oí tu dulce voz diciendo:",
+        "--Ven a mí, te espero.",
+        "¿Con qué te podré devolver tu amor?",
+        "Sólo con servirte a tí",
+        "Hasta que llegue al cielo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¡Oh Señor! ayúdame en mi aflicción.",
+        "Vienen contra mí muchas tristezas, dame la victoria",
+        "Otros no te siguen con fidelidad.",
+        "No me dejes ni me desampares, dame fortaleza.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¡Oh Señor! ayúdame en mi aflicción.",
+        "A tu santo altar yo vengo. Cristo, ruego que me escuches.",
+        "Quiero que mi corazón lo limpies Tú,",
+        "Emblanquéceme como la nieve, ¡oh Dios Padre eterno!"
+      ]
+    }
+  ]
+}

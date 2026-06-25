@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "Diospa Palabranta Tarpusaj (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Sembraré la simiente preciosa",
+        "Del glorioso Evangelio de amor.",
+        "Sembraré, sembraré, mientras viva,",
+        "Dejaré el resultado al Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Sembraré, sembraré,",
+        "Mientras viva simiente de amor.",
+        "Segaré, segaré,",
+        "Al hallarme en la casa de Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Sembraré en corazones sensibles",
+        "La doctrina del Dios de perdón.",
+        "Sembraré, sembraré, mientras viva,",
+        "Dejaré el resultado al Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Sembraré en corazones de mármol",
+        "La bendita Palabra de Dios.",
+        "Sembraré, sembraré, mientras viva,",
+        "Dejaré el resultado al Señor."
+      ]
+    }
+  ]
+}

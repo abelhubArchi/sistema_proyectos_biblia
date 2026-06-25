@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Bibliataqa Leeypuni (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Lee la Biblia para vivir /y obedecer./",
+        "Lee la Biblia para vivir y tu crecerás,",
+        "Y tú crecerás, y tú crecerás.",
+        "Lee la Biblia para vivir y tú crecerás.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cada día debes orar, /orar a Dios./",
+        "Cada día debes orar y tú crecerás.",
+        "Y tú crecerás y tu crecerás.",
+        "Cada día debes orar y tú crecerás."
+      ]
+    }
+  ]
+}

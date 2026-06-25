@@ -1,0 +1,30 @@
+{
+  "numero": null,
+  "titulo": "ME ACERCO AL ALTISIMO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ME ACERCO AL SANTÍSIMO LUGAR,",
+        "CON LIBERTAD ME LLEGO",
+        "RENDIDO ANTE TU ALTAR,",
+        "SU SANGRE DERRAMÓ",
+        "POR MI JESÚS SUFRIÓ,",
+        "VIDA ABUNDANTE  EL ME DIÓ//",
+        "",
+        "OH, LA SANGRE, BELLA SANGRE.",
+        "OH, LA SANGRE DE JESÚS//"
+      ]
+    }
+  ]
+}

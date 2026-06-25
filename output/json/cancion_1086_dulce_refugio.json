@@ -1,0 +1,29 @@
+{
+  "numero": null,
+  "titulo": "DULCE REFUGIO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Dulce refugio en la tormenta",
+        "es Jesucristo el Salvador",
+        "Él me alienta y me alimenta",
+        "con Su Palabra y Su amor",
+        "Vengo a reposar en Él,",
+        "Él es mi amigo fiel",
+        "Una poderosa y fresca unción",
+        "llenará mi corazón"
+      ]
+    }
+  ]
+}

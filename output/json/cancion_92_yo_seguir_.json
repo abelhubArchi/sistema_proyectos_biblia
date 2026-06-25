@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "YO SEGUIRÉ",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "De vida la corona quiero yo ganar,",
+        "Pues hasta terminar mi vida quiero yo luchar;",
+        "Si sigo fiel, Satán vencerme no podrá;",
+        "Si sigo sin temor. Dios la victoria me dará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Yo seguiré, yo seguiré,",
+        "Hasta alcanzar el triunfo yo seguiré;",
+        "Yo seguiré, yo seguiré,",
+        "Hasta alcanzar el triunfo yo seguiré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Si viene Satanás con fuerte oposición,",
+        "Si vienen pruebas o si viene gran persecución,",
+        "Yo sé que con Jesús valor y paz tendré;",
+        "Por fiera que la lucha esté con Cristo triunfaré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Hay para todo fiel corona más allá.",
+        "Do para mi mansión sin par Jesús prepara ya;",
+        "Y de estos bienes nadie me podrá apartar;",
+        "Fiel seguiré yo hasta ver mi celestial hogar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Oh, vamos con amor que brilla como luz,",
+        "Tras la bandera santa con el nombre de Jesús;",
+        "El enemigo de la lid huyendo va,",
+        "Y al cielo tan glorioso Cristo nos invita ya"
+      ]
+    }
+  ]
+}

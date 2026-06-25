@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "DEL CULTO EL TIEMPO LLEGA",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Del culto el tiempo llega, comienza la oración.",
+        "El alma a Dios se entrega; ¡Silencio y atención!",
+        "Si al santo Dios la mente queremos elevar,",
+        "Silencio reverente habremos de guardar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Mil coros celestiales a Dios cantando están,",
+        "A ellos los mortales sus voces unirán.",
+        "Alcemos, pues, el alma con santa devoción,",
+        "Gozando en dulce calma de Dios la comunión.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "La Biblia bendecida, de Dios revelación,",
+        "A meditar convida en nuestra condición.",
+        "¡Silencio! que ha llegado del culto la oración.",
+        "Dios se halla a nuestro lado: ¡Silencio y devoción!"
+      ]
+    }
+  ]
+}

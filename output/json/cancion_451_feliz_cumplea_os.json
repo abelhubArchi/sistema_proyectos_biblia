@@ -1,0 +1,62 @@
+{
+  "numero": null,
+  "titulo": "FELIZ CUMPLEAÑOS",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Feliz cumpleaños",
+        "Oh, hermano mío,",
+        "Te deseamos hoy.",
+        "Todos los hermanos",
+        "Nos regocijamos",
+        "Con el corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Que el Señor te colme,",
+        "De mil bendiciones",
+        "En tu vida, hoy. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Por amor de Cristo",
+        "Cumples otro año;",
+        "Con gran bendición.",
+        "Todos los hermanos",
+        "Te felicitamos,",
+        "Alabando a Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Mi querido hermano",
+        "En este gran día.",
+        "¡Agradece a Dios!",
+        "Porque él te cuida",
+        "De día y noche.",
+        "Con poder y amor."
+      ]
+    }
+  ]
+}

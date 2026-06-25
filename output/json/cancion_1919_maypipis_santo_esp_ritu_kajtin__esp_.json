@@ -1,0 +1,26 @@
+{
+  "numero": null,
+  "titulo": "Maypipis Santo Espíritu Kajtin (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Donde está el Espíritu de Dios, /Hay libertad./",
+        "Donde está el Espíritu de Dios.",
+        "Allí siempre hay libertad. // Libertad,//",
+        "Donde está el Espíritu de Dios,",
+        "Allí siempre hay libertad."
+      ]
+    }
+  ]
+}

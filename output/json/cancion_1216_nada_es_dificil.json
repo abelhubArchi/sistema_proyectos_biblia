@@ -1,0 +1,34 @@
+{
+  "numero": null,
+  "titulo": "NADA ES DIFICIL",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ÉL ES JESÚS QUIEN VENCIÓ EN LA CRUZ",
+        "FUE QUIEN CARGÓ, QUIEN LLEVÓ NUESTRO DOLOR",
+        "JESÚS RESUCITÓ Y POR SU SANGRE, SUS HERIDAS, NOS SANÓ"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "NADA ES DIFICIL PARA DIOS",
+        "TODO ES POSIBLE AL QUE CREE",
+        "HOY LAS MONTAÑAS POR LA FÉ,",
+        "SE MOVERAN POR SU PODER."
+      ]
+    }
+  ]
+}

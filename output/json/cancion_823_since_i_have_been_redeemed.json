@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "Since I Have Been Redeemed",
+  "carpeta": "z Songs Ingles",
+  "tono": null,
+  "compas": null,
+  "autor": "Edwin O. Excell",
+  "compositor": "Edwin O. Excell",
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ".  D             A       D                         A",
+        "I have a song I love to sing, since I have been redeemed;",
+        ".   D            A       D           G      A      D",
+        "Of my Redeemer, Savior, King, since I have been redeemed.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        ".      D             A             G                           D     A      D",
+        "Since I have been redeemed, since I have been redeemed I will glory in His name;",
+        ".      D             A              G           A        D",
+        "Since I have been redeemed, I will glory in my Savior’s name.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        ".  D                 A    D                         A",
+        "I have a Christ Who satisfies, since I have been redeemed;",
+        ".   D              A       D            G      A      D",
+        "To do His will my highest prize, since I have been redeemed.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        ".  D              A          D                          A",
+        "I have a witness bright and clear, since I have been redeemed;",
+        ".   D             A         D           G      A      D",
+        "Dispelling every doubt and fear, since I have been redeemed.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        ".  D              A         D                       A",
+        "I have a home prepared for me, since I have been redeemed;",
+        ".      D              A     D         G      A      D",
+        "Where I shall dwell eternally, since I have been redeemed."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Diospaj Llank'asaj",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Diospa wajyasqanta suyakushani.",
+        "Llank'ayta munaspa Paypa chajrampi.",
+        "Yuyaspa walejta purishasqayta,",
+        "Sumaj wajyasqanta mana uyarispa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Kunan usqhayllata uyarikusaj.",
+        "Mayman pusawajtín rillasajpuni.",
+        "Kallpachawanqataj parlamunaypaj.",
+        "Kawsayniyta qoni wiñaynintímpaj.",
+        "Pay manta willaspa noqa llank'asaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Yachaykunasniypi pisiraj kani,-",
+        "Yacharachinaypaj parlanaypajpis.",
+        "Jatun Dios Tatallay wayjakushawan,",
+        "Munakuyninmanta parlaj rinaypaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Diospa niwasqanta kasunay kashan;",
+        "Dios Tataj templompi, may lugarpipis.",
+        "Tukuy sonqowanmin noqa llank'asaj,",
+        "Chanta saqepusaj Paypa maquinman."
+      ]
+    }
+  ]
+}

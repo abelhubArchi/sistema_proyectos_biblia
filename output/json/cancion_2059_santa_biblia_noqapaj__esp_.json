@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "Santa Biblia Noqapaj (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Santa Biblia para mí, eres un tesoro aquí.",
+        "Tú contienes con verdad la divina voluntad.",
+        "Tú me dices lo que soy, de quién vine y a quién voy.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tú reprendes mi dudar, tú me exhortas sin cesar.",
+        "Eres faro que a mi pie va guiando por la fe.",
+        "A las fuentes del amor, de mi tierno Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Eres infalible voz del Espíritu de Dios,",
+        "Que vigor al alma da, cuando en aflicción está.",
+        "Tú me enseñas a triunfar de la muerte y del pecar."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "numero": null,
+  "titulo": "CUSISITA K'OCHUPJJAÑANI",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tatitojja alajjpachat acapacharuw sarakani.",
+        "Jake quicpar tucusawa jiwas taypiru jutawayi.",
+        "¡Aleluya! ¡Aleluya! ¡Aleluya! ¡Aleluya!",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "¡Cusisita, cusidita!",
+        "K'ochupjjafiáni.",
+        "Khespiyirisaw purini, cusisifiáni.",
+        ":¡Aleluya! ¡Aleluya! (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Má uyuna jan qhitina yákataw Cristojj naciwayi.",
+        "Alajjpach marcat jupajj juti, acapacharu munasin.",
+        "¡Aleluya! ¡Aleluya! ¡Aleluya! ¡Aleluya!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Ovej awatir jakenacajj arumpachawa jutapjje.",
+        "Khespiyirir ufijasajja cusisitawa alabapjje.",
+        "¡Aleluya! ¡Aleluya! ¡Aleluya! ¡Aleluya!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Inti jais toket jaya marcat magonacaw purinipjje.",
+        "Alajjpach marcan wali cusisiñapuniw utjaraqui.",
+        "¡Aleluya! ¡Aleluya! ¡Aleluya! ¡Aleluya!"
+      ]
+    }
+  ]
+}

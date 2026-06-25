@@ -1,0 +1,68 @@
+{
+  "numero": 62,
+  "titulo": "EN LA CRUZ",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Me hirió el pecado, fui a Jesús",
+        "Mostróle mi dolor;",
+        "Perdido, errante, vi su luz,",
+        "Bendíjome en su amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "En la cruz en la cruz do primero vi la luz,",
+        "Y las manchas de mi alma yo lavé;",
+        "Fue allí por fe do vi a Jesús,",
+        "Y siempre feliz con El seré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Sobre una cruz, mi buen Señor,",
+        "Su sangre derramó",
+        "Por este pobre pecador",
+        "A quien así salvó.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Venció la muerte con poder,",
+        "Y al cielo se exaltó;",
+        "Confiar en El es mi placer.",
+        "Morir no temo yo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Aunque El se fue solo no estoy,",
+        "Mandó al Consolador,",
+        "Divino Espíritu, que hoy,",
+        "Me da perfecto amor."
+      ]
+    }
+  ]
+}

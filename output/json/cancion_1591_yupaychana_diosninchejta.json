@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Yupaychana Diosninchejta",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Yupaychana Diosninchejta,",
+        "Paymanta bendición jamun.",
+        "Jallp’a patapi kajkuna",
+        "Cielopipis yupaychasun./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Dios Tatata yupaychana,",
+        "Dios Churita yupaychana,",
+        "Dios Santo Espiritutapis.",
+        "Kinsantínta yupaychana./"
+      ]
+    }
+  ]
+}

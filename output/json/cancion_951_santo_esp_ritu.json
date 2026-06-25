@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "SANTO ESPÍRITU",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Santo Espíritu, que moras",
+        "Y obras en mi corazón,",
+        "Mis talentos consagrados",
+        "Pongo a tu disposición.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Santo Espíritu divino,",
+        "Ven posee hoy mi ser;",
+        "Tú, dirige, tú domina,",
+        "En mi vida haz tu placer. Amén.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¡Cuan preciosa es tu morada!",
+        "¡Tierno y dulce es tu amor!",
+        "Y mi vida es dedicada",
+        "A servir sólo al Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Me limpiaste como un templo",
+        "Que tu gracia adornó;",
+        "Toda mi alma enriquece",
+        "Tu presencia que amo yo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Hoy revela en mí tu iglesia,",
+        "Muestra en mí tu gran bondad;",
+        "Quema en mí toda la escoria,",
+        "Haz que viva en santidad."
+      ]
+    }
+  ]
+}

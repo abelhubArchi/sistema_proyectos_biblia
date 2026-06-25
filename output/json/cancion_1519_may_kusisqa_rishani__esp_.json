@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "May Kusisqa Rishani (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "A. Mamani",
+  "compositor": "A. Mamani",
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Con gran gozo voy con Dios, al celeste hogar.",
+        "Yo las almas guiando estoy, a mi Salvador./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Cuanto anhelo ver a Cristo, a mi Salvador.",
+        "En aquél glorioso hogar, yo le cantaré./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Yo me siento muy feliz, con mi Salvador.",
+        "Es mi soberano Rey, en El confiaré./"
+      ]
+    }
+  ]
+}

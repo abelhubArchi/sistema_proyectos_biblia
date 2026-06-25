@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "DIOSAN ALAJJPACH MARCAPA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Dios Awquisajja waquichasquiw",
+        "Má suma uta alajjpachan;",
+        "Tatitur jaysirinacajja",
+        "Uca marcaruw sarjjañáni.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Alajjpach marcarojj janiw",
+        "Juchan jakejj mantcaniti;",
+        "K'oma chuyman jakenacaw,",
+        "Tatitump chic jacañáni.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Diosan alajjpach marcaparu,",
+        "Takenis mantañataquejja;",
+        "Tucuy urcama sarañáni,",
+        "Ñankha jucharus atipfasin.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Diosan alajjpach marcapanjja",
+        "Janiw jachañajj -jtj-jjaniti,",
+        "Llaquisiñasa, jiwañasa;",
+        "Wiñayaw Cristomp cusisiñán.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Diosan alajjpach marcapanjja",
+        "Wiñayataquiw kamañáni,",
+        "Angelanacamp chicaraquiw",
+        "Tatitusar jach'achañáni."
+      ]
+    }
+  ]
+}

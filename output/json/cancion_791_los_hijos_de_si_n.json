@@ -1,0 +1,34 @@
+{
+  "numero": null,
+  "titulo": "Los hijos de Sión",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Los hijos de Sión,se gozan en su Rey",
+        "Alaban su nombre con danzas",
+        "con panderos y arpas,cantan alabanzas",
+        "canta alabanzas a Él",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Aleluya,aleluya,aleluya,amén",
+        "Aleluya,aleluya,aleluya,amén"
+      ]
+    }
+  ]
+}

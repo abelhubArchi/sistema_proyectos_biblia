@@ -1,0 +1,26 @@
+{
+  "numero": null,
+  "titulo": "Kan Perdón Cristoj (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Hay perdón por la sangre de Jesús,",
+        "Hay perdón por su muerte en la cruz.",
+        "Proclamad que hay perdón,",
+        "Para todos hay perdón,",
+        "Los que acuden al Señor Jesús."
+      ]
+    }
+  ]
+}

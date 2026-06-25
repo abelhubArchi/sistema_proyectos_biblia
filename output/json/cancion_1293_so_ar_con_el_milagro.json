@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "SOÑAR CON EL MILAGRO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ME HAS LLAMADO A CONQUISTAR MULTITUDES COMO ESTRELLAS",
+        "AYÚDAME A SOÑAR CON EL MIAGRO",
+        "EN EL MUNDO DE LA FE, UN MILAGRO YO PUEDO TENER",
+        "AYÚDAME A SOÑAR CON EL MILAGRO"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "ENSÉÑAME A CREER EN TI, AYÚDAME A SOÑAR CON EL MILAGRO",
+        "ENSÉÑAME A CONFIAR EN TI, SE MUY BIEN QUE ESTÁS A MI LADO//",
+        "",
+        "NADA ES IMPOSIBLE PARA DIOS, NADA ES IMPOSIBLE PARA EL",
+        "NADA ES IMPOSIBLE PARA DIOS, NADA ES IMPOSIBLE PARA EL"
+      ]
+    }
+  ]
+}

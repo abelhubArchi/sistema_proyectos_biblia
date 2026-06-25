@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "YA VIENE LA RECOMPENSA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Vamos escalando peldaños",
+        "Vamos mirando esa cruz",
+        "Sigamos el camino angosto",
+        "Que con Cristo es mucho mejor (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "personalizado",
+      "nombre": "C2",
+      "lineas": [
+        "Ya viene la recompensa",
+        "Ya no voy a llorar",
+        "Tengo a Cristo en mi vida",
+        "Por eso quiero escalar (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "A veces me siento debil",
+        "Ya no quiero escalar",
+        "Alzo mis manos al cielo",
+        "Viene Cristo y fuerzas me da (Bis)"
+      ]
+    }
+  ]
+}

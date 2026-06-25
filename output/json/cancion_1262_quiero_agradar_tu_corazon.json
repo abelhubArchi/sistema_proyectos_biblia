@@ -1,0 +1,37 @@
+{
+  "numero": null,
+  "titulo": "QUIERO AGRADAR TU CORAZON",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "QUIERO ENTENDER, QUE ES LO QUE MUEVE TU FIEL CORAZÓN",
+        "Y LO QUE ESPERAS DE MÍ BUEN SEÑOR, PARA ENTREGARLO",
+        "QUIERO EXPRESAR, ESAS PALABRAS QUE QUIERES OIR",
+        "Y LA CANCIÓN QUE TE HARA SONREIR, QUIERO ENTONARLA",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "QUIERO AGRADAR, TU CORAZÓN QUIERO ENCONTRAR, ESA CANCIÓN",
+        "DEJANOS EMPEZAR DE NUEVO, Y DESCUBRIR TU CORAZÓN",
+        "PARA DARTE LO QUE ANHELAS EN ADORACIÓN",
+        "SI NOS DEVIAMOS TE PADIMOS, QUE NOS PERMITAS REGRESAR",
+        "A EXPRESARTE NUEVAMENTE, QUE SE TRATA DE TI"
+      ]
+    }
+  ]
+}

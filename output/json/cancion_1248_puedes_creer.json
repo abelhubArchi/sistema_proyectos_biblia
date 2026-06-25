@@ -1,0 +1,28 @@
+{
+  "numero": null,
+  "titulo": "PUEDES CREER",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "//Puedes creer lo que Dios",
+        "ha hecho en mi//",
+        "",
+        "Me salvó, me limpio y me transformó",
+        "Y sobre la roca firme estoy",
+        "",
+        "//Puedes creer lo que Dios ha hecho en mi//"
+      ]
+    }
+  ]
+}

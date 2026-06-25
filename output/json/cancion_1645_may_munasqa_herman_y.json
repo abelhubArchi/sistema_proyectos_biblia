@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "May Munasqa Hermanóy",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "May munasqa hermanóy, Jesusllata qhatina,",
+        "Ama iskayrayaspa, tukuy sonqo qhatina.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Noqa Diosta qhatisaj, qampis qhatinki.",
+        "Tukuyninchej qhatina Jesús Salvadorllata.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Diospa Palabrampeqa Señor Jesús niwanchej,",
+        "\"Noqamin ñanqa kani, verdadtaj, kawsaytaj.\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Qampis ari, kawsaqe, Jesucristopi creey.",
+        "Paynejilata chayanki k’anchaj qori llajtaman."
+      ]
+    }
+  ]
+}

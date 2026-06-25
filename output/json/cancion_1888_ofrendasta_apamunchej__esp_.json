@@ -1,0 +1,32 @@
+{
+  "numero": null,
+  "titulo": "Ofrendasta Apamunchej (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Nuestros himnos elevamos alabándote. Señor",
+        "Y traemos nuestra ofrenda con gran gozo y amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Primer día en la semana separemos para Dios",
+        "Nos promete bendecirnos los que con gozo dan."
+      ]
+    }
+  ]
+}

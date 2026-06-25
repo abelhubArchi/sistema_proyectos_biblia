@@ -1,0 +1,26 @@
+{
+  "numero": null,
+  "titulo": "Ñawpaj llaman Rinachej (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Adelante con valor, sin temor",
+        "Porque \"Dios es amor.\"",
+        "En el amor no hay temor",
+        "Porque el amor echa fuera el temor",
+        "//Porque, \"Dios es amor,\"// Dios es amor."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "numero": null,
+  "titulo": "Iskayrayasqas (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/¿Desanimados? No, no, no.",
+        "¿Desamparados? No, no, no./",
+        "/Las pruebas vienen, las pruebas van.",
+        "Fiando en Cristo, vencerás./",
+        "/Fiando en Cristo/ vencerás./"
+      ]
+    }
+  ]
+}

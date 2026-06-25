@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "Imaraykuchus Dios (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Oh Todo Poderoso Dios,",
+        "Te imploro fuerza y poder.",
+        "Haz tu morada en mi ser,",
+        "Y a toda prueba venceré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/De las pruebas que me vienen,",
+        "Ayúdame a vencer.",
+        "Por tu sendero guíame,",
+        "En tu voluntad andaré./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cuan bondadoso eres. Dios.",
+        "Socórreme en mi dolor.",
+        "Ayúdame a vencer el mal",
+        "Que ya se arraiga en mi ser."
+      ]
+    }
+  ]
+}

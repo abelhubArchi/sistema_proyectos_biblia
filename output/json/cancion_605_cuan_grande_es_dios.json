@@ -1,0 +1,78 @@
+{
+  "numero": null,
+  "titulo": "CUAN GRANDE ES DIOS",
+  "carpeta": "ADORACION",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "El esplendor de un rey",
+        "vestido en majestad",
+        "la Tierra alegre esta",
+        "la tierra alegre esta",
+        "cubierto esta de luz",
+        "vencio la oscuridad",
+        "y tiembla a su voz",
+        "tiembla a su voz"
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cuan Grande es Dios",
+        "cantale cuan grande es Dios",
+        "y todos lo veran cuan grande es Dios",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Día a día El esta",
+        "y el tiempo esta en El",
+        "Principio y el fin",
+        "Principio y el fin",
+        "La trinidad en Dios",
+        "El Padre, Hijo Espiritu",
+        "Cordero y el León",
+        "Cordero y el León",
+        "",
+        "[]",
+        "",
+        "Cuan Grande es Dios",
+        "cantale cuan grande es Dios",
+        "y todos lo veran cuan grande es Dios",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Y tu nombre sobre todo es",
+        "Tu eres digno de alabar",
+        "y mi ser dira",
+        "Cuan Grande es Dios",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Mi Corazon entona la cancion",
+        "//Cuan grande es El//"
+      ]
+    }
+  ]
+}

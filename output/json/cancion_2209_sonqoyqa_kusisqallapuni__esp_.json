@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "Sonqoyqa Kusisqallapuni (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Mi corazón está feliz con Cristo,",
+        "Confío siempre en El.",
+        "/Quién daño alguno podrá hacerme?",
+        "Pues el Señor me guardará./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Ningún temor tendré.",
+        "Jesús es mi Señor.",
+        "/A El me entrego y en su servicio",
+        "Confiadamente seguiré./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Hermosas moradas allá en el cielo",
+        "Dios preparando está.",
+        "/Con Jesucristo iré muy pronto,",
+        "Con El por siempre moraré./"
+      ]
+    }
+  ]
+}

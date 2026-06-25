@@ -1,0 +1,45 @@
+{
+  "numero": null,
+  "titulo": "005 EL DIA DE GRACIA",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ":Se va terminando,  se va terminando.",
+        "El día de gracia",
+        "Se va terminando. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "CORO:",
+        "// Es la luz que alumbra mi vida. //",
+        ":Todos alabemos",
+        "Su bendito nombre. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        ":En la biblia dice:",
+        "Habrá terremotos",
+        "Guerras y hambrunas,",
+        "Por todo el mundo. (bis)"
+      ]
+    }
+  ]
+}

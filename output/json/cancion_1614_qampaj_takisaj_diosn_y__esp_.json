@@ -1,0 +1,43 @@
+{
+  "numero": null,
+  "titulo": "Qampaj Takisaj Diosníy (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "No a los hombres, Jehová, ni a los ídolos,",
+        "Sino a tu nombre doy loor por tu verdad y tu amor.",
+        "Porque la gente exclamará: \"¿Dónde está tu Señor?\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Nuestro Dios está en los cielos, todo lo hizo El.",
+        "De plata son ídolos, o de oro pudieran ser.",
+        "Obra de manos también son, sin vida y sin poder.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Si amas tú a Jehová, alábale a El,",
+        "Porque El es tu ayuda fiel, también tu Consolador.",
+        "Desecha hoy los ídolos, sírvele a Jehová."
+      ]
+    }
+  ]
+}

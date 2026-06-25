@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Pusaway Salvadorníy",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Pusaway, Salvadorníy, cheqan k'anchaj ñanllata",
+        "Qanvvan khuska purejtiy, mana manchikuy kanchu./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Cristo, Cristo, Qanwan khuska purisaj",
+        "Qanllata qhatikuspa atipallasajpuni./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Kay pacha kawsayniypi Qanlla waqaychawanki.",
+        "Cielopi Qanwan khuska wiñaypaj kawsamusaj./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Qanlla Salvajniy kanki sinch’i peligrospipis.",
+        "Tentación jamuwajtin, yanapaway, Señorníy./"
+      ]
+    }
+  ]
+}

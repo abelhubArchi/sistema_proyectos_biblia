@@ -1,0 +1,23 @@
+{
+  "numero": 17,
+  "titulo": "BUSCAMOS HOY TU BENDICIÓN",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Buscamos hoy tu bendición;",
+        "Señor, atiende a nuestra petición. Amén."
+      ]
+    }
+  ]
+}

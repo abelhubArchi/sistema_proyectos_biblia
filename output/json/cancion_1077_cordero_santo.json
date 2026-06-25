@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "CORDERO SANTO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Yo te alabo Padre porque Tú eres bueno",
+        "Porque Tú me has dado Tu verdad",
+        "Declaraste Tu grandeza a mi vida",
+        "y me diste de Tu amor y libertad"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cordero Santo hoy alabo Tu grandeza",
+        "Solo Tú eres digno y hoy te quiero exaltar",
+        "Mi ofrenda a Ti levanto",
+        "y me postro ante tu altar",
+        "Vengo ante Tus pies para adorar"
+      ]
+    }
+  ]
+}

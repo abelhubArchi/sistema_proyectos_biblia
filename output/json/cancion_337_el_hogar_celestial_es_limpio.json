@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "EL HOGAR CELESTIAL ES LIMPIO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En el santo hogar donde vive Dios",
+        "No hay pecado allí, ni iniquidad.",
+        "No podrá entrar ningún pecador,",
+        "Todo puro está delante de Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Al hogar celestial",
+        "Solo entrará",
+        "El que salvo está por Cristo el Señor.",
+        "Busca hoy sin tardar",
+        "Esta salvación.",
+        "Dios con mucho amor te perdonará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "El hogar de Dios santo y limpio está,",
+        "Ni un pecado hay, todo es bondad.",
+        "Hoy prepárate, tu alma limpia esté",
+        "Para ir con Jesús al celeste hogar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¿Por qué sigues tú en pecado vil?",
+        "Arrepiéntete de todo tu mal.",
+        "Cristo con su amor tu mal limpiará",
+        "Y podrás entrar al celeste hogar."
+      ]
+    }
+  ]
+}

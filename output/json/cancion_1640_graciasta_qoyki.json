@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Graciasta Qoyki",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Graciasta qoyki, Diosníy,",
+        "Qan noqata salvawarqanki.",
+        "Pusaway ñanniykipi",
+        "Janaj pachaman, Señor./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Khuyarikuway, Diosníy,",
+        "Tukuy sonqo qhatikunaypaj.",
+        "Ñanniykipi, Oh Señor,",
+        "Purinaypaj, Dios Tatáy./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Yanapariway, Señor,",
+        "Kay juchata saqepunaypaj.",
+        "Tentaciompi kashajtíy,",
+        "Kallpachariway, Diosníy./"
+      ]
+    }
+  ]
+}

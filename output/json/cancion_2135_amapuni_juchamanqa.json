@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "Amapuni Juchamanqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Amapuni Juchamanqa urmaykunachejchu.",
+        "Amaña (aleluya), amaña, arí.",
+        "Amapuni Juchamanqa urmaykunachejchu;",
+        "Qori pilluta cielopi qowasunchej."
+      ]
+    }
+  ]
+}

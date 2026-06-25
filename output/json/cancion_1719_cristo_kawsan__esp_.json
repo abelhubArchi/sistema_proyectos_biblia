@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "Cristo Kawsan (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristo vive. Cristo vive,",
+        "Cristo vive en mí.",
+        "Me consuela su amor, luego quita mi dolor",
+        "Para mí es cielo aquí. Cristo vive."
+      ]
+    }
+  ]
+}

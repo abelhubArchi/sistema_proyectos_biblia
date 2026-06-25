@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "SU YUGO ES FÁCIL",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "He hallado a Cristo y mío es El,",
+        "Mi amor le quiero dar;",
+        "Y sé si yo le sirvo fiel",
+        "Con El podré morar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Su yugo es fácil, su carga yo sé",
+        "Ligera la encontré también;",
+        "Servirle es dulce y fiel le seré,",
+        "Me ha dado todo bien.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Yo sólo sirvo a mi Señor",
+        "En dulce comunión;",
+        "Cual río pleno es su amor",
+        "Hoy en mi corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "A mí, precioso es el Señor,",
+        "En la maldad me halló;",
+        "Por gracia Cristo el amargor",
+        "De mi alma ya quitó.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Los goces de este mundo son",
+        "Completa falsedad;",
+        "Mas Cristo ofrece bendición",
+        "Por toda eternidad."
+      ]
+    }
+  ]
+}

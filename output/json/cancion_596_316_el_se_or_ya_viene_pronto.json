@@ -1,0 +1,32 @@
+{
+  "numero": null,
+  "titulo": "316 EL SEÑOR YA VIENE PRONTO",
+  "carpeta": "04 Poder del Evangelio",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ":El Señor ya viene pronto",
+        "Y tú pueblo   (hermano)",
+        "Ya estás listo. (bis)",
+        "",
+        "CORO",
+        ":Tengo paz, tengo amor,",
+        "Con mi Salvador. (bis)",
+        "",
+        ":Llevaremos su palabra,",
+        "Todos juntos",
+        "Sin ningún temor. (bis)"
+      ]
+    }
+  ]
+}

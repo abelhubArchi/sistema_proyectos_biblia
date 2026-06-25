@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Kutirina Jesusman (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Volveremos a Jesús, al amante Salvador.",
+        "Perdonó El la maldad, con su sangre nos lavó.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Me salvó ya mi Jesús, muriendo en la cruz por mí.",
+        "En su gran y tierno amor, vida eterna El me da./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Volveremos a Jesús, quien nuestras almas amó.",
+        "Vida eterna nos dará, mas tristezas ya no habrán.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Volveremos a Jesús, al Señor el Protector.",
+        "Moraremos pues con El en su patria celestial."
+      ]
+    }
+  ]
+}

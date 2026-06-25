@@ -1,0 +1,54 @@
+{
+  "numero": null,
+  "titulo": "EL EVANGELIO DE PODER",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "El evanagelio de poder",
+        "el mundo debe conoce",
+        "A ti a mi Dios escogio",
+        "Para hablar de su amor",
+        "con su poder él nos envió",
+        "a los perdidos rescatar",
+        "Saquear las almas a satan",
+        "Para el cielo asi poblar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Id por todo el mundo y predicad",
+        "el evangelio a toda criatura",
+        "y quien ira,que por nosotros hablará",
+        "Heme aquí Señor enviame a mi.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Nos eligio para brillar",
+        "Entre tinieblas de maldad",
+        "La sal y luz él nos llamó",
+        "Para este mundo transformar",
+        "Tantos que sufren,por saber",
+        "que a satanas pueden vencer",
+        "y nos manda a predicar",
+        "los campos blancos ya estan."
+      ]
+    }
+  ]
+}

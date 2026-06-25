@@ -1,0 +1,27 @@
+{
+  "numero": null,
+  "titulo": "ES JESUS EL SEÑOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ES JESUS EL SEÑOR QUIEN VENDA LAS HERIDAS",
+        "ES JESUS EL UNGIDO CON OLEO DE ALEGRIA",
+        "ES EL SEÑOR QUIEN CON SU ACEITE",
+        "SANA A LOS QUEBRANTADOS",
+        "LA LIBERTAD EL DA",
+        "DANOS SANIDAD SEÑOR JESUS, SEÑOR JESUS"
+      ]
+    }
+  ]
+}

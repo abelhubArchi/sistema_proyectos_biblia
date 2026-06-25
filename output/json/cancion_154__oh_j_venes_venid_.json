@@ -1,0 +1,81 @@
+{
+  "numero": null,
+  "titulo": "¡OH JÓVENES VENID!",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¡0h! jóvenes, venid, su brillante pabellón,",
+        "Cristo ha desplegado ante la nación.",
+        "A todos en sus filas os quiere recibir,",
+        "Y con El a la pelea os hará salir.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "¡Vamos a Jesús, alistados sin temor!",
+        "¡Vamos a la lid, inflamados de valor!",
+        "Jóvenes, luchemos todos contra el mal;",
+        "En Jesús llevamos nuestro General.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¡Oh! jóvenes venid, el Caudillo Salvador,",
+        "Quiere recibiros en su derredor;",
+        "Con El a la batalla salid sin vacilar,",
+        "Vamos pronto, compañeros vamos a luchar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Las armas invencibles del Jefe guiador,",
+        "Son el evangelio y su grande amor;",
+        "Con ellas revestidos, y llenos de poder,",
+        "Compañeros, acudamos, vamos a vencer.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Los fieros enemigos, engendros de Satán,",
+        "Se hallan sostenidos por su capitán.",
+        "¡Oh! jóvenes, vosotros poneos sin temor",
+        "A la diestra del Caudillo, nuestro Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Quien venga a la pelea, su voz escucharé;",
+        "Cristo la victoria le concederá;",
+        "Salgamos, compañeros, luchemos bien por El;",
+        "Con Jesús conquistaremos inmortal laurel.",
+        "Maravilloso es el amor de dios",
+        "ssss"
+      ]
+    }
+  ]
+}

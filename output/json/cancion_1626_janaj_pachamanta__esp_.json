@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "Janaj Pachamanta (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Una voz del cielo se oye resonar:",
+        "\"Dad la luz, dad la luz.\"",
+        "Muchas almas viven en la oscuridad,",
+        "Dadles luz, dadles luz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Dadles luz., la santa y pura luz",
+        "De Jesús, el Salvador;",
+        "Dadles luz, la santa y pura luz.",
+        "Enviad con fiel amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Escuchad la voz que dice sin cesar:",
+        "\"Dad la luz, dad la luz.\"",
+        "La misión cumplamos que el Señor nos da,",
+        "Demos luz, demos luz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Haz Señor, que siempre, siempre por doquier",
+        "Demos luz, demos luz;",
+        "Que este mundo nuestras vidas puedan ver,",
+        "Demos luz, demos luz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Cual antorchas vivas vamos con fervor",
+        "Dando luz, dando luz.",
+        "Que saquemos almas fuera de su error",
+        "A la luz, a la luz."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "numero": null,
+  "titulo": "Munakuypi Kawsanachej (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Entre todos los hermanos siempre reine el amor./",
+        "/Los unos con los otros vivamos en amor de Dios./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/También a los forasteros hospedemos con amor./",
+        "/En la Biblia Dios dice: \"Hagamos siempre con amor.\"/",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/A los pobres y a los ricos los tratemos con amor./",
+        "/Quiere Dios que vivamos entre los suyos en amor./"
+      ]
+    }
+  ]
+}

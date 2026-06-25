@@ -1,0 +1,31 @@
+{
+  "numero": null,
+  "titulo": "AUNQUE UN EJERCITO ACAMPE CONTRA MI",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Aunque un ejercito acampe contra mi,",
+        "no temeré",
+        "Aunque mi corazón estremecido esté",
+        "en ti confiare",
+        "No temeré a diez mil gente",
+        "Que hagan sitio contra mi.",
+        "Aunque la tierra se estremezca",
+        "Mi salvación esta en Ti",
+        "Porque Tu eres mi  escudo, Tu mi fortaleza.",
+        "Tu eres mi gloria, El que levanta mi cabeza."
+      ]
+    }
+  ]
+}

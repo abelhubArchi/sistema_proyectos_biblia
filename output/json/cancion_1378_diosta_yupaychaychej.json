@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Diosta Yupaychaychej",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Diosta yupaychaychej Jesús Salvajninchejta,",
+        "Jatun k'anchayninwan wawasninman jamonqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Kutimunan qayllaña,",
+        "/Jesus\\vanqa kusiyilapi kawsasun./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Señorqa jamonqa salvasqa wawasninman.",
+        "Cielopi Jesuswan wiñaypaj kawsamusun.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Reyninchej jamojtin kay pacha khatatenqa.",
+        "Listos suyanachej coronatajap'isun."
+      ]
+    }
+  ]
+}

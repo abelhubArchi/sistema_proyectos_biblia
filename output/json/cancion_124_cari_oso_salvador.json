@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "CARIÑOSO SALVADOR",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cariñoso Salvador, huyo de la tempestad",
+        "A tu seno protector, fiándome de tu bondad,",
+        "Sálvame, Señor Jesús, de las olas del turbión.",
+        "Hasta el puerto de salud guía mi pobre embarcación.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Otro asilo ninguno hay; indefenso acudo a ti;",
+        "Mi necesidad me trae, porque mi peligro vi.",
+        "Solamente en ti, Señor, puedo hallar consuelo y luz;",
+        "Vengo lleno de temor a los pies de mi Jesús.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cristo encuentro todo en tí, y no necesito más;",
+        "Caído, me pusiste en pie; débil, ánimo me das;",
+        "Al enfermo das salud, das la vista al que no ve;",
+        "Con amor y gratitud tu bondad ensalzaré."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "numero": null,
+  "titulo": "Cristo Salvadorniypa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Por su senda marcharé, de Jesús mi Salvador,",
+        "Con profundo amor.",
+        "El su protección me da y también su gran amor:",
+        "Gozo tengo ya.",
+        "/Iba tan perdido yo, su llamado mi alma oyó;",
+        "El ya me salvó./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¿A quién yo tendré temor, si voy con mi Salvador?",
+        "¡Qué seguridad!",
+        "Mis tristezas ya quitó. El vive en mi corazón.",
+        "Si, salvado soy.",
+        "/Buenas Nuevas yo daré, para siempre cantaré,",
+        "Por mi libertad./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Si tú puedes ya pensar, por la senda a marchar,",
+        "Parte ya tendrás.",
+        "Pues tus culpas en la cruz. Cristo por amor llevó;",
+        "Acéptale hoy.",
+        "/Te dará felicidad, gozo, paz y libertad;",
+        "No esperes más./"
+      ]
+    }
+  ]
+}

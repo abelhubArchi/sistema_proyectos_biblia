@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "batalla no es batalla",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "batalla no es batalla",
+        "sino vienen las pruebas",
+        "sino vienen las pruebas",
+        "batalla no es batalla",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "tu ganaras la batalla",
+        "yo ganare la batalla",
+        "nosotros ganaremos la batalla",
+        "para la nueva Jerusalem",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "A que tu te vas y yo tambien",
+        "A que tu te vas y yo tambien",
+        "A que tu te vas y yo tambien",
+        "para la nueva jerusalem"
+      ]
+    }
+  ]
+}

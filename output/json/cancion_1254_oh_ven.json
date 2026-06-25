@@ -1,0 +1,27 @@
+{
+  "numero": null,
+  "titulo": "OH VEN",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "OH, VEN, VEN Y DELÉITATE",
+        "EN EL SEÑOR, Y EL TE CONCEDERÁ,",
+        "LAS PETICIONES DE TU CORAZÓN.",
+        "",
+        "CONFÍA SÓLO EN EL, Y EL TE DARÁ",
+        "ESPERA SÓLO EN ÉL, Y ÉL HARÁ."
+      ]
+    }
+  ]
+}

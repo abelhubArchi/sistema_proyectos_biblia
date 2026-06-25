@@ -1,0 +1,38 @@
+{
+  "numero": null,
+  "titulo": "TENGO HAMBRE DE TI",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Por un momento en tu presencia",
+        "por un instante de tu amor,",
+        "por un destello de tu gloria",
+        "Por un minuto nada más",
+        "Todo daría, no importaría,",
+        "lo que tenga que pasar,",
+        "lo que tenga que esperar."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tengo hambre de ti, de tu presencia",
+        "de tu fragancia, de tu poder.",
+        "Hambre que duele, que debilita,",
+        "que desespera por ti"
+      ]
+    }
+  ]
+}

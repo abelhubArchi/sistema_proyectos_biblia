@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "Señorniypata Thaskisqanta",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "F. Paredes",
+  "compositor": "F. Paredes",
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Señorniypata thaskisqanta risaj,",
+        "Mayta munani Pay jiña kayta.",
+        "Llamp’u sonqoyojta Pay ruwawanqa",
+        "Payman takisaj ancha kusiywan.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "May kusiymin pureyqa Jesusniyta qhatispa.",
+        "Paypa k'anchampi Paywan purisaj.",
+        "May kusiymin pureyqa Jesusniyta qhatispa",
+        "Paypa k'anchampi.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Supay urmachiwayta munajtenqa,",
+        "Astawan qayllaykuni Jesusman.",
+        "Munasqa Salvawajniypi confíasaj.",
+        "Payman takisaj ancha kusiywan.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Yachachiwajniy Jesusta qhatísaj,",
+        "Cielokamapis Payllawan risaj.",
+        "Ña rikusajna cielopi Reyniyta;",
+        "Paywan wiñaypaj samarikusaj."
+      ]
+    }
+  ]
+}

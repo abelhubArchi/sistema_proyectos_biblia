@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "ESTAD POR CRISTO FIRMES",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¡Estad por Cristo firmes, soldados de la cruz!",
+        "Alzad hoy la bandera en nombre de Jesús.",
+        "Es vuestra la victoria con El por Capitán;",
+        "Por él serán vencidas las huestes de Satán.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¡Estad por Cristo firmes! os llama a la lid;",
+        "¡Con El, pues a la lucha, soldados todos id!",
+        "Probad que sois valientes, luchando contra el mal;",
+        "Es fuerte el enemigo, mas Cristo es sin igual.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¡Estad por Cristo firmes! las fuerzas son de El;",
+        "El brazo de los hombres es débil y es infiel.",
+        "Vestios la armadura; velad en oración;",
+        "Deberes y peligros demandan gran tesón."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Cristomanta Yacháy Munani (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Yo quiero más y más de Cristo;",
+        "Yo quiero más de Su poder.",
+        "Yo quiero más de Su presencia;",
+        "Yo quiero más y más de El.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "El quiere más y más de mí fe,",
+        "El quiere más de mi amor.",
+        "El quiere todo lo que tengo",
+        "El quiere todo lo que soy."
+      ]
+    }
+  ]
+}

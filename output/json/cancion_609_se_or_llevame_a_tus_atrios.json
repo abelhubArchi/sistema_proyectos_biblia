@@ -1,0 +1,66 @@
+{
+  "numero": null,
+  "titulo": "SEÑOR LLEVAME A TUS ATRIOS",
+  "carpeta": "ADORACION",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "transición",
+      "lineas": [
+        "*"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Señor llévame a tus atrios",
+        "Al lugar Santo,",
+        "al altar de bronce",
+        "Señor tu rostro quiero ver.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Pásame en la muchedumbre",
+        "Por dónde el sacerdote canta.",
+        "Tengo hambre y sed de justicia",
+        "Y sólo encuentro un lugar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Llévame al lugar Santísimo",
+        "Por la sangre del cordero redentor.",
+        "Llévame al lugar Santísimo",
+        "Tócame límpiame, heme aquí.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "// Llévame al lugar Santísimo",
+        "Por la sangre del cordero redentor.",
+        "Llévame al lugar Santísimo",
+        "Tócame límpiame, heme aquí. //",
+        ".",
+        "// Tócame límpiame, heme aquí. //"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Levantamos un clamor",
+        "Por sanidad y redención.",
+        "",
+        "Muéstranos lo que tu ves",
+        "Los secretos de tu corazón",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Un pueblo unido pide hoy",
+        "Tu libertad y salvación.",
+        "",
+        "Ármanos con tu valor",
+        "Lo que deseamos es revolución",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Que el cielo se parta en dos",
+        "Inúndanos.",
+        "",
+        "En el desierto broten ríos",
+        "Vida sopla hoy",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "// Hossana al Rey de Salvación",
+        "Hossana al Dios Altísimo.",
+        "",
+        "Hossana",
+        "Jesucristo, Jesucristo es Rey. //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Hossana, Hossana, Hossana al Rey. ////",
+        "",
+        "// Hossana al Rey de Salvación.",
+        "Hossana al Dios Altísimo",
+        "Hossana",
+        "Jesucristo, Jesucristo es Rey. //"
+      ]
+    }
+  ]
+}

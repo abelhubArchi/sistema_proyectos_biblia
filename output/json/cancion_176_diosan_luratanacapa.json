@@ -1,0 +1,61 @@
+{
+  "numero": null,
+  "titulo": "DIOSAN LURATANACAPA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Luratanacam uñtasajj arojjajj janiw utjquiti",
+        "Jach'a Dios Awquejja;",
+        "Alajjpachas acapachas musphayituw nayarojja",
+        "Muñasir Awquejja;",
+        "Acapachajj Jumanquiwa juman luratawa.",
+        "Alajjpachas Jumanquiwa juman luratawa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "¿Cuna asquirac jakesti amtasiñamatac?",
+        "Munat Wawam catuyasta naya juchan laycu.(Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Alajjpach parqui uñtasajj phajjsimajj musphayituwa",
+        "Suma Dios Awquejja;",
+        "Intis, warawaranacas luratam yatiyasipqui",
+        "Kollan Dios Awquejja;",
+        "¡Cunja jach'as sutimajja take acapachan!",
+        "¡Cunja sumas luratamajj take jaketaqui!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Nayasti acapachana luratanacam uñjasajj",
+        "Jumar arcan munta;",
+        "Marcamar puriñajjcama yanapt'itay Dios Awquejja",
+        "Juman wawamátwa;",
+        "Amtasiyitay Awquejja kollan sutimata.",
+        "Yatichasitay Awquejja arunacamata."
+      ]
+    }
+  ]
+}

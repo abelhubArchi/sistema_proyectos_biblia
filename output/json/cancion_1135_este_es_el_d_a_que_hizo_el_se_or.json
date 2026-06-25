@@ -1,0 +1,26 @@
+{
+  "numero": null,
+  "titulo": "ESTE ES EL DÍA QUE HIZO EL SEÑOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ESTE ES EL DÍA QUE HIZO EL SEÑOR,",
+        "ME GOZARÉ ME ALEGRARÉ EN ÉL! /",
+        "",
+        "GOZÁOS EN EL SEÑOR",
+        "PUES ÉL ES DIGNO DE ALABAR//"
+      ]
+    }
+  ]
+}

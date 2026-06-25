@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "Al Rey de los Siglos",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Al Rey de los siglos, al Inmortal,",
+        "al Invisible, al Único Dios",
+        "Sea todo honor y toda gloria,",
+        "por los siglos, de los siglos, amén."
+      ]
+    }
+  ]
+}

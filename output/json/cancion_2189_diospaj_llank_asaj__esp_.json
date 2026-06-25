@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Diospaj Llank'asaj (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Esperando estaba del Señor su voz",
+        "Para que me envíe hoy a trabajar.",
+        "Mientras ocupado, sin pensar en Dios,",
+        "Ese llamamiento no escuchaba yo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Muy de prisa ahora quiero obedecer,",
+        "Donde El me lleve yo le seguiré.",
+        "Me dará la fuerza para predicar",
+        "El mensaje hermoso de la salvación.",
+        "Mi vida entrego por la eternidad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Pocos dones tengo para ofrecer",
+        "Enseñando a otros y poder hablar.",
+        "Cuan bueno es mi Padre que me llama El.",
+        "Quiere utilizarme en testificar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Todos los mandatos que habré de cumplir",
+        "Sea en el templo o en cualquier lugar.",
+        "Quiero hacerlo siempre con sinceridad;",
+        "Cristo el resultado lo bendecirá."
+      ]
+    }
+  ]
+}

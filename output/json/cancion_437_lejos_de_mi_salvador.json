@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "LEJOS DE MI SALVADOR",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Salvador Jesús, lejos de ti,",
+        "Angustiado, triste andaba yo;",
+        "Caminando en mucha corrupción",
+        "Me salvaste de toda maldad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Te agradezco, oh mi Salvador,",
+        "Por salvarme de toda maldad;",
+        "Solo a ti con fe te serviré,",
+        "Hasta el día en que te veré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Salvador Jesús, lejos de ti,",
+        "En poder de Satanás vagué;",
+        "Mas, oh Cristo, con tu gran poder,",
+        "Me libraste de la esclavitud.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Salvador Jesús, lejos de ti,",
+        "Yo andaba sin seguridad}",
+        "Mas. oh Cristo, por tu gran bondad,",
+        "Me salvaste de la vanidad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Salvador Jesús, lejos de ti,",
+        "Tan perdido y errante fui;",
+        "Pero Cristo por tu gran amor.",
+        "Me libraste de la perdición."
+      ]
+    }
+  ]
+}

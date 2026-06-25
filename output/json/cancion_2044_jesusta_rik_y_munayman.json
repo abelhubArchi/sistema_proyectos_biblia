@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Jesusta Rikúy Munayman",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jesusta rikúy munayman. Imaynataj kanmanri?",
+        "Uj p'unchaytaj kusikuypi; almayqa qhawarenqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Rejsimusaj uyamanta Pay kikinta cielopi,",
+        "Rejsimusaj cielopiraj munakoj Jesusniyta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Payta ni rikunirajchu, kay pacha ñawisniywan;",
+        "Jaqayjamoj p'unchaypiraj, Paytaqa rikurisaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Noqa chaypi kusikusaj, uyanta qhawarispa;",
+        "Tukuy imata saqespa, taripaj Payta risaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Máy sumajchus kawsay kanqa Paywanjanaj pachapi.",
+        "Almasninchejta salvajpa uyanta rejsimusaj."
+      ]
+    }
+  ]
+}

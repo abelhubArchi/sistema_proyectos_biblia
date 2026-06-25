@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "May Kusisqas Jaku",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "May kusisqasjaku, hermanos, janaj pachaman.",
+        "Waj kawsaqestapis pusaspa Señor Jesusman.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Chimpaykunachej Señor Jesusman.",
+        "Paymanta kallpata mañaspa ñawpajman riña./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "May kusisqa noqa kashani Khuyakojniywan.",
+        "Paylla jatun Khuyakojneyqa, Paypi yuyani.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Supay pantachej jamojtenqa, Diosniy noqawan.",
+        "Payqa k'anchashawanchejpuni tukuyninchejta."
+      ]
+    }
+  ]
+}

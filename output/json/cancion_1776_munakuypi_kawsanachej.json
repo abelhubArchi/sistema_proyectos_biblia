@@ -1,0 +1,41 @@
+{
+  "numero": null,
+  "titulo": "Munakuypi Kawsanachej",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Munakuypi kawsanachej Diospa creej wawasnin./",
+        "/Ujkuna ujkunawan munakuypi kawsanachej./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Forasteros kajkunata wajyarina wasiman./",
+        "/Chaytamin Diosqa muñan munakuywan ruwanata7",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Wajchatapis, qhapajtapis munakuywan qhawana./",
+        "/Chaytamin Diosqa muñan munakuywan rikunta./"
+      ]
+    }
+  ]
+}

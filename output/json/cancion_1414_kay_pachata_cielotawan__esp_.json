@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "Kay Pachata Cielotawan (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Hoy es día de reposo,",
+        "Alabemos pues a Cristo.",
+        "Por seis días trabajamos,",
+        "Al Señor hoy adoremos.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Hoy es día de reposo,",
+        "Día Santo de alabanza.",
+        "Al Señor hoy adoremos",
+        "En la Iglesia y dondequiera./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "En seis días de trabajo",
+        "Nos sentimos fatigados;",
+        "Hoy con gozo alabemos",
+        "Al bendito Jesucristo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Al Señor amante y tierno,",
+        "Alabemos con canciones.",
+        "Elevemos nuestras voces",
+        "Al divino Jesucristo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Nuestra vida en esta tierra",
+        "Necesita su ayuda;",
+        "Nos da paz y amor profundo",
+        "Y nos guía su presencia."
+      ]
+    }
+  ]
+}

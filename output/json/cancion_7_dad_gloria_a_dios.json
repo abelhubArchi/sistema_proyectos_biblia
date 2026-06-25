@@ -1,0 +1,70 @@
+{
+  "numero": 7,
+  "titulo": "DAD GLORIA A DIOS",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Dad gloria a Dios que del pecado",
+        "El nos libertó;",
+        "Y por los siglos sea loado",
+        "Quien por nos murió.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Decid la historia,",
+        "Y dad la gloria",
+        "A Cristo quien su sangre dio,",
+        "Y del pecado nos limpió;",
+        "Aun cuando el mundo ya no exista",
+        "Dad gloria al Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Dad gloria a Dios que nos ha dado",
+        "Plena salvación,",
+        "Y de su Espíritu llenado",
+        "Nuestro corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Dad gloria a Dios porque su iglesia",
+        "Siempre triunfará;",
+        "Y por su gracia y su pureza",
+        "El mal vencerá.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Dad gloria a Dios que aun la muerte",
+        "No nos causa horror;",
+        "La luz de Dios disipa nieblas,",
+        "Y nos da valor."
+      ]
+    }
+  ]
+}

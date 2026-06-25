@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Pusaway Salvadorníy (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Guíame, Oh Salvador, por tu senda de verdad.",
+        "A Tu lado no hay temor, sólo hay paz y quietud./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Cristo, Cristo no me dejes, Oh Señor.",
+        "Siendo Tú mi Guía, fiel seré mas que vencedor./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/No me dejes, oh Señor, mientras en el mundo esté,",
+        "Y haz que arriba sin temor do feliz habitaré./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Sé de mi alma salvación en la ruda tempestad.",
+        "Al venir la tentación, dame ayuda por piedad./"
+      ]
+    }
+  ]
+}

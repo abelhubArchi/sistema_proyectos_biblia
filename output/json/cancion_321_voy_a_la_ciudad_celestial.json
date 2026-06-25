@@ -1,0 +1,67 @@
+{
+  "numero": null,
+  "titulo": "VOY A LA CIUDAD CELESTIAL",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Ninguno hay que pueda apartarme",
+        "Del gran amor de Dios.",
+        "Junto a los que aman a Cristo",
+        "Yo quiero siempre estar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Voy a la mansión gloriosa,",
+        "Estaré allí con Cristo",
+        "Por la eternidad. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Miles de ángeles en el cielo",
+        "Alaban al Señor.",
+        "Con estos ángeles celestiales",
+        "Quiero cantar a Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Los planes de Satán, el maligno.",
+        "Son vanos, sin poder.",
+        "Pues no tendré temor de la muerte",
+        "Ni de ningún dolor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Ninguno hay que pueda dañarme.",
+        "Feliz estoy con Dios.",
+        "El va conmigo, nunca estoy solo,",
+        "Y siempre me guiará."
+      ]
+    }
+  ]
+}

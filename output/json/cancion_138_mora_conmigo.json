@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "MORA CONMIGO",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Del alma el sol, mi Salvador,",
+        "Jamás hay noche en donde estás;",
+        "Que no me impida aquí. Señor,",
+        "Terrena nube ver tu faz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Que yo mis ojos al cerrar",
+        "En blando sueño arrobador,",
+        "¡Cuan dulce! diga, es descansar",
+        "Siempre en tu seno, mi Señor."
+      ]
+    }
+  ]
+}

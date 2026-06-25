@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "HE DECIDIDO SEGUIR A CRISTO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "HE DECIDIDO SEGUIR A CRISTO,",
+        "HE DECIDIDO SEGUIR A CRISTO",
+        "",
+        "HE DECIDIDO SEGUIR A CRISTO,",
+        "NO VUELVO ATRÁS, NO VUELVO ATRÁS",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "ATRÁS EL MUNDO, LA CRUZ DELANTE;",
+        "ATRÁS EL MUNDO, LA CRUZ DELANTE",
+        "",
+        "ATRÁS EL MUNDO, LA CRUZ DELANTE,",
+        "NO VUELVO ATRÁS, NO VUELVO ATRÁS",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "HE DECIDIDO SEGUIR A CRISTO,",
+        "HE DECIDIDO SEGUIR A CRISTO",
+        "",
+        "HE DECIDIDO SEGUIR A CRISTO,",
+        "NO VUELVO ATRÁS, NO VUELVO ATRÁS"
+      ]
+    }
+  ]
+}

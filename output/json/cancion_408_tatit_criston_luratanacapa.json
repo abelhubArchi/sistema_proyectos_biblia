@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "TATIT CRISTON LURATANACAPA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Suma Tatit Cristo Judea marcanwa,",
+        "Luratanacamjja jumajj ufiachfayta;",
+        "Milagronac lurta jach'a ch'amamampi,",
+        "Munasifi chuymampiw yanapfaractajja.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Jumajj Tatit Cristo, take ch'amani'taw.",
+        "Munasifiamasa jan tucusquiriwa;",
+        "Uca ch'amamampi yanapfasipjjeta,",
+        "Llaquinac taypitsa waysfasipjjetaya.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Suchunacarusa jumajj sartaytawa,",
+        "Amutunacarus arsuyaractawa,",
+        "Juyqhunacarusa uñatataytawa,",
+        "Jiwatanacarus jumajj jactaytawa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Llaquitanacarus chuymacharactawa,",
+        "Munasiñamampi suma Tatit Cristo;",
+        "Juchaninacarus perdonaractawa,",
+        "Chuymanacaparu cusisiñ churasa."
+      ]
+    }
+  ]
+}

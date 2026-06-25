@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "JUMAWA KHESPIYASISTA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Juniawa khespiyasista",
+        "Take chuymampiw arcáma;",
+        ":Yanfanacasa jutpana",
+        "Jumaruquiwa arcáma. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Arumaruw confiasta,",
+        "Jacafi churirítap laycu;",
+        ":Jac'ajjancamay Dios Tata,",
+        "Janiquiy antutistati. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cristojj laycojja fakhesíw",
+        "Jupjjatjja parlaraquiwa.",
+        ":Cristow nayar irpasquitu,",
+        "Suma munasiñapampi. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Cruzajj apfataw arcáma,",
+        "Juman cheka thaquimana.",
+        ":Jumamp chicfataw nayajja,",
+        "Jiwafiarus puriñ munta. (Bis)"
+      ]
+    }
+  ]
+}

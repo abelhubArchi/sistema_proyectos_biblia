@@ -1,0 +1,63 @@
+{
+  "numero": null,
+  "titulo": "Cristoj Santa Iglesianqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Cristoj Santa Iglesianqa purenqa",
+        "Kusiy munakuywan kawsaspa,",
+        "Yupaychaspa Señoría./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Jatariy... Iglesia...",
+        "Cristopis jamonqaña",
+        "Phuyus chawpipi Payqa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Mashkha runas puñushanku misk'ita.",
+        "Rijch’arina, Señor jamonqa.",
+        "Hermanos, qhawanachej./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Ashkha kanku juchasapa runasqa,",
+        "Misk'i puñuywan atipasqa,",
+        "Ni suyankuchu Payta./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Chay Espíritu Santotaj yanapan.",
+        "Pichus munanku, chaykunaman",
+        "Llimphu kawsayta Pay qon./"
+      ]
+    }
+  ]
+}

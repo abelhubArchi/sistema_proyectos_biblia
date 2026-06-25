@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "Noqa Creeni Jesuspi",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Noqa creeni Jesuspi, salvoña kani.",
+        "Cruzpi wañuyninraykutaj Diosman rishani.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cristo/ yawarnin, cruzpi wañuynin",
+        "Juchasniymanta mayllawan;",
+        "Wiñay kawsayta qowan.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Juchasneyqa mayllasqaña, Paypi creejtíy.",
+        "Salvacionniy tukusqaña, Payta qhawajtiy.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jesucristo Salvajneyqa, Pay munakuwan.",
+        "Jesucristo k’anchajneyqa, khuyakojniytaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Payman qayllaykojkunata, ni qhesachanchu.",
+        "Aswantaqa juchamanta salvayta muñan."
+      ]
+    }
+  ]
+}

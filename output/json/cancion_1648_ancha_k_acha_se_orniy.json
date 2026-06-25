@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "Ancha K’acha Señorniy",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Ancha k'acha Señorniy, munakuwaj Señorniy,",
+        "Khuyakuwaj Señorniy, tukuypa Diosnin./",
+        "Sonqoy ukhupi, sonqoy ukhupi",
+        "Waqaychani niwasqaykita.",
+        "Amaña ari juchallisajchu",
+        "Jatun Diosniypa contrampeqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Ancha k’acha Señorniy, munakuwaj Señorniy,",
+        "Ancha jatun atíynin tukuy atipan./",
+        "Atiynikiwan, atiyniykiwan,",
+        "Atipachiway juchasniyta.",
+        "Palabraykita willaramusaj",
+        "Kay mundontimpi runasmanqa."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "Cristo Noqawan Kashan",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Cristo noqawan kashan,/",
+        "Cristo noqawan, Cristo noqawan,",
+        "Cristo noqawan kashan.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Payllamin salvawarqa./",
+        "Salvawarqa Pay, salvawarqa Pay,",
+        "Payllamin salvawarqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Sonqoy ukhupi kawsan./",
+        "Sonqoy ukhupi, sonqoy ukhupi,",
+        "Sonqoy ukhupi kawsan."
+      ]
+    }
+  ]
+}

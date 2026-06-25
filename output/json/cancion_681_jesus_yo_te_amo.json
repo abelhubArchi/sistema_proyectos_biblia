@@ -1,0 +1,28 @@
+{
+  "numero": null,
+  "titulo": "JESUS YO TE AMO",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jesús yo te amo",
+        "Jesús yo te amo,",
+        "",
+        "Jesús yo te amo a Tí",
+        "porque Tú me has salvado",
+        "porque Tú me has sanado",
+        "Jesús yo te amo a Tí."
+      ]
+    }
+  ]
+}

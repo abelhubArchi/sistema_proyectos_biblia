@@ -1,0 +1,38 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Pasa por aquí Señor, pasa por aquí",
+        "Oh Señor pasa por aquí",
+        "Oh Señor pasa por aquí",
+        "",
+        "Espiritu Santo llename de Tí",
+        "Oh Señor llename de Tí",
+        "Oh Señor llename de Tí",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Quedate aquí señor, quedate aquí,",
+        "Oh Señor quedate aquí",
+        "Oh Señor quedate aquí"
+      ]
+    }
+  ]
+}

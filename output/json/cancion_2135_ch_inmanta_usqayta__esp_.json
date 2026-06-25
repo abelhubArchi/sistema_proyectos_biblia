@@ -1,0 +1,32 @@
+{
+  "numero": null,
+  "titulo": "Ch’inmanta Usqayta (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Sin temor a Jesús tú debes acudir,",
+        "Hoy mismo acepta a Él, hoy te espera con amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "A Jesús, hoy mismo tú debes recibir,",
+        "Salvación Él te dará, acéptale ya a Jesús."
+      ]
+    }
+  ]
+}

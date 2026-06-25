@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Diosta Munakuywan (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/A Cristo esperemos con amor sincero.",
+        "El vendrá muy pronto, los suyos llevará./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Allá en el cielo habrá gozo y paz.",
+        "Y coronas de oro nos dará a cada cual./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Ora, cada día sin desmayar nunca.",
+        "En Jesús confiado, al diablo vencerás./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/La sabiduría te dará Dios Padre,",
+        "Un corazón tierno y vida etemal./"
+      ]
+    }
+  ]
+}

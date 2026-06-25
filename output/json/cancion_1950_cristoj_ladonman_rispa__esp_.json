@@ -1,0 +1,27 @@
+{
+  "numero": null,
+  "titulo": "Cristoj Ladonman Rispa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Allá do Cristo reina,",
+        "Nos hemos de ver con tanto placer.",
+        "Allá do Cristo reina, felices habremos se ser.",
+        "Si tú llegas primero que yo,",
+        "Espérame allá, también yo iré.",
+        "Allá do Cristo reina, felices habremos de ser."
+      ]
+    }
+  ]
+}

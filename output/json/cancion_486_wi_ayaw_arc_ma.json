@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "WIÑAYAW ARCÁMA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Kollan Tatit Cristo jurnar sirviñajja.",
+        "Sinti sumaw nayataquejja.",
+        "Munasiñamampejj irpascapunistaw",
+        "Acá llaquisiñ orakena.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Wiñayaw arcáma,",
+        "Suma Tatitojja,",
+        "Jumaw ch'am churitát.",
+        "Take urunacan. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Kollan Tatit Cristo, munasiñamatjja",
+        "Janiw cunas apakquitaspat;",
+        "Pist’at samakañas, jachañanacasa,",
+        "Ni ajjsarcañ llaquinacasa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Kollan Tatit Cristo nayan jacáwejjajj",
+        "Uqhampach catuyatájjewa.",
+        "Jisc'achat jacañas uñisitáñasa,",
+        "Janiw cunas apakquitaspat."
+      ]
+    }
+  ]
+}

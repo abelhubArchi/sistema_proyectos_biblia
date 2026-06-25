@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Señor Qanman Jamuni (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "F. Paredes",
+  "compositor": "F. Paredes",
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/A ti vengo hoy. Señor, a consagrarte mi ser.",
+        "Bendíceme, oh mi Dios, guiándome en tu luz./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Proclamaré la verdad a toda la humanidad,",
+        "Y al mandato del Señor obediente quiero ser.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Mientras ando con Jesús con gozo le cantaré.",
+        "Fortaleza El me da para vencer a Satán./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Por tu muerte en la cruz nos concedes la salud.",
+        "Transformado ya estoy para el reino celestial./"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "GOLPE DE ESPADA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "GOLPES DE ESPADA ES LA ALABANZA",
+        "GOLPES DE GUERRA QUE SALEN DE DIOS",
+        "CANTOS DE GLORIA TRAEN LA VICTORIA",
+        "EN LA ALABANZA DEL PUEBLO DE DIOS",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "//Y CADA GOLPE DE LA ESPADA DE DIOS",
+        "ES CON PANDERO CON TROMPETA Y TAMBOR//",
+        "//SERA CON CANTOS DE JUBILO,",
+        "CANTOS DE JUBILO//"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "numero": null,
+  "titulo": "DIOS DE PACTOS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Dios de Pactos",
+        "que guardas tus promesas",
+        "Que cumples tu palabra",
+        "que guias mi destino",
+        "Dios de pactos",
+        "Confió en tus promesas",
+        "descanso en tu palabra",
+        "por tu gracia estoy aqui"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En la intimidad",
+        "al abrigo de tu gloria",
+        "puedo estar junto a ti",
+        "Al ver tu santidad",
+        "estoy maravillado ante ti",
+        "y tu amor nunca más seré igual",
+        "al salir de este santísimo lugar"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tengo redención",
+        "por la sangre que descansa",
+        "en tu altar para mí la gracia y perdón",
+        "son tus frutos de vivir en comunión y adoración",
+        "nunca más seré igual",
+        "al salir de este santísimo lugar"
+      ]
+    }
+  ]
+}

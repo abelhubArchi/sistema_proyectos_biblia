@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "POR QUE EL VIVE",
+  "carpeta": "ALABANZAS PASTOR PEDRO LUNA",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Dios nos envió a su Hijo Cristo",
+        "Él es salud, paz y perdón,",
+        "vivió y murió por mi pecado",
+        "vacía está la tumba por que Él triunfó.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "CORO:",
+        "Por que él vive......triunfaré mañana",
+        "por que él vive......ya no hay temor,",
+        "Por que yo sé...... que el futuro es suyo",
+        "la vida vale más y más sólo por él.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Grato es tener a un tierno niño",
+        "tocar su piel gozo nos dá,",
+        "pero mejor la dulce calma",
+        "la que Jesús nos puede dar, pues vivo está.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Yo sé que un día el rio cruzaré",
+        "con el dolor batallaré,",
+        "y al ver la vida triunfando invicta",
+        "veré gloriosas luces y veré al Rey."
+      ]
+    }
+  ]
+}

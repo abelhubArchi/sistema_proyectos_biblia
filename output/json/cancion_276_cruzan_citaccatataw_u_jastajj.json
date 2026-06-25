@@ -1,0 +1,53 @@
+{
+  "numero": null,
+  "titulo": "CRUZAN CITACCATATAW UÑJASTAJJ",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Alajjpachanquir suma Cristojj",
+        "T'akhesiwaytawa.",
+        "Cruzan ch'accatataw uñjastajj",
+        "Juchanacajj laycu.",
+        ":Jakenac khespiyaña munasajj",
+        "Wilam wartawaytaw. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Janiw cunas a utjquituti",
+        "Jumar pagañatac.",
+        "Chuymajjaqui nayajj churjjsmajja",
+        "Jumar sirviñatac.",
+        ":Naya laycu t'akhesitamata",
+        "Yuspagarapunsmaw. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Take chekana parlasisqui",
+        "Cruzan jiwatamat.",
+        "Waljaniwa jakenacajja",
+        "Jan catokapquiti.",
+        ":Chuymanacaparojj parlamaya",
+        "Cutt'aniñapatac.  (Bis)"
+      ]
+    }
+  ]
+}

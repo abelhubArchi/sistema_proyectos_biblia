@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Señor Jesusníy Khuyakuway (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "C. López",
+  "compositor": "C. López",
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Oh bondadoso Jesucristo,",
+        "Solo tu puedes socorrerme.",
+        "Ahora que ya soy tu siervo,",
+        "Te serviré para siempre./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/La vida aquí es pasajera,",
+        "Allí en el cielo será eterna.",
+        "Cuando nos llame Jesucristo,",
+        "Alabaremos para siempre./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Y las señales ya se cumplen,",
+        "Jesús nos dijo en la Biblia.",
+        "Apercibidos siempre estemos,",
+        "Y su venida es inminente./"
+      ]
+    }
+  ]
+}

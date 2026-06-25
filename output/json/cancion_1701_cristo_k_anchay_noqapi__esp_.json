@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Cristo K’anchay Noqapi (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristo brilla en mi ser, brilla en mi ser,",
+        "Brilla en mi ser. Señor.",
+        "Algún día volverás. Te veremos",
+        "En las nubes./Aleluya, Señor./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cristo oye mi oración, oye mi oración,",
+        "Oye mi oración. Señor.",
+        "Todo el tiempo oraré,",
+        "Oraré a Tí, Señor. /Contéstame, Señor./"
+      ]
+    }
+  ]
+}

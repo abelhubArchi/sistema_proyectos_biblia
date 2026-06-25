@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Muñan Jesús K’anchanayta (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Quiere Jesús que yo brille mientras que viva aquí,",
+        "Y que le complazca siempre, en clases, juego, hogar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "¿Brillando, brillando! Quiere Jesús que yo brille;",
+        "¡Brillando, brillando! Yo brillaré para Él.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Quiere Jesús que sea amable con cuántos llegue a ver,",
+        "Para que vean qué alegres, sus niños pueden ser.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Pediré a Cristo su ayuda, y limpio corazón;",
+        "Imitaré su dulzura brillando para El.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Yo brillaré para Cristo, con su poder podré;",
+        "Día tras día le sirvo, y al fin al cielo iré."
+      ]
+    }
+  ]
+}

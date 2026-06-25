@@ -1,0 +1,30 @@
+{
+  "numero": null,
+  "titulo": "EN TI ESTA MI VIDA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "EN TÍ ESTA MI VIDA,",
+        "EN TÍ ESTA MI FUERZA",
+        "EN TÍ MI ESPERANZA",
+        "EN TÍ, SEÑOR/ /",
+        "CON MI VIDA TE ALABO SEÑOR",
+        "CON MI FUERZA TAMBIÉN TE ALABARÉ",
+        "CON MI VIDA SEÑOR,",
+        "CON MI FUERZA TAMBIÉN",
+        "TODA MI ESPERANZA ESTA EN TÍ."
+      ]
+    }
+  ]
+}

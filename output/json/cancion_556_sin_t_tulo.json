@@ -1,0 +1,35 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "03 Alabanza Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Mi Dios es grande y fuerte,",
+        "y su palabra vence,",
+        "Sus enemigos tiemblan",
+        "Y huyen ante Él.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Jesucristo es el Señor mi Rey",
+        "En su nombre hay,",
+        "Hay poder para vencer."
+      ]
+    }
+  ]
+}

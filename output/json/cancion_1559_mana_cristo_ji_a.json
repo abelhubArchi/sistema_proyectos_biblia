@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "Mana Cristo Jiña",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Mana, Cristo jiña amigo kanchu,",
+        "Ni ujpis, ni ujpis.",
+        "Ni pi Pay jiña almasninchejta",
+        "Salvayta atinchu.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Tukuy sufrisqasninchejmanta",
+        "Pay yachan, khuyawanchejtaj.",
+        "Mana Cristo jiña amigo kanchu,",
+        "Ni ujpis, ni ujpis.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Ni pi Pay jiña chhika Santochu,",
+        "Ni pipis, ni pipis.",
+        "Chantapis mana Pay jiña humilde,",
+        "Ni ujpis, ni ujpis.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jayk'ajpis creejta qhesachanchu?",
+        "Nijayk’aj.nijayk’aj",
+        "Juchasapatari wijch'unmanchu?",
+        "Nijayk'aj,nijayk'aj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Maypitaj Pay jiña Salvadorta",
+        "Tarisun, tarisun?",
+        "Mana Payman ni pipis nikunchu,",
+        "Ni pipis, ni pipis."
+      ]
+    }
+  ]
+}

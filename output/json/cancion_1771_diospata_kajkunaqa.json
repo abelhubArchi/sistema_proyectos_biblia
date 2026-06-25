@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "Diospata Kajkunaqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Diospata kajkunaqa rinachej ñawpajman,",
+        "Diospata banderanta tukuy oqharispa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Cristo jamojtenqa, kusiyllana kanqa.",
+        "Tukuy takisunchej, ¡Gloria Diosman!/",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Diosmanta mañakuyta ama saqenachu.",
+        "Evangeliotapis tukuyman apaña./"
+      ]
+    }
+  ]
+}

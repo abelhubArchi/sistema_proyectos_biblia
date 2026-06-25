@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "JESÚS, TU EXCELSO Y DULCE AMOR",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jesús, tu excelso y santo amor",
+        "Ofreces al mortal;",
+        "Para que viendo sólo a Dios",
+        "Se aleje de su mal.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Oh, fuego santo del Señor",
+        "En mí ven a morar;",
+        "La escoria quita y el dolor",
+        "Mi vida al aceptar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Mi rebelión consumirás",
+        "Al acercarme a tí,",
+        "Y el Santo Espíritu darás",
+        "Que se derrame en mi.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Entonces firme yo estaré",
+        "Gozando en el Señor",
+        "Pues si tu vives en mi ser",
+        "Tendré perfecto amor."
+      ]
+    }
+  ]
+}

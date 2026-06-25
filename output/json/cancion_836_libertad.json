@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "LIBERTAD",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¡Aleluya! que el Señor tiene grande salvación,",
+        "Libertad, libertad.",
+        "Nuestro Dios tiene poder para Satanás vencer,",
+        "Libertad, libertad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Libertad y redención",
+        "¡Aleluya! Cristo ya me amó y me salvó;",
+        "¡Gloria, gloria, aleluya!",
+        "El es todo, en todo es El.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Yo confío en Jehová, El me da la santidad,",
+        "Libertad, libertad.",
+        "Tengo paz y gozo ya desde que El me salvó,",
+        "Libertad, libertad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Hablaremos siempre aquí ensalzando a nuestro Rey,",
+        "Libertad, libertad.",
+        "Porque bondadoso y fiel, El nos llama hijos de El,",
+        "Libertad, libertad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Cantaremos siempre allí, cuando pasemos de aquí,",
+        "Libertad, libertad.",
+        "Alabando al Señor, cantaremos con fervor,",
+        "Libertad, libertad."
+      ]
+    }
+  ]
+}

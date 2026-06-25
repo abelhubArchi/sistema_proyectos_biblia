@@ -1,0 +1,69 @@
+{
+  "numero": null,
+  "titulo": "Señor Jamonqaña (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "J. Chacón",
+  "compositor": "J. Chacón",
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Cuando venga el Señor de su hogar celestial",
+        "Todos le verán./",
+        "/Cuando vea a El, toda la humanidad",
+        "Se lamentará./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/La gran tribulación para la humanidad",
+        "Ya se cumplirá./",
+        "/Y la ira de Dios ya se derramará",
+        "Sobre el mundo vil./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Al Señor nuestro Dios cuentas rendiremos",
+        "En aquél día./",
+        "/En el juicio de Dios cada uno dará",
+        "Cuenta al Señor./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Los salvos estarán a la diestra de Dios,",
+        "Gloria al Señor.",
+        "/Más los pecadores condenados serán",
+        "A la perdición./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "/Para el vil pecador el tormento será",
+        "Por la eternidad./",
+        "/Oportuno es hoy para la salvación,",
+        "Acéptalo hoy./"
+      ]
+    }
+  ]
+}

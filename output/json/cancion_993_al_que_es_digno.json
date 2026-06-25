@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "AL QUE ES DIGNO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Al que es digno de recibir la gloria,",
+        "al que es digno de recibir el honor",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Levantemos nuestras manos y adoremos,",
+        "a Jesús Cordero de gloria",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Y exaltemos Su incomparable majestad,",
+        "Al que vive por siempre, al Gran Yo Soy a Jesús"
+      ]
+    }
+  ]
+}

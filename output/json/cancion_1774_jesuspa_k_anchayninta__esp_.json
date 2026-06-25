@@ -1,0 +1,33 @@
+{
+  "numero": null,
+  "titulo": "Jesuspa K’anchayninta (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Esta mi lucecita, la dejaré yo brillar./",
+        "Brillará, brillará, brillará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "En mi Patria Bolivia ..........",
+        "También en mi casita ..........",
+        "También en mi camino .........."
+      ]
+    }
+  ]
+}

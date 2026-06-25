@@ -1,0 +1,27 @@
+{
+  "numero": null,
+  "titulo": "Kutímuspa Jesusqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cuando venga el Señor y te pregunte por tu talento,",
+        "Qué dirás al Señor del talento que Cristo te dio.",
+        "Multiplícalo sí, sí, multiplícalo sí, sí,",
+        "Multiplica hermano tu talento.",
+        "Multiplícalo sí, sí, multiplícalo sí, sí,",
+        "El talento que Cristo te dio."
+      ]
+    }
+  ]
+}

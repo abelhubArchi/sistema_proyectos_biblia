@@ -1,0 +1,71 @@
+{
+  "numero": null,
+  "titulo": "Pon aceite a mi lampara Señor",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Pon aceite a mi lampara Señor",
+        "Pon aceite a mi lampara Señor",
+        "Que yo quiero pedirte con amor",
+        "Pon aceite a mi lampara Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Señor Jesús tu eres mi vida",
+        "Señor Jesús tu eres mi amor",
+        "Salvaste mi al perdida",
+        "por eso te alabado con el corazon",
+        "con el corazon con el corazon.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "La madrugada aun estaba oscura",
+        "y yo buscada el rostro del Señor",
+        "Señor,Señor ten compasion de mi",
+        "Resulve mis problemas pues yo",
+        "confio en ti",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Mira que lindo que lindo es el Señor",
+        "Mira que lindo que lindo es el Señor",
+        "Nadie iguala su belleza nadie iguala su poder",
+        "Y todo lo que hace lo hace con amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Cuando el pueblo del Señor alaba a Dios",
+        "Suceden cosas Suceden cosas maravillosas",
+        "hay sanidad liberacion",
+        "Se siente la presencia del Señor"
+      ]
+    }
+  ]
+}

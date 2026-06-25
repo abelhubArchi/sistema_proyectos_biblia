@@ -1,0 +1,35 @@
+{
+  "numero": null,
+  "titulo": "EL ES MI PAZ",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "EL ES MI PAZ,",
+        "HA QUEBRADO TODAS MIS CADENAS",
+        "EL ES MI PAZ",
+        "EL ES MI PAZ"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "ECHO TODA MI ANSIEDAD SOBRE EL",
+        "PUES EL CUIDA DE MI",
+        "EL ES MI PAZ",
+        "EL ES MI PAZ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "numero": null,
+  "titulo": "HOY ES DÍA DE REPOSO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Hoy es día de reposo, alabemos pues a Cristo,",
+        "Los seis días fenecieron, al Señor hoy adoremos.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Hoy es día de reposo,",
+        "Día santo de alabanza.",
+        "Al Señor hoy adoremos",
+        "En la iglesia y dondequiera. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "En seis días de trabajo nos sentimos fatigados;",
+        "Hoy con gozo alabemos al bendito Jesucristo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Al Señor amante y tierno, alabemos con canciones,",
+        "Elevemos nuestras voces al divino Jesucristo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Nuestra vida en esta tierra necesita su ayuda;",
+        "Nos da paz y amor profundo y nos guía su presencia."
+      ]
+    }
+  ]
+}

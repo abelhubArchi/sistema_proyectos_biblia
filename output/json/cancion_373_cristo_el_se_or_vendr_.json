@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "CRISTO EL SEÑOR VENDRÁ",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Pronto Cristo volverá",
+        "Al cielo nos llevará;",
+        "Su palabra dice así,",
+        "Preparados esperemos.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Jesucristo pronto vendrá",
+        "A los salvos nos llevará;",
+        "Estaremos con Jesús",
+        "Disfrutando de su gloria. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Seguidores de Jesús,",
+        "Esperemos listos ya;",
+        "Proclamemos su poder",
+        "Y sigamos en sus pasos.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Los de limpio corazón,",
+        "Esperemos al Señor;",
+        "Trabajando con fervor.",
+        "Sin descuido y sin fatiga."
+      ]
+    }
+  ]
+}

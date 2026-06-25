@@ -1,0 +1,34 @@
+{
+  "numero": null,
+  "titulo": "marabilloso es el amor de Dios",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Maravilloso es el amor de Dios",
+        "Maravilloso es el amor de Dios",
+        "Maravilloso es el amor de Dios",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "tan alto no puedo alcanzar alla",
+        "tan bajo no puedo bajar alla",
+        "tan ancho no puedo alcanzar alla"
+      ]
+    }
+  ]
+}

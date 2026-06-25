@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "EL AMOR DE DIOS",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "El tierno amor del Señor.",
+        "Pues, para todos los hay;",
+        "Es menester que hoy, sí,",
+        "Te acerques por fe a El.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cristo, el Señor Jesús,",
+        "Hoy te espera con amor,",
+        "para darte su perdón,",
+        "Paz y gozo en tu ser.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Por el tierno amor de Dios",
+        "Hallarás la salvación,",
+        "Y su hijo, ya serás;",
+        "Ven a Cristo y verás.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Por el tierno amor de Dios,",
+        "Victoria encontrar podrás;",
+        "A las tentaciones mil,",
+        "Y al fiero Tentador."
+      ]
+    }
+  ]
+}

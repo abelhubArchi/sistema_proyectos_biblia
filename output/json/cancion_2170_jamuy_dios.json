@@ -1,0 +1,34 @@
+{
+  "numero": null,
+  "titulo": "Jamuy Dios",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Jamuy Dios kay sonqosniykuman./",
+        "/Kallpata qoway, munakuytapis;",
+        "Qhatisqaykitaj, tukuy sonqowan./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Oh Diosniy, Qan Yanapariway./",
+        "/Jucha saqeyta ni atiymanchu;",
+        "Atiykiykiwan Qan yanapariway./"
+      ]
+    }
+  ]
+}

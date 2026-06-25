@@ -1,0 +1,82 @@
+{
+  "numero": null,
+  "titulo": "LA NIÑA DE TUS OJOS",
+  "carpeta": "ADORACION",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "transición",
+      "lineas": [
+        "*",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "// Me viste a mi,",
+        "cuando nadie me vió.",
+        ".",
+        "Me amaste a mi,",
+        "cuando nadie me amó. //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "// Y me diste nombre",
+        "yo soy tu niña.",
+        ".",
+        "La niña de tus ojos",
+        "porque me amaste a mí. //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "// Me amaste a mí",
+        "me amaste a mí.",
+        ".",
+        "Me amaste a mí",
+        "me amaste a mí. //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        ".// Te amo más que a mi vida",
+        "te amo más que a mi vida,",
+        ".",
+        "Te amo más que a mi vida",
+        "más... //.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "// Y me diste nombre",
+        "yo soy tu niña,",
+        "la niña de tus ojos",
+        "porque me amaste a mí. //",
+        ".",
+        "Me amaste a mí."
+      ]
+    }
+  ]
+}

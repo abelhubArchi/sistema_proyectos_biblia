@@ -1,0 +1,60 @@
+{
+  "numero": null,
+  "titulo": "CUSISITAW YUPAYCHÁMA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Almajjasa, cuerpojjasa Diosar churataw",
+        "Jesusawa wílapampi k'omachasjjetu.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cusisitaw yupaycháma",
+        "Cristo Tatitu,",
+        "Cruzacamaw puriwaytajj",
+        "Nayar khespiyañ laycu.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Jucha thaquin sarañajja nayanjj tucusjjew;",
+        "Suma Kollan Ajayuwa nayar irpjjetu.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jacquir santo sacrificio, loktataw jacjjta;",
+        "Suma Diosan munañapa lurañataqui.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Jichhajj suytwa cusisita, alajjpach sarjjan;",
+        "Wiñay wiñay, Cristojjampi jacañataqui."
+      ]
+    }
+  ]
+}

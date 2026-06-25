@@ -1,0 +1,66 @@
+{
+  "numero": null,
+  "titulo": "TESTIFIQUE AL HOMBRE DE TINIEBLAS",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En las tinieblas con aflicciones",
+        "Sufre el alma del pecador. (Bis)",
+        "Sediento está de la salvación",
+        "Y de escuchar la voz de Dios.",
+        "Si le hablamos de su perdón",
+        "El hallará la senda de luz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Y tú, hermano, estando en Cristo",
+        "¿A cuántos has traído a la luz? (Bis)",
+        "¿Puedes de Cristo testificar?",
+        "¿Hablar con otros de su amor?",
+        "Si un pecador se acerca a Jesús,",
+        "Gozo tendrás en tu corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Querido hermano, una promesa",
+        "Jesús, el Salvador, nos dejó. (Bis)",
+        "El dijo: --Yo vendré otra vez",
+        "Y a los salvados llevaré,",
+        "Conmigo a la mansión celestial,",
+        "Y gozarán por la eternidad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Somos de Cristo los escogidos,",
+        "Testifiquemos con gran valor. (Bis)",
+        "El nos da vida y felicidad,",
+        "Nos da su paz y gran amor.",
+        "Alabaremos al Salvador,",
+        "Somos sus hilos salvos por El."
+      ]
+    }
+  ]
+}

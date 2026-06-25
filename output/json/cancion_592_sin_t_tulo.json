@@ -1,0 +1,70 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "04 Poder del Evangelio",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ":En la casa de mi Padre,",
+        "hay lugar para todos. (bis)",
+        "",
+        "Hay lugar para todos,",
+        "hay lugar para todos.",
+        "Hay lugar para todos,",
+        "hay lugar para todos.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        ":Para el pobre para el rico,",
+        "hay lugar para todos. (bis)",
+        "",
+        "Hay lugar para todos,",
+        "hay lugar para todos.",
+        "Hay lugar para todos,",
+        "hay lugar para todos.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        ":Para el negro para el blanco,",
+        "hay lugar para todos. (bis)",
+        "",
+        "Hay lugar para todos,",
+        "hay lugar para todos.",
+        "Hay lugar para todos,",
+        "hay lugar para todos.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        ":Para el niño, el anciano,",
+        "hay lugar para todos. (bis)",
+        "",
+        "Hay lugar para todos,",
+        "hay lugar para todos.",
+        "Hay lugar para todos,",
+        "hay lugar para todos."
+      ]
+    }
+  ]
+}

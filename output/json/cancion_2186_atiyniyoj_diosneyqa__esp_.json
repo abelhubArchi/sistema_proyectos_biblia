@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "Atiyniyoj Diosneyqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Poderoso es nuestro Dios./",
+        "Puede salvar, puede guardar.",
+        "Poderoso es nuestro Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Bondadoso es nuestro Dios./",
+        "Dio su vida por salvamos.",
+        "Bondadoso es nuestro Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Nuestro Dios nos cuidará;/",
+        "Las tristezas, las penurias",
+        "Con Jesús venceremos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "numero": null,
+  "titulo": "NO BASTA SOLO CON CANTAR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "No basta sólo con cantar",
+        "No vasta sólo con decir",
+        "No es suficiente sólo",
+        "con querer tener",
+        "Es necesario morir",
+        "No basta sólo con soñar",
+        "No basta sólo con pedir",
+        "No es suficiente sólo",
+        "con querer hacer",
+        "Es necesario morir"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Dame tu vida",
+        "Esa clase de vida que sabes dar",
+        "Dame tu vida",
+        "Yo quiero vivir solo para ti",
+        "Dame tu vida resucítame en ti",
+        "Yo quiero vivir sólo para ti"
+      ]
+    }
+  ]
+}

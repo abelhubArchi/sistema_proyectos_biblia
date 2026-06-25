@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Hermanos Hermanas",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Si Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Hermanos, hermanas, maymampis risunchej",
+        "Señor Jesuswan./",
+        "/Señor waqaychasuchun, qanwampuni Pay kachun,",
+        "Mayllamampis rejtiykeqa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Señor niwarqanchej, \"Qankunawan kasaj",
+        "Tukukuykama.\"",
+        "/Makimpi jap'iwasun tukuy wawasnintaqa",
+        "Sumaj Michiwajninchejqa./"
+      ]
+    }
+  ]
+}

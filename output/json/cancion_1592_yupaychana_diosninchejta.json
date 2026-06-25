@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Yupaychana Diosninchejta",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/A nuestro Dios alabemos,",
+        "El manda las bendiciones.",
+        "Los salvados de este mundo",
+        "En el cielo alabaremos./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Al padre Dios alabemos,",
+        "A su hijo Jesucristo,",
+        "Y al Espíritu Santo,",
+        "Al Dios trino alabemos./"
+      ]
+    }
+  ]
+}

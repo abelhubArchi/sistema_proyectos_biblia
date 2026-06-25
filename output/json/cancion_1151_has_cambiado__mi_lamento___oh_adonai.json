@@ -1,0 +1,41 @@
+{
+  "numero": null,
+  "titulo": "HAS CAMBIADO  MI LAMENTO - OH ADONAI",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "HAS CAMBIADO MI LAMENTO",
+        "EN BAILE,",
+        "ME CEÑISTE TODO DE ALEGRÍA//",
+        "POR TANTO A TI CANTARÉ,",
+        "GLORIA MÍA, GLORIA MÍA",
+        "SÓLO A TÍ DANZARÉ",
+        "GLORIA MÍA, GLORIA MÍA."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "OH Adonai //",
+        "Dios del universo,",
+        "Señor de la creación",
+        "los cielos cuenta tu gloria",
+        "tus hijos hoy te adoran",
+        "por todas tus maravillas",
+        "Adonai"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "numero": null,
+  "titulo": "GOZO SIN IGUAL",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En Jesús hallé completa paz;",
+        "Mi necesidad suplió.",
+        "A sus pies encuentro gran solaz,",
+        "Del pecado me libró.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Gozo sin igual, feliz y perdurable,",
+        "Inefable, inmutable,",
+        "Gozo sin igual, feliz y perdurable,",
+        "Tengo en Cristo, mi fiel Redentor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "La satisfacción yo busqué",
+        "Nadie me la pudo dar;",
+        "Mas ahora vivo por la fe,",
+        "Libre de toda maldad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Esperanza sin igual hallé",
+        "Cerca de mi Salvador;",
+        "Su presencia imparte gran poder,",
+        "Siento el fuego de su amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "No podré en palabras describir",
+        "La experiencia de mi ser.",
+        "Es cual fuente eterna para mí"
+      ]
+    }
+  ]
+}

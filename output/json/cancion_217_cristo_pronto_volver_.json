@@ -1,0 +1,53 @@
+{
+  "numero": null,
+  "titulo": "CRISTO PRONTO VOLVERÁ",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristo muy pronto vendrá al mundo,",
+        "Sus hijos fieles lo recibiremos.",
+        "Ese momento nos dará gozo,",
+        "Todos contentos lo esperaremos.",
+        "El vendrá pronto y dará vida, vida eterna.",
+        "Todos sus hijos, ya perdonados, con El vivirán.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Junto con Cristo ángeles miles",
+        "Con gran poder vendrán llenos de gloria.",
+        "Cuando se toque ya la trompeta,",
+        "Muy fuerte temblará toda la tierra.",
+        "Al escucharlo, todos los salvos ascenderemos.",
+        "Y en las nubes encontraremos al Señor Jesús.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Un día Cristo sobre las nubes",
+        "Con gran poder vendrá a esta tierra.",
+        "Listos estemos que El nos encuentre",
+        "Limpios de todo mal, salvos por gracia.",
+        "Todos iremos a presentarnos ante su trono.",
+        "Cristo, al vernos ya perdonados, se alegrará."
+      ]
+    }
+  ]
+}

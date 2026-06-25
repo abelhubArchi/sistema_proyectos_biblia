@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "311 OH QUE BUENO ES MI JESUS",
+  "carpeta": "04 Poder del Evangelio",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ": Oh que bueno es mi Jesús",
+        "que por mí murió en la cruz.",
+        "Mis pecados perdonó",
+        "A su nombre gloria. (bis)",
+        "",
+        ": A su nombre gloria,",
+        "a su nombre gloria. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        ": Dios está presente,",
+        "Pidan lo que quieran. (bis)",
+        "",
+        "A su nombre gloria,",
+        "a su nombre gloria. (bis)"
+      ]
+    }
+  ]
+}

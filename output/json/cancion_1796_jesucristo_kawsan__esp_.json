@@ -1,0 +1,41 @@
+{
+  "numero": null,
+  "titulo": "Jesucristo Kawsan (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "//Jesucristo ya reina en mí.//",
+        "Aleluya, gloria a Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "//Jesucristo ya reina en tí.//",
+        "Aleluya, gloria a Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "//En la Iglesia reina también.//",
+        "Aleluya, gloria a Dios."
+      ]
+    }
+  ]
+}

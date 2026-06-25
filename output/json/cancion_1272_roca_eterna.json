@@ -1,0 +1,39 @@
+{
+  "numero": null,
+  "titulo": "ROCA ETERNA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ROCA ETERNA, VERDADERO Y FIEL,",
+        "TU PROMETES CUMPLIR CON TU PALABRA.",
+        "ROCA ETERNA, ERES JUSTO Y FIEL,",
+        "MI CONFIANZA SIEMPRE EN TI PONDRÉ."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "MI REFUGIO CONTRA LA TORMENTA",
+        "LA TORRE DE MI PROTECCIÓN,",
+        "FORTALEZA EN DIFICULTADES",
+        "MI ESCONDERERO ERES TU",
+        "SANAS TODAS MIS EFERMEDADES",
+        "CONSUELAS TODO MI DOLOR,",
+        "ERES FUERZA AL SENTIRME DÉBIL,",
+        "MI AYUDA EN NECESIDAD."
+      ]
+    }
+  ]
+}

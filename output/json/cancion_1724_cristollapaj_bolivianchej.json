@@ -1,0 +1,29 @@
+{
+  "numero": null,
+  "titulo": "Cristollapaj Bolivianchej",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristollapaj BOLIVIANCHEJ kanqa,",
+        "Paypaj ujchasqas llank'ajtinchej.",
+        "Suyunchejtaj yupaychanqa Diosta,",
+        "Tükuy rikonqa atiyninta.",
+        "Kallpachasqas tukuy llojsinachej,",
+        "Diosmanta willaramunachej.",
+        "/Tukuynin rinachej Diosmanta",
+        "Willaraj. Kutímonqaña Jesús./"
+      ]
+    }
+  ]
+}

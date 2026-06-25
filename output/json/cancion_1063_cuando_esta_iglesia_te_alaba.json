@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "CUANDO ESTA IGLESIA TE ALABA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "personalizado",
+      "nombre": "C1",
+      "lineas": [
+        "Cuando esta iglesia te alaba,",
+        "cuando esta iglesia te exalta",
+        "Se desata desde el cielo Tu poder",
+        "Cuando tus hijos te alaban",
+        "y Tu Palabra proclaman",
+        "Desciende Tu Presencia aquí",
+        ""
+      ]
+    },
+    {
+      "tipo": "personalizado",
+      "nombre": "C2",
+      "lineas": [
+        "Decimos Santo, Roca fuerte eres Tú",
+        "Somos Tu pueblo y queremos llevar Tu luz"
+      ]
+    }
+  ]
+}

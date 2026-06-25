@@ -1,0 +1,75 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Hoy puedo danzar con libertad",
+        "Porque soy su hijo, Porque soy su hijo",
+        "Hoy puedo danzar con libertad",
+        "Porque soy amado,  Porque soy amado",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Podemos sentir Tu gozo, Podemos sentir Tu rio",
+        "Hay sanidad en las aguas, queremos danzar",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Hay libertad en la casa de Dios",
+        "Hay libertad en la casa de Dios",
+        "Hay libertad,  Hay libertad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "//Hay libertad en la casa",
+        "Hay libertad al danzar.//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Puedo danzar en la casa de Dios",
+        "puedo danzar en la casa de Dios",
+        "y disfrutar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 6,
+      "lineas": [
+        "//Porque somos libres",
+        "somos libres",
+        "por su sangre",
+        "libre soy.//",
+        "Libre Soy."
+      ]
+    }
+  ]
+}

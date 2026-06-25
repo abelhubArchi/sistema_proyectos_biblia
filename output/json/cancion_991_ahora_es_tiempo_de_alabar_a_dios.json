@@ -1,0 +1,43 @@
+{
+  "numero": null,
+  "titulo": "AHORA ES TIEMPO DE ALABAR A DIOS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Ahora es tiempo de alabar a Dios,",
+        "en la Presencia del Consolador",
+        "Concéntrate en Él y empieza a cantar,",
+        "Su Presencia con poder descenderá",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Gloria a Dios, oh Gloria a Dios",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Él mora en la alabanza de Su pueblo,",
+        "se goza al oír nuestro clamor",
+        "Concéntrate en Él y empieza a cantar,",
+        "Su Presencia con poder descenderá"
+      ]
+    }
+  ]
+}

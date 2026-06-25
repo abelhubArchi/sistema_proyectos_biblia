@@ -1,0 +1,27 @@
+{
+  "numero": null,
+  "titulo": "NO HAY NADIE COMO TU",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "NO HAY NADIE COMO TU.",
+        "NO HAY NADIE COMO TU.",
+        "PRECIOSO Y GLORIOSO",
+        "TAN BELLO Y TAN HERMOSO",
+        "JESÚS , JESÚS,",
+        "PRECIOSO JESÚS/"
+      ]
+    }
+  ]
+}

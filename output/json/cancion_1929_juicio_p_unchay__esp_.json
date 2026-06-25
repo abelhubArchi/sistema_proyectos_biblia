@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "Juicio P’unchay (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Viene ya el juicio final,",
+        "A todos los que son salvos arrebatará el Señor.",
+        "Entre nubes bajará El",
+        "Señor Jesús con su poder, con sus ángeles vendrá.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Señor Jesús nos juntará",
+        "En su Santa presencia.",
+        "El que rechazare a Jesús,",
+        "El ira a ¡a perdición.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Nuestro Salvador vendrá,",
+        "Ni del día, ni la hora, ni los ángeles saben,",
+        "La Escritura dice así.",
+        "Ya se anuncia su regreso, cumpliráse muy pronto."
+      ]
+    }
+  ]
+}

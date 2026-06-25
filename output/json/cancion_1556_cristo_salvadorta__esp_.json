@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Cristo Salvadorta (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Oh hermano en Cristo, todos alabemos",
+        "De un corazón tierno al bendito Cristo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "El bendito Cristo perdón nos ofrece",
+        "Oh hermano en Cristo, a El serviremos.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "El bendito Cristo, volverá muy pronto",
+        "Para arrebatarnos a todos los suyos.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "El bendito Cristo, tiene preparados",
+        "Mansiones gloriosas para los salvados."
+      ]
+    }
+  ]
+}

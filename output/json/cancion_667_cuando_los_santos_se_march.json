@@ -1,0 +1,30 @@
+{
+  "numero": null,
+  "titulo": "CUANDO LOS SANTOS SE MARCH",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cuando los santos se marcharán",
+        "Cuando los santos se marcharán,",
+        "Señor yo quiero estar en el número",
+        "Cuando los santos se marcharán",
+        "",
+        "Oh aleluya, Oh aleluya",
+        "Oh aleluya gloria a Dios,",
+        "Señor yo quiero estar en el número",
+        "Cuando los santos se marcharán."
+      ]
+    }
+  ]
+}

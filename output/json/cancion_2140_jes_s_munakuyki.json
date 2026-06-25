@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Jesús Munakuyki",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jesús munakuyki. Jesús munakuyki,",
+        "Jesús munakuyki Qanta.",
+        "Qanllamin salvawanki, QanUamin jampiwanki",
+        "Jesús munakuyki Qanta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Mana kanchu imaypis, Qanman jaywanaypaj,",
+        "Chaywampis munakuyki.",
+        "Kawsayniyta qosqayki, sonqoytapis Qanllaman,",
+        "Jesús munakuyki Qanta."
+      ]
+    }
+  ]
+}

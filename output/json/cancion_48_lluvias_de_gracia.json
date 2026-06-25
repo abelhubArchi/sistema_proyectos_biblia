@@ -1,0 +1,68 @@
+{
+  "numero": 48,
+  "titulo": "LLUVIAS DE GRACIA",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Dios nos ha dado promesa:",
+        "Lluvias de gracia enviaré,",
+        "Dones que os den fortaleza;",
+        "Gran bendición os daré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Lluvias de gracia,",
+        "Lluvias pedimos, Señor",
+        "Mándanos lluvias copiosas,",
+        "Lluvias del Consolador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cristo nos dio la promesa",
+        "Del santo Consolador",
+        "Dándonos paz y pureza,",
+        "Para su gloria y honor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Muestra, Señor, al creyente",
+        "Todo tu amor y poder;",
+        "Tú eres de gracia la fuente,",
+        "Llena de paz nuestro ser.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Obra en tus siervos piadosos",
+        "Celo, virtud y valor,",
+        "Dándonos dones preciosos",
+        "Dones del Consolador."
+      ]
+    }
+  ]
+}

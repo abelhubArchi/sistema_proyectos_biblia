@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "¿CUNANQUIS CUSISIÑAJJA?",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "—¿Cunanquis cusisiñajj? —sasaw jisct'asipjjetu;",
+        "Ucar arusjjatañajj sinti ch'amaw.",
+        "Arumay uruw nayajj cunaymani lup'ista,",
+        "Cunanquis cusisiñajj jaketaquejj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Nayrakatajj thakañaw Diosan khapak marcapa,",
+        "Wiñay cusisiñ jicjjatañataqui.",
+        "Yanacas pist'iriquiw, ch'amas juc'ataquiquiw,",
+        "Cristo Tatituquiw cusisiñajja.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Take acapach yanac jakejj apthapisp ucajj,",
+        "¿Cuna suma asquirac jicjjataspa?",
+        "Almaptejj chhakayaspa yanacar wayusisajj,",
+        "Wiñay t'akhesiñac jicjjataspajja.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cunjamarus Dios Awquiy uywasiñ munistajja,",
+        "Jan sarakasawa Jumar arcama.",
+        "Chuymajjasti Awquejjay jumar muniripanay,",
+        "Juma sapanac cusisiñajj utji."
+      ]
+    }
+  ]
+}

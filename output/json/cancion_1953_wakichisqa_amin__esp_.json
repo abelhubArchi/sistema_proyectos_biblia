@@ -1,0 +1,67 @@
+{
+  "numero": null,
+  "titulo": "Wakichisqañamin (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Salvación hay para el mundo entero",
+        "Por la muerte del Señor Jesús.",
+        "En la cruz sufrió para salvarnos",
+        "Del castigo eterno, del infierno.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Hemos de dar cuenta a nuestro Dios.",
+        "Mientras tiempo hay para ser salvos.",
+        "Preparémonos para el encuentro.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "De ese Juicio grande no hay escape,",
+        "Todos comparecerán allí.",
+        "Y por el gran Juez serán juzgados,",
+        "Eso dice Dios en su Palabra.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cuando a Dios nosotros demos cuenta",
+        "De las obras que hemos hecho aquí,",
+        "Nadie contestar podrá por otro,",
+        "Más de si dará su propia cuenta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Ese día no habrá refugio,",
+        "Con justicia Dios nos juzgará.",
+        "Todos nuestros hechos y palabras",
+        "Ante Dios serán ya revelados."
+      ]
+    }
+  ]
+}

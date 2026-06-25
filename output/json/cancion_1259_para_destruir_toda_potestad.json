@@ -1,0 +1,51 @@
+{
+  "numero": null,
+  "titulo": "Para destruir toda potestad",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Para destruir toda potestad",
+        "y traer luz en la oscuridad",
+        "Para rescatar al hombre del pecar,",
+        "es el evangelio de Dios",
+        "Para proclamar al pobre libertad",
+        "y nueva vida al que no puede más"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Para los que lloran nació Jesús,",
+        "es el evangelio de Dios",
+        "Y a Dios sea la gloria///",
+        "Es el evangelio de Dios",
+        "Para redimir a Su pueblo",
+        "de toda lengua tribu y nación"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Derramó Su sangre por Su amor,",
+        "es el evangelio de Dios",
+        "Él resucitó la muerte venció,",
+        "cual ladrón en la noche vendrá",
+        "Y para siempre con Su esposa",
+        "reinará, es el evangelio de Dios"
+      ]
+    }
+  ]
+}

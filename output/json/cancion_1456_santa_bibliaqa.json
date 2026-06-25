@@ -1,0 +1,66 @@
+{
+  "numero": null,
+  "titulo": "Santa Bibliaqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Santa Bibliaqa Diospa Palabranmin.",
+        "Yachachiwanchej cheqa kajmanta,",
+        "Jesucristo Diospa chay k'ata Churín",
+        "Runasta salvaj jamusqanmanta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Leey Bibliata, kasuy Bibliata,",
+        "Uyariytaj Diospa nisqasninta./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Santa Bibliapi yachaychiykunaqa",
+        "Almasninchejman kawsayta qonqa,",
+        "Pichus leejqa k'anchaypi purenqa.",
+        "Wiñaypajtaj kusisqa kawsanqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Santa Bibliaqa yanapawasunchej",
+        "Tukuy pruebasta atípaytapis.",
+        "Janaj pachapi Jesusta rikuspa,",
+        "Paywan kusikusunchej wiñaypaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Graciasta qonachej Dios Tatanchejman;",
+        "Palabrannejta tukuyman parlan.",
+        "Kay pachapi tukuy kaj pasaponqa,",
+        "Diospata nisqasnin junfakonqa."
+      ]
+    }
+  ]
+}

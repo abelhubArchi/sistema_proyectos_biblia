@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "COMO RELAMPAGO",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Como relámpago, como relámpago",
+        "así será la venida del Señor,",
+        "Como relámpago, como relámpago",
+        "así será la venida del Señor,",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Mira a tu pueblo que clamando está",
+        "dejanos sentir el Espíritu de Dios,",
+        "Mira a tu pueblo que clamando está",
+        "dejanos sentir el Espíritu de Dios."
+      ]
+    }
+  ]
+}

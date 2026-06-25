@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "Santo Runaspajqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Allá en el cielo para los salvados,",
+        "No habrá ya mas nunca penas, ni dolor.",
+        "Allá en el cielo junto a Dios el Padre,",
+        "Con más sus ángeles, nos gozaremos.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/En la ciudad Santa tendremos de todo,",
+        "Fragancia de flores, aromas de Amor./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Aquí en la tierra hay penas y llanto,",
+        "También los afanes de lo material.",
+        "Por eso hermanos a Dios acudamos,",
+        "Si vienen tropiezos Dios nos cuidará."
+      ]
+    }
+  ]
+}

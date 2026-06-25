@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Bibliapi Niwanchej (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Si Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/La Biblia nos dice habrá terremotos,",
+        "Hambre y pestilencias y será el fin./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Cuando ya vuelva el Señor,/",
+        "Allá en el cielo no habrá más dolores.",
+        "Todos muy gozosos alabaremos./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/No darán su lumbre el sol y la luna.",
+        "Tampoco los astros ya no brillarán./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Repentinamente descenderá Cristo,",
+        "Entre blancas nubes con su gran poder./"
+      ]
+    }
+  ]
+}

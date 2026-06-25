@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Diosniy Qanllapiña Confiani (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Oh Dios poderoso. En Tí yo confío",
+        "Con toda mi alma./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Vengo a tu diestra, perdón te imploro,",
+        "Dios amoroso./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Oh Dios bondadoso, perdón te imploro",
+        "Por todas mis culpas./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Oh Dios, te imploro me des en tu gracia",
+        "Paz, gozo en mi vida./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Oh Dios, ayúdame servirte fielmente",
+        "Hasta tu venida./"
+      ]
+    }
+  ]
+}

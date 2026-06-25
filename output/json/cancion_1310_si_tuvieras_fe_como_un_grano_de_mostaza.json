@@ -1,0 +1,29 @@
+{
+  "numero": null,
+  "titulo": "SI TUVIERAS FE COMO UN GRANO DE MOSTAZA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Si tuviera fe",
+        "como un grano de mostaza",
+        "esto lo dice el Señor//",
+        "tu le dirias a la montaña",
+        "muevete, muevete//",
+        "",
+        "y esa montaña se moverán",
+        "se moverán, se moverán/"
+      ]
+    }
+  ]
+}

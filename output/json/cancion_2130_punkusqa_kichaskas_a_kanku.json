@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Punkusqa kichaskasña kanku",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Punkusqa kichasqasña kanku Jesuspi creejpaj.",
+        "Wakenqa kusisqas kanqanku; qanpaj kanqa noqapajpis.",
+        "Qori calles, ch'uwa yakus samakuyilaña munakuypis,",
+        "Wakinpaj cielo wasis kanqa. Qampaj kanqa noqapajpis.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Jesusta tukuy qhatejkuna renqanku cieloman.",
+        "Kusiy pillusta jap'enqanku; qanpaj kanqa noqapajpis.",
+        "K'anchay gloriampi Jesús kashan chaypi nanay tukukaponqa.",
+        "Pischus chaypi kamonqanku. Qampis rinki, noqa risaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Chayanku chayman kusikuyman salvasqa kajkuna.",
+        "Wakimpaj punkus wisq'akonqa, usqay chimpay Salvadorman.",
+        "Jesuspi mana creejkuna, chaypacha mayta waqanqanku.",
+        "Jesucristo juezninku kanqa. Usqay chimpay Salvasojman.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Wiñay kawsayta jap'enqanku cielopi wiñaypaj",
+        "Tata Diosman kawsayninta qoj. Qampaj kanchu noqapajri?",
+        "Kaypi tukusaj llank'anayta Jesusniypa yanapayninwan",
+        "Chaypeqa wiñaypaj kusiy kanqa. Qanpaj kanqa noqapajpis"
+      ]
+    }
+  ]
+}

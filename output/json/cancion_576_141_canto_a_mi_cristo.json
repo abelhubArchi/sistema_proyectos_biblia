@@ -1,0 +1,54 @@
+{
+  "numero": null,
+  "titulo": "141 CANTO A MI CRISTO",
+  "carpeta": "04 Poder del Evangelio",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ": Desde las bajas regiones",
+        "desde las cumbres más altas",
+        "yo canto a mi Cristo. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        ": Las alabanzas de Gloria",
+        "al dueño de mis talentos",
+        "al Dios de mi vida. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Espera querido hermano",
+        "Espera querida hermana",
+        "Ya viene mi Cristo. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        ":Ya viene el Rey de reyes",
+        "Ya viene el juez de jueces",
+        "A dar la sentencia. (bis)"
+      ]
+    }
+  ]
+}

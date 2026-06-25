@@ -1,0 +1,60 @@
+{
+  "numero": null,
+  "titulo": "ENSÉÑAME OH CRISTO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Te doy gracias, Jesucristo, por tu grande salvación",
+        "Con tu sangre me has limpiado del pecado y todo mal.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Quiero Cristo, que me enseñes",
+        "A anunciar tu salvación",
+        "A la gente ya perdida,",
+        "En pecado sin perdón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Oh Señor, tu amor es grande, y yo quiero proclamar",
+        "Que Tu has muerto en el Calvario por salvar al pecador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Padre Dios, Tú me has llamado para ir a predicar",
+        "El mensaje tan precioso de tu amor y tu perdón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Hay entrada al cielo eterno por tu muerte en la cruz",
+        "lodos los que fiel te sigan gozarán contigo allí."
+      ]
+    }
+  ]
+}

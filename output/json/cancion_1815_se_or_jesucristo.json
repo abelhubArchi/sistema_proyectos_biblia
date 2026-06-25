@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "Señor Jesucristo",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Señor Jesucristo kutírimonqaña",
+        "Salvo kajkunata pusarikapoj.",
+        "Kawsashajkunata, wañupojkunata",
+        "Oqharenqa Cristo janaj pachaman.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Suyana Señoría, Señoría suyana.",
+        "Ama puñuspalla Payía suyana./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Señor Jesuswantaj tinkukamusunchej",
+        "Tukuynin wawasnin phuyus chawpipi.",
+        "Paywantaj wiñaypaj wiñaynintinkama",
+        "Diosta yupaychasun k’anchaj Ilajtampi.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Señor Jesucristoj kutimuynin kanqa",
+        "Mana yuyasqanchej uj ratollapi.",
+        "Chayrayku, hermanos, ama juchamanqa,",
+        "Nitaj pantaymampis urmaykunachu."
+      ]
+    }
+  ]
+}

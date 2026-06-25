@@ -1,0 +1,56 @@
+{
+  "numero": null,
+  "titulo": "CRISTO TATITU K'OMACHISTAW",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristo Tatitu k'omachistaw",
+        "Nayan chuymajja jumataqui.",
+        "Khespiyasistaw ch'amamampi",
+        "Ch'amac juchata irpsusina.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Llaquisiñansa yanapistaw,",
+        "Jachañanacans chuymachistaw",
+        "Juma Tatit Cristojj. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Khespiyir Cristo yanapt'itay,",
+        "Arunacamar phokhañatac.",
+        "Atipt'iriya tuct'ayita,",
+        "Ch'amamampiwa sayt'añ munta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Juimjam ch'amanejj janiw utjquit",
+        "Juchanacata k'oniachiri.",
+        "Juman ucaru jutirirojj",
+        "Juchanacapa perdontawa."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "numero": null,
+  "titulo": "Tachachiway Dios Tatáy",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Yachachiway, Dios Tatáy,",
+        "Santa Palabraykita",
+        "Juchasapasman willaranaypaj./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Kaypi kani, Dios Tatáy,",
+        "Sonqoy ukhuman k’anchaykamuway./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Bendiciwayku, Diosníy,",
+        "Tukuy wawasniykita",
+        "Chajraykipipis llank'anaykupaj./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Señorníy, yanapaway,",
+        "Qanllapi confíakuyta.",
+        "Llakiyniypipis sonqochariway./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Mayllapipis kaspaqa,",
+        "Qanllapajña takisaj.",
+        "Tukuy sonqoywan yupaychasqayki./"
+      ]
+    }
+  ]
+}

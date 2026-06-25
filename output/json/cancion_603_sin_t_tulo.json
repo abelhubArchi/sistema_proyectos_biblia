@@ -1,0 +1,190 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "04 Poder del Evangelio",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ":Busca a Cristo,",
+        "busca a Cristo",
+        "mientras tengas tiempo,",
+        "busca a Cristo. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        ":Si te atreves a esperar",
+        "Dios la puerta cerrará,",
+        "llorarás amargamente",
+        "busca a Cristo. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        ": Por la sangre de Jesús",
+        "libre estoy,",
+        "por la llaga de Jesús",
+        "salvo estoy.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "El ha muerto en la cruz",
+        "para darnos salvación,",
+        "la victoria de Jesús es de mí. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        ": Qué momento glorioso es para mí,",
+        "Qué momento dichoso es para mí,",
+        "si la vida es en Cristo",
+        "pues a nadie temeré",
+        "la victoria de Jesús es de mí. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 6,
+      "lineas": [
+        ": Pobre diablo vencido ya está,",
+        "pobre diablo vencido ya está,",
+        "mi Jesús lo derrotó",
+        "con su muerte en la cruz",
+        "la victoria de Jesús es de mí. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 7,
+      "lineas": [
+        ":En su Santo nombre de mi Padre",
+        "He confiado. (bis)",
+        "",
+        ":Con su poder me ha salvado,",
+        "Con su poder me ha sanado",
+        "Oh aleluya mi salvador. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 8,
+      "lineas": [
+        ": Santo Espíritu divino",
+        "Hoy desciende. (bis)",
+        ": Más ya no vivo yo",
+        "Más Cristo vive en mí. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 9,
+      "lineas": [
+        ":Cuando estaba yo, lejos del Señor.(bis)",
+        "// Cayó la buena semilla, en mi corazón. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 10,
+      "lineas": [
+        "//Esa semilla fue,",
+        "la palabra de Dios. (bis)",
+        "// Quien cambió mi vida",
+        "Para la gloria de Dios. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 11,
+      "lineas": [
+        "// Bendito Señor,",
+        "bendito Jesús. (bis)",
+        "// La honra y la gloria,",
+        "sea para ti. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 12,
+      "lineas": [
+        ":Se va terminando,  se va terminando.",
+        "El día de gracia",
+        "Se va terminando. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 13,
+      "lineas": [
+        "CORO:",
+        "// Es la luz que alumbra mi vida. //",
+        ":Todos alabemos",
+        "Su bendito nombre. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 14,
+      "lineas": [
+        ":En la biblia dice:",
+        "Habrá terremotos",
+        "Guerras y hambrunas,",
+        "Por todo el mundo. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 15,
+      "lineas": [
+        "Oh Cristo amado",
+        "alumbre pues mi camino,",
+        "para llevar tu palabra",
+        "al pueblo desconocido.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 16,
+      "lineas": [
+        "Jehova es mi padre",
+        "Cristo es mi salvador,",
+        "el Espiritu Santo",
+        "es mi fortaleza."
+      ]
+    }
+  ]
+}

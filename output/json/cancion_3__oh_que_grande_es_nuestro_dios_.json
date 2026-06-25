@@ -1,0 +1,69 @@
+{
+  "numero": 3,
+  "titulo": "¡OH QUE GRANDE ES NUESTRO DIOS!",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Por su poder Dios pudo crear",
+        "El gran cielo, tierra y mar;",
+        "Sostiene al mundo con bondad",
+        "Y suprema majestad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "¡Oh, qué grande es nuestro Dios!",
+        "¡Oh, qué grande es nuestro Dios!",
+        "",
+        "Reina en majestad, reina con bondad;",
+        "¡Oh, qué es nuestro Dios!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "El mundo de la nada creó;",
+        "Las montañas El formó;",
+        "Su mano mide extenso mar,",
+        "Y los astros puede guiar",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Su voz aquieta el turbio mar,",
+        "Calma fiera tempestad;",
+        "Los cielos cantan su loor,",
+        "Lo proclaman el Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Para salvar la humanidad",
+        "A su Hijo Dios nos dio;",
+        "La vida del creyente en El",
+        "Se convierte en un Edén."
+      ]
+    }
+  ]
+}

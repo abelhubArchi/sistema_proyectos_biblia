@@ -1,0 +1,45 @@
+{
+  "numero": null,
+  "titulo": "VENGO A TI",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Vengo a ti Señor cámbiame, renuévame por",
+        "la gracia que encontré en ti ahora se que",
+        "las debilidades que hay en mi desvanecerán",
+        "por el poder de tu amor."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cúbreme, con tu amor rodéame      tómame,",
+        "cerca quiero estar       y al esperar",
+        "nuevas fuerza yo tendré y me levantaré",
+        "como las águilas por el poder de tu amor."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Yo te quiero ver cara a cara Oh! Señor y conocer",
+        "así más de ti en mi, prepárame Señor",
+        "para hacer tu voluntad viviendo",
+        "cada día por el poder de tu amor."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "Cristoj Jamunanqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Muy pronto ya vendrá el Salvador Jesús.",
+        "Entonces, ¿qué será?",
+        "Con verdadero amor velando siempre en El",
+        "A nuestro Salvador Jesús.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Dejemos de servir a más de un Señor.",
+        "Tan sólo el Señor merece nuestro amor.",
+        "Jamás se agradará a Dios y Satanás,",
+        "Porque no existe comunión.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Aquél que sirve a dos no alcanzará salud.",
+        "Irá a la perdición.",
+        "Aquél que sirve sólo a Cristo el Salvador,",
+        "Irá al reino celestial.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Rumores siempre hay de toda índole.",
+        "Prestemos atención;",
+        "Hay guerras y dolor en este mundo cruel;",
+        "Pues, son señales ya del fin.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "El higuero es señal, debemos recordar.",
+        "Reverdeciendo está,",
+        "A la puerta estaré, nos dijo el Señor.",
+        "Pues reinaremos ya con El."
+      ]
+    }
+  ]
+}

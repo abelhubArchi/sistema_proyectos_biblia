@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Jesusqa Bautizakorqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jesusqa bautizakorqa Jordán mayu yakupi,",
+        "Yawarninta Payjich’arqa tukuy juchasapaspaj.",
+        "Wañuyta Pay atiparqa chay kinsa p’unchayninman.",
+        "Janajpachaman riporqa, ujtawan kutimonqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Yakupi bautizakuspa, juchasniyta willani",
+        "Jesuslla salvawasqanta, kawsayta qowasqanta.",
+        "Kunanmanta juchapajqa wañusqajina kasaj.",
+        "Jesús Salvadornillayman kawsayniyta qopusaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Señorwanña wañorqani. Imapáj juchalliyman?",
+        "Paywanña kawsarerqani, mosoj kawsaypi kasaj.",
+        "Amaña kawsayninchejpi juchaqa reinachunchu.",
+        "Señorniypa servicionman kawsayniyta qopusaj."
+      ]
+    }
+  ]
+}

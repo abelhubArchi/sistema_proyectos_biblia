@@ -1,0 +1,86 @@
+{
+  "numero": null,
+  "titulo": "LA PEÑA DE HOREB",
+  "carpeta": "ADORACION",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "transición",
+      "lineas": [
+        "*"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "// Cristo es la peña de Horeb",
+        "Que está brotando.",
+        "Agua de vida",
+        "Saludable para tí. //.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Ven a tomarla",
+        "Que es más dulce que la miel,",
+        "Refresca el alma",
+        "Refresca todo tu ser.",
+        ""
+      ]
+    },
+    {
+      "tipo": "personalizado",
+      "nombre": "V",
+      "lineas": [
+        "Cristo es la peña de Horeb",
+        "Que está brotando,",
+        "Agua de vida",
+        "Saludable para tí.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cristo es el lirio",
+        "Del valle de las flores,",
+        "El es la rosa blanca",
+        "Y pura de Saron.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Cristo es la vida",
+        "Y amor de mis amores,",
+        "El es la fuente",
+        "Eterna de la salvación.",
+        ""
+      ]
+    },
+    {
+      "tipo": "personalizado",
+      "nombre": "V4A",
+      "lineas": [
+        "El es la vida",
+        "Y amor de mis amores,",
+        "El es la fuente",
+        "Eterna de la salvación."
+      ]
+    }
+  ]
+}

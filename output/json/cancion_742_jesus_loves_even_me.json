@@ -1,0 +1,51 @@
+{
+  "numero": null,
+  "titulo": "Jesus Loves Even Me",
+  "carpeta": "Jesus Loves Even Me",
+  "tono": null,
+  "compas": null,
+  "autor": "Philip P. Bliss",
+  "compositor": "Philip P. Bliss",
+  "copyright": "Public Domain",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "personalizado",
+      "nombre": "V",
+      "lineas": [
+        ".G",
+        "1I am so glad that our Father in heaven",
+        "2Tho' I forget Him and wander away,",
+        "3O if there's only one song I can sing",
+        ".D7                        C       D7    G",
+        "1Tells of His love in the  Book He has   given.",
+        "2Still He doth love me wherever    I     stray.",
+        "3When in His beauty I      see the great King,",
+        ".G",
+        "1Wonderful things in my Bible I see-",
+        "2Back to His dear, loving arms would I flee",
+        "3This shall my song in eternity be:",
+        ".D7                        C     D7    G",
+        "1This is the dearest, that Jesus loves me.",
+        "2When I remember that      Jesus loves me.",
+        "3\"O what a wonder, that    Jesus loves me!\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        ".G                 C",
+        "I am so glad that Jesus loves me,",
+        ".D7              G",
+        "Jesus loves me, Jesus loves me.",
+        ".G                 C",
+        "I am so glad that Jesus loves me;",
+        ".D7          C D   G",
+        "Jesus loves e_ven me."
+      ]
+    }
+  ]
+}

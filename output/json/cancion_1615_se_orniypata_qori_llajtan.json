@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "Señorniypata Qori Llajtan",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Señorniypata qori llajtan",
+        "Wiñay wiñaypaj lliphirenqa./",
+        "/Dios Tatay chayta wakicherqa",
+        "Tukuynin wawasnillampajmin./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Janaj pacha wasiyman risaj",
+        "Tukuy nanayía saqepusqa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Kay pachapeqa llakiy, nanay,",
+        "Janaj pachapi kusikuyila./",
+        "/Runa masiyki chejnisojtín,",
+        "Waqaychasonqa Dios Tatanchej./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Mundo kusiyta mak'akuspa,",
+        "Llakiykunata tarikunchej./",
+        "/Janaj pachapi Dios Tatawan",
+        "Wiñay wiñaypaj kusikusun./"
+      ]
+    }
+  ]
+}

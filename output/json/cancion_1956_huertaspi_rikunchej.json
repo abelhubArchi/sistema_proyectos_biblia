@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "Huertaspi Rikunchej",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "T. Rafael",
+  "compositor": "T. Rafael",
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Huertaspi rikunchej durazno sach'asta,",
+        "Trigosta, sarasta, naranja sach'asta.",
+        "Chaykuna kashanku Diospa bendicionnin,",
+        "Diospa wawasnenqa agradecenachej.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Para kajtinkama, pampas q'omeryanku,",
+        "P'isqos takirinku, qhoraspis wiñanku.",
+        "Ch'uwa yakusjamun orqosmantapacha",
+        "Cristo, \"kawsay yaku\" tukuy ch’akisqaspaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tataypis, mamaypis, tukuy wawqesniypis,",
+        "Tiempo kajtinkama saqepuwankuña.",
+        "Kay pacha kawsayqa tukukapojllamin.",
+        "Qhorajina wiñan, fikan ch^akipuntaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Munakoj Diosneyqa cielopi, jallp'api,",
+        "Tlikuynejpi kashan waqaychakushawan.",
+        "Tata Diosninchejta yupaychaykunachej",
+        "Qhuyakuyninmanta,bendidonninmanta."
+      ]
+    }
+  ]
+}

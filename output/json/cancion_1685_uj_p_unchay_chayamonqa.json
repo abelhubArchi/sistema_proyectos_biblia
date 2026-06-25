@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Uj P’unchay Chayamonqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Uj p’unchay chayamonqa kay mundoj tukukuynin.",
+        "Diosninchejri jamuytawan pusarikapuwasun./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Señorninchej jamonqa rifi phuyus chawpipi,",
+        "Pusarikapuwasunchej tukuynin wawasninta./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Kay mundopi waqaylla, onqoy, nanay, phutíylla.",
+        "Janaj pachaman ripuspa, kusikamusun chaypi./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Cielopi ni kanqachu wañuy, onqoy, nanaypis.",
+        "Chayman tukuy ripusunchej wiñay, wiñay kusiyman./"
+      ]
+    }
+  ]
+}

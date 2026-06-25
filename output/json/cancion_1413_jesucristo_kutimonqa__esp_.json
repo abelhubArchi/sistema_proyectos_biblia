@@ -1,0 +1,64 @@
+{
+  "numero": null,
+  "titulo": "Jesucristo Kutimonqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Pronto vuelve Jesucristo",
+        "A juzgar a este mundo",
+        "Con divina potestad.",
+        "Esperemos la llegada",
+        "De aquel hermoso día.",
+        "¡Preparaos, cristiandad!",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cuando venga Jesucristo,",
+        "Temblará el mundo entero;",
+        "No dará el sol su lumbre,",
+        "Ni la luna, ni los astros;",
+        "Solo Cristo brillará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "De manera repentina",
+        "Volverá desde la gloria",
+        "Nuestro Salvador Jesús.",
+        "Con cuan grande alegría",
+        "Le veremos en las nubes",
+        "En su refulgente luz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Los por Cristo redimidos",
+        "Trabajemos en su viña,",
+        "Proclamando su amor.",
+        "Seguiremos con firmeza,",
+        "Esperando la venida,",
+        "De Jesús el Salvador."
+      ]
+    }
+  ]
+}

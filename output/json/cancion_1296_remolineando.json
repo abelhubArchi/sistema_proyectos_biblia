@@ -1,0 +1,52 @@
+{
+  "numero": null,
+  "titulo": "REMOLINEANDO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "HAY MUCHAS FORMAS DE ALABAR SU NOMBRE",
+        "Y DE EXALTARTE OH, JEHOVÁ,",
+        "HAY MUCHAS FORMAS DE MAGNIFICARTE",
+        "PERO AHORA LO HARÉ ASÍ."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "REMOLINEANDO, REMOLINEANDO,",
+        "ALABARÉ A JEHOVÁ",
+        "REMOLINEANDO, REMOLINEANDO,",
+        "LO HARE ASI POR CAUSA DE JEHOVÁ."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "SACÓ MI VIDA DEL  ANONIMATO,",
+        "ME DIÓ CORONA Y VESTIDO REAL,",
+        "ASÍ ES JEHOVÁ QUE EXALTA AL PEQUEÑO,",
+        "POR CAUSA  DE ÉL YO ME HARÉ MÁS VIL."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "LALA, LA LARALA LALA ...."
+      ]
+    }
+  ]
+}

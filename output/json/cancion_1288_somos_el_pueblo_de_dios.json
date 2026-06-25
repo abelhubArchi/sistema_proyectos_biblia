@@ -1,0 +1,51 @@
+{
+  "numero": null,
+  "titulo": "SOMOS EL PUEBLO DE DIOS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "SOMOS EL PUEBLO DE DIOS,",
+        "SOMOS UN PUEBLO ESPECIAL",
+        "LLAMADOS PARA ANUNCIAR",
+        "LAS VIRTUDES DE AQUEL,",
+        "QUE NOS LLAMÓ A SU LUZ,"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "SOMOS EL PUEBLO DE DIOS",
+        "SU SANGRE NOS REDIMIÓ,",
+        "Y SU ESPÍRITU DIÓ",
+        "PARA DARNOS PODER",
+        "Y SER TESTIGOS DE ÉL."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Y LLEVAREMOS SU GLORIA",
+        "A CADA PUEBLO Y NACION",
+        "TRAYENDOLES ESPERANZA",
+        "Y NUEVAS DE SALVACION",
+        "Y SU AMOR NOS IMPULSA",
+        "NO NOS PODEMOS CALLAR",
+        "ANUNCIAREMOS AL MUNDO",
+        "DE SU AMOR Y VERDAD"
+      ]
+    }
+  ]
+}

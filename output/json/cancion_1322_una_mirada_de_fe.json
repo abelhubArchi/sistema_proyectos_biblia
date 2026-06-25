@@ -1,0 +1,34 @@
+{
+  "numero": null,
+  "titulo": "UNA MIRADA DE FE",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "// UNA MIRADA DE FE, UNA MIRADA AL SEÑOR",
+        "",
+        "ES LA QUE PUEDE SALVAR AL PECADOR //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "// Y SI TÚ VIENES A CRISTO JESÚS ÉL TE PERDONARÁ",
+        "",
+        "PORQUE UNA MIRADA DE FE ES LA QUE TE PUEDE SALVAR //"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "¿EN QUE HAY FELICIDAD?",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En el mundo hay dolor, sufrimiento y afán,",
+        "Muchos andan hoy buscando gozo y paz;",
+        "Viendo la gran confusión, yo me puse a pensar;",
+        "¿Dónde puede uno hallar felicidad?",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Si buscamos con afán a Jesús el Salvador,",
+        "Hallaremos paz y gran felicidad.",
+        "La riqueza y el placer de este mundo pasarán,",
+        "Pero sólo en Cristo hay gozo eternal.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Mucha gente busca paz en riquezas y placer",
+        "Pero sólo encuentra penas y dolor,",
+        "Pero el tiempo pasará y su alma perderá,",
+        "El castigo eternal recibirá.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Guíame, Señor Jesús, por doquier Te seguiré,",
+        "Quiero siempre a tu lado caminar.",
+        "Padre, que mi corazón esté lleno de tu amor,",
+        "Solamente en Ti hay gran felicidad."
+      ]
+    }
+  ]
+}

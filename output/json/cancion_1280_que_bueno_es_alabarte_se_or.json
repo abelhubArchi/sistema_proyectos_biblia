@@ -1,0 +1,26 @@
+{
+  "numero": null,
+  "titulo": "QUE BUENO ES ALABARTE SEÑOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "// QUE BUENO ES ALABARTE SEÑOR",
+        "Y CANTAR A TU NOMBRE //",
+        "",
+        "// ANUNCIAR POR LAS MAÑANAS",
+        "TU MISERICORDIA Y TU FIDELIDAD CADA NOCHE //"
+      ]
+    }
+  ]
+}

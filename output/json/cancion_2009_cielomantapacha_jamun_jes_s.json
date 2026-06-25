@@ -1,0 +1,77 @@
+{
+  "numero": null,
+  "titulo": "Cielomantapacha Jamun Jesús",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cielomantapacha jamun Jesús,",
+        "Kusikuychej, kusikuychej.",
+        "Uj pesebrepi nacekun Jesús",
+        "Salvanawanchejpaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Munakuspa, munakuspa, Pay uraykamorqa",
+        "Munakuspa, munakuspa salvanawanchejpaj",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Kusikuytamin ángel qhaparin:",
+        "\"K’anchay jamun, sumaj kawsay.",
+        "Uj Salvador qankunaman jamun,",
+        "Cristo Jesús, Jesús.\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Angeles takinku: \"Kusiy kachun\".",
+        "Gloria Diosman, gloria Diosman.",
+        "Paymin apamun kayman kusiyta,",
+        "Gloria Diosman, Diosman.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Michejkuna jamunku Belenman.",
+        "Wawitata rikuspataj.",
+        "Kusisqas kutipunku wasiman,",
+        "Payta yuyarispa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Magos jamunku mask'aspa Reyta,",
+        "Tapunkutaj: \"Maypi kashan\"?",
+        "Escriturastaj sufincharqanku,",
+        "Belenpi kasqanta."
+      ]
+    }
+  ]
+}

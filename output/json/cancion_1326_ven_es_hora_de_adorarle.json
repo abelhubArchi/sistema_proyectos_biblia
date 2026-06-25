@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "VEN ES HORA DE ADORARLE",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "VEN, ES HORA DE ADORARLE",
+        "",
+        "VEN, ABRE TU CORAZÓN A ÉL",
+        "",
+        "VEN, ANTE SU TRONO ESTAMOS",
+        "",
+        "VEN, ANTE LA MAJESTAD DE DIOS",
+        "",
+        "¡VEN!"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "TODA LENGUA CONFESARÁ",
+        "",
+        "QUE ÉL ES DIOS",
+        "",
+        "LAS RODILLAS SE DOBLARÁN",
+        "",
+        "Y UN TESORO ETERNO",
+        "",
+        "TENDRÁS EN ÉL",
+        "",
+        "SI ESCOGES SU AMOR"
+      ]
+    }
+  ]
+}

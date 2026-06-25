@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Señor Qanman Mañakuni (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "J.P.",
+  "compositor": "J.P.",
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Señor, a Ti he clamado.",
+        "Escucha hoy mi plegaria,",
+        "Apresúrate a mí.",
+        "Mi voz invoca tu nombre.",
+        "Confiado en tu Palabra,",
+        "Hoy me ofrendo a Ti.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "No desampares mi alma, ayúdame",
+        "Mientras busque tu presencia.",
+        "De las trampas del demonio",
+        "Libérame, Oh Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "No dejes que se incline",
+        "Mi corazón al pecado.",
+        "Guarda mi alma. Señor.",
+        "Mis huesos son esparcidos,",
+        "Mi alma ya desfallece.",
+        "Tú eres mi Salvador."
+      ]
+    }
+  ]
+}

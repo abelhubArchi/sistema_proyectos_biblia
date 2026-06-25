@@ -1,0 +1,28 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Si me preguntan porque estoy contento",
+        "Si me preguntan porque canto así,",
+        "",
+        "Es porque Cristo",
+        "me ha lavado con su Sangre",
+        "En una nube blanca",
+        "volverá por mí."
+      ]
+    }
+  ]
+}

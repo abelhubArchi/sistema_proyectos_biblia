@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "Jesucristoman Jamullayña (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "A Jesucristo ven sin tardar,",
+        "Que entre nosotros, hoy El está.",
+        "Y te convida con dulce afán,",
+        "Tierno, diciendo: \"Ven.\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "¡Oh cuan grata nuestra reunión,",
+        "Cuando allá, Señor, en tu mansión,",
+        "Contigo estemos en comunión,",
+        "Gozando eterno bien!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Piensa que El sólo puede colmar,",
+        "Tu triste pecho de gozo y paz.",
+        "Y porque anhela tu bienestar,",
+        "Vuelve a decirte; \"Ven.\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Su voz escucha sin vacilar,",
+        "Y grato acepta lo que hoy te da.",
+        "Talvez mañana no habrá lugar,",
+        "No te detengas, \"Ven.\""
+      ]
+    }
+  ]
+}

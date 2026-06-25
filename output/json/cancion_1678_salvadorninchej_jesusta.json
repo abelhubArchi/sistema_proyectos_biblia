@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Salvadorninchej Jesusta",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Salvadorninchej Jesusta tukuy yupaychana.",
+        "Jamuychej, Payman takisun tukuy sonqomanta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Yupaychana sutinta, qhaparina kusiywan:",
+        "Aleluya, aleluya, aleluya, Amén.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Salvadorninchej Jesusta tukuy munakuna.",
+        "Llimphu kawsayta kawsana, juchata chejnispa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Diospata wawasnin kajkuna Payman takinachej,",
+        "Payllaman agradecespa yupaychaykunapi."
+      ]
+    }
+  ]
+}

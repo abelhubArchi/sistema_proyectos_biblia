@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "MUNATA CRISTO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ":Munata Cristo, nayajj jaltanta,",
+        "Jumar arcan munsma chekpachana. (Bis)",
+        ": Yanapt'itaya, suma Cristojja,",
+        "Llaquis jutascpan atipjáwa. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        ": Munat jilata, jan páchasimti,",
+        "Khespiyirimajja jacasquiwa. (Bis)",
+        ":Jakes parlascpan, jumajj jilata,",
+        "Take chuymampi saraquimay. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        ":Khespiyirisajj niyaw jutani",
+        "Jiwasanacaru irpjjañatac. (Bis)",
+        ":Yanapt'itaya, suma Cristojja,",
+        "Almanac khespiyañataqui. (Bis)"
+      ]
+    }
+  ]
+}

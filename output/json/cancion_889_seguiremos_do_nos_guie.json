@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "SEGUIREMOS DO NOS GUIE",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Sigamos a Cristo el Señor,",
+        "Oyendo su acento de amor;",
+        "Nos trae paz y luz entender que Jesús",
+        "Nos guía y es nuestro Pastor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Seguiremos do nos guíen",
+        "Las pisadas del Señor;",
+        "Seguiremos, seguiremos",
+        "Do nos guíe el Buen Pastor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Es una la grey del Pastor,",
+        "Como El y su Padre uno son;",
+        "Es una en amor y en la fe del Señor.",
+        "Le sirve con fiel corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Gozosa es la grey del Pastor,",
+        "Andando con El en amor;",
+        "Es dulce escuchar su voz tierna al hablar.",
+        "Acata la voz del Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Por ríos de paz el Pastor",
+        "A pastos nos guía en amor;",
+        "Anima su voz al seguir fiel en pos,",
+        "Murió por su grey el Señor."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "numero": null,
+  "titulo": "DULCE SONAR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "DULCE SONAR ES TU NOMBRE JESÚS",
+        "MI INSPIRACIÓN Y MI FUERZA ERES TÚ,",
+        "QUE TU SOPLO ALIENTE MI CORAZÓN",
+        "Y QUE AVIVE EL FUEGO SEÑOR EN MÍ.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "ALGO NUEVO, ALGO ESPECIAL",
+        "UN TORRENTE UNA CANCIÓN.",
+        "REBOSA DE GOZO,  INUNDA TODO MI SER.",
+        "ENCIENDE EL FUEGO",
+        "ENCIENDE EL FUEGO",
+        "EN MI CORAZÓN//"
+      ]
+    }
+  ]
+}

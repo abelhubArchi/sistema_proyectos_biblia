@@ -1,0 +1,50 @@
+{
+  "numero": 13,
+  "titulo": "FUENTE DE LA VIDA ETERNA",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Fuente de la vida eterna y de toda bendición;",
+        "Ensalzar tu gracia tierna debe cada corazón.",
+        "",
+        "Tu piedad inagotable, abundante en perdonar,",
+        "Único Ser adorable, gloria a ti debemos dar. '",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "De los cánticos celestes te quisiéramos cantar;",
+        "Entonados por las huestes, que lograste rescatar.",
+        "",
+        "Almas que a buscar viniste, porque le tuviste amor,",
+        "De ellas te compadeciste, con tiernísimo favor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Toma nuestros corazones, llénalos de tu verdad;",
+        "De tu Espíritu los dones, y de toda santidad.",
+        "",
+        "Guíanos en obediencia, humildad, amor y fe;",
+        "Nos ampare tu clemencia; Salvador, propicio sé."
+      ]
+    }
+  ]
+}

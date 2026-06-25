@@ -1,0 +1,68 @@
+{
+  "numero": 47,
+  "titulo": "CUAL UN RIO ABUNDA EL GOZO",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cual un río abunda el gozo,",
+        "Vino ya el Consolador;",
+        "En el alma que confía",
+        "El es Huésped de honor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Dulce calma y paz, sacrosanta paz,",
+        "Gran confianza en mi alma da;",
+        "A la tempestad con autoridad",
+        "Habla Cristo y cesa ya.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Trae salud, y gozo y vida",
+        "Este Huésped celestial;",
+        "Quita dudas y tristezas,",
+        "Trae descanso espiritual.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Como lluvia y sol del cielo",
+        "Que Dios manda sobre nos,",
+        "Manda así a nuestras vidas",
+        "Al Espíritu de Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "¡Salvación maravillosa",
+        "Siempre a Cristo contemplar!",
+        "Es Jesús hogar seguro",
+        "Do podemos descansar"
+      ]
+    }
+  ]
+}

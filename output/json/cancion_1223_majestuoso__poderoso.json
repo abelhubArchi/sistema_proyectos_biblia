@@ -1,0 +1,37 @@
+{
+  "numero": null,
+  "titulo": "MAJESTUOSO, PODEROSO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "MAJESTUOSO, PODEROSO, DIGNO DE LOOR",
+        "",
+        "PROCLAMEMOS SU GRANDEZA HOY",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "JESUCRISTO ES REY,",
+        "JESUCRISTO ES REY",
+        "",
+        "POSTRADO ESTOY ANTE SUS PIES",
+        "",
+        "JESUCRISTO ES REY"
+      ]
+    }
+  ]
+}

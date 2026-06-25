@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "AL CONTEMPLAR LA EXCELSA CRUZ",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Al contemplar la excelsa cruz",
+        "Do el Rey del cielo sucumbió,",
+        "Cuantos tesoros ven la luz",
+        "Con gran desdén contemplo yo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "No me permitas, Dios gloriar",
+        "Mas que en la muerte del Señor;",
+        "Lo que más pueda ambicionar",
+        "Lo doy gozoso por su amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Desde su faz hasta sus pies,",
+        "Unidos ved amor, pesar;",
+        "¿Qué unión tan fiel como ésta es",
+        "en otro ser podéis mirar?",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Aquel dolor tan grande y cruel",
+        "Que sufre así mi Salvador,",
+        "Exige en cambio para El",
+        "Una alma llena de amor."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "numero": null,
+  "titulo": "CUANDO LE ALABO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "CUANDO LE ALABO YO SIENTO GOZO",
+        "CUANDO LE ALABO COMIENZO A VIVIR."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Y POR ESO LE ALABO,",
+        "LE ALABO, LE ALABO,",
+        "Y POR ESO LE ALABO A MI REY,",
+        "Y POR ESO LE ALABO,",
+        "LE ALABO, LE ALABO,",
+        "PORQUE CON CRISTO ME SIENTO FELIZ"
+      ]
+    }
+  ]
+}

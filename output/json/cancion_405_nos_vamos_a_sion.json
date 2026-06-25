@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "NOS VAMOS A SION",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Si Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Ya nos vamos a Sión para estar con Jesús,",
+        "Y alabar con los ángeles mil.",
+        "El será nuestro Rey en los cielos allí,",
+        "Gloria a Dios ensalzado sea El.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Oh aleluya, gloria sea a nuestro Dios,",
+        "Cantemos todos, alabemos con fervor",
+        "Al Padre Dios, a Cristo, el Rey,",
+        "Que ya muy pronto volverá.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Esperemos con fe, libres de todo mal,",
+        "La venida de Cristo Jesús.",
+        "En los cielos allí, reinaremos con El,",
+        "Alabando a Cristo, el Rey.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cuan gloriosa será, la mansión celestial,",
+        "Estaremos millares allá.",
+        "No habrá ni dolor ni angustia ni afán;",
+        "Viviremos gozosos con Dios."
+      ]
+    }
+  ]
+}

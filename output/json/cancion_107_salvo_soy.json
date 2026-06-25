@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "SALVO SOY",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Salvo soy, salvo soy de tinieblas nocturnal",
+        "Que envolvía mi alma en sopor;",
+        "En mi ser brilla hoy una luz celestial",
+        "De la gloria de Cristo el Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "¡Gloria a Dios, salvo soy!",
+        "El Cordero su sangre vertió;",
+        "De mi mal libre soy, en la luz ahora voy,",
+        "El Cordero de Dios me salvó.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Redimido del mal, en la tumba no hay poder,",
+        "De la muerte victoria me dio;",
+        "De su sangre el raudal, salvación de mi ser,",
+        "Al lavarme mi culpa borró.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Redimido ya fui, en la luz camino ya;",
+        "El Espíritu guía mi ser;",
+        "Y si miedo sentí, ya mi senda libre está",
+        "De terror que me quiera perder.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Lo salvados del mal, van por sendas de alba luz;",
+        "Que son hoy más brillantes que ayer.",
+        "En mansión celestial reinaré con mi Jesús,",
+        "Do no hay pena o dolor que temer."
+      ]
+    }
+  ]
+}

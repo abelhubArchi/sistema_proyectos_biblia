@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "TUYO ES EL PODER",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "TUYO ES EL PODER JESÚS",
+        "TUYA LA GLORIA ES.",
+        "TUYO ES EL DOMINIO SEÑOR",
+        "TUYA LA GLORIA ES.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "QUE TODA LA TIERRA TE ALABE SEÑOR.",
+        "TUYA LA GLORIA ES.",
+        "QUE TODOS LOS PUEBLOS PROCLAMEN TU HONOR,",
+        "TUYA LA GLORIA ES.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "DESDE LA ETERNIDAD, TU GOBIERNAS CON AUTORIDAD,",
+        "NUESTRA VOZ SE LEVANTARÁ,",
+        "PARA SIEMPRE PROCLAMAR."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "Kay Waseqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Esta casa es de Dios, el Señor está aquí.",
+        "Los creyentes se bautizan y pregonan la Verdad./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Aleluya, aleluya,",
+        "Yo me gozo alabando al Señor./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Vengan todos, oh hermanos, anunciemos de Jesús,",
+        "De Jesús el Salvador, en su amor El nos salvó./"
+      ]
+    }
+  ]
+}

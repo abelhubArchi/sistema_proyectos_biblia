@@ -1,0 +1,53 @@
+{
+  "numero": null,
+  "titulo": "Jesucristo Señorninchej (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menot",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Pronto vuelve Jesucristo,",
+        "En las nubes El vendrá,",
+        "A los suyos a llevar, con su gran poder./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Jesús vendrá con su poder.",
+        "A ¡os suyos nos llevará.",
+        "/Gozo tendremos de la vida eterna./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Los salvados siempre firmes",
+        "Seguiremos a Jesús.",
+        "Esperando su venida. Pronto viene El./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/En su gloria los salvados",
+        "Gozaremos con Jesús,",
+        "De la vida eternal. Gloria sea El./"
+      ]
+    }
+  ]
+}

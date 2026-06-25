@@ -1,0 +1,43 @@
+{
+  "numero": null,
+  "titulo": "EL ME TRANSFORMO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Me acerqué a la Fuente de vida ,",
+        "al agua que quita la sed",
+        "Fui saciado y rebosa mi vaso para dar",
+        "me acerqué a Jesús Sanador,",
+        "quien liberta restaura y da paz",
+        "Y al instante mi vida cambió",
+        "y mi casa fue ahora Su hogar",
+        "Ya no soy el mismo,",
+        "jamás podré serlo ya"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Un solo momento",
+        "y Su mano extendida me transformó",
+        "No quiero volver atrás,",
+        "me extiendo a lo por venir",
+        "Mi culpa en la cruz con Su sangre limpió",
+        "una nueva pasión por Su nombre me dio,",
+        "Él me transformó, Él me transformó"
+      ]
+    }
+  ]
+}

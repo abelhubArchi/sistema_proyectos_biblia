@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "//Amarte solo a ti Señor",
+        "Amarte solo a ti Señor,",
+        "Amarte solo a ti Señor",
+        "y no mirar atras.//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "//Seguir tu caminar Señor",
+        "Seguir sin desmayar Señor",
+        "postrado ante tu altar Señor",
+        "y no mirar atras.//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "//Seguirte solo a ti Señor",
+        "Seguirte solo a ti Señor,",
+        "Seguirte solo a ti Señor",
+        "y no mirar atras.//"
+      ]
+    }
+  ]
+}

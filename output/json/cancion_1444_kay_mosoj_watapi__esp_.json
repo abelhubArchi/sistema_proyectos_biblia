@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Kay Mosoj Watapi (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/En este Año Nuevo, los tuyos reunidos,",
+        "Tu bendición grande te lo imploramos./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Solo por tu gracia, vida nueva tengo.",
+        "Que feliz, me siento por tu bendición./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Tus siervos reunidos, hoy a Tí clamamos.",
+        "Siempre nos des fuerzas para servirte./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Todos te alabamos por tus bendiciones,",
+        "Por los días buenos que en tu amor nos das./"
+      ]
+    }
+  ]
+}

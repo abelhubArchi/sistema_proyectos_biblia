@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "¡A LA LUCHA YA!",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Adelante el lema nuestro va,",
+        "Señalando nuestra ruta está;",
+        "La victoria Cristo nos dará;",
+        "¡Oh, vamos! ¡Todos a la lucha ya!",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Con poder divino sostenidos,",
+        "Venceremos, venceremos;",
+        "Ved, el enemigo está vencido,",
+        "¡A la lucha ya! Amén.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¡Adelante siempre sin temor!",
+        "Cerca está el divino Salvador;",
+        "Llenos de esperanza, fe y valor,",
+        "Confiados, ¡Todos a la lucha ya!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¡Adelante! el adversario está",
+        "Lleno de pavor y huyendo va;",
+        "La victoria el Capitán nos da;",
+        "¡Sin tregua! ¡Todos a la lucha ya!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "¡Adelante! el premio ya se ve",
+        "Para aquel que triunfe por la fe;",
+        "Fieles seamos que Dios nos lo dé;",
+        "¡Oh vamos! ¡Todos a la lucha ya!"
+      ]
+    }
+  ]
+}

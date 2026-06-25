@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "Santa Biblianejta (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jesucristo vino a este mundo a salvar,",
+        "Por la Santa Biblia sé.",
+        "Del Señor los hijos somos perdonados ya,",
+        "Por su muerte en la cruz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Gracias demos a El por su grande amor.",
+        "Santa Biblia es que nos habla de su amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cristo derramó su sangre para salvarnos,",
+        "Por la Santa Biblia sé.",
+        "A este mundo vino Cristo a damos la vida",
+        "Por su muerte en la cruz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "En San Juan catorce, seis, El nos dijo ya;",
+        "\"El Camino y Verdad soy.\"",
+        "Solo por Jesús el Señor llegaremos ya",
+        "A la Patria celestial."
+      ]
+    }
+  ]
+}

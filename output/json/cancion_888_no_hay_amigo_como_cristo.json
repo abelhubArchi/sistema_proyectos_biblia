@@ -1,0 +1,69 @@
+{
+  "numero": null,
+  "titulo": "NO HAY AMIGO COMO CRISTO",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "No hay amigo como Cristo en las penas y el dolor;",
+        "Oye al corazón contrito si el turbión ruge al redor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Como Cristo no hay amigo,",
+        "Verdadero, tierno y fiel;",
+        "Estará siempre contigo",
+        "Si tú siempre estás con El. Amén.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "No hay amigo como Cristo; ¡dile adiós al mundo cruel!",
+        "Si lo aceptas, El te acepta; no rechaza a quien va a El.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "No hay amigo como Cristo, debes siempre en El confiar;",
+        "El conoce tus congojas, y te puede consolar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "No hay amigo como Cristo, es eterna su amistad;",
+        "Si en la vida fiel le fuiste, en la muerte El fiel será.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "No hay amigo como Cristo; ¡cuan hermoso es el pensar",
+        "Que en sus brazos poderosos siempre habré de descansar!"
+      ]
+    }
+  ]
+}

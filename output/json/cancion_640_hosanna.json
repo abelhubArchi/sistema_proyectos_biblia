@@ -1,0 +1,45 @@
+{
+  "numero": null,
+  "titulo": "HOSANNA",
+  "carpeta": "ALABANZAS PASTOR PEDRO LUNA",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Pienso al mirar la naturaleza, que grande es nuestro Dios",
+        "Oh Padre bueno yo te agradezco, porque me das tu amor,",
+        "aun recuerdo la voz de Cristo, diciéndome asi",
+        "estoy aqui para hablar contigo, quiero vivir en ti.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "CORO:",
+        "Hosanna-hosanna, por entrar en mi corazón te alabo Señor",
+        "Hosanna-hosanna, tu pusiste dentro de mi el fuego de Dios,",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Oye mi hermano espera un poco, te quiero hablar de Dios",
+        "el sabe mucho de como vives, en este mundo de hoy,",
+        "si es que deseas hallar salida, lo puedes conseguir",
+        "el está aqui para hablar contigo, quiere vivir en ti."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "DEJA QUE TE TOQUE EL SEÑOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "//Deja que te toque El Señor//",
+        "Deja que el Espíritu Santo",
+        "Cambie tu vida por una mejor",
+        "//solamente alábale // con el corazón"
+      ]
+    }
+  ]
+}

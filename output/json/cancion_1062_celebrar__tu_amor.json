@@ -1,0 +1,45 @@
+{
+  "numero": null,
+  "titulo": "CELEBRARÉ TU AMOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Incomparable,  inigualable es tu amor y me rodea",
+        "tu me abrazaste  me sonreíste Señor en mi pecado",
+        "tu amor me alimenta,    tu amor me sustenta"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Celebraré tu amor todos los días",
+        "Celebraré tu gran misericordia",
+        "Celebraré tu gracia inmerecida",
+        "Celebraré tu amor"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Inmensurable, Inagotable es tu amor y nunca cambia,",
+        "estas conmigo y no me puedo escapar aunque lo intente",
+        "tu amor es eterno, tu amor es perfecto",
+        "",
+        "Celebraré tu amor y tu misericordia oh Dios oh oh."
+      ]
+    }
+  ]
+}

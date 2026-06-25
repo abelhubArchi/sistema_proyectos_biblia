@@ -1,0 +1,41 @@
+{
+  "numero": null,
+  "titulo": "097 ROPA BLANCA VESTIRE",
+  "carpeta": "04 Poder del Evangelio",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Ropa blanca vestiré",
+        "En casa de mi Dios,",
+        "En casa de mi Dios,",
+        "En casa de mi Dios,",
+        "Ropa blanca vestiré",
+        "",
+        "En casa de mi Dios,",
+        "Que feliz seré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Un arpa tocaré……",
+        "Una corona llevaré……",
+        "Calles de oro andaré…….",
+        "En un palacio habitaré…….",
+        "Y con Elías danzaré……………"
+      ]
+    }
+  ]
+}

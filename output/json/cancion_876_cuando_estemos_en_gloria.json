@@ -1,0 +1,60 @@
+{
+  "numero": null,
+  "titulo": "CUANDO ESTEMOS EN GLORIA",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Canten del amor de Cristo, ensalzad al Redentor;",
+        "Tributadle santos todos, grande gloria y loor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cuando estemos en gloria,",
+        "En presencia de nuestro Redentor,",
+        "A una voz la historia,",
+        "Diremos del gran Vencedor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "La victoria es segura a las huestes del Señor;",
+        "¡Oh, pelead con la mirada puesta en nuestro Protector!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "El pendón alzad, cristianos, de la cruz, y caminad;",
+        "De triunfo en triunfos, siempre firmes avanzad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Adelante en la lucha, ¡oh, soldados de la fe!",
+        "Nuestro triunfo, oh escucha, los clamores, ¡Viva el Rey!"
+      ]
+    }
+  ]
+}

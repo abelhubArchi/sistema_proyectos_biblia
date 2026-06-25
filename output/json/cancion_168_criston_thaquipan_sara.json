@@ -1,0 +1,56 @@
+{
+  "numero": null,
+  "titulo": "CRISTON THAQUIPAN SARA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cnston thaquipan sará,",
+        "Jiwañcamaw nay arca, Ch'iqhi chuymampi.",
+        "Nayar munatapata,",
+        "Nayar imatapata, Muñasiñampi.",
+        "",
+        ":Ch'amac thaquin uñjasin, jawsatap ist'ayasin",
+        "Khespiyasitu.  (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¿Cunarurac ajjsara,?",
+        "Cheka thac jicjjatasin, Cusisitatwa.",
+        "Jachañajjajj jayanquiw,",
+        "Cristojjajj chuymajjanquiw Khespiyatatwa.",
+        "",
+        ":Parlañajjajj waquisiw k'ochuñajjajj waquisiw,",
+        "Take chuymampi.  (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jumatejj jicjjatasmajj",
+        "Nayjam arcaraquismaw Cusisiñampi.",
+        "Juchanacamajj cruzan",
+        "Pampachat uñjasiway, Amuyt'asimay.",
+        "",
+        ": Juman asquimataquiw, ist'amay jumataquiw",
+        "Khespiyasimay.   (Bis)"
+      ]
+    }
+  ]
+}

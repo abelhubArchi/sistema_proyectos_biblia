@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Jesús Munakuyki (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jesús yo te amo. Jesús yo te amo,",
+        "Jesús yo te amo a Ti.",
+        "Porque Tú me has salvado, porque Tú me has sanado,",
+        "Jesús yo te amo a Ti.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Jesús nada tengo hoy para ofrecerte,",
+        "Con todo te amo a Ti.",
+        "Toma pues lo que tengo, hoy te ofrezco mi vida",
+        "Jesús yo te amo a Ti."
+      ]
+    }
+  ]
+}

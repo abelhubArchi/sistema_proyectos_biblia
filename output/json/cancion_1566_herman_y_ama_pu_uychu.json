@@ -1,0 +1,69 @@
+{
+  "numero": null,
+  "titulo": "Hermanóy Ama Puñuychu",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Hermanóy, ama puñuychu.",
+        "Rijch'ariy pata qhawariy.",
+        "Inti, killa urmanqaña,",
+        "Sinch'i llakiyllaña kanqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Hermanóy, jatarillayña,",
+        "Diospa Churin jamushanña.",
+        "Amaña iskayrayaspa",
+        "Payllataña sirvikuna.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Hermanóy, ama puñuychu;",
+        "Rijch’ariy, mundo qhawariy.",
+        "Guerras jamun, ch'ajwas jamun;",
+        "Onqoy, waqay junt'akushan.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Hermanóy, ama puñuychu;",
+        "Rijch'ariy, repararikuy.",
+        "Qolqe, qori ganasqanchej",
+        "Llakiyilaman pusawasun.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Hermanóy, ama puñuychu.",
+        "Rich'ariy, sayarikuytaj.",
+        "Orakuspa suyasunchej",
+        "Salvador Jesusninchejta."
+      ]
+    }
+  ]
+}

@@ -262,6 +262,21 @@
     </div>
         <div class="info"> Escribe una cita (ej: apo 21:4) o una palabra para buscar</div>
 
+        <div style="text-align: center; margin-top: 15px;">
+            <label style="font-size: 14px; color: #555; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; user-select: none;">
+                <input type="checkbox" id="dividir-verso-checkbox" onchange="toggleDividirVerso(this.checked)">
+                <span style="font-weight: 600; color: #333;">Dividir versículos grandes automáticamente</span>
+            </label>
+        </div>
+        <div style="text-align: center; margin-top: 10px; display: none; gap: 10px; justify-content: center;" id="btn-siguiente-parte-container">
+            <button class="ejemplo-btn" style="background: #f59e0b; color: white; font-weight: 600;" onclick="anteriorParteVerso()">
+                ⏪ Parte Anterior
+            </button>
+            <button class="ejemplo-btn" style="background: #f59e0b; color: white; font-weight: 600;" onclick="siguienteParteVerso()">
+                Siguiente Parte ⏩
+            </button>
+        </div>
+
         <div class="control-panel-extras" style="margin-top: 30px; border-top: 1px solid #eee; padding-top: 20px;">
             <h3 style="font-size: 16px; color: #444; margin-bottom: 12px; text-align: center; font-family: inherit;">
                 Panel de Control Adicional</h3>
@@ -656,6 +671,19 @@
             }
         }
 
+        function toggleDividirVerso(checked) {
+            socket.emit("toggle-dividir-verso", checked);
+            document.getElementById('btn-siguiente-parte-container').style.display = checked ? 'flex' : 'none';
+        }
+
+        function siguienteParteVerso() {
+            socket.emit("siguiente-parte-verso");
+        }
+
+        function anteriorParteVerso() {
+            socket.emit("anterior-parte-verso");
+        }
+
         // ══════════════════════════════════════════════════════════════
         // SISTEMA DE FONDOS — modal + subida (igual que en canticosadmin)
         // ══════════════════════════════════════════════════════════════
@@ -809,6 +837,73 @@
             // Reset input para permitir subir el mismo archivo otra vez
             input.value = '';
         }
+
+        // =========================================================================
+        // SNIPPET: PROYECTAR TEXTO SELECCIONADO (Fondo Azul)
+        // =========================================================================
+        const floatingBtn = document.createElement('button');
+        floatingBtn.innerHTML = '📺 Proyectar Selección';
+        floatingBtn.style.cssText = 'position: absolute; display: none; background: #667eea; color: white; border: none; padding: 10px 16px; border-radius: 8px; cursor: pointer; box-shadow: 0 4px 15px rgba(0,0,0,0.3); font-weight: bold; z-index: 9999; font-size: 14px; font-family: inherit; transition: all 0.2s;';
+        floatingBtn.onmouseover = () => { floatingBtn.style.transform = 'scale(1.05)'; floatingBtn.style.background = '#5a67d8'; };
+        floatingBtn.onmouseout = () => { floatingBtn.style.transform = 'scale(1)'; floatingBtn.style.background = '#667eea'; };
+        document.body.appendChild(floatingBtn);
+
+        function handleSelection() {
+            setTimeout(() => {
+                const selection = window.getSelection();
+                const text = selection.toString().trim();
+                if (text.length > 0 && !selection.isCollapsed) {
+                    const range = selection.getRangeAt(0);
+                    const rect = range.getBoundingClientRect();
+                    floatingBtn.style.top = `${rect.top + window.scrollY - 55}px`;
+                    
+                    let left = rect.left + window.scrollX + (rect.width/2) - 80;
+                    if (left < 10) left = 10;
+                    
+                    floatingBtn.style.left = `${left}px`;
+                    floatingBtn.style.display = 'block';
+                } else {
+                    floatingBtn.style.display = 'none';
+                }
+            }, 50);
+        }
+
+        document.addEventListener('mouseup', handleSelection);
+        document.addEventListener('touchend', handleSelection);
+        document.addEventListener('selectionchange', handleSelection);
+
+        floatingBtn.addEventListener('mousedown', (e) => {
+            e.preventDefault(); // Evitar que se deseleccione el texto al hacer click
+        });
+
+        floatingBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            const text = window.getSelection().toString().trim();
+            if (text) {
+                // Proyectar el texto usando el evento de cánticos que maneja texto libre
+                socket.emit("cambiar-pantalla", "/canticospantalla");
+                socket.emit("cambio-estrofa", {
+                    titulo: "Selección",
+                    estrofaActual: "",
+                    totalEstrofas: "",
+                    texto: text,
+                    esCoro: false,
+                    fuente: "libre",
+                    tono: ""
+                });
+                
+                const oldText = floatingBtn.innerHTML;
+                floatingBtn.innerHTML = '✅ ¡Proyectado!';
+                floatingBtn.style.background = '#10b981';
+                setTimeout(() => {
+                    floatingBtn.innerHTML = oldText;
+                    floatingBtn.style.background = '#667eea';
+                    floatingBtn.style.display = 'none';
+                    window.getSelection().removeAllRanges();
+                }, 1500);
+            }
+        });
     </script>
 </body>
 

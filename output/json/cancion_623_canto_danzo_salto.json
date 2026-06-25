@@ -1,0 +1,51 @@
+{
+  "numero": null,
+  "titulo": "Canto Danzo Salto",
+  "carpeta": "ALABANZA",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Mi pasado borró",
+        "Mi tristeza quitó",
+        "Hoy nueva criatura soy en Él.",
+        "",
+        "No más condenación",
+        "Hecho fuera el temor,",
+        "Danzare con libertad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Hoy canto danzo salto para Cristo",
+        "Somos la generación.",
+        "Que alegra su corazón",
+        "",
+        "Canto, danzo, salto para Cristo",
+        "Los jovenes y ancianos",
+        "Juntamente nos alegramos.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Somos la generación que canta para Él",
+        "",
+        "Somos la generación que salta para Él"
+      ]
+    }
+  ]
+}

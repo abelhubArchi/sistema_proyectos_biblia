@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Juchasneyqa Mayllasqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Juchasneyqa mayllasqa Jesucristoj yawarninwan,",
+        "Sonqoypis llimphuchasqa Jesucristoj yawarniwan.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Yaku pujyujina rit’ita llimphuchan,",
+        "Manota] waj kanchu, Jesucristoj yawarnillan.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Juchaymanta junfarqa Jesucristoj yawarnillan,",
+        "Diosman qayllachiwarqa Jesucristoj yawarnillan.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Salvacionta tarini Jesucristoj yawarnimpi.",
+        "Thañikuytapis qowan Jesucristoj yawarnillan.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Kusikuywan takini Jesucristo Salvawajman.",
+        "Jesús, Diospa Corderon yawarninwan mayllawanchej."
+      ]
+    }
+  ]
+}

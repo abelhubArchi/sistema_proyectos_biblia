@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Cristota Suyanachej (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "F. Paredes",
+  "compositor": "F. Paredes",
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristo vuelve otra vez, los salvos aguardemos",
+        "Al llamado de Jesús. El nos arrebatará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "En la patria celestial gozaremos con Jesús.",
+        "Las penurias y dolor nunca faltarán aquí,",
+        "En el cielo no habrá más.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "De las manos del Señor nadie nos separará.",
+        "Seguiremos a Jesús, consagrando nuestro ser.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Los que somos del Señor esperemos ya a Jesús.",
+        "Vendrán pruebas y dolor, siempre nos ayudará."
+      ]
+    }
+  ]
+}

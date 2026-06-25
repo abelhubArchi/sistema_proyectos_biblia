@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Cristo Diospa Churin",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Si Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Cristo Diospa Churin, Salvawajniy kanki./",
+        "/Juchasapa kani, Qantaj Diospa Santón./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Calvario cruzkama Qanniin chayarqanki./",
+        "/Tataykej wasinman wajyakuwarqanki./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Yana juchasniyta yawarniyki pichan./",
+        "/Kay runii sonqoyta khuyayniyki kichan./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Ciego purej kani, Qan k'anchayniy kanki./",
+        "/Wañusqa karqani, Qan kawsayniy kanki./"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "BUSCAD LAS ALMAS",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristo, nuestro Guía, manda: \"Buscad las almas,\"",
+        "Noble es la tarea, y santa: \"Buscad las almas.\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Las almas debemos ir buscando",
+        "En nombre de Cristo el Salvador;",
+        "Las nuevas benditas anunciando",
+        "En todo lugar al pecador.",
+        "Pues, vamos a todos proclamando",
+        "Que amigo sin par El les será;",
+        "Dios todo poder a Jesús ha dado,",
+        "Siempre El con nosotros estará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "La gran comisión ha dado: \"Buscad las almas;\"",
+        "A la mies nos ha llamado: \"Buscad las almas.\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Gozarán los segadores: \"Buscad las almas.\"",
+        "De otros somos guardadores: \"Buscad las almas.\""
+      ]
+    }
+  ]
+}

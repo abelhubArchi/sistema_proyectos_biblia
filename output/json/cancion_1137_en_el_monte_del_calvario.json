@@ -1,0 +1,37 @@
+{
+  "numero": null,
+  "titulo": "EN EL MONTE DEL CALVARIO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "EN EL MONTE CALVARIO",
+        "ESTABA UNA CRUZ,",
+        "EMBLEMA DE AFRENTA Y DOLOR,",
+        "MÁS YO AMO ESA CRUZ,",
+        "DO MURIÓ MI JESUS POR SALVAR",
+        "AL MAS VIL PECADOR."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "OH YO SIEMPRE AMARE ESA CRUZ",
+        "EN SUS TRIUNFOS MI GLORIA SERÁ.",
+        "Y ALGÚN DÍA EN VEZ DE ESA CRUZ.",
+        "MI CORONA JESÚS ME DARÁ."
+      ]
+    }
+  ]
+}

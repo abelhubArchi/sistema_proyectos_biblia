@@ -1,0 +1,56 @@
+{
+  "numero": null,
+  "titulo": "MUNAT JILATA CUTTANJJAMAY",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Munat jilata cuttanjjamay jucha lurañata;",
+        "Sitejj suyáta ucapachajj jiwañaw catjátam;",
+        "Jichpachay Diosar maqhatanjjam,",
+        "Salvación utjquipan.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Kollan Awquimajj suyasctam,",
+        "Jach'a munasifiapanipi,",
+        "Cusisitaw jumarojja catokasjjátamjja. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Munat jilata arsusjjamay take juchanaca;",
+        "lyawsamay Tatit Cristoru. perdón jicjjatátaw;",
+        "Llamp'u chuymampiy mayisimjja",
+        "Munasir Awquimar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Tatit Cristojj janc'aw jutjjani acá orakeru;",
+        "Khespiyat jakenacarojja irpasjjestaniwa;",
+        "Janc'aquiy jumajj Cristor jutjjam.",
+        "Jupamp sarjjañatac."
+      ]
+    }
+  ]
+}

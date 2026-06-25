@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Maypitaj Ñawpa Hermanos kanku",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Maypitaj ñawpa hermanos kanku",
+        "Diosninchejta yupaychajkuna?/",
+        "/Chayri ñachu qonqakapunkuña",
+        "\"Qhatísqayki,\" nerqanku, chayta./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Noqanchej kaypi kashajkuna,",
+        "Yupaychanachej Jesusllata./",
+        "/Ama jayk’aj faqakunachu",
+        "Jesucristoj ñanninmantaqa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Llakiy kanqa mana creejpaj,",
+        "Paykunata Dios tapurenqa./",
+        "/Diosman tukuy cuenta qosunchej",
+        "rnlkuy ruwasqasninchejmanta./"
+      ]
+    }
+  ]
+}

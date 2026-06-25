@@ -1,0 +1,42 @@
+{
+  "numero": null,
+  "titulo": "Kallpachakuychej Hermanos (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Perseveremos, hermanos, en Jesús hasta el fin.",
+        "La venida del Señor cerca está, cerca está./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Hermano mío, nunca desmayes",
+        "Aunque la gente hable contra tí.",
+        "Procura siempre confiar en Cristo,",
+        "/El Señor Jesús contigo estará./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Perseveremos, hermanos, orando, cantando.",
+        "La venida del Señor cerca está, cerca está./"
+      ]
+    }
+  ]
+}

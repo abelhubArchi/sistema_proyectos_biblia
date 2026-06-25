@@ -1,0 +1,62 @@
+{
+  "numero": null,
+  "titulo": "HAY PODER",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¿QUIERES SER SALVO DE TODA MALDAD?",
+        "TAN SOLO HAY PODER EN MI JESÚS;",
+        "",
+        "¿QUIERES VIVIR Y GOZAR SANTIDAD?",
+        "TAN SOLO HAY PODER EN JESÚS.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "HAY PODER, PODER, SIN IGUAL  PODER",
+        "EN JESÚS, QUIEN MURIÓ;",
+        "",
+        "HAY PODER, PODER, SIN IGUAL  PODER,",
+        "EN LA SANGRE QUE ÉL VERTIÓ.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¿QUIERES SER LIBRE DE ORGULLO Y PASIÓN?",
+        "TAN SOLO HAY PODER EN MI JESÚS;",
+        "",
+        "¿QUIERES VENCER TODA CRUEL TENTACIÓN?",
+        "TAN SOLO HAY PODER EN JESÚS.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "HAY PODER, PODER, SIN IGUAL   PODER",
+        "EN JESÚS, QUIEN MURIÓ;",
+        "",
+        "HAY PODER, PODER, SIN IGUAL  PODER,",
+        "EN LA SANGRE QUE ÉL VERTIÓ."
+      ]
+    }
+  ]
+}

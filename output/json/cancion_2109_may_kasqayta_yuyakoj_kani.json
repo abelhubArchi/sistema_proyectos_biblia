@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "May kasqayta yuyakoj kani",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "May kasqayta yuyakoj kani",
+        "Niraj rejsishaspa Jesusta.",
+        "Mana yachaspa wañusqanta",
+        "Calvariopi.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Paypi munakuyta almay tarín.",
+        "Perdontapis Payllataj qoyvan,",
+        "Juchaymanta kacharichiwan,",
+        "Salvawajniy.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Biblia willawan juchaymanta",
+        "P'akisqayta kamachisninta.",
+        "Jinamanta Paypi creeni,",
+        "Salvawajpi.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jesusman noqa chimparqani",
+        "Kamachiwasqanta kasuspa.",
+        "Tukuy sonqo Payman takisaj,",
+        "Salvawajman.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Jesusniyta salvanawampaj,",
+        "Payta Dios Tata kachamorqa,",
+        "Wañunampaj juchasniyrayku,",
+        "Salvawajta,"
+      ]
+    }
+  ]
+}

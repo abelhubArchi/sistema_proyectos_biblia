@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "Munasqa Hermanóy",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Munasqa hermanóy, Diosllapajpuni llank'ay.",
+        "Mask'allay Cristollapi, Payllamin qosonqa.",
+        "Amataj desmayaychu Diospa obrampi kaspa.",
+        "Munakoj Salvadorta tukuy sirvinachej.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Kusisqas kasunchej, may kusisqa sirvispa kasun.",
+        "Payllata sirvispa, sirvispalla Salvawajninchejta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Jatunmin Diospa chajran, llank'ajkunari pisi.",
+        "Almasta mask’aj rina, chaypaj wakichikuy.",
+        "Tukuyman rinata Cristo kamacherqa.",
+        "May chhika runasraj wañuyman rishanku."
+      ]
+    }
+  ]
+}

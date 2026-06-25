@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "GOZO HAY EN JESÚS",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Oh cantad aleluya, pues hay gozo en Jesús,",
+        "Y al confiar el alma en su Palabra goza de luz;",
+        "Ya por su gran promesa gozo de libertad,",
+        "La victoria Cristo ya me ha dado en su gran bondad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Gozo hay en Jesús, pleno gozo en Jesús,",
+        "¡Aleluya, gloria, gloria! Gozo hay en Jesús;",
+        "Gozo hay en Jesús, pleno gozo en Jesús,",
+        "¡Aleluya, gloria, gloria! Gozo hay en Jesús.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Por El vivo, pues suyo soy por la eternidad,",
+        "En Jesús descanso, pues en El hay seguridad;",
+        "En mi vida su dulce luz me alumbra tan fiel,",
+        "Y me llena de alegría al caminar yo con El.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Al pasar por las puertas del hogar celestial,",
+        "Con los ángeles podré cantar el himno triunfal;",
+        "Viviré por los siglos con mi célico Rey,",
+        "Aleluyas y loores siempre le cantaré."
+      ]
+    }
+  ]
+}

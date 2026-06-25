@@ -1,0 +1,71 @@
+{
+  "numero": null,
+  "titulo": "EN LOS MONTES EN LOS VALLES",
+  "carpeta": "xMinisterio",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "transición",
+      "lineas": [
+        "*",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Oh,  oh,  oh,  oh, oh, oh.",
+        "..",
+        "En los montes, en los valles",
+        "exaltamos al que es digno de alabanza",
+        "en las costas de los mares,",
+        "levantamos un sonido de esperanza.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Aclamamos, aclamamos",
+        "hacemos oír la voz de su alabanza",
+        "con las manos en lo alto",
+        "exaltamos al que reina para siempre.",
+        ".",
+        "Oh,  oh,  oh,  oh, oh, oh.",
+        "...",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Subamos a adorar en el monte de Sión,",
+        "es el gozo de toda nación",
+        "donde la tristeza es gozo,",
+        "el llanto es alegría",
+        "subamos a adorar al gran Rey.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "En los montes, en los valles",
+        "exaltamos al que es digno de alabanza",
+        "en las costas de los mares,",
+        "levantamos un sonido de esperanza."
+      ]
+    }
+  ]
+}

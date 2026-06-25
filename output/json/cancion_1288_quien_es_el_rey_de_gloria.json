@@ -1,0 +1,86 @@
+{
+  "numero": null,
+  "titulo": "QUIEN ES EL REY DE GLORIA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¿QUIÉN ES EL REY DE GLORIA?",
+        "ME PERSIGUE CON SU AMOR",
+        "ME ASOMBRAN SUS PALABRAS",
+        "SUSURRANDO EN MI INTERIOR"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "MI CONCIENCIA ME RECUERDA",
+        "QUE NECESITO SU PERDÓN",
+        "¿QUIÉN ES EL REY DE GLORIA",
+        "QUE ME LO OFRECE HOY?"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "OH REY DEL UNIVERSO",
+        "Y PRÍNCIPE DE PAZ",
+        "REVELÁNDOME LOS CIELOS",
+        "LOS MISTERIOS QUE EN ÉL HAY"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "MI ESPÍRITU ANHELA",
+        "DE SU GRACIA Y SU VERDAD",
+        "¿QUIÉN ES EL REY DE GLORIA?",
+        "HIJO DE HOMBRE, HIJO DE DIOS"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "CORO:",
+        "SU NOMBRE ES CRISTO,",
+        "OH MI CRISTO",
+        "DIOS PODEROSO, REY DE MI SER,",
+        "EL REY DE GLORIA"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 6,
+      "lineas": [
+        "¿QUIÉN ES EL REY DE GLORIA",
+        "CON PODER Y MAJESTAD?",
+        "ÉL ES SABIO SIN MEDIDA,",
+        "ES EL REY DE AMOR Y PAZ"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 7,
+      "lineas": [
+        "EL SEÑOR DEL CIELO Y LA TIERRA",
+        "Y EL ÚNICO CREADOR",
+        "ÉL ES EL REY DE GLORIA",
+        "Y ÉL ES TODO PARA MÍ"
+      ]
+    }
+  ]
+}

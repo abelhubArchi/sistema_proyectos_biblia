@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "YATICHITAY KOLLAN CRISTO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Yuspagarsmaw Kollan Cristo",
+        "Nayar khespiyatamat.",
+        "Munasinam laycuquiwa",
+        "Juchat k'omachistajja.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Yatichitay Kollan Cristo",
+        "Arunacam parlaña.",
+        "Waljaniw jakenacajja",
+        "Jan Jumar uñt'apctamti.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Yanapt'itay Kollan Cristo",
+        "Munasiñamat parlan.",
+        "Jumaw Cristo cruzan jiwtajj",
+        "Juchanir salvañatac.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Ch'amamampi sarayíta",
+        "Arunacam parliri.",
+        "Llaccañaw jakenacajja",
+        "Juchan t'akhesisipqui.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Alajjpachar puriñasti",
+        "Juma tokequiw utji.",
+        "Take chuym arquirirusti",
+        "Wiñay jacañ churtajja."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "Amapuni Juchamanqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "No, nosotros nunca, nunca cederemos al mal,",
+        "Nunca, no (aleluya) nunca, no, no, no.",
+        "No, nosotros nunca, nunca cederemos al mal.",
+        "Nos espera la corona en el cielo."
+      ]
+    }
+  ]
+}

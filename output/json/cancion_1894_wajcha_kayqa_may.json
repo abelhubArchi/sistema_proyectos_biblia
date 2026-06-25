@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Wajcha Kayqa May",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Wajcha kayqa may llakiymin",
+        "Onqosqa kayrí aswan llakiy.",
+        "Almata chinkachiyrí may llakiyraj,",
+        "Mañana jayk’aj kutirej.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Usqhayta mask'ay kawsayta,",
+        "Almaykej salvacionninta.",
+        "Jesucristollapi tarinki",
+        "Almaykej salvacionninta."
+      ]
+    }
+  ]
+}

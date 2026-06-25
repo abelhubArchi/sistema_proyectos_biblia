@@ -1,0 +1,79 @@
+{
+  "numero": 19,
+  "titulo": "CORONADLE REY",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Todos dad a Cristo Jesús loor,",
+        "Luchando bien por la verdad;",
+        "De todo ser hacedle Rey,",
+        "Pues Dios las fuerzas nos dará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "¡Oh, coronadle!",
+        "Coronad a Cristo eterno Rey;",
+        "Oh, sí, coronadle,",
+        "Coronadle a Cristo eterno Rey.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Aunque del pecado haya huestes mil,",
+        "Cantar podremos y vencer;",
+        "En nos Jesús viviendo está;",
+        "Del mal nos puede defender.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Dios a su Hijo dio toda potestad,",
+        "Es Rey y ya reinando está;",
+        "No sobre todo cual lo hará,",
+        "Mas en los suyos reina ya.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "La final trompeta resonará,",
+        "Los muertos resucitarán;",
+        "Arrebatados, con Jesús",
+        "Los suyos con El reinarán.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Cielo y tierra nuevos El prometió,",
+        "Do viviremos en amor;",
+        "En medio de celebración",
+        "Coronaremos al Señor."
+      ]
+    }
+  ]
+}

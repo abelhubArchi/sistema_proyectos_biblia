@@ -1,0 +1,32 @@
+{
+  "numero": null,
+  "titulo": "Sinch’i Qayllana",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Sinch'i qayllaña kashan Señorpa jamunan.",
+        "Suyanachej wakisqas. Aleluya Diosllaman./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Llamp'u sonqoyojkuna kusisqas kanqanku.",
+        "Jamojta rikonqanku munakoj Salvadorta./"
+      ]
+    }
+  ]
+}

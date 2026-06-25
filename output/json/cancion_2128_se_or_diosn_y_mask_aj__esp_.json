@@ -1,0 +1,34 @@
+{
+  "numero": null,
+  "titulo": "Señor Diosníy Mask'aj (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Señor, Señor, buscándote estoy./",
+        "/Perdón, Señor, te vengo a pedir./",
+        "/Yo quiero paz, yo quiero tu amor./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Señor, Señor, estoy a tus pies./",
+        "/Mi corazón te entrego a Tí./",
+        "/Yo quiero paz, yo quiero tu amor./"
+      ]
+    }
+  ]
+}

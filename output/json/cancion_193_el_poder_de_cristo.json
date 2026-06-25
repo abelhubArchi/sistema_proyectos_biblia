@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "EL PODER DE CRISTO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "El poder de Cristo",
+        "Fue manifestado",
+        "Por las grandes obras",
+        "De su creación. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cristo es poderoso",
+        "Para redimir",
+        "Y El ha preparado",
+        "Para los salvados",
+        "Un glorioso hogar. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "El poder de Cristo",
+        "Puede darte vida",
+        "Si tú lo recibes",
+        "En tu corazón. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "El poder de Cristo",
+        "Siempre nos anima,",
+        "Para andar la vida",
+        "Sin mirar atrás. (Bis)"
+      ]
+    }
+  ]
+}

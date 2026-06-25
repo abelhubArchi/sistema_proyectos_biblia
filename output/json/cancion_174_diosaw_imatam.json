@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "DIOSAW IMATAM",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Diosaw imatam take ñankhata",
+        "Cawquirutejja sarcat ucana.",
+        "Saraquimaya jan ajjsarasa.",
+        "Kollan Ajayojj irpascatamwa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Tatit Jesusa jutcan ucqhajja",
+        "Take marcawa tantachasiñán.",
+        "ücapachawa jiquisjjañani",
+        "Khespiyirisan nayrájjapana.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Diosaw imátam take chekana,",
+        "Llaquisiñansa cusisiñansa.",
+        "Munasiñampiw Jupajj irpatam.",
+        "Cawqui chekansa arjjatatamwa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Diosaw imátam take uruna,",
+        "Tatit Jesusan jutañapcama.",
+        "Diosampiquiya munat jilata,",
+        "Oracionampiw amtasiñani."
+      ]
+    }
+  ]
+}

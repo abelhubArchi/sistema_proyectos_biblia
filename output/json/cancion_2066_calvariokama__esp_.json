@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "Calvariokama (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En la cruz del calvario por mí murió",
+        "Señor Jesús, por mí murió.",
+        "En la cruz del calvario por mi murió,",
+        "Ya me salvó Jesús.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Perdido estuve yo en la maldad, con",
+        "/Su muerte El en la cruz me ha salvado./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Jesús en el cielo ya intercede por mí,",
+        "Jesús por mí ya intercede hoy.",
+        "Jesús en el cielo ya intercede por mí.",
+        "Jesús por mí vendrá"
+      ]
+    }
+  ]
+}

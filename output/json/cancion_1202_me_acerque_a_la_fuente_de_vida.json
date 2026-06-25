@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "ME ACERQUE A LA FUENTE DE VIDA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ME ACERQUE A LA FUNTE DE VIDA",
+        "AL AGUA QUE QUITA LA SED,",
+        "FUI SACIADO Y REBOSA MI VASO PARA DAR."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "ME ACERQUE A JESÚS SANADOR",
+        "QUIEN LIBERTA, RESTAURA Y DA PAZ",
+        "Y AL INSTANTE MI VIDA CAMBIÓ",
+        "Y MI CASA FUE AHORA SU HOGAR."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "YA NO SOY EL MISMO,",
+        "JAMÁS PODRÉ SERLO YA.",
+        "UN SOLO MOMENTO",
+        "Y SU MANO EXTENDIDA",
+        "ME TRANSFORMÓ."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "NO QUIERO VOLVER ATRÁS.",
+        "ME EXTIENDO A LO PORVENIR",
+        "MI CULPA EN LA CRUZ",
+        "CON SU SANGRE LIMPIÓ.",
+        "UNA NUEVA PASIÓN POR SU NOMBRE  ME DIO.",
+        "EL ME TRANSFORMÓ/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "Cristo Llimphuchawan (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristo me ha limpiado, muy feliz estoy.",
+        "Cristo me ha limpiado, su Palabra dice así.",
+        "Uno siete, en Juan, me dice el Señor; Cuánto me amó.",
+        "Por su sangre El me ha limpiado."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "¿COMO ESTA TU CORAZÓN?",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¿Llena de gozo es tu vida,",
+        "O está triste tu corazón?",
+        "¿Sabes que Cristo te ama,",
+        "Y siempre te cuidará?",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Ten fe en El, ten fe en El,",
+        "En Cristo, tu Salvador.",
+        "Ten fe en El. ten fe en El,",
+        "En Cristo, tu Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Oye el llamado de Cristo,",
+        "El quiere entrar en tu corazón.",
+        "Recíbale sin demora,",
+        "El será tu Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Siempre vivamos gozosos,",
+        "Sirviendo a Cristo con mucho amor.",
+        "Aún en tristezas y pruebas,",
+        "Le seguiremos con fe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "EL BRILLO DE ESTE MUNDO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "EL BRILLO DE ESTE MUNDO",
+        "SE OPACA ANTE TI.",
+        "LA GLORIA DE ÉSTA TIERRA NADA ES.",
+        "TODO CAE EN TU PRESENCIA OH, REY,",
+        "HERMOSA ES TU PRESENCIA SEÑOR."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "TU PRESENCIA ESTA AQUÍ,",
+        "TU PRESENCIA ESTA EN MI",
+        "Y TU PUEBLO TE RECIBE ADORÁNDOTE",
+        "HERMOSA ES TU PRESENCIA SEÑOR//"
+      ]
+    }
+  ]
+}

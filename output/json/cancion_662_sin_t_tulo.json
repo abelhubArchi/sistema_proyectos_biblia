@@ -1,0 +1,42 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "Comunidad Cristiana",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Este amor incomparable que tú me has dado",
+        "Lo más profundo de mi ser ha cautivado",
+        "// Cuantas veces te falle y no me dejaste",
+        "Con cuerdas de amor a ti me acercaste //",
+        "",
+        "Cuando estuve en dolor tú me curaste",
+        "Cuando no podía más me levantaste.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "//Qué manera de necesitarte mi Dios",
+        "Qué manera de tener sed de tu amor //",
+        "",
+        "Por eso yo gritaré",
+        "Con todo, todo, todo mi ser.",
+        "// Te amo mi Dios, yo te amo Señor",
+        "Y sé muy bien que sin ti ya no puedo vivir. //"
+      ]
+    }
+  ]
+}

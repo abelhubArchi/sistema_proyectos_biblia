@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "KHESPIYIRI YANAPTlITAYA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Kawkha cutiw Kollan Cristo,",
+        "Jawsatama nayajj ist'ta.",
+        "Janc'aquítwa jichhajj Tatay",
+        "Arunacam arsuñatac.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Khespiyiri yanapt'asitaya,",
+        "Arunacam khananchaña.",
+        "Khespiyiri yatichasitaya,",
+        "Yapumana irnakaña.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cawqui chekans utjapiniw",
+        "Jumataqui yatiyañajj.",
+        "Jawsatama ist'casinsa",
+        "Waljaniwa cutektapjje.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Walpachawa yapumajja,",
+        "Irnakerejj juc'aniquiw.",
+        "Mayismawa Kollan Awqui,",
+        "Tamamana irnakaña.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Khespiyata marcapasti",
+        "Cristosata arsuñáni,",
+        "Ñankha juchar takjjatañcam",
+        "Cristosata sayt'añani."
+      ]
+    }
+  ]
+}

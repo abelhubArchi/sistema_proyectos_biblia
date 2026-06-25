@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "PROCLAMEMOS LA SALVACIÓN",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Si vivimos cerca a Cristo",
+        "Compartamos de su amor.",
+        "Proclamemos su Palabra",
+        "A los que andan en oscuridad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Id por todo el mundo entero,",
+        "Dijo nuestro Jesucristo.",
+        "Proclamad que Dios ofrece",
+        "La preciosa salvación. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Con felicidad y gozo",
+        "Proclamemos la verdad.",
+        "El Señor ha prometido",
+        "Darnos su presencia y su poder.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Vamos todos por doquiera",
+        "Guiados por nuestro Señor.",
+        "Consolando al que sufre,",
+        "Y ayudando a todos por igual."
+      ]
+    }
+  ]
+}

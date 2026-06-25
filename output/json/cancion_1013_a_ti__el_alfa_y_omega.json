@@ -1,0 +1,37 @@
+{
+  "numero": null,
+  "titulo": "A TI, EL ALFA Y OMEGA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "A TÍ, EL ALFA Y OMEGA",
+        "EL PRINCIPIO Y EL FIN",
+        "Y EL GRAN YO SOY, ME ENTREGO.",
+        "A TÍ, EL TODOPODEROSO",
+        "EL  QUE ES Y QUE SERÁ",
+        "Y EL GRAN YO SOY, ME RINDO"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "YO QUIERO QUE GOBIERNES MI VIDA,",
+        "ME DOY EN  SACRIFICIO A TÍ,",
+        "YO QUIERO QUE TÚ ORDENES  MI  CAMINAR",
+        "QUE SIEMPRE VIVA EN TU VOLUNTAD"
+      ]
+    }
+  ]
+}

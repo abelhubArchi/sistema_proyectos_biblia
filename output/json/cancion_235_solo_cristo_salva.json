@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "SOLO CRISTO SALVA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Sólo Cristo salva de pecado y dolor.",
+        "Derramó su sangre para darnos libertad.",
+        "No hay otro nombre que ofrece salvación.",
+        "Sólo Cristo salva, dando gozo y perdón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Sólo Cristo salva de tristeza y pesar",
+        "Dando paz y gozo, consolando con su amor.",
+        "No hay otro nombre que ofrece salvación.",
+        "Sólo Cristo salva, dando gozo y perdón."
+      ]
+    }
+  ]
+}

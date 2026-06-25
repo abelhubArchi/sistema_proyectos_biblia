@@ -1,0 +1,38 @@
+{
+  "numero": null,
+  "titulo": "Tu amor por mi",
+  "carpeta": "Comunidad Cristiana",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tu amor por mi Dios mio es infinito",
+        "y el estar contigo es lo mas esquisito",
+        "eres tan bueno , mi Dios esterno",
+        "cuantas veces sin razon lastime tu corazon",
+        "cuando estaba yo sufriendo me cobijaste con amor",
+        "me perdonaste , me levantaste",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Y por eso y por muchas razones Yo te amo mas",
+        "y bendigo el momento en que te conoci",
+        "por eso yo declaro que gracias a tu amor",
+        "por los siglos de los siglos yo sere tu adorador."
+      ]
+    }
+  ]
+}

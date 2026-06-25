@@ -1,0 +1,60 @@
+{
+  "numero": null,
+  "titulo": "Jesucristo Wajyasunki",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jesucristo wajyasunki, sonqoykita kichariy.",
+        "Tuta, p'unchay nishasunki, \"Jamullayña Noqaman.\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Apóstoles kasorqanku Jesuspa wajyasqanta,",
+        "Qhaterqanku kuákuywan Chay munakuyninmanta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jesucristo chimpaykorqa Lázaro puñushajtin.",
+        "“Kawsarimpuy,\" nerqa Cristo;",
+        "Payman kawsayta qorqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Llasa juchawan sayk'usqas, uyariychej Jesusta.",
+        "\"Samariyta qosqaykichej, chimpamuychej\", nin Jesús.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Kay pachapi kusikuyta saqerpayaspa jamuy.",
+        "Perdontapis, kusiytapis, Cristollapi tarinki."
+      ]
+    }
+  ]
+}

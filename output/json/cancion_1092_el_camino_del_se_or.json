@@ -1,0 +1,51 @@
+{
+  "numero": null,
+  "titulo": "EL CAMINO DEL SEÑOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "EL CAMINO DEL SEÑOR ES PERFECTO, LA PALABRA DEL SEÑOR ES PODER",
+        "ES EL ARMA Y ESCUDO DE TODOS LOS QUE EN EL CONFIAN",
+        "CRISTO ES MI FORTALEZA ,ES MI ESCUDO",
+        "CON EL PASO EN MEDIO DE UN BATALLON",
+        "EL ADIESTRA MIS MANO ,ME PREPARA PARA GUERREAR"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "PORQUE ¿QUIEN ES DIOS? SINO EL SEÑOR",
+        "Y ¿QUINES LA ROCA?, SINO NUESTRO DIOS"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "ALELUYA, ALELUYA, ALELUYA."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "PERSEGUIR A MIS ENEMINGOS LO ALCANCE,",
+        "LOS DESTRUI, LO ATRAVESÉ",
+        "BAJO LOS PIES DEL SEÑOR CALLERON, NO SE LEVANTARAN MAS",
+        "NO SE LEVANTARAN MAS NO SE LEVANTARAN MAS"
+      ]
+    }
+  ]
+}

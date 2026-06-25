@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "PRECIOSO JESUS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Al contemplar tu obra en la cruz",
+        "Tanto amor derramado y todo por mi",
+        "Con gratitud me quiero acercar",
+        "Solo tengo mi vida acéptala"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "No se como expresarme ante tu hermosura",
+        "Rodeada de gloria y poder",
+        "Necesito decirte lo que siento ahora",
+        "Me acerco a ti, al Santo lugar",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Precioso Jesús, mi redentor",
+        "Amado Señor, eres todo para mí",
+        "Te adoraré cada día de mi vida",
+        "No puedo vivir sino estas junto a mí"
+      ]
+    }
+  ]
+}

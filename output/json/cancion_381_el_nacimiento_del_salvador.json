@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "EL NACIMIENTO DEL SALVADOR",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jesús, el gran Salvador del mundo,",
+        "Nació en pesebre humilde y pobre.",
+        "Fue una noche maravillosa",
+        "En el pequeño pueblo de Belén.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cristo, el Señor, nació de una virgen",
+        "A dar salud a su pueblo amado.",
+        "Pusiéronle Emanuel por nombre",
+        "Que significa \"Con nosotros Dios\".",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Un ángel del Señor a pastores",
+        "Con una luz tan resplandeciente",
+        "Les dio noticias de paz y gozo,",
+        "Anuncios gratos de felicidad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Los ángeles dieron alabanzas:",
+        "--A Dios las glorias en las alturas,",
+        "Paz en la tierra a todo hombre",
+        "Que cumple fiel su santa voluntad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "A prisa vinieron los pastores,",
+        "Para adorar al recién nacido.",
+        "A Dios con gozo le agradecieron,",
+        "Por su preciosa paz y salvación."
+      ]
+    }
+  ]
+}

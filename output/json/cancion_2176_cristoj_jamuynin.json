@@ -1,0 +1,64 @@
+{
+  "numero": null,
+  "titulo": "Cristoj Jamuynin",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "S. Claros V.",
+  "compositor": "S. Claros V.",
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tukuy hermanos yachaychej,",
+        "Qayllapiñamin kasqanta",
+        "Cristoj jamuynenqa.",
+        "Pusawasunchej salvosta",
+        "Janaj pacha llajtanmanqa,",
+        "Chaypi kusikusun.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Hermanos, rijch’arinallachejña",
+        "Señorpa jamunanta suyaspa.",
+        "Ni pi yachanchu ima hora",
+        "Cristoj kutimuynin kanqa,",
+        "Pronto jamonqa Pay.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cristo urayk'amojtenqa,",
+        "Wajyakapoj wawasninta,",
+        "Diospa trompetanwan.",
+        "Kawsashaj suyajkunata,",
+        "Wañupojkunata Paypi,",
+        "Oqharicaponqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Kusikuyniyoj kanqanku,",
+        "Jesuswan tinkukojkuna",
+        "Chay phuyus chawpipi.",
+        "Saqechikojkunatajri,",
+        "Wiñay chinkayman renqanku,",
+        "Wiñay wiñaynimpaj."
+      ]
+    }
+  ]
+}

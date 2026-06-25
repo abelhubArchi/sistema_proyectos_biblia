@@ -1,0 +1,66 @@
+{
+  "numero": null,
+  "titulo": "LAJJA CH'AMACANQUIR JAKER PARLAM",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Lajja ch'amacan llaquin phokt'ataw",
+        "Jaken almapajj t'akhesisqui. (Bis)",
+        "Wali pharjataw almapajja",
+        "Diosan arunac apata.",
+        "Janc'aquiy Cristot parlaniñán,",
+        "Khana thaquincjjañapataqui.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Jumast jilata, Cristoncjjasajja,",
+        "¿Kawkhanirus khanar irpsunta? (Bis)",
+        "¿ Chuymamajj Cristotacjamati",
+        "Jupan arup parlañatac ?",
+        "Juchan jakeru khespiyst ucqhajj",
+        "Cusisiñaniw luratamajj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Munat jilata. Cristo Awquisajj",
+        "Khespitanacaruw irpjjestan. (Bis)",
+        "Jupajj sistuw: \"Nayajj cutt'aniw,",
+        "Alajjpacharuw sarjjañán. \"",
+        "Qhapachar purjjañán ucqhajja,",
+        "Diosampiw wiñay jacjjañáni.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Diosan chhijilata kollan marcapajj",
+        "Jichhürojj taken parlaniñán. (Bis)",
+        "Jupaw jacañsa mayt'istojja,",
+        "Cusisiflsa churistojja.",
+        "Alabapjjaflániy marcapajj",
+        "Jiwas khespiyir Cristosaru."
+      ]
+    }
+  ]
+}

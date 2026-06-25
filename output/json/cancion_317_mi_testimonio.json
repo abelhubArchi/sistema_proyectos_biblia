@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "MI TESTIMONIO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En las tinieblas de la maldad",
+        "Anduve sin mi Dios.",
+        "Pero un día Cristo me dijo:",
+        "--Ven pecador a mí.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Desde entonces me redimió",
+        "De toda mi maldad.",
+        "Una antorcha en las tinieblas,",
+        "Cristo me convirtió. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Una mañana me sorprendió",
+        "Un siervo del Señor.",
+        "Al recibir palabras de amor,",
+        "Cristo me transformó."
+      ]
+    }
+  ]
+}

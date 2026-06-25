@@ -1,0 +1,48 @@
+{
+  "numero": null,
+  "titulo": "LO MAS HERMOSO",
+  "carpeta": "Comunidad Cristiana",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Lo más hermoso que me sucedió",
+        "Fue conocerte mi Jesús,",
+        "Cuando en la oscuridad sufría yo",
+        "Con tus brazos amorosos me trajiste a tu luz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Desde entonces yo quiero, más y más de ti,",
+        "Estando contigo no me falta nada, mi Señor.",
+        "Tu amor me consume, tu verdad me libera",
+        "Tu fuego me transforma, y mi ser te anhela más",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "// Te amo, Jesús, te amo. //",
+        "",
+        "Tu amor me consume, tu verdad me libera",
+        "Tu fuego me transforma, y mi ser te anhela más",
+        "// Te amo, Jesús, te amo. //"
+      ]
+    }
+  ]
+}

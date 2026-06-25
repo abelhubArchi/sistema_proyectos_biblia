@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Orayta yachachiway",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Orayta yachachiway; Diosníy, Qanlla atinki.",
+        "Astawan feta qoway faltawasqanman jiña.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Dios Tatáy, uyaríway mañakususqaytaqa.",
+        "Allin kajilata qoway Jesusrayku. Amén.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Orayta yachachiway munayniykiman jiña.",
+        "Allinta kawsachiway Espirituykinejta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Juchapi kani chayrí, Qan rikuchiway ari.",
+        "Juchayta willakuyki; sumaj sonqota qoway.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Graciapi wiñachiway, astawan munakuypi.",
+        "Qanta yupaychasqayki wiñay wiñaynintimpaj."
+      ]
+    }
+  ]
+}

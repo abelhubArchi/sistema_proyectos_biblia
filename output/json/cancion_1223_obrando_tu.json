@@ -1,0 +1,26 @@
+{
+  "numero": null,
+  "titulo": "OBRANDO TU",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "OBRANDO TU, ¿QUIÉN LO IMPEDIRÁ?",
+        "TU ERES SEÑOR, ERES DIOS DE AMOR",
+        "ESTÁS CONMIGO, DONDQUIERA ESTE.",
+        "ANTES DE TI NINGUNO SE FORMÓ",
+        "DESPUÉS DE TI, NINGUNO OTRO HABRÁ."
+      ]
+    }
+  ]
+}

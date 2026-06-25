@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "CRISTO LA ROCA",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En las olas inmensas de embravecido mar,",
+        "Que asaltan de mi alma la pobre embarcación,",
+        "De rodillas a Cristo clamé, y el huracán",
+        "Deshecho fue al instante a la voz de Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Es Cristo la Roca, el ancla de mi fe;",
+        "Los males, lamentos, y ayes de temor,",
+        "Terminan por siempre con mi supremo Rey;",
+        "Es Jesucristo mi refugio.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Me guarda de peligros, de pruebas, de dolor;",
+        "El manda que los vientos no agiten tempestad;",
+        "Los mares se detienen, la ola reposó,",
+        "Y en Cristo fijo el ancla confiando más.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Mi dulce Salvador, sí, mi hermoso amigo y Dios,",
+        "Que libra de tristezas y aleja amarga hiel,",
+        "Por fe yo iré al cielo. Mansión del Ser de amor,",
+        "La fuente inagotable de dicha y bien."
+      ]
+    }
+  ]
+}

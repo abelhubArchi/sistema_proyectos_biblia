@@ -1,0 +1,27 @@
+{
+  "numero": null,
+  "titulo": "QUE TODOS LOS PUEBLOS ALABEN",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "QUE TODOS LOS PUEBLOS TE ALABEN,",
+        "QUE TODA TU CREACIÓN",
+        "HOY TE CORONE REY,",
+        "Y DIGAN QUE TU ERES PODEROSO",
+        "ERES REY//",
+        "TU ERES REY///"
+      ]
+    }
+  ]
+}

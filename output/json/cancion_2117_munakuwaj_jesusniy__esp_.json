@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Munakuwaj Jesusniy (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Oh que bueno es Jesús, Él murió por mí en la cruz.",
+        "Mis pecados perdonó, a Su nombre gloria.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/A Su nombre gloria,",
+        "A Su nombre gloría./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Dios está presente aquí, pide lo que quieras de El",
+        "Todo lo imposible es posible para Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cuando vengan las pruebas \"clama a Mí\", nos dijo El",
+        "Si nos vienen penurias, nos promete El su paz."
+      ]
+    }
+  ]
+}

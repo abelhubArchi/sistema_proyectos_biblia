@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Salvador Khuyakuwajníy",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Salvador khuyakuwajníy, chimpaykamuyki.",
+        "Qanlla qoyta atiwanki kusiy kawsayta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cristo, Cristo, Salvakuwajníy,",
+        "Uyaríyvay mañasqayta, khuyakoj Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Salvacionniyta mask'aspa, chimpaykamuyki.",
+        "Noqapaj wañusqaykita creeni, Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Khuyakuyniykiraykulla salvakuwanki.",
+        "Yawarniyki llimphucharqa ch'ichi sonqoyta."
+      ]
+    }
+  ]
+}

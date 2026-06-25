@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Diosta Munakuywan",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Diosta munakuywan tukuy suyanachej,",
+        "Chay kutimuynimpi pusasqa kanapaj./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Cielopiraj tiyan suma] kawsayqa,",
+        "Sapa ujninchejpaj uj qori corona./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Tuta, p'unchay oray, amataj sayk'uspa.",
+        "Mañakuy creespa, yanapaynintaqa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Dios Tata qosonqa chay sumaj yachayta,",
+        "Uj llamp'u sonqota, wiñay kawsaytapis./"
+      ]
+    }
+  ]
+}

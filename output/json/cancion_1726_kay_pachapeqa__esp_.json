@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "Kay Pachapeqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En este mundo lleno de dolor",
+        "Rodeado estoy de pruebas mil.",
+        "Soy incapaz lidiar con Satanás,",
+        "En esta lucha tan hostil.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "¿A quién iré, oh, a quién iré?",
+        "¿A quién iré sino a Jesús?",
+        "El me salvó y mi alma transformó.",
+        "¿A quién iré sino a Jesús?",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Hambre y sed en mi alma tengo yo,",
+        "La satisface mi Jesús.",
+        "Y en ningún otro hay salud y paz,",
+        "¿A quién iré sino a Jesús?"
+      ]
+    }
+  ]
+}

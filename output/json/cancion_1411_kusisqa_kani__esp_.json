@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "Kusisqa Kani (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¡Qué felicidad, con Jesús estar",
+        "En los brazos del Señor Jesús.",
+        "No se temerá del furioso mar",
+        "En los brazos del Señor Jesús.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Descansando, descansando",
+        "En los brazos del Señor Jesús/",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "A Dios gracias doy qué seguro estoy,",
+        "En los brazos del Señor Jesús;",
+        "Redimido soy, y a la gloria voy",
+        "En los brazos del Señor Jesús.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¡Oh, qué libertad qué tranquilidad",
+        "En los brazos del Señor Jesús!",
+        "Redimido soy, y a la gloria voy",
+        "En los brazos del Señor Jesús."
+      ]
+    }
+  ]
+}

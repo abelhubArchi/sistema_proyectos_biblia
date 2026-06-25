@@ -1,0 +1,66 @@
+{
+  "numero": null,
+  "titulo": "Noqarayku Saqerqanki",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Noqarayku saqerqanki tronoykita,",
+        "Belenpi nacej jamorqanki.",
+        "Wasipi mañana Qampaj campo kajtin,",
+        "Uywa corraipi nacerqanki.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Jamuy ari. Jesús, sonqoyman,",
+        "Qampaj lugar wakisqa kashan./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Kusiy takiywan ángeles yupaychanku",
+        "Diospa Churin Jesucristota.",
+        "Wajcha kayman tukuspa, Qan jamorqanki,",
+        "Wiñay kawsayta qonaykipaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Atojkunajta tíyan puñunasninku",
+        "Tukuy phawajkunajpatapis.",
+        "Diospa Churimpaj mana karqachu lugar",
+        "Umanta sirichinampajpis.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Señorniy, jamorqanki runasta salvaj,",
+        "Kacharichej juchasninmanta.",
+        "Wañuchisorqanku Qanta, qhesachaspa",
+        "Jatun munakuyniykitapis."
+      ]
+    }
+  ]
+}

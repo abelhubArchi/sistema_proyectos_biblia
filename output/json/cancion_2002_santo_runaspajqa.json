@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "Santo Runaspajqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Santo runaspajqa Diospa llajtampeqa,",
+        "Mana ujtawampis Ilakiy kanqachu.",
+        "Cielo llajtapeqa Diosninchejwan khuska,",
+        "Tukuy angeleswan kusikamusun.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "IMosoj Uajtapeqa tukuy unas tiyan,",
+        "Trajina q'aparishaj llajtapU",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Kay jallp'a patapi waqay, phutiy tiyan;",
+        "Mikhunasmantapis Ilakikunalla.",
+        "Chayrayku, hermanos, Diosman qayllaykuna,",
+        "Misk’aypis jamojtin, Dios noqanchejwan."
+      ]
+    }
+  ]
+}

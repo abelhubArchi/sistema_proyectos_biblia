@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "Salmo Veintitrés",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Salmo veintitrés qhelqasqa noqapaj.",
+        "Ni manchikunichu; Jehovamin Michejniy./",
+        "/Laqha wayq'ospipis, wañuy patapipis.",
+        "Ni manchikunichu; Jehovamin Michejniy./"
+      ]
+    }
+  ]
+}

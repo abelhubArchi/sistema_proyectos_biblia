@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "EL AMOR DE DIOS",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Si Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Oh amor divino de nuestro Padre",
+        "Es sin igual que nos compadeció.",
+        "Siendo perdido y descarriado,",
+        "El nos salvó de toda sombra del mal.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cristo el Señor nos dio vida nueva;",
+        "Sigámosle de todo corazón.",
+        "Nos perdonó de todo pecado;",
+        "Cantemos muy gozosos a nuestro Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cristo, el bendito hijo del Padre",
+        "Murió por nuestra culpa en una cruz.",
+        "Todo ha cumplido para salvarnos",
+        "Según la voluntad de su Padre Dios,",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cristo mostró su fuerza divina,",
+        "Venciendo a la muerte y a Satán.",
+        "Pues seguiremos con entusiasmo",
+        "Al poderoso Cristo, el Salvador."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "numero": null,
+  "titulo": "UNA VEZ MAS ME ACERCO A TI",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "UNA VEZ MÁS ME ACERCO A TI",
+        "",
+        "CON LIBERTAD EN ADORACIÓN",
+        "",
+        "TÚ ERES MI DIOS TU HIJO SOY",
+        "",
+        "MI COMUNIÓN CONTIGO",
+        "",
+        "ES UNA DULCE BENDICIÓN",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¡ABBA, PADRE! ¡ABBA, PADRE!"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "ESTAR CONTIGO",
+        "",
+        "ES UNA DULCE BENDICIÓN",
+        "",
+        "ABBA, PADRE TE AMO, SEÑOR",
+        "",
+        "QUIERO ESTAR EN COMUNIÓN",
+        "",
+        "QUIERO  ESTAR  CONTIGO"
+      ]
+    }
+  ]
+}

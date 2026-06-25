@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Maqanakuman Jesús (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "A la batalla Jesús nos llama,",
+        "Va con nosotros el Capitán.",
+        "/Marchemos pues a combatir",
+        "A los ejércitos de Satán./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Con Jesús yo iré, pelearé la batalla,",
+        "Si Jesús al frente va, ganaré la batalla.",
+        "Batalla no es batalla, si no viene la prueba.",
+        "Si no viene la prueba, batalla no es batalla."
+      ]
+    }
+  ]
+}

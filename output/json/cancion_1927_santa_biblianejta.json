@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "Santa Biblianejta",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Santa Biblianejta willawanchej Dios Tata",
+        "Munakuwasqanchejta.",
+        "Yawarninwantaj juchasta Jesús mayllarqa.",
+        "\"Wawasniy kaychej,\" nerqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Graciasta qona Señor Jesusman;",
+        "Santa Bibliaqa aswan sumaj Libromin.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Bibliapi Cristoqa willarashan runasman",
+        "Yawarnín jicl’asqanta.",
+        "Paytaj mundoman jamorqa runasta salvaj.",
+        "Yawarninwan Pay salvan.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "San Juan libropi Cristo nin: \"Noqa ñan kani,",
+        "Kawsaytaj, cheqa kajpis.\"",
+        "Señornejta chayasunchej Dios Tatanchejman,",
+        "Janaj pacha llajtanman."
+      ]
+    }
+  ]
+}

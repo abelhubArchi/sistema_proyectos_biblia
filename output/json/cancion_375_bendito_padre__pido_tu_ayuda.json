@@ -1,0 +1,51 @@
+{
+  "numero": null,
+  "titulo": "BENDITO PADRE, PIDO TU AYUDA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Bendito Padre, pido tu ayuda, ten compasión de mí.",
+        "Muchos tormentos ya me han cercado, socórreme ¡Oh Dios!",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "En mis problemas y mis dolores, ayúdame. Señor.",
+        "Cual la gallina a sus polluelos presto da protección.",
+        "Con tu poder te ruego me libres, tu siervo fiel yo soy.",
+        "Sé mi refugio y mi consuelo, oh, amoroso Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Sé mi defensa y fortaleza, oh, poderoso Dios.",
+        "No hay otro dios tan maravilloso, tú eres mi protección.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Dame, oh Padre, en este día felicidad y paz;",
+        "En mis angustias y aflicciones, sé mi Consolador."
+      ]
+    }
+  ]
+}

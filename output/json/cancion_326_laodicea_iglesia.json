@@ -1,0 +1,66 @@
+{
+  "numero": null,
+  "titulo": "LAODICEA IGLESIA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Urunacamajj tucusisquiwa, Laodicea Iglesia",
+        "Llaphi umar untas itaraquiw. juman jacáwimajja.",
+        "Sinti t'uqha jiwañchquiriraquiw, almamajj ajjtañawa",
+        "K'alalnucstata juyqhuraquiwa, almamajj llaquiscayaw.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Ni junt'ücaractas, ni thayácaractas",
+        "Janc'aquiy junt'uptamjja. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Uñtamay Tatitojj jutantasquiw, ¿Uqhamaquit uñstáta?",
+        "Uqhamanjj chuymapac onjjtayáta, wak'aknucuwayátam.",
+        "Salvación isimpiy isintasim, qhunjam jank'o c'ajquiri",
+        "K'omachasiñ juc'amp thaktaraquim almamar nayranchiri.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Janchinjja wali kamiritawa, templomas wali sumaw",
+        "Creyentemas patacanacawa, uqhamarac kollkemas.",
+        "Coromas conjuntonacamasa, walt'atapiniraquiw",
+        "Ucampis laca puntampiquiwa, Tatitur yupaychtajja.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Diosar chekpach yupaychañat camsis. Romanos doce unojj",
+        "Diosan munasiñapa laycojja, takpach janchiy loktasim.",
+        "Jacquir sacrificioy loktasimjja, Diosaru waquisquiri,",
+        "Uqhamanquiw Diosar jach'achañajj, chekpacha chekpachana."
+      ]
+    }
+  ]
+}

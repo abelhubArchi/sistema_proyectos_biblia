@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "May Kusiy Kanqa Cristopi Tukuyninchej (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Qué maravilla es tener una familia,",
+        "Una familia en Cristo Jesús./",
+        "/Una familia unida, una familia real,",
+        "Una familia que ama, una familia celestial.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Una familia que honre a Jesucristo,",
+        "Quien derramó su sangre en la cruz./",
+        "/Todos cantemos en coro alabanza al Señor,",
+        "Todos en Cristo unidos, una familia celestial."
+      ]
+    }
+  ]
+}

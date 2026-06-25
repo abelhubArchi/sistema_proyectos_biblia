@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "Laqha Juchapi (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Cuando vagaba en el error,",
+        "Mi buen Jesús ya me encontró.",
+        "Me libertó El de mi maldad.",
+        "Mil gracias doy a mi Salvador./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Ayúdame, oh Señor Jesús,",
+        "Cuando me vengan tentaciones.",
+        "Nunca más cederé al Tentador.",
+        "Con tu poder yo podré vencer./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Hoy me consagro a Ti, Señor,",
+        "Toda mi vida a tu labor.",
+        "Que no me importe lo terrenal,",
+        "Mientras yo pueda te serviré./"
+      ]
+    }
+  ]
+}

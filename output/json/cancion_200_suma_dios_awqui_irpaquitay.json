@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "SUMA DIOS AWQUI IRPAQUITAY",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Suma Dios Awqui irpaquitaya",
+        "Munasiñampi, thaquímana.",
+        "Janipuniya antutistati",
+        "Alajjpacharu puriñcama.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Amparamampi irpasitaya",
+        "Jumampipuniw nayajj sará.",
+        "Thaquim sarañajj sinti ch'amawa",
+        "Yanapt'itaya Dios Awquejja.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Karjasiñansa, t'uqhasiñansa,",
+        "Yant'anacansa, waytt'asitay.",
+        "Uñisirisa, llaquisiñasa,",
+        "Take toketwa muyuntitu.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Mayisitajjsa ist'araquita,",
+        "Take chuymawa alcatansma.",
+        "Juchanacajjat perdont'asita,",
+        "Munañamaqui lurayita.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Jiwañarusa puriscaquíwa",
+        "Arunacama khananchasa.",
+        "Llaquisiñansa, cusisiñansa,",
+        "Arcascaquímaw jiwañcama."
+      ]
+    }
+  ]
+}

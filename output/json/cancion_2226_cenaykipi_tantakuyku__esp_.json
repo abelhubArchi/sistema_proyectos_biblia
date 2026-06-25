@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "Cenaykipi Tantakuyku (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En tu cena nos juntamos, para celebrar. Señor,",
+        "Tu pasión, angustia y muerte y ensalzar tu grande amor.",
+        "Grande amor, grande amor, y ensalzar tu grande amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Redimidos ya tenemos por tu muerte comunión;",
+        "En el pan te recordamos. Cristo nuestra salvación.",
+        "Salvación, salvación. Cristo nuestra salvación.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "En la copa confesamos que tu sangre es eficaz;",
+        "Por tu salvación perfecta esperamos ver tu faz.",
+        "Ver tu faz, ver tu faz, esperamos ver tu faz."
+      ]
+    }
+  ]
+}

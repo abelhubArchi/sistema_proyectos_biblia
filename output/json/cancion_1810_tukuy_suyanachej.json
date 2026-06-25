@@ -1,0 +1,77 @@
+{
+  "numero": null,
+  "titulo": "Tukuy Suyanachej",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tukuy suyanachej pisi tiempotawan",
+        "Ña kutírimonqaña Jesusninchej.",
+        "Oraspa, leespa, takispa qhawana.",
+        "Uyarisunchejña, \"Kaypiña\" nejta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Señor Jesusniy ña jamonqaña,",
+        "Mañana Payqa tardanqañachu.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Arcangelpa sinch'i qhaparimuyninwan,",
+        "Trompetanwan wajyaspa Pay jamonqa.",
+        "Mayta suyashanchej Pay kutimunanta,",
+        "Puñojta kawsajta oqhariwasunchej.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Yachanchej Señorpi Puñojkunataqa",
+        "Señorwan khuskata Dios oqharenqa.",
+        "Paykunamantari mana ñawpasunchu,",
+        "Ujchasqasta tukuyta oqhariwasun.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Puñukapojkunaraj kawsarenqanku",
+        "Paykunata Cristo wajyajtinkama,",
+        "Kawsashajkunari ujchakullasuntaj.",
+        "Chanta Jesús phuyuspi oqhariwasun.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Jaqay cielopiri rikunakusunchej",
+        "Jesustari rejsisun uyamanta.",
+        "Paywantaj wiñaypaj kusikamusunchej",
+        "Cnstopi tukuy satvasqas kajkuna."
+      ]
+    }
+  ]
+}

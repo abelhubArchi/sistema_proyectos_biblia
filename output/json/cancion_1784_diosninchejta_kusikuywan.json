@@ -1,0 +1,35 @@
+{
+  "numero": null,
+  "titulo": "Diosninchejta Kusikuywan",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Diosninchejta kusikuywan sirvina./",
+        "Diosninchejta kusikuywan, lunes, martes,",
+        "Miércoles, jueves, viernes, sábado,",
+        "Domingo sirvina.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Jesucristo kawsampuni sonqoypi..........",
+        "/Diosninchejman sapa p'unchay orana ..........",
+        "/Diosninchejpa Palabranta leena .........."
+      ]
+    }
+  ]
+}

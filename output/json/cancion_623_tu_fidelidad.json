@@ -1,0 +1,26 @@
+{
+  "numero": null,
+  "titulo": "TU FIDELIDAD",
+  "carpeta": "ADORACION3",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tu fidelidad es grande",
+        "Tu fidelidad incomparable es",
+        "Grande como tú",
+        "Bendito Dios",
+        "Grande es tu fidelidad."
+      ]
+    }
+  ]
+}

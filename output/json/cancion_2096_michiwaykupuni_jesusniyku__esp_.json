@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "Michiwaykupuni Jesusniyku (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¡Pastoréanos, Jesús amante!",
+        "Cuida, oh Señor, tu grey.",
+        "Tu sustento placentero dale,",
+        "Tu redil, tu suave ley.",
+        "Alta ciencia. Providencia,",
+        "Tuyas para nuestro bien,",
+        "Bendecido, Rey ungido,",
+        "A santificarnos ven.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tu misión divina es a los pobres,",
+        "Dar salud y santidad.",
+        "A pesar de ser tan pecadores,",
+        "No nos has de desechar.",
+        "Comunicas dotes ricas",
+        "Al que implora tu perdón,",
+        "Salvador, es luz que mora, es",
+        "En el nuevo corazón."
+      ]
+    }
+  ]
+}

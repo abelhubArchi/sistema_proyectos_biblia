@@ -1,0 +1,37 @@
+{
+  "numero": null,
+  "titulo": "HOY COMO EN LA ANTIGUEDAD",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Hoy como en la antigüedad",
+        "El sacerdote su ofrenda mecía",
+        "Es mi corazón Señor",
+        "una ofrenda hacia ti",
+        "Yo te doy a ti toda mi vida"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Como ofrenda mecida es mi corazón",
+        "Como ofrenda de grato olor",
+        "Como aquel sacerdote",
+        "ofrecía hacia ti",
+        "Yo me ofrezco Señor para ti"
+      ]
+    }
+  ]
+}

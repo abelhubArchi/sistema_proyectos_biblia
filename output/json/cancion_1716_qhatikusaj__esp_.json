@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Qhatikusaj (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Sigo, sigo, sigo a Jesucristo.",
+        "Tras Jesús en la luz yo le seguiré.",
+        "Sigo, sigo, sigo a Jesucristo.",
+        "Donde quiera que El me guíe seguiré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Vamos todos con Jesús iremos,",
+        "Del perdón, de su amor testificando.",
+        "Jesucristo derramó su sangre.",
+        "Esas Nuevas anunciamos por doquier."
+      ]
+    }
+  ]
+}

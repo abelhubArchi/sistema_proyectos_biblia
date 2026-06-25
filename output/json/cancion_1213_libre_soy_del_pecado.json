@@ -1,0 +1,29 @@
+{
+  "numero": null,
+  "titulo": "Libre soy del pecado",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Libre soy del pecado,",
+        "libre soy del temor",
+        "Jesús ha triunfado,",
+        "¡ Libre soy!",
+        "Libre soy Libre soy",
+        "En la cruz del calvario",
+        "mis cadenas fueron rotas",
+        "¡ Libre soy!"
+      ]
+    }
+  ]
+}

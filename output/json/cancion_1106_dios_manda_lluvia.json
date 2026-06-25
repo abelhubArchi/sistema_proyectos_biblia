@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "DIOS MANDA LLUVIA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "DIOS MANDA LLUVIA",
+        "DERRAMA DE TU ESPÍRITU",
+        "ENVÍA HOY TU FUEGO,",
+        "SANA MIS HERIDAS",
+        "RESTÁURAME SEÑOR"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "MANDA LA LLUVIA,",
+        "EL ROCÍO DE TU AMOR",
+        "LLENANDO LAS VIDAS",
+        "EN LA TIERRA OH SEÑOR.",
+        "MANDA LA LLUVIA,",
+        "EL ROCÍO DE TU AMOR",
+        "VISITA MI VIDA,",
+        "CÁMBIAME SEÑOR."
+      ]
+    }
+  ]
+}

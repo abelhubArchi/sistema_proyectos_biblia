@@ -1,0 +1,60 @@
+{
+  "numero": null,
+  "titulo": "JAN LLAQUISIPJJAMTI",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Diosan arupajj saraquistuwa. janiy llaquisipjjamtejja",
+        "Mank'an toketsa, uxnafi umatsa, janchin isipatsa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Nayrakatajja thaktapjjañániy",
+        "Diosan alajjpach marcapa;",
+        "Ucqharojj Diosajj take cunracwa",
+        "Churaraquistani.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Uñtapjjainaya jarnach'inaca, janiw yapuchapquitejja,",
+        "Alajjpach suma Awquisaquiwa mank'afi churaraqui.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Uñtapjjarnaya pankaranacsa, ucqha sum isthapisipjje",
+        "Janiw kapupquis, janiw sawupquis, Diosaw isthapiyi.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Jamach'it sipan, pankarat sipan, amparan cayunitanwa.",
+        "Diosaraquiwa bendicistani irnakáwisaru."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "numero": null,
+  "titulo": "RECIBAMOS EL ESPÍRITU SANTO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Nuestro Señor y amado Jesús",
+        "Su Santo Espíritu nos mandó",
+        "Para que le sigamos con fe.",
+        ":Vino a mostrarnos que es maldad,",
+        "Trajo justicia y rectitud,",
+        "Con dulce paz y felicidad. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Hoy recibamos este poder",
+        "Y nos guiará por senda mejor,",
+        "En la justicia y en la verdad.",
+        ":En duras pruebas nos sostendrá,",
+        "En dura lid nos confortará,",
+        "Con su poder nos protegerá. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "El Santo Espíritu de verdad,",
+        "Nos da su paz en el corazón,",
+        "Gozo profundo en nuestro ser.",
+        ":E1 Padre eterno mostró su amor,",
+        "Su Hijo amado nos concedió,",
+        "Su Santo Espíritu nos envió. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "El Santo Espíritu del Señor",
+        "Con su presencia nos cuidará,",
+        "Y del pecado nos librará.",
+        ":0bedezcamos su santa ley,",
+        "Con fe andemos en comunión,",
+        "Llenos de gozo y de su poder. (Bis)"
+      ]
+    }
+  ]
+}

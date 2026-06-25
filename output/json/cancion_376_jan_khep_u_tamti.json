@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "JAN KHEP UÑTAMTI",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Munata jilata Cristor arcañáni,",
+        "Jupaw khespiyistu take juchasata;",
+        "Juchararácasin asquit catokestu,",
+        "Jupan wawapatwa ufifasjjaraquistu.",
+        ":Janiy khep uñtamti, janiy thayaramsa,",
+        "Cristow jumarojja yanapátam. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Munata cullaca acapachanacwa,",
+        "Jáchalas, llaquitas un j as inane j ja;",
+        "Alajjpach marcaru purjjañán ucqhajja,",
+        "Wifiayaw Cristompi cusisiñánejja.",
+        ":Janiw ja.chañasa, janiw jiwafiasa,",
+        "Ucanjja utjquiti, jacañawa. (Bis)"
+      ]
+    }
+  ]
+}

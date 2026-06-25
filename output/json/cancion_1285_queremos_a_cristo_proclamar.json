@@ -1,0 +1,37 @@
+{
+  "numero": null,
+  "titulo": "QUEREMOS A CRISTO PROCLAMAR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "QUEREMOS A CRISTO PROCLAMAR,",
+        "COMO UN ESTANDARTE LEVANTAR.",
+        "QUE TODA LA GENTE PUEDA VER,",
+        "ÉL ES EL CAMINO AL CIELO."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "QUEREMOS VER//",
+        "A JESUCRISTO COMO REY.",
+        "PASO A PASO HACIA EL FRENTE,",
+        "POCO A POCO A GANAR,",
+        "LA ORACIÓN ES NUESTRA FUERZA Y LAS FORTALEZAS",
+        "CAERÁN, CAERÁN, CAERÁN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "numero": 4,
+  "titulo": "¡OH PADRE, ETERNO DIOS!",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¡Oh Padre, eterno Dios!",
+        "Alzamos nuestra voz en gratitud",
+        "De cuanto tú nos das, con sin igual amor,",
+        "Hallando nuestra paz, en ti, Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¡Bendito Salvador!",
+        "Te damos con amor el corazón;",
+        "Y tú nos puedes ver, que humildes a tu altar,",
+        "Venimos a ofrecer, precioso don.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¡Espíritu de Dios!",
+        "Escucha nuestra voz, y tu bondad",
+        "Derrame en nuestro ser, divina claridad",
+        "Para poder vivir en santidad."
+      ]
+    }
+  ]
+}

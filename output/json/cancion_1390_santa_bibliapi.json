@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "Santa Bibliapi",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "S. Claros",
+  "compositor": "S. Claros",
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Santa Bibliapi tiyapuwanchej",
+        "Sumaj yachachiy tukuy runaspaj.",
+        "Chayrayku mask'ay sumaj yachayta",
+        "Diospa Palabran Santa Bibliapi.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Bibliata leejqa kawsayta tarenqa,",
+        "Kallpatajap'enqa wajcha almampaj.",
+        "Bibliata kasojqa kusisqa kawsanqa,",
+        "K’anchaypí purenqa. Gloria Señorman.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cristowan kajqa leenqapuni",
+        "Santa Bibliata maypipis kaspa.",
+        "Pichus leejqa qhallallarenqa",
+        "Mayu kantuspi sach'ajinamin.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Diospa Palabran Santa Bibliata",
+        "Leellaypuni tuta p'unchaypi.",
+        "Sonqochasonqa, kallpachasonqa",
+        "Santa Bibliapi yachachiykuna.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Bibliaj nisqanta kasukuypuni,",
+        "Yachachimuytaj tukuy runasman.",
+        "Biblianejtamin Diosqa parlashan",
+        "Tükuy runasman salvacionmanta."
+      ]
+    }
+  ]
+}

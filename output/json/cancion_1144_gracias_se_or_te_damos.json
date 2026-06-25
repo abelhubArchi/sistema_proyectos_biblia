@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "GRACIAS SEÑOR TE DAMOS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "GRACIAS SEÑOR TE DAMOS POR TU PRESENCIA",
+        "GRACIAS SEÑOR TE DAMOS POR TU PODER",
+        "GRACIAS SEÑOR TE DAMOS POR TU ESPIRITU SANTO",
+        "GRACIAS, GRACIAS, GRACIAS SEÑOR."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "SATURAME SEÑOR CON TU PRESENCIA",
+        "SATURAME SEÑOR CON TU PODER",
+        "SATURAME SEÑOR CON TU ESPIRITU SANTO",
+        "GRACIAS, GRACIAS, GRACIAS SEÑOR."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "GRACIAS, MUCHAS GRACIAS",
+        "GRACIAS SEÑOR",
+        "GRACIAS, GRACIAS, GRACIAS SEÑOR"
+      ]
+    }
+  ]
+}

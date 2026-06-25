@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Munakuwan Jesusniy (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristo me ama, me ama a mí, su Palabra dice así;",
+        "Niños pueden ir a El, quien es nuestro amigo fiel.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "//Sí, Cristo me ama.//",
+        "La Biblia dice así.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cristo me ama, El murió y la gloria nos abrió;",
+        "Mis pecados borrará, me dará la entrada allá.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cristo me ama, sí, es verdad; grande es mi felicidad;",
+        "Que en tu seno. Buen Pastor, guárdame en paz, sin temor."
+      ]
+    }
+  ]
+}

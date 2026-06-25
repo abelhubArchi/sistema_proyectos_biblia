@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "A dónde iré sin ti Señor",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¿A DONDE IRE SIN TI SEÑOR?",
+        "SI SOLO TU SEÑOR TIENES",
+        "PALABRAS DE VIDA",
+        "SI SUBIERA AL MONTE MAS ALTO O",
+        "BAJARA HASTA EL FONDO DEL MAR",
+        "¿QUIEN ME DARA,",
+        "QUIEN ME MOSTRARA TAL AMOR?",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "DANZARE, CANTARE DERRAMARE",
+        "MI CORAZÓN DELANTE DE TI",
+        "ES EL RIO DE TU AMOR.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "TANTOS AÑOS YO PERDI",
+        "SIN EL AMOR QUE NO PUDE VER",
+        "HASTA QUE ENCONTRE",
+        "LA PRESENCIA DE DIOS",
+        "AQUI EN EL RIO."
+      ]
+    }
+  ]
+}

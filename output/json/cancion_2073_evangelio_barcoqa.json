@@ -1,0 +1,67 @@
+{
+  "numero": null,
+  "titulo": "Evangelio Barcoqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Evangelio barcoqa rishan, rishan;",
+        "Evangelio barcoqa rishan Canáan llajtaman.",
+        "Pipis riy munajpaj, riy munajpaj;",
+        "Pipis riy munajpaj, walej jamusqan kanqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "\"Gloria kachun Diosman,\"",
+        "Nispa takinku chay rejkunaqa.",
+        "\"Gloria kachun Diosman, Capüanninchejman.\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "May chhikas urayk'unku, waranqasña.",
+        "May chhikas chayankuña Canaán nisqa llajtaman.",
+        "Waranqasraj kanku chay rejkuna,",
+        "Jesús Capitanwan chay barcopi rishanku.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Sinch'i wayraspis kachun rillampuni,",
+        "Sinch’i wayraspis kachun, kusiy llajtaman rishan.",
+        "Diosman takiykunapis uyarikun,",
+        "Diosman takiykunapis tukuy, rejkunamanta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "\"Noqawan riychej,\" nishan Señor Jesús;",
+        "\"Noqawan riychej,\" nishan juchaswan atipasqas.",
+        "Samarichisqaykichej juchamanta;",
+        "Samarichisqaykichej cielo, qori llajtaypi."
+      ]
+    }
+  ]
+}

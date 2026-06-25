@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "CRISTO, MI SEÑOR",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Si Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jesucristo, mi buen Dios, compasivo eres Tú;",
+        "Tan brillante como el sol, que alumbra el corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Siempre te seguiré. Cristo, mi Señor;",
+        "Sin quedarme atrás, fiel hasta morir.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Por tu senda andaré, fiel contigo hasta el fin.",
+        "Y de todo corazón cumpliré tu voluntad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cerca a Ti vivir. Señor, me da gozo y paz sin par;",
+        "Gozo hay en mi corazón si a tu lado siempre estoy.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Padre Dios, tu inmenso amor yo no puedo comprender.",
+        "Sólo sé que por tu amor me salvaste del pecar."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "numero": null,
+  "titulo": "CUAN GLORIOSO ES TU NOMBRE",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "//CUÁN GLORIOSO ES TU NOMBRE",
+        "EN LA TIERRA, OH SEÑOR//"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "LOS CIELOS DECLARAN TU GRANDEZA",
+        "LOS MARES TE ACLAMAN MI REY",
+        "LOS MONTES SE POSTRAN EN TU PRESENCIA",
+        "Y ME UNO A LA TIERRA PARA ALABARTE A TI"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "//CUÁN GLORIOSO ES TU NOMBRE",
+        "EN LA TIERRA, OH SEÑOR//"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "LOS CIELOS DECLARAN TU GRANDEZA",
+        "LOS MARES TE ACLAMAN MI REY",
+        "LOS MONTES SE POSTRAN EN TU PRESENCIA",
+        "Y ME UNO A LA TIERRA Y CANTO"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "LOS CIELOS DECLARAN TU GRANDEZA",
+        "LOS MARES TE ACLAMAN MI REY",
+        "LOS MONTES SE POSTRAN EN TU PRESENCIA",
+        "Y ME UNO A LA TIERRA PARA ALABARTE A TI"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 6,
+      "lineas": [
+        "//YO TE ADORO DIOS,",
+        "YO TE ADORO DIOS//",
+        "TE ADORAMOS DIOS",
+        "TE ADORAMOS DIOS"
+      ]
+    }
+  ]
+}

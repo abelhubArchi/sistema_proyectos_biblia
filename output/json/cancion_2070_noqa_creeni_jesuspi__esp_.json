@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Noqa Creeni Jesuspi (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Por la fe en Cristo Jesús redimido soy,",
+        "Por su muerte en la cruenta cruz, al cielo voy.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Sólo la sangre de Cristo Jesús, mis pecados los lavó.",
+        "Vida eterna El me dio.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Por la fe en Cristo Jesús, perdonado soy.",
+        "Salvación de mi alma consumada fue por El.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Mi bendito Salvador Jesús, cuánto El me amó.",
+        "Cristo es mi luz y guía en mi vida aquí.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "A los que le acuden Jesús no les negará.",
+        "Las maldades de todos limpiará el Señor."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "numero": null,
+  "titulo": "CANTARE DE TU AMOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Sobre montañas y el mar",
+        "Tu río corre para amar",
+        "Y al abrir mi corazón",
+        "El Sanador libre me hará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Yo soy feliz en Tu verdad",
+        "A ti mis manos alzare",
+        "Por eso es que yo cantare",
+        "De cuando viniste a mi.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cantare de tu amor por siempre////",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Estamos cantando",
+        "y dicen que es locura",
+        "pero cuando el mundo vea tu luz",
+        "cantarán también",
+        "como cantamos tu y yo"
+      ]
+    }
+  ]
+}

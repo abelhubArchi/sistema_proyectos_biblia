@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "¿QUIEN IRA?",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¿Quién quiere ir a predicar",
+        "El buen mensaje del amor?",
+        "¿Quién quiere ir a proclamar",
+        "Que en Cristo hay la salvación?",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Yo quiero ir a predicar",
+        "El buen mensaje del amor.",
+        "Yo quiero ir a proclamar",
+        "Que en Cristo hay la salvación."
+      ]
+    }
+  ]
+}

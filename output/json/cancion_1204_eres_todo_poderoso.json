@@ -1,0 +1,45 @@
+{
+  "numero": null,
+  "titulo": "ERES TODO PODEROSO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "LA UNICA RAZON DE MI ADORACION",
+        "ERES TU MI JESUS",
+        "MI UNICO MOTIVO PARA VIVIR",
+        "ERES TU MI SEÑOR"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "MI UNICA VERDAD ESTA EN TI",
+        "ERES MI LUZ Y MI SALVACION",
+        "MI UNICO AMOR ERES TU SEÑOR",
+        "Y POR SIEMPRE TE ALABARE"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "TU ERES TODOPODEROSO",
+        "ERES GRANDE Y MAJESTUOSO",
+        "ERES FUERTE, INVENCIBLE",
+        "Y NO HAY NADIE COMO TU"
+      ]
+    }
+  ]
+}

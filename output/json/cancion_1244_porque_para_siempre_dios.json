@@ -1,0 +1,30 @@
+{
+  "numero": null,
+  "titulo": "PORQUE PARA SIEMPRE DIOS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "PORQUE PARA SIEMPRE  DIOS",
+        "TU MISERICORDIA ES.",
+        "MEJOR QUE LA VIDA ES MI ALMA LO SABE BIEN,",
+        "PORQUE PARA SIEMPRE DIOS",
+        "TU MISERICORDIA ES.",
+        "MAS VASTA QUE EL ANCHO MAR,",
+        "MAS ALTA QUE EL CIELO ESTA.",
+        "PORQUE PARA SIEMPRE DIOS",
+        "TU MISERICORDIA ES."
+      ]
+    }
+  ]
+}

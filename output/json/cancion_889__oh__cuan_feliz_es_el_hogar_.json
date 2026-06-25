@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "¡OH, CUAN FELIZ ES EL HOGAR!",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¡Oh cuan feliz es el hogar",
+        "Donde reside Dios,",
+        "Do la familia unida está",
+        "Loándole a una voz!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¡Feliz hogar do se oye el son",
+        "Del nombre del Señor,",
+        "Do padres e hijos en canción",
+        "Cantan su fiel amor!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¡Oh cuan feliz aquel hogar",
+        "Do elevan su oración",
+        "A Dios, y aprendan a acatar",
+        "Los dichos del Señor!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Concede, oh Dios, que en el hogar",
+        "Gocemos paz y unión,",
+        "Que así podamos disfrutar",
+        "Tu santa bendición. Amén"
+      ]
+    }
+  ]
+}

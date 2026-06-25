@@ -1,0 +1,61 @@
+{
+  "numero": null,
+  "titulo": "Tukuy Imata Ruwaj Dios (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Mirando tu obra, Oh Creador, no tengo más palabras ya,",
+        "Oh, Padre Celestial.",
+        "Los cielos, mar y tierra aquí, la inmesurable creación,",
+        "Oh Padre de amor.",
+        "La inmensidad del orbe azul reclama tu acción.",
+        "También la tierra y su esplendor es tu gran creación.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/¿Qué es el ser humano aquí7 Que tu memoria das,",
+        "Pues tu Hijo amado ya murió por cada pecador./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Mirando el firmamento yo, y al ver la luna en su brillar,",
+        "Cuan bueno digo es Dios.",
+        "Estrellas, luna y el sol, las obras de tus manos son,",
+        "Oh puro y santo Dios.",
+        "Cuan grande es tu nombre aquí y en toda la extensión.",
+        "Cuan bueno es también tu amor para esta humanidad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Mientras la vida Tú me des, y al contemplar tu creación,",
+        "Quiero seguirte fiel.",
+        "Y cuando en tu gloria esté, recíbeme, Oh Creador.",
+        "Soy tuyo, mi buen Dios.",
+        "Haz que medite siempre en Ti y en tu nombre aún.",
+        "Enséñame, Oh Padre Dios, de tu Palabra más."
+      ]
+    }
+  ]
+}

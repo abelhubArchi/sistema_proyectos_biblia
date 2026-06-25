@@ -1,0 +1,74 @@
+{
+  "numero": null,
+  "titulo": "AMA EL PASTOR SUS OVEJAS",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Ama el pastor sus ovejas,",
+        "Con un amor paternal;",
+        "Ama el pastor su rebaño,",
+        "Con un amor sin igual,",
+        "Ama el pastor a las otras,",
+        "Que descarriadas están,",
+        "Y conmovido las busca,",
+        "Por donde quiera que van.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Ama el pastor sus corderos,",
+        "Ámalos tierno el pastor;",
+        "A los que a veces, perdidos,",
+        "Se oyen gemir de dolor;",
+        "Ved al pastor conmovido,",
+        "Por los vallados vagar,",
+        "Y los corderos en hombros,",
+        "Vedlo llevando al hogar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Ama las noventa y nueve,",
+        "Que en el aprisco guardó;",
+        "Ama las que descarriadas;",
+        "Por el desierto dejó,",
+        "\"Oh, ¡mis ovejas perdidas!\"",
+        "Clama doliente el pastor . . .",
+        "\"¿Quiénes vendrán en mi ayuda,",
+        "Para salvarlas, Señor?\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Son delicados tus pastos,",
+        "Y quietas tus aguas son;",
+        "Henos aquí ¡oh Maestro!",
+        "Danos hoy tu comisión;",
+        "Haznos obreros fervientes,",
+        "Llénanos de un santo amor",
+        "Por las ovejas perdidas",
+        "De tu redil, buen Señor"
+      ]
+    }
+  ]
+}

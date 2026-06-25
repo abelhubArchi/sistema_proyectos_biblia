@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "TATIT CRISTO QHUYAPT'AYITAY",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tatit Jesucristo qhuyapt'ayitay,",
+        "Juman wawamátwa amtt'asiquitay.",
+        "Jumaw jiwawayta naya laycojja",
+        "Juchanacajjata perdonañatac.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "¿Cunampiquis nayajj jumar phokháma?",
+        "Juma saparuquiw nayajj arcáma.",
+        "Yanapt'itay Tata, jumamp saraña,",
+        "Alajjpach marcansti jumampiñ munta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Janiquiy jucharojj antutt'asistat,",
+        "Asqui lurañanwa jacaña munta.",
+        "Munasiñamampi nayar irpita,",
+        "Wiñay jacañ marcar puriñataqui.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Yuspagarsmaw Cristo, munasiñamat,",
+        "Juchan chhaktatácas khespiyasista.",
+        "Juman ch'a:mamampiw nayajj jutascta,",
+        "Alajjpach marcamar puriniñajjcam."
+      ]
+    }
+  ]
+}

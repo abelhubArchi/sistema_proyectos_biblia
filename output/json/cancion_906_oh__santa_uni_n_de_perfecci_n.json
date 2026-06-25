@@ -1,0 +1,79 @@
+{
+  "numero": null,
+  "titulo": "OH, SANTA UNIÓN DE PERFECCIÓN",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¡0h santa unión de perfección",
+        "Es el amor de Cristo!",
+        "Nos liga en santa comunión,",
+        "Como El lo ha provisto.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Hermanos, este santo amor",
+        "Nos une hoy en Cristo;",
+        "Sólo una fe y un parecer,",
+        "Un vínculo perfecto. Amén.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Un solo cuerpo forman hoy",
+        "¡Maravillosa historia!",
+        "Los redimidos del Señor",
+        "Aquí y allá en gloria.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "A Dios rindamos todo honor,",
+        "Que nos ha concedido",
+        "Las fuertes cuerdas de su amor",
+        "Por siempre nos ha unido.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "En comunión con nuestro Dios,",
+        "Y cada fiel cristiano,",
+        "Ningún poder, por infernal,",
+        "Nos quita de su mano.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "¡Oh gran misterio del amor",
+        "Que en santidad nos une",
+        "En lazos de fraternidad!",
+        "¡Compañerismo eterno!"
+      ]
+    }
+  ]
+}

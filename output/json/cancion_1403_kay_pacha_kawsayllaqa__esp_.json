@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Kay Pacha Kawsayllaqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Los goces de este mundo a nadie le salvará.",
+        "Mas el que acude a Jesús la salvación obtendrá.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cristo viene otra vez, a las puertas El está.",
+        "¿Cuántos dudando están? Cristo los sorprenderá.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Sólo a Dios serviremos con un limpio corazón.",
+        "A los idólatras. El mandará a la perdición.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Todo poderoso Dios contesta nuestra oración.",
+        "A los que buscan a El en sus brazos sostendrá.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Es por eso hermanos sólo en El confiaremos.",
+        "Dejando ya de servir toda imagen desde hoy."
+      ]
+    }
+  ]
+}

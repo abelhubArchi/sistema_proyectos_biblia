@@ -1,0 +1,73 @@
+{
+  "numero": null,
+  "titulo": "El poderoso de Israel",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Es el poderoso de Israel",
+        "El poderoso de Israel,",
+        "su voz se oirá, nadie llo detendrá",
+        "Al poderoso de Israel.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Y de noche cantaremos",
+        "Celebrando su poder,",
+        "Con alegría de corazón",
+        ".",
+        "Como el que va con la flauta",
+        "Al monte de Jehová,",
+        "Celebraremos su poder",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Es el poderoso de Israel",
+        "El poderoso de Israel,",
+        "su voz se oirá, nadie llo detendrá",
+        "Al poderoso de Israel.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Y los ojos de los cielos",
+        "Se abrirán, y ellos verán,",
+        "los oídos de los sordos oirán",
+        "el cojo saltará, con el arpa danzará",
+        "Y la lengua de los mudos cantará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Es el poderoso de Israel",
+        "El poderoso de Israel,",
+        "su voz se oirá, nadie llo detendrá",
+        "Al poderoso de Israel."
+      ]
+    }
+  ]
+}

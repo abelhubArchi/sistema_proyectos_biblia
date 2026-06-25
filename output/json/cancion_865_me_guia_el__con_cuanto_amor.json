@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "ME GUIA EL, CON CUANTO AMOR",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Me guía El, con cuánto amor,",
+        "Me guía siempre mi Señor;",
+        "Al ver mi esfuerzo en serle fiel,",
+        "Con cuanto amor me guía El.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Me guía El, me guía El,",
+        "Con cuanto amor me guía El,",
+        "No abrigo dudas ni temor,",
+        "Pues me conduce el buen pastor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "En el abismo del dolor,",
+        "O en donde brille el sol mejor,",
+        "En dulce paz o en lucha cruel,",
+        "Con gran bondad me guía El.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Tu mano quiero yo tomar,",
+        "Jesús, y nunca vacilar,",
+        "Pues sólo a quién te sigue fiel",
+        "Se oyó decir: Me guía El.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Y mi carrera al terminar,",
+        "Y así mi triunfo realizar,",
+        "No habrá ni dudas ni temor,",
+        "Pues me guiará mi buen Pastor."
+      ]
+    }
+  ]
+}

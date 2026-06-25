@@ -1,0 +1,29 @@
+{
+  "numero": null,
+  "titulo": "TE ALABARE OH SEÑOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "//TE ALABARE OH SEÑOR.",
+        "INVOCARE TU SANTO NOMBRE",
+        "SIEMPRE DARÉ A CONOCER",
+        "DE LOS PUEBLOS, TUS  OBRAS //",
+        "",
+        "GRANDES SON, GRANDES SON,",
+        "GRANDES SON,",
+        "TUS MARAVILLAS."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "GUÍAME, OH JESUCRISTO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Oh, guíame, Jesucristo,",
+        "Por senda de tu justicia;",
+        "Te seguiré por doquiera",
+        "En tu palabra confiando.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Oh guíame, Jesucristo,",
+        "Con tu Espíritu Santo.",
+        "Contigo vivir yo quiero,",
+        "En tu mansión tan gloriosa. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "En este mundo de pruebas",
+        "Vivimos en aflicciones;",
+        "Ayúdame cada día,",
+        "Yo quiero siempre seguirte."
+      ]
+    }
+  ]
+}

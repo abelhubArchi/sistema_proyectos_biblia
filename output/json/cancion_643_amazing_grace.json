@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Amazing Grace",
+  "carpeta": "Amazing Grace",
+  "tono": null,
+  "compas": null,
+  "autor": "John Newton",
+  "compositor": "John Newton",
+  "copyright": "1982 Jubilate Hymns Limited",
+  "ccli": "1037882",
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ". D      D7        G         D          Bm      E           A  A7",
+        "Amazing grace how sweet the sound that saved a wretch like me;",
+        ".  D        D7       G       D          Bm        A     G   D",
+        "I once was lost but now I'm found, was blind but now I see.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        ".     D          D7        G        D         Bm       E       A      A7",
+        "Twas grace that taught my heart to fear, and grace my fears relieved;",
+        ".    D        D7       G       D        Bm     A       G      D",
+        "How precious did that grace appear the hour I first believed!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        ".        D    D7       G          D        Bm     E     A    A7",
+        "Through many dangers, toils, and snares I have already come;",
+        ".     D          D7         G         D       Bm         A       G    D",
+        "'Tis grace that brought me safe thus far and grace will lead me home.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        ".     D          D7        G        D            Bm      E      A   A7",
+        "When we've been there ten thousand years bright shining as the sun;",
+        ".      D       D7      G          D           Bm        A       G   D",
+        "We've no less days to sing God's praise than when we'd first begun!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "numero": null,
+  "titulo": "Uj Pacha Juchapi",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Uj pacha juchapi chinkasqa karqani.",
+        "Dios salvawarqa./",
+        "/Wajyawajtinkama, usqayta chimpani,",
+        "Perdón mañaspa./",
+        "/Sonqoyqa thañisqa, perdonta tarispa,",
+        "Kusisqa kani./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Diosniyta qhatispa tentachikorqani/",
+        "Ashkha kutista./",
+        "Chaywampis Señorniy chay munakuyninwan",
+        "Sonqochawantaj.",
+        "/Kallpachakuy, wawáy. Ama kutiriychu,",
+        "Qanwanmin kani./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Mayk'ajchus saqesaj kay pacha kawsayta,",
+        "Ni yachanichu.",
+        "Chaypacha Señorniy llajtanman pusaspa",
+        "Payqa niwanqa:/",
+        "/Jampullayña, waway, Ilakikuy tukukun",
+        "Wiñaynintimpaj./"
+      ]
+    }
+  ]
+}

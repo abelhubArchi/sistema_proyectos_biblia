@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Tukuy Sonqonchejwan Takina",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Tukuy sonqonchejwan takina Cristoman,",
+        "Kusikuyninchejwan Dios Tatanchejman./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Payta suyanachej sonqojunfasqas.",
+        "Manataj juchapi nitaj Ilakikuypi",
+        "Suyasunmanchu./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Janaj pachapeqa kusikuyila kanqa.",
+        "Angeleswan khuska kawsamusunchej./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Tukuy ripusunchej kay pacha saqespa,",
+        "Wiñaypaj kawsakoj janaj pachapi./"
+      ]
+    }
+  ]
+}

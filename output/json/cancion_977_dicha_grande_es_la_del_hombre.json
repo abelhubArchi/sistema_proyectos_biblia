@@ -1,0 +1,74 @@
+{
+  "numero": null,
+  "titulo": "DICHA GRANDE ES LA DEL HOMBRE",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Dicha grande es la del hombre,",
+        "Cuyas sendas rectas son",
+        "Lejos de los pecadores,",
+        "Lejos de la tentación.",
+        "A los malos consejeros",
+        "Deja, porque teme el mal.",
+        "Huye de la burladora",
+        "Gente impía e inmoral.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Antes, en la ley divina",
+        "Cifra su mayor placer",
+        "Meditando día y noche",
+        "En su divinal saber.",
+        "Este, como el árbol verde,",
+        "Bien regado y en sazón,",
+        "Frutos abundantes rinde,",
+        "Y hojas que perennes son.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cuanto emprende es prosperado,",
+        "Duradero le es el bien;",
+        "Muy diversos resultados",
+        "Sacan los que nada creen.",
+        "Pues los lanza como el tamo",
+        "Que el ciclón arrebató,",
+        "De pasiones remolino,",
+        "Que a millones destruyó.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "En el juicio ningún malo",
+        "Por lo tanto se alzará;",
+        "Entre justos congregados",
+        "Insensatos nunca habrá.",
+        "Porque Dios la vía mira",
+        "Por lo cual los suyos van;",
+        "Otra es la de los impíos:",
+        "Al infierno bajarán."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "Salvación Kasqanmanta",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "Z. Quenta",
+  "compositor": "Z. Quenta",
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Salvación kasqanmantaqa,",
+        "Manachu qan yacharqanki?",
+        "Tentaciompitaj kashanki,",
+        "Almaykitaj Ilakikushan./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Mana runaqa yachanchu",
+        "Ni cíelopi angelespis.",
+        "Tata Diosllamin yachashan",
+        "Jayk'ajchus kutimunanía./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Kay mundopi parlashanku",
+        "Mana juicio kananmanta.",
+        "Amataj chayta creeychu,",
+        "Cristollawanña kawsana./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Chayraykumin, hermanito,",
+        "Usqayllata llank'ananchej,",
+        "Uj llimphu kawsayninchejwan",
+        "Cristollataña suyaspa./"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Hermanos Hermanas (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Si Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Hermanos, hermanas, doquiera vayamos",
+        "Con Cristo Jesús./",
+        "/El Señor te cuidará, siempre te acompañará,",
+        "Donde quiera que tu vayas./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Cristo ha prometido: \"Estoy con vosotros",
+        "Hasta el fin. Amén.\"/",
+        "/Con poder te guardará Jesús, nuestro Buen Pastor,",
+        "Donde quiera que tu vayas./"
+      ]
+    }
+  ]
+}

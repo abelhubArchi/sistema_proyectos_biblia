@@ -1,0 +1,26 @@
+{
+  "numero": null,
+  "titulo": "PIDANME",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Pídanme y les daré las naciones,",
+        "Como herencia espiritual//",
+        "Heme aquí, envíame a las naciones",
+        "Embajador tuyo seré//",
+        "Mi Padre, heme aquí"
+      ]
+    }
+  ]
+}

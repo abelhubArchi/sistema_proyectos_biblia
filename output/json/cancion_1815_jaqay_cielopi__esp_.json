@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "Jaqay Cielopi (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Allá en el cielo, allá en el cielo, allá en el cielo,",
+        "No habrá más llanto, ni más tristeza, ni más dolor.",
+        "Y cuando estemos los redimidos allá en el cielo,",
+        "Alabaremos al Señor."
+      ]
+    }
+  ]
+}

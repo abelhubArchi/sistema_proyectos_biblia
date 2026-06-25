@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Gloria Kachun",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Gloria kachun Qan Diosniyman,",
+        "Munakuwasqaykimanta.",
+        "Gloria kachun wiñaypajmin;",
+        "Munakoj Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Qanlla munakuwarqayku,",
+        "Chay khuyakoj kayniykiwan.",
+        "Noqaykupaj wañorqanki,",
+        "Munakoj Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Wañuyniykipi creeyku,",
+        "Chayrayku salvasqas kayku.",
+        "Wiñay kawsayta qowayku,",
+        "Munakoj Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Cieloykipi rikusqayku,",
+        "Qanwan kawsakoj ripuspa.",
+        "Ñaupaqeykipi kaspaña,",
+        "Kusikamusqayku."
+      ]
+    }
+  ]
+}

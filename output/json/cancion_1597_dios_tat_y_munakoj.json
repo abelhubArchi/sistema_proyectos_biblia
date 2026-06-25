@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Dios Tatáy Munakoj",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Dios Tatáy munakoj, qhuyakuyniyoj.",
+        "Qan kay pachataqa munakorqanki./",
+        "Jesustaj jamorqa, graciastataj qoyki",
+        "Cieloykimanta./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Qanman, Dios, qopuyku tukuy sonqowan",
+        "Kay wasita Qampaj ruwasqaykuta./",
+        "Yachachinaykupaj cheqa kayniykita",
+        "Kasunaykupaj./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Llakisqa runapis mañakuynimpi,",
+        "Kay wasipi Qanwan parlanankupaj./",
+        "/Llajtapis rejsichun, sonqo tiyakuypi",
+        "Wiñaypaj kachun./"
+      ]
+    }
+  ]
+}

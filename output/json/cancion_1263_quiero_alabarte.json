@@ -1,0 +1,31 @@
+{
+  "numero": null,
+  "titulo": "QUIERO ALABARTE",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "QUIERO ALABARTE MÁS Y MÁS AÚN/",
+        "BUSCAR TU VOLUNTAD TU GRACIA CONOCER",
+        "QUIERO ALABARTE",
+        "LAS AVES DEL CIELO",
+        "CANTAN PARA TI.",
+        "LAS BESTIAS DEL CAMPO",
+        "REFLEJAN TU PODER",
+        "QUIERO CANTAR,",
+        "QUIERO LEVANTAR",
+        "MIS MANOS A TI GLORIA A DIOS."
+      ]
+    }
+  ]
+}

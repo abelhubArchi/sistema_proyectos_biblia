@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "CUANDO ALLÁ SE PASE LISTA",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cuando la trompeta suene en aquel día final,",
+        "Y que el alba eterna rompa en claridad;",
+        "Cuando las naciones salvas a su patria lleguen ya,",
+        "Y que sea pasada lista, allí he de estar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cuando allá se pase lista,",
+        "Cuando allá se pase lista,",
+        "Cuando allá se pase lista,",
+        "A mi nombre yo feliz responderé.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "En aquel día sin nieblas",
+        "En que muerte ya no habrá,",
+        "Y su gloria el Salvador impartirá;",
+        "Cuando los llamados entren a su celestial hogar,",
+        "Y que sea pasada lista, allí he de estar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Trabajemos por el Maestro",
+        "Desde el alba al vislumbrar;",
+        "Siempre hablemos de su amor y fiel bondad,",
+        "Cuando todo aquí fenezca y nuestra obra cese ya,",
+        "Y que sea pasada lista, allí he de estar."
+      ]
+    }
+  ]
+}

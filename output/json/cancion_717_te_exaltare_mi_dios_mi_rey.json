@@ -1,0 +1,39 @@
+{
+  "numero": null,
+  "titulo": "TE EXALTARE MI DIOS MI REY",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Te exaltaré mi Dios mi Rey",
+        "y bendeciré tu Nombre",
+        "Eternamente y para siempre",
+        "cada día te bendeciré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Y alabaré tu Nombre",
+        "eternamente y para siempre",
+        "Grande es Jehová",
+        "y digno de suprema alabanza,",
+        "",
+        "Y su grandeza inescrutable",
+        "cada día te bendeciré."
+      ]
+    }
+  ]
+}

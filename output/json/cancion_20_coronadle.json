@@ -1,0 +1,60 @@
+{
+  "numero": 20,
+  "titulo": "CORONADLE",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Ved al Cristo, Rey de gloria; es del mundo vencedor;",
+        "De la guerra vuelve invicto; todos démosle loor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Coronadle, santos todos,",
+        "Coronadle Rey de Reyes,",
+        "Coronadle, santos todos,",
+        "Coronad al Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Exaltadle, exaltadle; ricos triunfos trae Jesús;",
+        "En los cielos entronadle, en la refulgente luz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Si los malos se burlaron, coronando al Salvador,",
+        "Hoy los ángeles y santos lo proclaman su Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Escuchad sus alabanzas, que se elevan hacia El,",
+        "Victorioso reina el Cristo; adorad a Emanuel."
+      ]
+    }
+  ]
+}

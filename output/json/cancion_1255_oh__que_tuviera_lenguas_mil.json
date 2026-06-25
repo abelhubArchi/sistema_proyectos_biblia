@@ -1,0 +1,69 @@
+{
+  "numero": null,
+  "titulo": "OH, QUE TUVIERA LENGUAS MIL",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¡Oh, que tuviera lenguas mil",
+        "para poder cantar",
+        "Las glorias de mi Dios y Rey,",
+        "y sus triunfos alabar!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Su nombre trae consuelo y paz,",
+        "nos libra del temor;",
+        "Salud, aliento y gozo es;",
+        "vida da al pecador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Quebranta el poder del mal,",
+        "al preso libra hoy;",
+        "Su sangre limpia al ser más vil,",
+        "¡Aleluya! Limpio estoy.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Oh, mudos, de su amor hablad;",
+        "y sordos, oíd su voz;",
+        "Oh, cojos, de emoción saltad;",
+        "ciegos, ved al Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Señor Jesús, ayúdame",
+        "tu nombre a proclamar",
+        "A todo el mundo en derredor,",
+        "tu grandeza ensalzar."
+      ]
+    }
+  ]
+}

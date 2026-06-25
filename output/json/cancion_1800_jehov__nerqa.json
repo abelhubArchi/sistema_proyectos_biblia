@@ -1,0 +1,34 @@
+{
+  "numero": null,
+  "titulo": "Jehová Nerqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Jehová nerqa kachanman, kay tullus kawsanqanku",
+        "Chay kachanri kutícherqa: Qan yachanki, Señorníy./",
+        "//Kay tullus kawsanqanku.// Qan yachanki, Señorníy.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Kay imasta Dios parlarqa; Israel ayllumanta",
+        "Waj suyu jallp’asmantapis kutimpunankumanta/",
+        "/\"Espirituyta qojtiy/ samaríy tarinkichej.\"/"
+      ]
+    }
+  ]
+}

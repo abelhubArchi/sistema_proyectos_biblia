@@ -1,0 +1,74 @@
+{
+  "numero": null,
+  "titulo": "te amo mas que a mi misma vida",
+  "carpeta": "xAniversario 2017",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Si, pudiera contar tus bondades",
+        "Los números se acabarían, los libros no abastecerían.",
+        "",
+        "Y, si hubiera suficientes días para decir tus maravillas,",
+        "La eternidad no alcanzaría.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Y ahora el cielo es más azul",
+        "Cuando estoy muy junto a ti,",
+        "No me quiero separar, te quiero en mí.",
+        ""
+      ]
+    },
+    {
+      "tipo": "personalizado",
+      "nombre": "C1",
+      "lineas": [
+        "CORO",
+        "Te amo por completo, te amo Dios eterno",
+        "Te amo más que a mí misma vida,",
+        "",
+        "Te amo con pasión, te amo con fervor",
+        "Te amo más que a mí misma vida.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "No tengo otra razón para existir Señor",
+        "Tú eres mi pasión, eres mi pasión.",
+        "",
+        "Mi corazón es tuyo, mis sentimientos tuyos",
+        "Tú eres mi pasión, eres mi pasión.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Los inviernos ya no son tan fríos",
+        "Porque sé que ahora estás conmigo,",
+        "Ya encontré los más querido.",
+        "",
+        "Y aunque sé que no habrá mañana",
+        "Mi corazón tiene la calma",
+        "Pues eres toda mi esperanza."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "numero": null,
+  "titulo": "VIVIMOS POR FE",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "SI YO EMPIEZO A ORAR, TODO CAMBIARÁ.",
+        "SI TU ORAS MAS CIELOS SE ABRIRÁN,",
+        "Y ES VERDAD, Y YO LO CREO."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "VIVIMOS POR FE, VIVIMOS POR FE//"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "YO VOY A VER LA HISTORIA DE ESTE PAÍS CAMBIAR,",
+        "YO VOY A SER ALGUIEN QUE PROCLAMA TODA LA VERDAD,",
+        "VOY A VOLAR, VOY A CORRER",
+        "HACIA JESÚS.//"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "TAMBIÉN CREO QUE HAY UN PUEBLO FIEL",
+        "CON FUEGO DE DIOS QUE ORA CON PODER",
+        "CREE EN LA VERDAD MILAGROS VERAS",
+        "AL RENDITE A EL TODO CAMBIARA"
+      ]
+    }
+  ]
+}

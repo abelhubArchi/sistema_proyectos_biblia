@@ -1,0 +1,38 @@
+{
+  "numero": null,
+  "titulo": "GRANDE ES EL AMOR DE DIOS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "GRANDE ES EL AMOR DE DIOS",
+        "QUE MI VIDA ÉL TRANSFORMÓ",
+        "Y POR ESE AMOR DE DIOS",
+        "SALVO SOY, SALVO SOY.",
+        "NADIE PUDO AMARME A MI",
+        "NI ENTENDER LO QUE HABÍA EN MI.",
+        "SÓLO POR EL AMOR DE DIOS"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "SOY FELIZ, SOY FELIZ.",
+        "Y NO HAY AMOR QUE SE PUEDA COMPARAR",
+        "AL AMOR DE DIOS, TAN SUBLIME Y SIN IGUAL",
+        "QUE LLENA MI ALMA DE DULCE CALMA"
+      ]
+    }
+  ]
+}

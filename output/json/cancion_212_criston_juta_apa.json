@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "CRISTON JUTAÑAPA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Criston jutañap suyascta",
+        "Cuna ratoc jutcani.",
+        "Jutcani ucapachasti",
+        "Jupampiw nayajj sarjja.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cusisitaw jacan munta",
+        "Tatitun utapana.",
+        "Acá llaqui orakenjja",
+        "Llaquit sarnakañaquiw.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Alajjpachanquiw Cristojja",
+        "Nayar khespiyasitu.",
+        "Supayan amparapatwa",
+        "Nayar jaltayasitu.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Diosar iyawsirinacajj",
+        "Cristor suyapjjañani.",
+        "Llaquis yant'asa jutascpan,",
+        "Cristor suyapjjañani."
+      ]
+    }
+  ]
+}

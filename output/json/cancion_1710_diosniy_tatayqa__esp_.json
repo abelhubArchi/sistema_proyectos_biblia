@@ -1,0 +1,38 @@
+{
+  "numero": null,
+  "titulo": "Diosniy Tatayqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Mi Padre Dios, es tan compasivo.",
+        "De mis maldades Tú me lavaste.",
+        "Cuando vivía yo en las tinieblas,",
+        "Contra Tí sólo siempre pecaba.",
+        "Hoy a tus pies rindo mi vida, perdóname./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Me siento hoy muy avergonzado,",
+        "Perdón te ruego de mis maldades",
+        "Y de tu amor yo siempre gozaré.",
+        "Corazón tierno también te imploro,",
+        "Hacer yo quiero tu voluntad, ayúdame./"
+      ]
+    }
+  ]
+}

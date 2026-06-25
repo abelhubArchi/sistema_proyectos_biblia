@@ -1,0 +1,39 @@
+{
+  "numero": null,
+  "titulo": "NADA ES TAN HERMOSO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "NADA ES TAN HERMOSO,",
+        "COMO ESTAR EN TU PRESENCIA",
+        "CONTEMPLANDO TU GLORIA,",
+        "TU HERMOSURA Y SANTIDAD.",
+        "NADA ES TAN HERMOSO,",
+        "COMO VERTE CARA A CARA"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Y DECIRTE TE AMO,",
+        "QUE ERES TODO PARA MI",
+        "ESPÍRITU DE DIOS,",
+        "TU LO LLENAS TODO",
+        "TODO EN MI  VIDA.",
+        "TODO EN MI SER/"
+      ]
+    }
+  ]
+}

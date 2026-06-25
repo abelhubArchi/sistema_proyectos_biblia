@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "Jatun kusiywan",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jatun kusiywan creejkunaqa",
+        "Ofrendastaqa Diosman qopunchej.",
+        "Señorpa obrampaj qosqanchej kanqa,",
+        "Tukuy sonqo qopunachej"
+      ]
+    }
+  ]
+}

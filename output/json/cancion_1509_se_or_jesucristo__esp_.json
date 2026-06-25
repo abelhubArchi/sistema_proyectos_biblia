@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "Señor Jesucristo (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Señor Jesucristo vino al mundo a salvar.",
+        "/Por este mundo vil",
+        "Su preciosa sangre El derramó./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "No tendrás más temor, ni pesar, ni dolor.",
+        "/En Jesús hallarás,",
+        "Paz, perdón y la vida eterna./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Ven a Cristo Jesús, oye su tierna voz.",
+        "/Si acudes a El,",
+        "Gozo, paz en tu vida hallarás./"
+      ]
+    }
+  ]
+}

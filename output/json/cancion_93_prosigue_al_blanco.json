@@ -1,0 +1,84 @@
+{
+  "numero": null,
+  "titulo": "PROSIGUE AL BLANCO",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Lo que pasó hay que dejar;",
+        "Siempre prosigue al blanco;",
+        "Y lo que impide abandonar,",
+        "siempre prosigue al blanco.",
+        "Ve en la distancia la ciudad,",
+        "Blanco glorioso y celestial;",
+        "Cristo te ofrece premio allá,",
+        "Siempre prosigue al blanco.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Prosigue con tesón,",
+        "En el Señor confiando;",
+        "Prosigue con tesón,",
+        "Siempre prosigue al blanco.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "De otros no importa el mal querer,",
+        "Siempre prosigue al blanco;",
+        "Nunca podrán por ti correr,",
+        "Siempre prosigue al blanco.",
+        "Si ellos están sin certitud,",
+        "Si ellos no andan en la luz,",
+        "Fija tus ojos en Jesús,",
+        "Siempre prosigue al blanco.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Siempre delante sin flaquear,",
+        "Siempre prosigue al blanco;",
+        "Venga que venga con su azar,",
+        "Siempre prosigue al blanco.",
+        "Siempre te ayuda el Salvador,",
+        "El es tu fuerte Ayudador,",
+        "Angeles velan alrededor,",
+        "Siempre prosigue al blanco.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Cristo corona te dará,",
+        "Siempre prosigue al blanco;",
+        "Gloria sin fin te espera allá,",
+        "Siempre prosigue al blanco.",
+        "Dicha indecible gozarás,",
+        "Siempre con Cristo vivirás;",
+        "Y con los salvos le loarás,",
+        "Siempre prosigue al blanco."
+      ]
+    }
+  ]
+}

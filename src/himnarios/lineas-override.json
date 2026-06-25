@@ -133,5 +133,224 @@
       "texto": "Tenemos un amigo que nos ama...",
       "seleccionada": true
     }
+  ],
+  "CREO EN TI": [
+    {
+      "id": 1,
+      "texto": "Quiero levantar  mis Manos",
+      "seleccionada": true
+    },
+    {
+      "id": 2,
+      "texto": "Maravilloso Jesús, Milagroso señor",
+      "seleccionada": true
+    },
+    {
+      "id": 3,
+      "texto": "Llena este lugar de tu presencia",
+      "seleccionada": true
+    },
+    {
+      "id": 4,
+      "texto": "Has descender tu poder, a los que estamos aquí.",
+      "seleccionada": true
+    },
+    {
+      "id": 5,
+      "texto": "Creo en R… Je-sus",
+      "seleccionada": true
+    },
+    {
+      "id": 6,
+      "texto": "De lo que harás en-mi",
+      "seleccionada": true
+    },
+    {
+      "id": 7,
+      "texto": "En MI... en MI...",
+      "seleccionada": true
+    },
+    {
+      "id": 8,
+      "texto": "[CORO]",
+      "seleccionada": true
+    },
+    {
+      "id": 9,
+      "texto": "Recibe toda la gloria",
+      "seleccionada": true
+    },
+    {
+      "id": 10,
+      "texto": "Recibe toda la honra",
+      "seleccionada": true
+    },
+    {
+      "id": 11,
+      "texto": "Precioso hijo de Dios",
+      "seleccionada": true
+    }
+  ],
+  "EN CRISTO ESTÁ MI SALVACIÓN": [
+    {
+      "id": 2,
+      "texto": "En Cristo está mi salvación;",
+      "seleccionada": true
+    },
+    {
+      "id": 3,
+      "texto": "Él es mi fuerza, luz, canción.",
+      "seleccionada": true
+    },
+    {
+      "id": 4,
+      "texto": "La Roca Eterna, fundación;",
+      "seleccionada": true
+    },
+    {
+      "id": 5,
+      "texto": "Firme en prueba y tentación.",
+      "seleccionada": true
+    },
+    {
+      "id": 6,
+      "texto": "Oh, alto amor, profunda paz;",
+      "seleccionada": true
+    },
+    {
+      "id": 7,
+      "texto": "La lucha cesa y el temor.",
+      "seleccionada": true
+    },
+    {
+      "id": 8,
+      "texto": "Mi esperanza y protección;",
+      "seleccionada": true
+    },
+    {
+      "id": 9,
+      "texto": "En el amor de Cristo estoy.",
+      "seleccionada": true
+    },
+    {
+      "id": 10,
+      "texto": "En Cristo está mi redención;",
+      "seleccionada": true
+    },
+    {
+      "id": 11,
+      "texto": "Dios infinito se humilló.",
+      "seleccionada": true
+    },
+    {
+      "id": 12,
+      "texto": "Su don de amor y libertad",
+      "seleccionada": true
+    },
+    {
+      "id": 13,
+      "texto": "El mundo entero despreció.",
+      "seleccionada": true
+    },
+    {
+      "id": 14,
+      "texto": "Allá en la cruz, mientras murió,",
+      "seleccionada": true
+    },
+    {
+      "id": 15,
+      "texto": "El justo Dios se conformó.",
+      "seleccionada": true
+    },
+    {
+      "id": 16,
+      "texto": "Y mi pecado Él cargó,",
+      "seleccionada": true
+    },
+    {
+      "id": 17,
+      "texto": "Hoy en Su muerte vivo yo.",
+      "seleccionada": true
+    },
+    {
+      "id": 18,
+      "texto": "Fue sepultado al morir,",
+      "seleccionada": true
+    },
+    {
+      "id": 19,
+      "texto": "La luz del mundo se apagó.",
+      "seleccionada": true
+    },
+    {
+      "id": 20,
+      "texto": "Mas con poder resucitó:",
+      "seleccionada": true
+    },
+    {
+      "id": 21,
+      "texto": "De muerte Él se levantó.",
+      "seleccionada": true
+    },
+    {
+      "id": 22,
+      "texto": "¡Glorioso Rey! El Vencedor",
+      "seleccionada": true
+    },
+    {
+      "id": 23,
+      "texto": "De mi pecado me libró.",
+      "seleccionada": true
+    },
+    {
+      "id": 24,
+      "texto": "Pues suyo soy y mío es Él,",
+      "seleccionada": true
+    },
+    {
+      "id": 25,
+      "texto": "Dios con Su sangre me compró.",
+      "seleccionada": true
+    },
+    {
+      "id": 26,
+      "texto": "Vivir sin culpa y sin temor,",
+      "seleccionada": true
+    },
+    {
+      "id": 27,
+      "texto": "Es el poder de Cristo en mí.",
+      "seleccionada": true
+    },
+    {
+      "id": 28,
+      "texto": "Desde nacer hasta morir,",
+      "seleccionada": true
+    },
+    {
+      "id": 29,
+      "texto": "Cristo conduce mi existir.",
+      "seleccionada": true
+    },
+    {
+      "id": 30,
+      "texto": "No hay poder ni voluntad",
+      "seleccionada": true
+    },
+    {
+      "id": 31,
+      "texto": "Que de Él me pueda apartar.",
+      "seleccionada": true
+    },
+    {
+      "id": 32,
+      "texto": "Hasta que vuelva o muera yo,",
+      "seleccionada": true
+    },
+    {
+      "id": 33,
+      "texto": "En el poder de Cristo estoy.",
+      "seleccionada": true
+    }
   ]
 }

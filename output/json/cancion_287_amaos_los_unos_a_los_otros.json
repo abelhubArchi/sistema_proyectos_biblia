@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "AMAOS LOS UNOS A LOS OTROS",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Todos los que siguen al Señor,",
+        "Hoy escuchen lo que dice Dios:",
+        "\"Ámense de todo corazón\"",
+        ":Eso es un mandato del Señor. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Si no sienten por su hermano amor,",
+        "Si no le aman como dice Dios,",
+        "Es por que no aman al Señor,",
+        ":Por estar muy lejos de su Dios. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jesucristo nos mostró su amor,",
+        "Dio su vida muriendo en la cruz.",
+        "Por su muerte ofrece salvación",
+        ":A1 más vil y pobre pecador. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "¡Oh! hermanos, vivan con amor,",
+        "Que Jesús le quiere conducir.",
+        "Sus palabras hay que obedecer",
+        ":Para hallar gozo y felicidad. (Bis)"
+      ]
+    }
+  ]
+}

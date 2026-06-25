@@ -1,0 +1,66 @@
+{
+  "numero": null,
+  "titulo": "LA IGLESIA DE LAODICEA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Iglesia de Laodicea, el tiempo pronto pasará.",
+        "Tu vida no es agradable a Dios, tibia estás con poco amor.",
+        "Moribunda y débil tu alma, y no sientes el pecar.",
+        "Eres ciego, desnudo, y pobre, y tu alma triste está.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Tú caliente no estás, frío tampoco estás,",
+        "Debes tú en calor entrar. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Jesús muy pronto viene a recoger al que siempre sigue fiel",
+        "Si El ve que en pecado estás, te tendrá que rechazar.",
+        "Ahora ponte vestidos blanqueados, ropa de la salvación",
+        "Pide pues la limpieza de tu alma, por la sangre de Jesús.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "En esta tierra tienes todo lo que tú puedas anhelar.",
+        "Con templos grandes y lujosos y con riquezas por demás.",
+        "Tienes muchos creyentes y coros, y conjuntos sin igual",
+        "Pero solo de labios alaban, no de todo corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Romanos doce uno dice así la palabra de Dios es",
+        "Conságrate de todo corazón, es la voluntad de Dios.",
+        "Date en sacrificio vivo y santo al altar de tu Señor.",
+        "Solo así puedes agradecerle en espíritu y verdad."
+      ]
+    }
+  ]
+}

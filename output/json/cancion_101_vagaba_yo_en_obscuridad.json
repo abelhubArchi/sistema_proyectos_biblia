@@ -1,0 +1,60 @@
+{
+  "numero": null,
+  "titulo": "VAGABA YO EN OBSCURIDAD",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Vagaba yo en oscuridad hasta que vi a Jesús,",
+        "Mas por su amor y su verdad ya vivo en plena luz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Gozo y luz hay en mi alma hoy.",
+        "Gozo y luz hay, ya que salvo soy;",
+        "Desde que a Jesús vi, y a su lado fui",
+        "He sentido el gozo de su amor en mí.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Las nubes y la tempestad no encubren a Jesús;",
+        "Y en medio de la oscuridad me gozo en su luz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Andando en la luz de Dios encuentro plena paz;",
+        "Voy adelante sin temor dejando el mundo atrás.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Verele pronto tal cual es raudal de pura luz;",
+        "Y eternamente gozaré a causa de su cruz."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Imaynachus kasqay jiña (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tal como soy, sin más decir, que a otro yo no puedo ir",
+        "Y Tú me invitas a venir; Bendito Cristo, vengo a Ti.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tal como soy, sin demorar, del mal queriéndome librar,",
+        "Me puedes sólo Tú salvar; Bendito Cristo, vengo a Ti.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Tal como soy; en aflicción, expuesto a muerte, perdición,",
+        "Buscando vida, paz, perdón, Bendito Cristo, vengo a Ti.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Tal como soy; Tu grande amor, me vence, y con grato ardor",
+        "Servirte quiero, mi Señor; Bendito Cristo, vengo a Ti."
+      ]
+    }
+  ]
+}

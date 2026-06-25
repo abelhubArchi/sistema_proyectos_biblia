@@ -1,0 +1,54 @@
+{
+  "numero": null,
+  "titulo": "Señor Jesús Wajyan",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Señor Jesús wajyan",
+        "Juchayoj runasta mask’aspa./",
+        "/Chimpaykuy, amigóy, tukuy sonqoykiwan./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Diosllaman qayllaykuy,",
+        "Palabrán kasuspa chimpaykuy./",
+        "/Juchapi Chinkasqa Ilakisqa purinki./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Jesusqa yawarnínjich'arqa",
+        "Qanraykumin cruzpi./",
+        "/Almaykí ranterqa may jatun preciowan./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Jesusqa pusawan ñanninta",
+        "Kusiypi, k'anchaypi./",
+        "/Laqhapi purejtiy Paylla k’anchaykuwan./"
+      ]
+    }
+  ]
+}

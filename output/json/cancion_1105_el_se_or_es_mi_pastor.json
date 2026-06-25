@@ -1,0 +1,27 @@
+{
+  "numero": null,
+  "titulo": "EL SEÑOR ES MI PASTOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "EL SEÑOR ES MI PASTOR NADA ME FALTARA",
+        "EN PASTOS DELICADOS ME HARA DESCANSAR",
+        "JUNTO A AGUAS DE REPOSO ME PASTOREARA",
+        "CONFORTARA MI ALMA",
+        "ME GUIARA POR SENDA DE JUSTICIA",
+        "POR AMOR DE SU NOMBRE"
+      ]
+    }
+  ]
+}

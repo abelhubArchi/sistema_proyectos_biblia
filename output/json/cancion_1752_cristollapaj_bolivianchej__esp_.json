@@ -1,0 +1,29 @@
+{
+  "numero": null,
+  "titulo": "Cristollapaj Bolivianchej (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Bolivia será para Cristo",
+        "Si unidos luchamos por El.",
+        "Una patria que honre al Bendito",
+        "Y que muestre de Dios el poder.",
+        "A luchar pues con santo entusiasmo,",
+        "Prediquemos de Cristo doquier.",
+        "/Oh cristianos, luchad y Bolivia salvad,",
+        "Que Jesús pronto vendrá./"
+      ]
+    }
+  ]
+}

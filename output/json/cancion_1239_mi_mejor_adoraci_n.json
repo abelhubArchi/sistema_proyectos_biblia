@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "MI MEJOR ADORACIÓN",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "MI MEJOR ADORACION",
+        "ES ENTREGARTE TODO MI CORAZÓN",
+        "Y RENDIRTE MI VIDA SIN RESERVA SEÑOR",
+        "ES ENTREGARTE TODO MI CORAZÓN"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "NO QUIERO TENER UN",
+        "ENCUENTRO EMOCIONAL",
+        "HOY QUIERO ENCONTRARME CONTIGO",
+        "Y VERTE SEÑOR SENTADO EN MAJESTAD,",
+        "TOMA MI CORAZÓN QUIERO CAMBIAR."
+      ]
+    }
+  ]
+}

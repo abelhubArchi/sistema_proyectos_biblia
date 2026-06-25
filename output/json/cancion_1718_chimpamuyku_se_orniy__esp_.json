@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Chimpamuyku Señorniy (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Hoy venimos a tus pies",
+        "A alabarte, mi Señor.",
+        "/En este bello día,",
+        "Venimos a Tí, Señor./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tú Palabra a anunciar",
+        "Nos es digno, mi Señor.",
+        "/El talento que nos das,",
+        "Podemos utilizar./"
+      ]
+    }
+  ]
+}

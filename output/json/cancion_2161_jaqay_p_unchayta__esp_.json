@@ -1,0 +1,69 @@
+{
+  "numero": null,
+  "titulo": "Jaqay p’unchayta (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Día tan grande no puedo olvidar,",
+        "Día de gloria sin par;",
+        "Cuando en tinieblas al verme andar,",
+        "Vino a salvarme el Señor.",
+        "Gran compasión tuvo Cristo de mí,",
+        "De gozo y paz me llenó.",
+        "Quitó las sombras, ¡oh gloria a Su Nombre!",
+        "La noche en día cambió.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Dios descendió de gloria me llenó,",
+        "Cuando Jesús por gracia me salvó;",
+        "Fui ciego, me hizo ver; v en El renacer,",
+        "Dios descendió y de gloria me llenó.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Nací de nuevo en virtud de Jesús,",
+        "A la familia de Dios",
+        "Justificado por Cristo el Señor,",
+        "Gozo la gran redención.",
+        "Bendito sea mi Padre y Dios,",
+        "Que cuando vine con fe,",
+        "Fui adoptado por Cristo el Amado,",
+        "Loores por siempre daré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Tengo esperanza de gloria eternal,",
+        "Me regocijo en Jesús;",
+        "Me ha preparado un bello rincón,",
+        "En la mansión celestial",
+        "Siempre recuerdo con fe y gratitud,",
+        "Al contemplarle en la cruz,",
+        "Que sus heridas me dieron la vida,",
+        "¡Alabo al bendito Jesús!"
+      ]
+    }
+  ]
+}

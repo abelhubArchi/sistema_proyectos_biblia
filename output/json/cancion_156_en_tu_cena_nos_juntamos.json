@@ -1,0 +1,65 @@
+{
+  "numero": null,
+  "titulo": "EN TU CENA NOS JUNTAMOS",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En tu cena nos juntamos,",
+        "Señor, para celebrar",
+        "Tu pasión y cruel muerte,",
+        "Y en tu grande amor pensar:",
+        "Grande amor, grande amor,",
+        "Y en tu grande amor pensar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Redimidos, ya tenemos",
+        "Por tu muerte comunión;",
+        "En el pan te recordamos,",
+        "Dios de nuestra salvación.",
+        "Salvación, salvación,",
+        "Dios de nuestra salvación.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "En la copa confesamos",
+        "Que tu sangre es eficaz;",
+        "Por tu salvación perfecta",
+        "Esperamos ver tu faz;",
+        "Ver tu faz, ver tu faz,",
+        "Esperamos ver tu faz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Por tu gracia congregados",
+        "En tu paz y con amor;",
+        "En espíritu cantamos",
+        "A ti, nuestro Redentor,",
+        "A ti, nuestro Redentor."
+      ]
+    }
+  ]
+}

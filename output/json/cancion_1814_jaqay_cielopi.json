@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "Jaqay Cielopi",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jaqay cielopi, qori llajtapi, janaj pachapi,",
+        "Mana kanqachu Hakiykuna. waqaykunapis.",
+        "Salvasqasña kajkunatajri Paywan ripusunchej;",
+        "Yupaychamusun Señoría."
+      ]
+    }
+  ]
+}

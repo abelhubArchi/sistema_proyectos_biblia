@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Juchamanta Jark’away  (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Cuídame del pecado, !oh Señor!",
+        "Con tu poder el mal venceré./",
+        "/Dame fuerza para resistir,",
+        "Siempre sólo en Ti confiaré./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Si mis fuerzas desfallecieren",
+        "Dios Todopoderoso Tú eres./",
+        "/Mientras dure la vida aquí,",
+        "Tu voluntad haré, ¡oh Señor!/",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Quiero consagrar mi vida a Ti,",
+        "Cuida toda mi vida del mal./",
+        "/Llévame a tu hogar celestial,",
+        "Con tu ayuda yo te seguiré./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Yo me rindo a Ti, ¡oh Señor!",
+        "Sólo Tú eres mi buen Redentor./",
+        "/Cuida de mi vida, ¡oh Señor!",
+        "Todopoderoso Salvador./"
+      ]
+    }
+  ]
+}

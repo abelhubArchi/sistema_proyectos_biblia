@@ -1,0 +1,41 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "03 Alabanza Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "// Quiero que mi corazón",
+        "Sea un templo de ti Señor.",
+        "",
+        "Y por siempre seas Tú",
+        "Mi fiel consolador. //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "// Alzo mis manos",
+        "Te alabo Señor.",
+        "",
+        "Alzo mis manos",
+        "Te adoro Jesús. //",
+        "",
+        "Quiero hacer siempre tu voluntad",
+        ""
+      ]
+    }
+  ]
+}

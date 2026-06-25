@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "CON MI DIOS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Con mi Dios yo saltaré los muros,",
+        "Con mi Dios ejércitos derribaré"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Él adiestra mis manos para la batalla",
+        "Puedo tomar con mis manos",
+        "el arco de bronce",
+        "Él es escudo la roca mía,",
+        "Él es la Fuerza de mi salvación",
+        "Mi Alto Refugio, mi Fortaleza,",
+        "Él es mi Libertador"
+      ]
+    }
+  ]
+}

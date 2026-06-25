@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "ALAJJPACHAN YATISIÑÁNI",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Walja cutiwa nayajj uñjasta",
+        "Yanfanacan muyuntata.",
+        "Mayninacajja janiraquisa",
+        "Cuna Uaquins uñjasquitejj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Alajjpachanwa yatisiñáni",
+        "Llaquinacan utjatapa.",
+        "Munat jilata, jan thayaramti",
+        "Take cunaw yatisini.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tatitojj siwa: \"Jan thayaramti\"",
+        "\"Nayar arquit jiwañcama .",
+        "Llaquinacasajj tucusiniwa",
+        "Alajjpachar mantjjasina.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cunapachatejj Cristojj jutani",
+        "Alajjpacharuw irpjjestan.",
+        "ücapachawa yatisiñáni",
+        "Llaquinacan utjatapa."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "FELICES LOS DE LIMPIO CORAZÓN",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Los verdaderos hijos de Dios,",
+        "Son llenos de su profundo amor.",
+        "Limpiados son de toda maldad;",
+        "Ya, con la sangre del Redentor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Bienaventurados son los de limpio corazón,",
+        "Ellos verán el rostro de Dios;",
+        "Bienaventurados son los de limpio corazón,",
+        "Vida eterna encontrarán.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Los redimidos hijos de Dios,",
+        "Viven con mucho temor a él.",
+        "Obedeciendo a su santa ley,",
+        "Siempre sujeto a su voluntad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Los verdaderos hijos de Dios.",
+        "Guiados son por su Espíritu.",
+        "Hacen el bien siempre a los demás,",
+        "En todo tiempo, en cualquier lugar."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "Kay Pachata Cielotawan",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Kay pachata, cielotawan",
+        "Atiyniyoj Dios Tatanchej",
+        "Sojta p'unchaypi ruwarqa.",
+        "Gloria kachun Dios Tataman.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Yupay'chana Dios Tataía",
+        "Tukuyninchej uj sonqoíla.",
+        "Kay pachata Pay ruwarqa.",
+        "Gloría Kachun Dios Tataman./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Kay pachata ruwaytawan,",
+        "Dios Tata samarikorqa",
+        "Chay qanchis kaj p?unchaynimpi.",
+        "Gloria kachun Dios Tataman.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jesustaj kawsarimporqa",
+        "Domingo nisqa p'unchaypi.",
+        "Wañuyta Pay atíparqa.",
+        "Gloria kachun Dios Tataman.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Chayraykutaj noqanchejpis",
+        "Uj p’unchayta faqapuna.",
+        "Domingo nisqa p'unchaypi",
+        "Dios Tatata sirvikuna."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "numero": null,
+  "titulo": "Me gozare, me gozare",
+  "carpeta": "03 Alabanza Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "// Cuando el Señor",
+        "hiciere volver la cautividad,",
+        "seremos como los que sueñan.//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Mi boca llenará de risa,",
+        "mis labios de alabanza.",
+        "",
+        "Entonces dirán las naciones:",
+        "Grandes cosas ha hecho el Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "// Me gozaré, me gozaré, me gozaré,",
+        "me gozaré en Jehová.",
+        "(¡Gózate!)",
+        "",
+        "Pues ha llevado todo mi dolor,",
+        "me ha hecho libre. //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "// Así como David danzaba,",
+        "así como David cantaba,",
+        "",
+        "así como David fluía en su presencia. //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Yo cantaré",
+        "yo danzaré",
+        "en su presencia me gozaré",
+        "",
+        "y le daré",
+        "toda la gloria,",
+        "ante tu trono yo me gozaré."
+      ]
+    }
+  ]
+}

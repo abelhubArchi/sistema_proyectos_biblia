@@ -1,0 +1,30 @@
+{
+  "numero": null,
+  "titulo": "ESPIRITU DE DIOS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ESPÍRITU DE DIOS",
+        "LLENA MI VIDA, LLENA MI ALMA,",
+        "LLENA MI SER//",
+        "ESPÍRITU DESCIENDE  COMO EL FUEGO,",
+        "COMO EN PENTECOSTÉS",
+        "VEN LLENAME DE NUEVO.",
+        "EL ME LLENÓ, CON SU PRESENCIA ME LLENÓ//",
+        "CON SU DULZURA ME LLENÓ//",
+        "CON SU PODER/"
+      ]
+    }
+  ]
+}

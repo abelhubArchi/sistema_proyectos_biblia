@@ -1,0 +1,28 @@
+{
+  "numero": null,
+  "titulo": "QUE ALEGRIA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "QUE ALEGRÍA JESÚS ESTÁ AQUÍ",
+        "EL FUEGO SANTO",
+        "HA COMENZADO A DESCENDER",
+        "NO HAY TRISTEZA QUE AGUANTE,",
+        "DEMONIOS TIENEN QUE SALIR",
+        "EL FUEGO SANTO CAYENDO,",
+        "HACE A LA IGLESIA SUBIR."
+      ]
+    }
+  ]
+}

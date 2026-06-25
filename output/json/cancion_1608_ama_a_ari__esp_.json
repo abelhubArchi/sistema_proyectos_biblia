@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "Amaña Ari (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "\"No se preocupen,\" dice la Biblia,",
+        "\"Por esta vida y su afán,",
+        "Por la comida, por la bebida,",
+        "Ni como vestirán.\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Pues buscaremos primeramente",
+        "A Dios y el reino celestial,",
+        "Y El nos dará como añadidura",
+        "Lo que nos faltará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Miren las aves que hay en el cielo,",
+        "Estos ni siembran, ni siegan.",
+        "Mas Dios el Padre las alimenta,",
+        "Dándoles de comer.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Considerad las flores del campo,",
+        "Cuan bellas y hermosas son.",
+        "Estas ni hilan, tampoco tejen,",
+        "Mas Dios las viste así."
+      ]
+    }
+  ]
+}

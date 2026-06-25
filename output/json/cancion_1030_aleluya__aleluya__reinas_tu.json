@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "ALELUYA, ALELUYA, REINAS TU",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ALELUYA,  ALELUYA,",
+        "REINAS TÚ PODEROSO DIOS",
+        "ALELUYA,  ALELUYA."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "SANTO, SANTO",
+        "EL SEÑOR ES TODOPODEROSO",
+        "DIGNO ERES TÚ/",
+        "ERES SANTO, SANTO",
+        "EL SEÑOR DIOS TODOPODEROSO",
+        "DIGNO ERES TU//  AMÉN"
+      ]
+    }
+  ]
+}

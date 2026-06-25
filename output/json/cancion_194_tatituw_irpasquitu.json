@@ -1,0 +1,53 @@
+{
+  "numero": null,
+  "titulo": "TATITUW IRPASQUITU",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ":Má uruw Tatitojj chhaktat uñjasina",
+        "Khespiyasitu. (Bis)",
+        ":Arup ist'asina jane 'aquiw maqhatta",
+        "Perdón mayisa. (Bis)",
+        ":Chuymajjajj samariw perdón jicjjatasajj,",
+        "Cusisitátwa.  (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        ": Tatitun thaquipan walja cutiw nayajj",
+        "Yant'an uñjasta. (Bis)",
+        ":Ucampis Tatituw munasiñapampi",
+        "Chuymar parlitu: (Bis)",
+        ": \"Sayt'asimay wawa, jan khepar cutt'amti.",
+        "Amuyt'asimay\".    (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        ":Cunurojj wact'chitan acapach jaytjjañajj",
+        "Janiw yatiscti. (Bis)",
+        ":Ucapachaw Cristojj marcapar irpasajj",
+        "Nayar sitani:   (Bis)",
+        ":\"Jutjjamay wawajja llaquimajj tucusjjew",
+        "Wiñayataqui\". (Bis)"
+      ]
+    }
+  ]
+}

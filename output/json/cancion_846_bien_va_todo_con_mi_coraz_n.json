@@ -1,0 +1,66 @@
+{
+  "numero": null,
+  "titulo": "BIEN VA TODO CON MI CORAZÓN",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Si abunda cual río en mi alma la paz,",
+        "O si ruge horrenda turbión,",
+        "Por gracia de Dios puedo testificar;",
+        "\"Bien va todo en mi corazón.\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Ya va bien, todo bien;",
+        "Bien va todo con mi corazón",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Aunque vengan pruebas y sufra dolores,",
+        "Yo tengo esta consolación:",
+        "Por mí dio su sangre el bendito Señor,",
+        "Y su paz gozo en mi corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¡Qué gozo! mi culpa ha llevado Jesús,",
+        "Me ha dado completo perdón,",
+        "El ma ha redimido muriendo en la cruz;",
+        "Su loor canta mi corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Jesús, tu venida que pudiera ver;",
+        "Que dé la trompeta su son;",
+        "Que venga el Señor con gran gloria y poder;",
+        "\"Sea así,\" dice mi corazón."
+      ]
+    }
+  ]
+}

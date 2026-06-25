@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "DE LA FE EL ESCUDO",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "De la fe el escudo, hermano,",
+        "Hay que usarlo con valor,",
+        "Pues con él de la batalla",
+        "Tú saldrás cual vencedor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "En el nombre poderoso",
+        "De nuestro Capitán Jesús",
+        "Venceremos, y en el cielo",
+        "Nos espera hogar de luz. Amén.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "La fe siempre es victoriosa.",
+        "Guárdala en tu corazón,",
+        "Pues con ella en el combate",
+        "Vencerás toda agresión.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cuando vengan pruebas duras,",
+        "afligiendo el corazón,",
+        "Hallarás en este escudo",
+        "Gran defensa y protección.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Usa, pues, esta armadura",
+        "Cuando asedie todo mal;",
+        "Vencerás, y habrá en tu alma",
+        "Dulce canto celestial."
+      ]
+    }
+  ]
+}

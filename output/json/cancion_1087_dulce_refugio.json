@@ -1,0 +1,52 @@
+{
+  "numero": null,
+  "titulo": "DULCE REFUGIO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "DULCE REFUGIO EN LA TORMENTA",
+        "",
+        "ES JESUCRISTO EL SALVADOR",
+        "",
+        "EL ME ALIENTA Y ALIMENTA",
+        "",
+        "CON SU PALABRA Y SU AMOR",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "VENGO A REPOSAR EN EL",
+        "",
+        "EL ES MI AMIGO FIEL",
+        "",
+        "UNA PODEROSA Y FRESCA UNCION",
+        "",
+        "LLENARA MI CORAZON",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "DULCE REFUGIO EN LA TORMENTA",
+        "",
+        "ES JESUCRISTO EL SALVADOR"
+      ]
+    }
+  ]
+}

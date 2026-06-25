@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Cristo Diospa Churin (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Si Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Oh Jesús divino. Salvador Tu eres./",
+        "Yo soy tan indigno. Tú de Dios el Santo./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Hasta el Calvario, Oh Jesús, Tú fuiste./",
+        "/Al hogar del Padre, donde me llamaste./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Todas mis maldades las limpió tu sangre./",
+        "/En tu amor sublime cambiaste mi vida./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Andaba en ceguera. Tú me alumbraste./",
+        "/Yo estando muerto. Tú me diste vida./"
+      ]
+    }
+  ]
+}

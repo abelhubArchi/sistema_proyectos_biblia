@@ -1,0 +1,26 @@
+{
+  "numero": null,
+  "titulo": "SANTO SANTO SANTO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "V1",
+        "`SANTO,SANTO,SANTO",
+        "MI CORAZÓN TE ADORA",
+        "MI CORAZÓN SABE DECIR",
+        "SANTO RES TU"
+      ]
+    }
+  ]
+}

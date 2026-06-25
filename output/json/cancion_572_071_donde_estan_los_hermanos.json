@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "071 DONDE ESTAN LOS HERMANOS",
+  "carpeta": "04 Poder del Evangelio",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "// Dónde están los hermanos de ayer",
+        "que alababan a Cristo Jesús. //",
+        "// Oh que pronto se olvidaron",
+        "las promesas que hicieron a Dios. //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "// Y nosotros que estamos aquí",
+        "alabando a Cristo Jesús. //",
+        "// Nunca nunca nos olvidemos",
+        "del camino de Cristo Jesús. //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "// Hay de los que blasfeman la fe",
+        "que cuentas darán a l Señor. //",
+        "// Porque todos compareceremos",
+        "ante el gran tribunal del Señor. //"
+      ]
+    }
+  ]
+}

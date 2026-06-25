@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "Señorníy Yanapaway (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "E. Guarachi",
+  "compositor": "E. Guarachi",
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Oh Señor, ayúdame. En Tí confío, oh Señor.",
+        "/Ayúdame, Señor Jesús, en mi aflicción./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Oh Señor, perdóname, limpia toda mi maldad.",
+        "/Moriste Tú en la cruenta cruz por salvarme a mí./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Oh eterno Padre Dios, por tu senda guíame;",
+        "/Ilumina mi pobre ser; te seguiré fiel./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Oh Señor, te pido hoy, lléname de tu poder.",
+        "/Espíritu Consolador, sé mi guía y luz./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Oh Señor, gracias te doy, atiendes Tú a mi clamor.",
+        "/Ahora me siento feliz. ¡Gloria sea a Tí!./"
+      ]
+    }
+  ]
+}

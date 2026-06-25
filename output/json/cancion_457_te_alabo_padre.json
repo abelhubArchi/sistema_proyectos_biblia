@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "TE ALABO PADRE",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Yo te alabo ¡Oh Padre Dios I",
+        "Por tu poder y tu bondad.",
+        "Esta tierra y los cielos,",
+        "Son obras de tu gran poder.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Quiero alabarte con gozo y paz",
+        "Por tu poder, ¡Oh mi Padre Dios'.",
+        "Pues no hay otro ser como tú,",
+        "Maravilloso Creador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Montes, cerros y la alta mar,",
+        "Las aves, plantas, mi buen Dios;",
+        "Y al fin, el reino animal,",
+        "Es obra de tu gran poder.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Las estrellas y su esplendor,",
+        "Los astros, la luna y el sol,",
+        "Los hiciste con tu poder;",
+        "Bendito Padre celestial."
+      ]
+    }
+  ]
+}

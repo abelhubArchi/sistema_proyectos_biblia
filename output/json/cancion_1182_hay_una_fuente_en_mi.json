@@ -1,0 +1,26 @@
+{
+  "numero": null,
+  "titulo": "HAY UNA FUENTE EN MI",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "HAY UNA FUENTE EN MÍ",
+        "QUE ESTÁ BROTANDO",
+        "QUE ESTÁ FLUYENDO DENTRO DE MÍ.",
+        "ES UN RÍO DE ALABANZA Y DE ADORACIÓN",
+        "DIRIGIDO HACIA TI SEÑOR JESÚS, RECÍBELO."
+      ]
+    }
+  ]
+}

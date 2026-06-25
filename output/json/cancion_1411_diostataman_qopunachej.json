@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "DiosTataman qopunachej",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "J. Aguilar",
+  "compositor": "J. Aguilar",
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Dios Tataman qopunachej",
+        "Ofrendasta tukuyninchej.",
+        "May jatunmin bendicionnin,",
+        "Gracias kachun Dios Tataman.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Gracias Diosman, gracias Diosman,",
+        "Ofrendasta jaywapuspa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Dios Tataman qopunachej",
+        "Sonqomanta, kusikuywan,",
+        "Yanapasta Diospa obrampi.",
+        "Gracias kachun Dios Tataman."
+      ]
+    }
+  ]
+}

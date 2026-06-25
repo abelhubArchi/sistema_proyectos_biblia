@@ -1,0 +1,26 @@
+{
+  "numero": null,
+  "titulo": "SOLO DIOS HACE AL HOMBRE FELIZ",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "SÓLO DIOS HACE AL HOMBRE FELIZ,",
+        "SÓLO DIOS HACE AL HOMBRE FELIZ",
+        "",
+        "LA VIDA ES NADA, TODO SE ACABA,",
+        "SÓLO DIOS HACE AL HOMBRE FELIZ"
+      ]
+    }
+  ]
+}

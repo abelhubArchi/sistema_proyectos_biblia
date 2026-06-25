@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Cristo Wajyashan (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Jesucristo llama a todos:",
+        "\"Venid a mí y descansad.\"/",
+        "/Sigamos a Jesucristo muy presurosos,",
+        "Obedeceremos a El./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Jesucristo les promete",
+        "Una grata salvación./",
+        "/A todos los que reciben a Jesucristo",
+        "Ofrece la salvación./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Jesús puede concedernos",
+        "Paz y gozo en nuestro ser./",
+        "/Consagrando nuestras vidas a Jesucristo,",
+        "Tendremos gozo sin par./"
+      ]
+    }
+  ]
+}

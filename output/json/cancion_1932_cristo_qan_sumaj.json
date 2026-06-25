@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Cristo Qan Sumaj",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristo, Qan sumaj Diosníy, khuyakuyniyoj kanki.",
+        "Intimantaj rijch’akun, sonqoyman k'anchamuwan.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Qhatisqaykipuni, Cristo Jesusníy,",
+        "Mana qhepakuspa wañunaykama./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tukuy sonqoywampuni ñanniykipi purisaj,",
+        "Nisqaykita uyarispa, janaj pacha llajtaman.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Ñanniykipi rinaqa manchay kusikunamin",
+        "Allinta purinaypaj, Salvador Jesusniywan.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Chay munakuyniykeqa manchay sumajpunimin,",
+        "Juchasapa kashajtíy, Salvawasqaykirayku."
+      ]
+    }
+  ]
+}

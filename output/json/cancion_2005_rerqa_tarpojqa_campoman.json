@@ -1,0 +1,64 @@
+{
+  "numero": null,
+  "titulo": "Rerqa Tarpojqa Campoman",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Rerqa tarpojqa campoman/",
+        "/Tarpumunanpaj, tarpumunampaj",
+        "Diospa Palabran mujuta./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Wakin mujus urmarqanku/",
+        "/Rumis chawpisman fakakorqanku,",
+        "Trigo llojsejtaj ch’akerqa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Wakin mujus urmarqanku,/",
+        "/Khiskhas chawpisman t'akakorqanku.",
+        "Llojsispa ch’arukorqa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Wakin mujus urmarqanku/",
+        "/Sumaj jallp'aman, sumaj jallp'aman.",
+        "Sumajta wiñaspa poqorqa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "/Jallp'aqa runaj sonqonmin,/",
+        "/Trigo mujutaj, trigo mujutaj",
+        "Tata Diospa Palabranmin./"
+      ]
+    }
+  ]
+}

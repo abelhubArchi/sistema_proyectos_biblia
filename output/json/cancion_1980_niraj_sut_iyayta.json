@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "Niraj Sut’iyayta",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Niraj sufiyayta mask’aj jamuyki,",
+        "Sapa p'unchaypi Qanta suyayki./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Pruebas jamojtimpis, qhatisqaykipuni.",
+        "Llakiyniypi sonqochaway./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Ama sayk'unaypaj yanapariway,",
+        "Ñannillaykita cheqán rinaypaj./"
+      ]
+    }
+  ]
+}

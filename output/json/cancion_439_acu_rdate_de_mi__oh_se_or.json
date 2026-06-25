@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "ACUÉRDATE DE MI, OH SEÑOR",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Acuérdate de mí, oh Señor",
+        "Me siento solo sin tu poder,",
+        "Padre, te pido con toda fe,",
+        "Que me des fuerza para vencer.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Por mi sufriste, por mi moriste,",
+        "Clavado en una tormentosa cruz",
+        "Señor, te pido con toda fe,",
+        "Dame más fuerza para vencer.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Sin tu presencia. Señor Jesús,",
+        "Mi alma siente desfallecer;",
+        "Lléname, Dios, con tu gran poder",
+        "Para seguirte hasta el fin.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Dame tu ayuda. Señor Jesús,",
+        "En mis angustias y en el dolor;",
+        "Tú eres mi guía, y mi protector,",
+        "Acuérdate de mí, oh Señor."
+      ]
+    }
+  ]
+}

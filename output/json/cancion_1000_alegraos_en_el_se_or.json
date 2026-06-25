@@ -1,0 +1,28 @@
+{
+  "numero": null,
+  "titulo": "ALEGRAOS EN EL SEÑOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Alegraos en el Señor",
+        "y cantadle a Él",
+        "Aclamad con gratitud",
+        "y exaltadle a Él",
+        "Porque recta es la palabra",
+        "de nuestro Señor",
+        "Y toda Su obra es hecha con fidelidad"
+      ]
+    }
+  ]
+}

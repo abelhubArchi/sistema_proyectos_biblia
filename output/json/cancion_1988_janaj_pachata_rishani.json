@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Janaj Pachata Rishani",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Janaj pachata rishani, noqa Jesuspi confíani.",
+        "Wañuyninwan salvawan Pay, noqarayku wañun cruzpi.",
+        "Qanta Jesús, rikusqayki, rikusqayki Michiwajníy.",
+        "Sufi k’anchayman yaykojtiy, rikusqayki Salvawajniy.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Janajpachata rishani, noqa Jesuspi confíani,",
+        "Wañuyninwan salvawan Pay, noqarayku wañun cruzpi.",
+        "Llimphu puka yawamiyki millay juchasta mayllawan.",
+        "Sumaj kusisqa jaqaypi, rikusqayki, Salvawajniy.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Janaj pachata rishani, noqa Jesuspi confíani.",
+        "Wañuyninwan salvawan Pay, noqarayku wañun cruzpi.",
+        "Qanman sonqoyta qopuyki, Salvawajniyta churayki.",
+        "Qanman almayta confiayki, rikusqayki, Salvawajniy."
+      ]
+    }
+  ]
+}

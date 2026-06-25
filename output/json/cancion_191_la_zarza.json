@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "LA ZARZA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Si Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Una simple zarza, sin valor alguno Dios pudo usar",
+        "Para revelarse al pastor Moisés, en el Sinaí.",
+        "Grande maravilla, en una espina brillaba el Señor.",
+        "Era solo zarza, no valía nada y Dios la usó.",
+        ":Yo era sólo zarza, no valía nada",
+        "Pero al rendirme, el Señor me usó. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Allá en Galilea, doce pescadores el Maestro llamó,",
+        "Para utilizarles en la gran tarea de evangelizar.",
+        "Ellos no eran nobles, mucho menos sabios y Dios los usó.",
+        "Eran como zarza, no valían nada, y El los escogió.",
+        ":Yo era como ellos, no valía nada",
+        "Pero al rendirme, el Señor me usó.   (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Mi querido hermano, si vives pensando: \"Nada valgo yo\"",
+        "Recuerda la zarza que el Señor usó en el Sinaí.       '",
+        "Recuerda también a los pescadores que El escogió.",
+        "Eran sólo zarza, no valían nada y Dios los usó.",
+        "Si eres como zarza que no vale nada",
+        "Ríndete a Cristo y El te usará.",
+        "Somos como zarza, no valemos nada",
+        "Mas si nos rendimos. El nos usará."
+      ]
+    }
+  ]
+}

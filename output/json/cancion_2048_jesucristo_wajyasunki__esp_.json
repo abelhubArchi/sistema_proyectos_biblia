@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "Jesucristo Wajyasunki (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Es la voz de Cristo urgente, llama a nuestro corazón.",
+        "Día y noche tan paciente, suave dice: \"Ven a mí.\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Los apóstoles oyeron su llamada; \"A mi venid,\"",
+        "Y obedientes le siguieron, encantados por su amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "A la tumba do dormido. Lázaro el amado está,",
+        "\"Ven, tú, fuera,\" llama Cristo, y llamando, vida da.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "\"Ven, cargado y trabajado\", suena de Jesús la voz,",
+        "\"Yo a todos doy descanso, los que en Mí confían hoy.\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Ven, no amando más el mundo, con su brillo tan falaz,",
+        "Paz, perdón, y gozo sumo, todo en Cristo encontrarás."
+      ]
+    }
+  ]
+}

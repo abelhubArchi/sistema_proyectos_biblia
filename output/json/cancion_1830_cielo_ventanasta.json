@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Cielo Ventanasta",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "//Cielo ventanasta kicharimuy, Señor, //",
+        "Jich’amuy bendicionta.",
+        "//Bendiciy ofrendasta diezmosta, Señor//",
+        "Jich’amuy bendicionta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Bendiciy, kamachisniykitapis, Señor//",
+        "Jich'amuy bendicionta.",
+        "//Bendicimuy wawasniykitapis, Señor//",
+        "Jich'amuy bendicionta."
+      ]
+    }
+  ]
+}

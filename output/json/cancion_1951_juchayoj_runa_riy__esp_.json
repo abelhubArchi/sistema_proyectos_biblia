@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Juchayoj Runa Riy (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Pecador vuelve sin más tardar",
+        "Al Señor y Rey, tu Salvador./",
+        "/Si hoy mismo vinieras a El,",
+        "Vida eterna feliz te aseguras./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Hoy te invita con inmenso amor,",
+        "Quiere perdonar de tu maldad/",
+        "/Y a tu vida dar fuerza y poder.",
+        "Corazón ya limpiado tú tendrás./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Ahora mismo acude a Jesús,",
+        "Deja todo y ven sin postergar./",
+        "/El mañana dudoso será",
+        "Redención grande para obtener./"
+      ]
+    }
+  ]
+}

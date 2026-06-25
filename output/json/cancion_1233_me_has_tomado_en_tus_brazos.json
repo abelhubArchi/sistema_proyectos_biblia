@@ -1,0 +1,39 @@
+{
+  "numero": null,
+  "titulo": "ME HAS TOMADO EN TUS BRAZOS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ME HAS TOMADO EN TUS BRAZOS",
+        "Y ME HAS DADO SALVACIÓN,",
+        "DE TU AMOR HAS DERRAMADO EN MI CORAZÓN,",
+        "NO SABRÉ AGRADECERTE",
+        "LO QUE HAS HECHO POR MÍ",
+        "SÓLO PUEDO DARTE AHORA MI CANCIÓN."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "GRACIAS, GRACIAS SEÑOR  GRACIAS MI SEÑOR, JESUS/",
+        "EN LA CRUZ DISTE TU VIDA, ENTREGASTE TODO ALLÍ",
+        "VIDA ETERNA REGALASTE AL MORIR,",
+        "POR TU SANGRE TENGO ENTRADA,",
+        "ANTE EL TRONO CELESTIAL,",
+        "PUEDO ENTRAR CONFIADAMENTE ANTE TÍ."
+      ]
+    }
+  ]
+}

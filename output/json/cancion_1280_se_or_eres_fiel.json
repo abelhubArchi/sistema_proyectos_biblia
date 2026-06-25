@@ -1,0 +1,37 @@
+{
+  "numero": null,
+  "titulo": "SEÑOR ERES FIEL",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "SEÑOR ERES FIEL",
+        "Y TU MISERICORDIA ETERNA//",
+        "GENTE DE TODA LENGUA Y NACIÓN",
+        "DE GENERACIÓN A GENERACIÓN.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "TE ADORAMOS HOY ALELUYA",
+        "ALELUYA TE ADORAMOS HOY",
+        "ERES SEÑOR, ERES FIEL//",
+        "",
+        "ERES FIEL, ERES FIEL"
+      ]
+    }
+  ]
+}

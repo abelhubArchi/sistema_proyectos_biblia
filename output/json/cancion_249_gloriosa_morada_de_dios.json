@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "GLORIOSA MORADA DE DIOS",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ":Glorioso pueblo de mi Señor",
+        "Eternamente allí brillará. (Bis)",
+        ":Es la morada del Padre Dios",
+        "Para sus hijos la preparó. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        ":Vamos a ese hogar celestial",
+        "Dejando todo afán y dolor. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        ":Aunque estés triste o-sientes dolor,",
+        "Con Dios un día ya gozarás. (Bis)",
+        ":Si tus amigos quieren tu mal,",
+        "Mira a Dios; El te guardará. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        ":Aunque en la vida buscamos paz",
+        "Sólo encontramos pena y dolor. (Bis)",
+        ":Pero en los cielos con nuestro Dios",
+        "Paz hallaremos, gozo sin fin. (Bis)"
+      ]
+    }
+  ]
+}

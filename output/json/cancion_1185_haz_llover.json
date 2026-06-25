@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "HAZ LLOVER",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "HAZ LLOVER, SEÑOR OH CONSOLADOR,",
+        "QUE TU GLORIA ESTÁ AQUÍ.",
+        "FLUYE CON PODER QUE PODAMOS VER,",
+        "QUE TU GLORIA ESTÁ AQUÍ",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "TU PRESENCIA ES NUESTRO GRAN DESEO,",
+        "CALMA NUESTRA SED DE TÍ.",
+        "CON TU ALIENTO DANOS TU FRESCURA",
+        "TOCANOS UNA VEZ MÁS.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "VEN ALIENTO DEL CIELO",
+        "LLENA AL PUEBLO DE DIOS//"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "numero": null,
+  "titulo": "Diospi Confíaspa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Diospi confíaspa tukuy kawsayniypi,",
+        "Qhatísaj kusiywan Dios Tatanchejta./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Qhatisaj Diosniyta; Paylla pusawanqa.",
+        "Qhatisaj kusiywan Dios Tatanchejta./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Chinkasqa kashajtiy, Dios Tatay tariwan.",
+        "Qhatísaj kusiywan Dios Tatanchejta./"
+      ]
+    }
+  ]
+}

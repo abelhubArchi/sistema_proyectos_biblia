@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "TATIT CRISTOW JUCHAT K'OMACHJJETU",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tatit Cristoruw take chuymampi,",
+        "Nayajj má uru jac'achasta:",
+        "--Juchararátwa juma jac'ana,",
+        "Anchhitpach perdonjjet --sasina.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Tatit Cristowa take juchata.",
+        "Munasiñapamp perdonjjetu.",
+        "K'oma wilapampiw nayarojja",
+        "Take chuymajja k'omachjjetu.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tatit Cristo j ja ch'amapampiwa",
+        "Nayan chuymajjar jaquir jutjje;",
+        "Ñankha supayas alissutawa",
+        "Tatituquiwa nayan jacjje.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Munat jilata, munat cullaca",
+        "Jichhürpachay chuymam jisfaram;",
+        "Tatit Cristojja wilapampiwa",
+        "Take juchamat jarekjjátam."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "Llank’aychej Señorpaj",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Llank'aychej Señorpaj, kamachisnin kanchej.",
+        "Jesús yachachejninchejta qhatinachej.",
+        "Bendicionesninwan kallpachawasunchej",
+        "Kamachiwasqasninchejta ruwanapaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Llank'aychej Señorpaj, suyaychej oraspa,",
+        "Ama puñuspalla, ñapis kutímonqaña Jesús.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Llank'aychej Señorpaj Diosmanta parlaspa,",
+        "Kawsaj fantamanta mikhuyta munaspa.",
+        "Juchawan onqosqas Jesusman richunku,",
+        "Salvacionta qhasilla tukuyman qonqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Llank'aychej Señorpaj kallpata mañaspa",
+        "Juchastaqa Señorwan atípasunchej.",
+        "Salvadorman pusaychej juchasapasta",
+        "Salvacionta qhasilla qosqanta niychej."
+      ]
+    }
+  ]
+}

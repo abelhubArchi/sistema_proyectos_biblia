@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "LA CANCIÓN FELIZ",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cantaría sin parar,",
+        "por lo que hiciste en mi",
+        "Danzaría siempre Dios",
+        "por tu gran amor."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Arde mi corazón",
+        "Para poder decir que me has salvado",
+        "Y borraste mi pasado.",
+        "Señor voy a gritar, desde todo lugar,",
+        "Que si tu estás por mi quién es contra mi?"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Todos vamos a cantar,",
+        "¡Somos felices!",
+        "Todos vamos a danzar,",
+        "¡Pues somos libres!",
+        "Si te pudiéramos mirar,",
+        "ver tu rostro sonreír,",
+        "Y a los ángeles danzar,",
+        "¡Porque el gozo está aquí!"
+      ]
+    }
+  ]
+}

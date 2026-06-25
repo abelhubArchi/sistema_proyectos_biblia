@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "CUSISITA DIOSAR ALABAÑANI",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Si Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Alabañán cusisita Diosasaru",
+        "Jupaquiwa yanapistu takewjana.",
+        ":Cunja jach'asa ch'amapajja",
+        "Take jaketaqui. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Alabañán take chuymamp Diosasaru",
+        "Niyaw jutan acapachar taripiri.",
+        ":Ucapachawa nayan, juman",
+        "Luratamas uñstan. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Acapachan llaquitasa sarnakascstan",
+        "Alajjpachan wiñayatac cusisiñán.",
+        ":Alabapjjañán acapachan",
+        "Suma Dios Awquisar. (Bis)"
+      ]
+    }
+  ]
+}

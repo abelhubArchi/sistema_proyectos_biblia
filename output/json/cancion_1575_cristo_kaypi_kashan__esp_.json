@@ -1,0 +1,56 @@
+{
+  "numero": null,
+  "titulo": "Cristo Kaypi Kashan (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristo está conmigo; ¡qué consolación!",
+        "Su presencia quita todo mi temor;",
+        "Tengo la promesa de mi Salvador:",
+        "\"No te dejaré nunca; siempre contigo estoy.\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/No tengo temor, no tengo temor;",
+        "Jesús me ha prometido:",
+        "\"Siempre contigo estoy.\"/",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Fuertes enemigos siempre cerca están.",
+        "Cristo está más cerca, guárdame del mal.",
+        "'Ten valor,\" me dice, \"Soy tu ayudador;",
+        "No te dejaré nunca, siempre contigo estoy.\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "El que guarda mi alma, nunca dormirá.",
+        "Si mi pie resbala. El me sostendrá;",
+        "En mi vida diaria El es mi guardador;",
+        "¡Oh, qué fiel su Palabra: \"Siempre contigo estoy!\""
+      ]
+    }
+  ]
+}

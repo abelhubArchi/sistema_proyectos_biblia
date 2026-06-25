@@ -1,0 +1,69 @@
+{
+  "numero": null,
+  "titulo": "Jaqay p’unchayta",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jaqay p'unchayta ni qonqaymanchu,",
+        "Kusiy p’unchay noqapaj;",
+        "Jucha kawsaypi purikushajtiy,",
+        "Jesús salvaj jamorqa.",
+        "Qhuyakuynimpi Cristolla qowan,",
+        "Sonqo thañiy, kusiyta.",
+        "Qhechun Ilakiyta, ¡gloria kachun Payman!",
+        "Kusisqa kani Paywan.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Urayk'amuspa, Diosniy k'anchawan;",
+        "Munakuynimpi Pay salvawarqa.",
+        "Ciego kashajtíypis, qhawarichiwan;",
+        "Urayk'amuspa, Diosniy k'anchawan.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Watejmanta nacespa Jesuspi,",
+        "Diospa wawanña kani.",
+        "Llimphuchasqaña Cristopi kaspa,",
+        "Salvacionta tarini.",
+        "Jatunchasqa kachun Dios Tatayqa,",
+        "Creespa jamushajtiy;",
+        "Cristo wajyakuwan munakuwaspa,",
+        "Wiñaypajmin yupaychasaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Paywan wiñajpaj kawsay suyani,",
+        "Jesuspi kusikuni;",
+        "Wakichipuwan k'acha lugarta,",
+        "Janaj pacha llajtapi.",
+        "Yuyarikuspa agradeceni,",
+        "Cruzpi Payta rikuspa;",
+        "Nak'arisqasnin kawsayta qowarqa,",
+        "¡Wiñaypaj taj yupaychasaj!"
+      ]
+    }
+  ]
+}

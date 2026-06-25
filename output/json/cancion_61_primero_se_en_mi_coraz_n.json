@@ -1,0 +1,68 @@
+{
+  "numero": 61,
+  "titulo": "PRIMERO SE EN MI CORAZÓN",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "De todo pecado me aparto, Señor,",
+        "A ti en plena consagración;",
+        "Escucha, suplico, Jesús, mi clamor:",
+        "Primero sé en mi corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Primero sé en mi corazón,",
+        "Primero sé en mi corazón;",
+        "La puerta, Señor, yo te abro en amor,",
+        "Primero sé en mi corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Oh ven, Santo Espíritu, mora en mi ser",
+        "Por siempre, sin interrupción;",
+        "Ven pronto, Señor, haz en mi tu placer,",
+        "Primero sé en mi corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Perdido no quiero ser, ya clamo a ti,",
+        "Me ofreces, Jesús, el perdón;",
+        "Escucha, te pido que mores en mí,",
+        "Primero sé en mi corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Ya tú eres, oh Cristo, mi gran Redentor,",
+        "Y suena en mi ser tu canción;",
+        "Del todo ya quiero ser tuyo, Señor,",
+        "Primero sé en mi corazón."
+      ]
+    }
+  ]
+}

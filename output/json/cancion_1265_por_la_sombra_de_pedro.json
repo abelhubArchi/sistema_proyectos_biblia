@@ -1,0 +1,29 @@
+{
+  "numero": null,
+  "titulo": "POR LA SOMBRA DE PEDRO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Por la sombra de Pedro",
+        "se sanaban los enfermos //",
+        "No era la sombra ni tampoco Pedro//",
+        "Era porque Pedro",
+        "tenía el espíritu de",
+        "Nazareno//",
+        "Nazareno, nazareno,",
+        "el espíritu de Nazareno"
+      ]
+    }
+  ]
+}

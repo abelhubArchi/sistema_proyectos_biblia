@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Atipayqa Tiyan Kawsarimojpi (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Victoria con Cristo, ya Jesús resucitó.",
+        "Su sangre preciosa nos redimió del mal.",
+        "Su triunfo es nuestro, nos ha prometido;",
+        "Marchemos confiados, seguros de su amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Estemos alertos. Jesús viene pronto.",
+        "Los que perseveran recompensa tendrán.",
+        "Allá en el cielo todo será gozo.",
+        "No habrá ya mas llanto, ni penas, ni dolor."
+      ]
+    }
+  ]
+}

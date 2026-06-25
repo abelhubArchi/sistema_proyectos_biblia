@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Kusikorqani Chay Nishawajtinku (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Estuve alegre cuando me dijeron:",
+        "Vamos de prisa a la casa de Dios.",
+        "A nuestro Padre, en su santo templo,",
+        "Alabaremos fervorosamente.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Glorifiquemos a Dios, aleluya.",
+        "Su nombre santo sea alabado.",
+        "El nos promete: \"Estoy con vosotros,",
+        "Si en mi nombre dos o tres se reúnen\".",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "También llevemos a nuestros amigos,",
+        "Para que escuchen de Dios su Palabra.",
+        "Cristo promete al que le obedece,",
+        "Que será salvo si en El creyere.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Dios te invita, escúchale, amigo.",
+        "No le rechaces tan tierno llamado.",
+        "Si no obedeces su tierno llamado,",
+        "Irás por siempre al tormento eterno."
+      ]
+    }
+  ]
+}

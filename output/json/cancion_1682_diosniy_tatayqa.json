@@ -1,0 +1,38 @@
+{
+  "numero": null,
+  "titulo": "Diosniy Tatayqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Diosniy Tatayqa khuyakuyniyoj",
+        "Sajra kayniyta Pay llimphuchawan.",
+        "Jucha chawpipi kawsasharqani,",
+        "Contraykipitaj juchallerqani.",
+        "Ñawpaqeykipi mana allin kayta perdonaway./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Pakakushani p’enqakuy manta,",
+        "Perdonallaway kay juchaymanta.",
+        "Apachimuway kusiy kawsayta,",
+        "Qowaytaj uj llamp’u sonqota.",
+        "Munayniykita Qan rikuchiway, yanapaway./"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "AL TERMINAR LA CANCIÓN",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Muchos marchan ya al terminar",
+        "de cantar, más yo vengo a Ti",
+        "Mi anhelo es traer algo",
+        "de valor que te bendiga oh Dios",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Traerte una canción que hable sobre Ti",
+        "no es lo que quieres de mí",
+        "Tú miras aún más allá",
+        "de lo que aparento ser,",
+        "Tú buscas mi corazón",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Quiero adorarte como Tú quieres, pues el centro eres Tú",
+        "El centro eres Tú Jesús",
+        "Perdóname si no te he escuchado, pues el centro eres Tú",
+        "El centro eres Tú Jesús",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Soberano Rey, ¿quién se iguala a Ti? Grande es Tu poder",
+        "Y aunque pobre soy, lo poco tuyo es, te entrego mi corazón"
+      ]
+    }
+  ]
+}

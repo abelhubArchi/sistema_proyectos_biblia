@@ -1,0 +1,29 @@
+{
+  "numero": null,
+  "titulo": "Kachaway Señorniy (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Envíame, Señor, envíame. Señor,",
+        "Envíame, Señor, a predicar.",
+        "Y dame tu poder, y dame tu poder",
+        "Y dame tu poder para guiar.",
+        "Por sendas de salud, por sendas de salud,",
+        "Por sendas de salud al pecador.",
+        "/Envíame, Señor, envíame. Señor,",
+        "Envíame, Señor, a predicar./"
+      ]
+    }
+  ]
+}

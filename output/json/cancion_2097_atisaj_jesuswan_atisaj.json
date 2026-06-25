@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "Atisaj Jesuswan Atisaj",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Atisaj, Jesuswan atisaj",
+        "Atipayta qowanqa Jesusniy.",
+        "Supay jamuwajtenqa, mañana kasusajchu.",
+        "Jesusniy atipachiwanqa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Jesusniy waqaychawajniy./",
+        "Pruebaspipis chanta Ilakiykunapi",
+        "Yachani Pay, Jesusniy waqaychawanqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Calvario orqopi Jesusniyman/",
+        "/Khishka pilluta churaykorqanku./",
+        "/Juchayrayku Pay wañorqa./",
+        "/Khishka pilluta churaykorqanku./"
+      ]
+    }
+  ]
+}

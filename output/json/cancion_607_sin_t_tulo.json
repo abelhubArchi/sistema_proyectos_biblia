@@ -1,0 +1,96 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "ADORACION",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "El espiritu de Dios esta en este lugar",
+        "El espiritu de Dios se mueve en este lugar",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Esta aqui para consolar",
+        "esta aqui para liberar",
+        "esta aqui para guiar",
+        "El espiritu de Dios esta aqui",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Muevete en mi, muevete en mi",
+        "toca mi mente mi corazon,",
+        "llena mi vida de tu amor",
+        "muevete en mi, Dios espiritu,muevete en mi.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "//Dios esta aqui Aleluya",
+        "tan cierto como el aire que respiro",
+        "tan cierto como la mañana se levanta",
+        "tan cierto como yo te hablo y tu me puedes oir.//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "//Aleluya ,aleluya",
+        "Gloria a Jesus, El es mi rey Aleluya//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 6,
+      "lineas": [
+        "De gloria en gloria te veo",
+        "cuando mas te conozco",
+        "Quiero saber mas de ti.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 7,
+      "lineas": [
+        "Mi Dios cual buen alfarero",
+        "Cambiame, transformame",
+        "moldeame a tu imagen Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 8,
+      "lineas": [
+        "//Quiero ser mas como tu",
+        "ver la vida como tu",
+        "saturame en tu espiritu",
+        "y reflejar al mundo tu amor.//"
+      ]
+    }
+  ]
+}

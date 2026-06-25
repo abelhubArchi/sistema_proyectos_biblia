@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "Maypipis Kashaspa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Doquier el hombre esté, la Nueva proclamad.",
+        "Doquier haya aflicción, miserias y dolor,",
+        "Cristianos anunciad que el Padre nos envió,",
+        "El fiel consolador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "El fiel Consolador, el fiel Consolador",
+        "Que Dios nos prometió, al mundo descendió.",
+        "Doquier el hombre esté, decid que vino ya,",
+        "El fiel Consolador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "La noche ya pasó y al fin brilló la luz",
+        "Que vino a disipar las sombras del terror.",
+        "Así del alma fue aurora celestial,",
+        "El fiel Consolador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "El es quien da salud, y plena libertad,",
+        "A los que encadenó, \"el fiero tentador\".",
+        "Los rotos hierros hoy dirán, que vino ya",
+        "El fiel Consolador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "¡Oh grande eterno amor! mi lengua débil es",
+        "Para poder hablar del don que recibí,",
+        "Al renovar en mi la imagen celestial,",
+        "El fiel Consolador."
+      ]
+    }
+  ]
+}

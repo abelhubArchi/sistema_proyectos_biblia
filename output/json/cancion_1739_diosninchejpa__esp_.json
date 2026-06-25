@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "Diosninchejpa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/La semilla, la semilla puedes tú sembrar.",
+        "Por los valles y los cerros puedes tú sembrar./",
+        "/Nunca mires atrás, sólo mira a Jesús.",
+        "Camina por su senda en amor y luz./"
+      ]
+    }
+  ]
+}

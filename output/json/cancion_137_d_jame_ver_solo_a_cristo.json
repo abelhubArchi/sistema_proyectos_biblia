@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "DÉJAME VER SOLO A CRISTO",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Muerto estoy a los placeres,",
+        "Muerto al mundo y su oropel;",
+        "Pero vivo por mi Cristo,",
+        "Más y más me acerco a El.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Déjame ver sólo a Cristo,",
+        "Sólo a Cristo, sólo a Cristo;",
+        "Déjame ver sólo a Cristo,",
+        "Es mi amante Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Ya no busco las riquezas",
+        "De este mundo temporal;",
+        "Yo me he entregado a Cristo",
+        "Y a su vida eternal.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Tempestuosos vientos hacen",
+        "Zozobrar mi embarcación;",
+        "Pero Cristo es mi Piloto:",
+        "Calmará el ventarrón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Aunque ande por el valle",
+        "De las sombras al morir,",
+        "No tendré temor alguno",
+        "Si su mano puedo asir."
+      ]
+    }
+  ]
+}

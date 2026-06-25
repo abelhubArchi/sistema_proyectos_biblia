@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "DIOSAW NAYAN KHANAJJAJJA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Diosaw nayan khanajjajja, khespiyasiñajjasa",
+        "¿Qhitirurac ajjsarájja? Diosaw arjjatirejjajj",
+        "¿Qhitits ajjsarayaséjja? Diosajjampicasinjja",
+        "Juparuquiw catuyasta take jacáwejjana.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Diosajj siw jan ajjsaramti, nayaw jumampiscájja",
+        "Janiraqui thayaramti, nayaw ch'amanchascáma",
+        "Yanapascapuni'mawa, catjjasiscaraquímaw",
+        "Cheka thaquinjamaraquiw jumarojj irpascáma.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Diosar take horasanwa nayajj yuspagarájja.",
+        "Uqhamarac lacajjampis nayajj alabaraquí.",
+        "Diosaruw nayajj arfasta, jupajj isfaraquituw",
+        "Take ajjsarañajjatwa nayarojj khespiyitu."
+      ]
+    }
+  ]
+}

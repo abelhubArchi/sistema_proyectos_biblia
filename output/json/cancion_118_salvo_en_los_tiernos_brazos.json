@@ -1,0 +1,66 @@
+{
+  "numero": null,
+  "titulo": "SALVO EN LOS TIERNOS BRAZOS",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Salvo en los tiernos brazos de mi Jesús seré,",
+        "Y en su amoroso pecho dulce reposaré.",
+        "Este es sin duda el eco de celestial canción,",
+        "Que de inefable gozo llena mi corazón . . .",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Salvo en los tiernos brazos de mi Jesús seré,",
+        "Y en amoroso pecho dulce reposaré,",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tiende Jesús los brazos, bríndame su amistad;",
+        "A su poder me acojo; no hay para mi ansiedad.",
+        "Este es sin duda el eco de celestial canción,",
+        "Ni causará el pecado daño en mi corazón . . .",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "De sus amantes brazos la gran solicitud",
+        "Me libra de tristeza, me libra de inquietud.",
+        "Y si tal vez hay pruebas, fáciles pasarán;",
+        "Lágrimas, si vertiere, pronto se enjugarán . . .",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Y cruzaré la noche lóbrega sin temor,",
+        "Hasta que venga el día de perennal fulgor.",
+        "¡Cuan placentero entonces con El será morar!",
+        "Y en la mansión de gloria siempre con El reinar . . ."
+      ]
+    }
+  ]
+}

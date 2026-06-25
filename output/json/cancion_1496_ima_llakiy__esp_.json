@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Ima Llakiy (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Este mundo tenebroso, se hunde más en el pecado.",
+        "Reina el pesar, llanto y dolor./",
+        "/Nunca yo puedo encontrar paz y gozo en mi vida.",
+        "Reina el pesar, llanto y dolor./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Oh, amigo, acude a Cristo. En su amor El te ofrece",
+        "Paz y perdón, vida eternal./",
+        "/Si creyeres en Jesús ahora mismo te dará El",
+        "Paz y perdón, vida eternal./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Los salvados nos gozamos cuando el pecador se allega",
+        "Al Salvador que da salud./",
+        "/Allá en el cielo también cuantos ángeles se gozan",
+        "Si el pecador viene a Jesús./"
+      ]
+    }
+  ]
+}

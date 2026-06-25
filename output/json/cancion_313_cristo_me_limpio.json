@@ -1,0 +1,56 @@
+{
+  "numero": null,
+  "titulo": "CRISTO ME LIMPIO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristo Jesús, con tu gran amor",
+        "Me perdonaste de todo mal.",
+        "Tú míe salvaste con tu poder,",
+        "Y me sacaste de oscuridad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Tú me consuelas en mi dolor,",
+        "En mis tristezas fuerza me das,",
+        "Tú eres mi Salvador. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Ayúdame, ¡oh buen Salvador!",
+        "Tu voluntad yo quiero hacer.",
+        "Dame la fuerza para vencer,",
+        "Quiero estar firme con tu poder.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Solo tú. Cristo, tienes poder",
+        "Para limpiar al vil pecador.",
+        "Siempre perdonas con compasión",
+        "Al que contrito te busca a tí."
+      ]
+    }
+  ]
+}

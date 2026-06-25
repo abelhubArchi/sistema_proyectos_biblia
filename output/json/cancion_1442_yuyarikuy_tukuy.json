@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Yuyarikuy Tukuy",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Yuyarikuy tukuy tiempopi",
+        "Dios Tatamanta./",
+        "/Dios Tatalla honrasqa kanqa",
+        "Nisqanta junfajtinchej./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Sojta p'unchayta llank'anapaj",
+        "Señor qosunki./",
+        "/Nawpaj p’nchaypi samarina",
+        "Diosta yupaychaj jiña./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Llank'ashanchejchu,hermanosníy,",
+        "Diosta kasuspa?/",
+        "/Wasinchejpi kajkunamampis",
+        "Willashanchejpunichu?/"
+      ]
+    }
+  ]
+}

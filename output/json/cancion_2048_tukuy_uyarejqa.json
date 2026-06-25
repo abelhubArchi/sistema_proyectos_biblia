@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "Tukuy Uyarejqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tukuy uyarejqa willaramuchun,",
+        "Salvación kasqanta creesqanrayku.",
+        "Chinkasqa mundoman willamuy, nispa:",
+        "\"Riy Salvador Jesusman.\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Tukuy creejkuna mllaramuna,",
+        "Evangeliomanta sumaj mllayta.",
+        "Qhasilla qóy muñan perdonta Jesús.",
+        "\"Riy Salvador Jesusman\".",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Salvakuyta munaj usqhayta richun,",
+        "Punku kichasoaña yaykúy munajpaj.",
+        "Cristollamin Nanqa janaj pachaman.",
+        "\"Riy, Salvador Jesusman.\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Nisqanta Jesusqa junfanqapuni,",
+        "Uyariy juchayoj, chimpay Señorman.",
+        "Payqa munakuywan tukuyta wajyan.",
+        "\"Riy, Salvador Jesusman.\""
+      ]
+    }
+  ]
+}

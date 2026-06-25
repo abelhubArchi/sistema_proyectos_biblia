@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "AL QUE ES DIGNO DE RECIBIR LA GLORIA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "//AL QUE ES DIGNO",
+        "DE RECIBIR LA GLORIA",
+        "",
+        "AL QUE ES DIGNO",
+        "DE RECIBIR EL HONOR//"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "LEVANTEMOS NUESTRAS MANOS",
+        "",
+        "Y ADOREMOS",
+        "",
+        "A JESÚS, CORDERO DE GLORIA",
+        "",
+        "Y EXALTEMOS",
+        "",
+        "SU INCOMPARABLE MAJESTAD"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "AL QUE VIVE POR SIEMPRE, AL GRAN YO SOY",
+        "",
+        "A JESÚS"
+      ]
+    }
+  ]
+}

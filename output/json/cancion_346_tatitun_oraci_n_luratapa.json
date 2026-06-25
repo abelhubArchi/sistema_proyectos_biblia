@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "TATITUN ORACIÓN LURATAPA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Si Bamol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tatit Cristojj yatekerinacapamp",
+        "Getsemaní huertoruw sarapjje,",
+        "Dios Awquipat oracionan mayisa",
+        "Jupan mimañap phokhañataqui.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Tatitojj a saraquistuw:",
+        "\"Orapjjamay jan juch lurañatac. \"",
+        "Oracionan ch'amajj utji",
+        "Jucha lurafiar atipjañatac.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tatit Cristojj ch'alljjtat chuymapampiwa",
+        "Awquipat oracionan mayiha.",
+        "Uqham maycasajj jupajj wil juinp'iha",
+        "Wali llaquisiñamp mayitapat.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Tatit Criston yatekerinacapajj",
+        "Karjasisajj takew iquirjjapjjan:",
+        "\"¿Janit má horas mayifia puedipcta?\"",
+        "Sasaw ewjjan jupanacarojja.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Tatit Criston arupajj ewjjestuwa",
+        "Jan karjasis mayiñasataqui.",
+        "Chekpach iyawsafiamp mayipjjañáni,",
+        "Supayar atipt'añasataqui."
+      ]
+    }
+  ]
+}

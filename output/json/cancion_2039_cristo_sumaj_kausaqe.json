@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Cristo Sumaj Kausaqe",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristo sumaj kawsaqenchej, cruzpi Pay ñak'arerqa.",
+        "Sapa p'unchay mañakuna Paymanta oraciompi.",
+        "Llakisqachu qan kashanki? Ñak’ariyjamusojtín,",
+        "Sapa p'unchay oraciompi Diosninchejman willakuy.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Kallpaykichu tukukapun, manchisqachu kashanki?",
+        "Oraciompi Diosman willay, Paylla yanapasonqa.",
+        "Kawsaqeschu saqesunku? Oraciompi willakuy.",
+        "Sonqo thañiyta tarinki Diospa makimpi kaspa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cristo sumaj kawsaqenchej, munakuyta rikuchin.",
+        "Cruzpi yawarnínjich'arqa salvanawanchejrayku.",
+        "Cristo sumaj kawsaqenchej, Payllapi confíakuna.",
+        "Sapa p'unchay oraciompi Diosmanta mañakuna."
+      ]
+    }
+  ]
+}

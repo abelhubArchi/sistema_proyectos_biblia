@@ -1,0 +1,52 @@
+{
+  "numero": null,
+  "titulo": "MI FORTALEZA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "SE QUE EN TI, YO PUEDO VIVIR CONFIADO",
+        "A TU LADO SEGURO ESTARÉ",
+        "",
+        "NO HABRÁ TEMOR, QUE PUEDA MIS LABIOS SELLAR",
+        "POR SIEMPRE TU NOMBRE ALABARÉ"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "NO CALLARÉ, TE SEGUIRÉ HASTA EL FINAL",
+        "PROCLAMARÉ A LAS NACIONES, DE TU AMOR Y MAJESTAD"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "//TU ERES MI FORTALEZA, MI ESPERANZA,",
+        "AGUAS ETERNA QUE SACIA MI SED",
+        "",
+        "REY DE GLORIA, ETERNO SEÑOR, DIOS PODEROSO Y FIEL PROTECTOR//"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "TE ADORARÉ POR SIEMPRE, PUES TU ERES MI VIDA",
+        "LO QUE MÁS ANHELO TENER."
+      ]
+    }
+  ]
+}

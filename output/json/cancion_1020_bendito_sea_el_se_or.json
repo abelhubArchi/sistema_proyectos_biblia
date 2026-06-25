@@ -1,0 +1,35 @@
+{
+  "numero": null,
+  "titulo": "BENDITO SEA EL SEÑOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Bendito sea el Señor Dios poderoso",
+        "Quien fue, quien es y quien será",
+        "Bendito sea el Señor Dios poderoso",
+        "Por siempre reinará",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Padre del cielo te adoramos,",
+        "Alzamos hoy Tu nombre en alto",
+        "Que Tu reino se establezca en la alabanza",
+        "De Tu pueblo que declara Tu poder"
+      ]
+    }
+  ]
+}

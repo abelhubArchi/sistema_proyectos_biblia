@@ -1,0 +1,41 @@
+{
+  "numero": null,
+  "titulo": "GRANDE ES EL SEÑOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "// GRANDE ES EL SEÑOR,",
+        "CREADOR DEL UNIVERSO",
+        "",
+        "CANTA Y DANZA AL REY QUE VIENE PRONTO",
+        "",
+        "¡QUÉ FELICIDAD, EL CORAZÓN NOS LLENA!",
+        "",
+        "GRANDE ES EL SEÑO-O-O-O-OR //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "// OH-OH-OH, ¡HOSANNA AL ALTÍSIMO!",
+        "OH-OH-OH, ¡HOSANNA AL ALTÍSIMO!",
+        "",
+        "OH-OH-OH, ¡HOSANNA AL ALTÍSIMO!",
+        "GRANDE ES EL SEÑO-O-O-O-OR //"
+      ]
+    }
+  ]
+}

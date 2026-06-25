@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Kallpachakuna Hermanos (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/En Cristo bien unidos vamos adelante.",
+        "El Capitán es Cristo. Vamos a vencer./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/El Capitán es Cristo, siempre victorioso.",
+        "Estemos pues seguros, vamos a vencer./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Satanás el maligno está a nuestro frente.",
+        "Venceremos la lucha con El Capitán./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Tomemos la armadura del Señor Jesús.",
+        "Meditando y orando vamos a vencer./"
+      ]
+    }
+  ]
+}

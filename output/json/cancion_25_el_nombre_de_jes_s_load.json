@@ -1,0 +1,62 @@
+{
+  "numero": 25,
+  "titulo": "EL NOMBRE DE JESÚS LOAD",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "El nombre de Jesús load, y a su divina ley;",
+        "Postrados, homenaje dad,",
+        "",
+        "y coronadle Rey;",
+        "Postrados, homenaje dad, y coronadle Rey.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Vosotros hijos de Israel, residuo de la grey,",
+        "Loores dad a Emanuel,",
+        "",
+        "y coronadle Rey;",
+        "Loores dad a Emanuel, y coronadle Rey.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Naciones todas, escuchad, y obedeced su ley",
+        "De gracia, amor y santidad,",
+        "",
+        "y coronadle Rey;",
+        "De gracia, amor y santidad, y coronadle Rey.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Hoy, con el coro celestial, canción de triunfo y fe",
+        "Cantadle por la eternidad,",
+        "",
+        "y coronadle Rey.",
+        "Cantadle por la eternidad, y coronadle Rey. Amén."
+      ]
+    }
+  ]
+}

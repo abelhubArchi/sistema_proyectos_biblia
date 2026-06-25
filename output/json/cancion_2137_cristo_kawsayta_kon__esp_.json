@@ -1,0 +1,41 @@
+{
+  "numero": null,
+  "titulo": "Cristo kawsayta kon (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristo, la vida da, vida da, vida da.",
+        "Cristo, la vida da al que cree.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cristo, con su sangre me lavó, mi maldad.",
+        "Cristo, con su sangre me lavó.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cristo, victorioso en la cruz, en la cruz",
+        "Cristo, victorioso me salva."
+      ]
+    }
+  ]
+}

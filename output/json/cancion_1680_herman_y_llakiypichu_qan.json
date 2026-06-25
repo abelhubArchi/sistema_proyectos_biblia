@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "Hermanóy Llakiypichu Qan",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Hermanóy, llakiypichu qan kashanki?",
+        "Chayri iskayrayasqachu kashanki?",
+        "Diospa k’acha kaynimpi qan unanchay",
+        "Bendicionesninmanta yuyarispa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Yupay Dios bendicisusqanta,",
+        "Qampaj Dios apachimusqanta,",
+        "Yupay ari chanta rikunki",
+        "May chhikata Pay munakususqanta?",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Sayk'usqachu llakiykunawan kanki?",
+        "Kallpaykipis pisillañachu kashan?",
+        "Dios bendicisusqasninta yuyariy.",
+        "Sonqoykipi kusikuy fikarenqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Qhapaj kaytachu qan munapayanki?",
+        "Juchamanchu sonqoyki wajyasunki?",
+        "Qori wasisniykimanta yuyariy,",
+        "Janaj pachapi wakichishanña Dios."
+      ]
+    }
+  ]
+}

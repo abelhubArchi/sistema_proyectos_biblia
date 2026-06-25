@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Atipayqa Tiyan Kawsarimojpi",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Atipayqa tiyan Jesús kawsarimojpi,",
+        "Yawar jich’asqanwan juchanchejta pichan.",
+        "Atipananchejta niwarqanchejña Pay.",
+        "Rinachej ñawpajman confiaspa Jesusllapi.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Allinta qhawana Jesusqa jamonqaña.",
+        "T’inkastajaywanqa Payllapi sayajman.",
+        "Cielo llajtapeqa kusiyilaña kanqa,",
+        "Waqay, chayri nanay chinkariponqaña."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "numero": null,
+  "titulo": "CADA MOVIMIENTO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cada movimiento lo hago en Ti,",
+        "Tú me mueves Cristo",
+        "Si yo respiro es gracias a Ti",
+        "Cada paso que doy lo hago en Ti,",
+        "mi Guía eres Tú Cristo",
+        "Si yo respiro es gracias a Ti",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Olas de gracia y perdón,",
+        "donde mire yo te veo a Ti",
+        "Tu amor me capturó,",
+        "mi Dios es amor y no hay nadie así"
+      ]
+    }
+  ]
+}

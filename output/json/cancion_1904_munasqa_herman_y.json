@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Munasqa Hermanóy",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Munasqa hermanóy, ama llakikuychu,",
+        "Señor Jesucristo ñapis jamonqaña.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Llakiypisjamuchun, waqaypis, nanaypis,",
+        "Bibliata leesun Pay jamunankama.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Kay p'unchaykunapi ña rikushanchejña,",
+        "Señorpa nisqasnin, chay señalkunata.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Señorpa jamunan ancha qayllapiña.",
+        "Suyana, hermanóy, chay kutímuyninta."
+      ]
+    }
+  ]
+}

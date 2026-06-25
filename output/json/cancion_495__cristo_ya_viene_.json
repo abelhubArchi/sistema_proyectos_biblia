@@ -1,0 +1,48 @@
+{
+  "numero": null,
+  "titulo": "¡CRISTO YA VIENE!",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristo el Señor vendrá,",
+        "Inesperadamente.",
+        "¡Espera listo, y purificado;",
+        "Pronto Cristo volverá. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cuando venga el Señor,",
+        "Le rendiremos cuenta.",
+        ":Nunca desmayes,",
+        "Haz buenas obras;",
+        "Pronto Cristo volverá. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cristo nos llevará,",
+        "A su gloriosa ciudad.",
+        ":Allí tendremos el gozo eterno;",
+        "Junto a Cristo, el Vencedor. (Bis)"
+      ]
+    }
+  ]
+}

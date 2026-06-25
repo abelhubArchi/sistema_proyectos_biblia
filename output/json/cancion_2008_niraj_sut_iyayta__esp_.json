@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "Niraj Sut’iyayta (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Muy de madrugada yo te buscaré,",
+        "Y todos los días yo te esperaré./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Aunque vengan pruebas, yo te seguiré.",
+        "Tú me darás consolación./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Ayúdame, Señor, a perseverar",
+        "En tu camino, para serte fiel./"
+      ]
+    }
+  ]
+}

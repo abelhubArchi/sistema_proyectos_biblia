@@ -1,0 +1,60 @@
+{
+  "numero": null,
+  "titulo": "012 CANAAN ORAKE",
+  "carpeta": "04 Poder del Evangelio",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ":Nayan chuymajjataquejja",
+        "sinti cusisiñapiniwa,",
+        "ma suma orakewa",
+        "",
+        "taketac waquichata",
+        "uca suma oraken",
+        "muncañ pankararanacaw. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "CORO:",
+        ": Canaánan  orakhepats",
+        "Juc’amp sumapiniwa",
+        "Ucan khespitanacajj",
+        "Diosaruw k’ochusipqui,",
+        "",
+        ": Nayajj jupanacampi",
+        "Chicaw k’osusiñ munta",
+        "Diosaru jach’anchasa",
+        "Suma k’oma marcana. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        ": Diosan k’oma",
+        "Lliphipquir marcapanjja",
+        "Ajanuy ajanuw uñcatasiñan.",
+        "",
+        "Janiw ucanjj utjjanit,",
+        "T’akhesiñas jiwañas",
+        "Wiñayaw jacañani",
+        "Tatitun jac’apana. (bis)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "Santa Biblia Diospa Palabramin (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Dios nos habla hoy por su Santa Palabra",
+        "Que la humanidad ha pecado contra Dios.",
+        "No podrá alcanzar a la gloria del Señor,",
+        "Todo lo inmundo en el cielo no entrará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "El Señor les llama hoy para darles salvación,",
+        "El que viene a Cristo, vida eterna hallará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Dios nos habla hoy por su Santa Palabra,",
+        "Que irá el pecador a la muerte eternal.",
+        "Al que en El cree. Dios regala salvación.",
+        "Para siempre él de la vida gozará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Dios nos habla hoy por su Santa Palabra,",
+        "Que solo en Jesús salud hay para todos.",
+        "Su sangre vertió, muriendo en la cruenta cruz,",
+        "Al que cree en El, dará vida eternal."
+      ]
+    }
+  ]
+}

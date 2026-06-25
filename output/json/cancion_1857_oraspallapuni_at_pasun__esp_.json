@@ -1,0 +1,28 @@
+{
+  "numero": null,
+  "titulo": "Oraspallapuni Atípasun (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Orando sin cesar venceremos./",
+        "Para poder vencer necesitas el poder,",
+        "Orando sin cesar venceremos.",
+        "/Venceré porque El está conmigo.",
+        "Venceré porque es mi amigo fiel.",
+        "Venceré, vencerás, venceré, vencerás,",
+        "En el nombre del Señor venceremos."
+      ]
+    }
+  ]
+}

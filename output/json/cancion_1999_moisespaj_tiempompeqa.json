@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "Moisespaj Tiempompeqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Moisespaj tíempompeqa tukuy apamorqanku/",
+        "Diospaj santo templonman ofrendasta, diezmosta./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Ofrendaykita Diosman qoy ama Ilakikuspa./",
+        "/Tukuy sonqowan qojta Dios bendicen jatunta./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Chunkamanta uj kajqa Diospatamin, hermanóy./",
+        "/Diospaj Palabrampi nin faqapuna kasqanta./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Kusiywan sirvinachej uj k'ata Diosninchejta./",
+        "/Payqa tukuy imata qowanchej kawsanapaj./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "/Tukuy qhapaj kayninchej Diospatamin, hermanóy./",
+        "/Diosqa Palabrampi nin: \"Qori, qolqe noqajta\"./"
+      ]
+    }
+  ]
+}

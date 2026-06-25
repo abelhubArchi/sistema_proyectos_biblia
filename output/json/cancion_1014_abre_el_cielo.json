@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "ABRE EL CIELO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Padre quiero estar en Tu Presencia",
+        "Que mi vida sea llena más de Ti",
+        "Dios lo que yo quiero es ver Tu Gloria",
+        "Que el fuego del cielo arda en mi",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Puedes mi pasión sentir y mi hambre ver en mi",
+        "Sabes que te anhelo a Ti",
+        "Que no haya barreras, quita las tinieblas",
+        "Rompe este duro corazón, oye mi clamor",
+        "¡Abre el cielo hoy!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "En todo lugar está el deseo",
+        "De poder ver tu Reino hoy aquí",
+        "Las naciones quieren ver Tu Gloria",
+        "Abre el cielo Dios y úsame a mi"
+      ]
+    }
+  ]
+}

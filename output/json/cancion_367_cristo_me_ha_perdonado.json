@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "CRISTO ME HA PERDONADO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "un día hermoso busqué a Cristo,",
+        "Con toda fe y sinceridad.",
+        "Clamé a Cristo: --Yo soy culpable,",
+        "Perdóname de toda maldad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cristo el Señor me ha perdonado,",
+        "De mis pecados con su amor.",
+        "Con su preciosa sangre vertida,",
+        "De mis pecados me redimió.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cristo el Señor con poder divino",
+        "Vino a morar en mi corazón.",
+        "El enemigo es ya vencido,",
+        "Y Cristo mora en mi corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Oh hermano mío, oh hermana mía,",
+        "Hoy mismo abre tu corazón;",
+        "Y el Señor con su amor divino",
+        "Perdonará toda tu maldad."
+      ]
+    }
+  ]
+}

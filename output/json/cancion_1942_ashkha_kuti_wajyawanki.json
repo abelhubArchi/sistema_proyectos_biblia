@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "Ashkha Kuti Wajyawanki",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Ashkha kuti wajyawanki",
+        "Chajraykipi llank'anaypaj.",
+        "Kunanmanta kasusqayki",
+        "Nisqaykita junfanaypaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Salvador, yanapariway ari,",
+        "Evangeliota mllayta.",
+        "Salvador, Qan yachachiway ari,",
+        "Chajraykipi llank'anaypaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Runaqa mana yachanchu,",
+        "Salvación paypaj kasqanta.",
+        "Yachankunianchus chaytaqa,",
+        "Juchastaqa saqenkuman.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Chajraykeqa may jatunmin",
+        "Llank’ajkunari pisilla.",
+        "Dios Tatáy, mañarikuyki,",
+        "Yanapaway llank’ashajtíy."
+      ]
+    }
+  ]
+}

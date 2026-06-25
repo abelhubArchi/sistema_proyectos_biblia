@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Willaj Jamuyki (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Te vengo a decir,/ oh mi Salvador,",
+        "/Que yo te amo a Tí/ con el corazón.",
+        "/Te vengo a decir/ toda la verdad.",
+        "Yo te amo. Señor, te quiero, Señor, con el corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Yo quiero cantar,/ de gozo y de paz.",
+        "/Yo quiero llorar/ de felicidad.",
+        "/Te vengo a decir/ toda la verdad.",
+        "Yo te amo, Señor, te quiero. Señor, con el corazón."
+      ]
+    }
+  ]
+}

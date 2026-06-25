@@ -1,0 +1,76 @@
+{
+  "numero": null,
+  "titulo": "QUE SEAS MI UNIVERSO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "QUE SEAS MI UNIVERSO",
+        "NO QUIERO DARTE SOLO UN RATO DE MI TIEMPO",
+        "NO QUIERO SEPARARTE UN DIA SOLAMENTE",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "QUE SEAS MI UNIVERSO",
+        "NO QUIERO DARTE MIS PALABRAS COMO GOTAS",
+        "QUIERO UN DILUVIO DE ALABANZAS EN MI BOCA",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "QUE SEAS MI UNIVERSO",
+        "QUE SEAS TODO LO QUE SIENTO Y LO QUE PIENSO",
+        "QUE SEAS EL PRIMER ALIENTO EN LA MAÑANA",
+        "Y LA LUZ EN MI VENTANA",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "QUE SEAS MI UNIVERSO",
+        "QUE LLENES CADA UNO DE MIS PENSAMIENTOS",
+        "QUE TU PRESENCIA Y TU PODER SEAN MI ALIMENTO",
+        "OH JESÚS ES MI DESEO",
+        "QUE SEAS MI UNIVERSO",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "NO QUIERO DARTE SOLO PARTE DE MIS AÑOS",
+        "TE QUIERO DUEÑO DE MI TIEMPO Y DE MI ESPACIO",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 6,
+      "lineas": [
+        "QUE SEAS MI UNIVERSO",
+        "NO QUIERO HACER MI VOLUNTAD QUIERO AGRADARTE",
+        "Y CADA SUEÑO QUE HAY EN MI QUIERO ENTREGARTE"
+      ]
+    }
+  ]
+}

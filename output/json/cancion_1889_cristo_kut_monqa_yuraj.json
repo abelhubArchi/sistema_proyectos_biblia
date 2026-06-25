@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Cristo Kutímonqa Yuraj",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Cristo kutimonqa yuraj phuyuspi,",
+        "Jatun atiyninwan pusawasunchej./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Jamushanña JesusqaJ",
+        "/Pusariwasun.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Hermanos, orana may lugarpipis,",
+        "Diospa bendidonnin jamuwasunchej./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cielomantapacha rikhurimonqa,",
+        "Janaj pachamantaj pusariwasun."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "numero": null,
+  "titulo": "DIOS ES AMOR",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Con serenidad escucha",
+        "Cántico consolador,",
+        "Que nos trae la dulce nueva",
+        "Que el Señor Dios es amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Es amor, (Es amor, Dios es amor),",
+        "Es amor, (Es amor. Dios es amor),",
+        "Coro angélico, entonad,",
+        "Con fervor a Dios load;",
+        "Entonando mil cantares",
+        "Por la tierra y por los mares,",
+        "Revelando a los millares",
+        "Que el Señor Dios es amor. Amén.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Compasión profunda muestra",
+        "A este mundo de dolor",
+        "Con mandar a este mundo",
+        "Al precioso Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Un testigo viene a mi alma",
+        "Cual paloma celestial,",
+        "Revelando a mi alma entera",
+        "Nueva hermosa sin igual.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Corazón, ¡despierta y canta!",
+        "Ve de Cristo el esplendor",
+        "Disipando las tinieblas,",
+        "Muestra que Dios es amor."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "Munakoj Dios Tata",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Munakoj Dios Tata, chimpaykamuyki,",
+        "Qanmanta mañaspa k'umuykamuyki.",
+        "Munakuyniykipi Qan kawsachiway",
+        "Qori llajtaykiman chayanaykama.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Kusisqa rishanijanaj pachaman,",
+        "Almasta pusaspa Salvawajniyman./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Cristoj jamuyninta suyashankichu?",
+        "Llimphuchasqañachu kawsayniykipis?",
+        "Cristoman chimpaykuy juchasniykiwan,",
+        "Kusisqa ripunki janaj pachaman.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Llakeyqa kampuni kay pachapeqa.",
+        "Onqoypis, waqaypis mana tukukoj.",
+        "Janaj pachapiraj kusikamusun.",
+        "Chayrayku, hermanos, listos suyana."
+      ]
+    }
+  ]
+}

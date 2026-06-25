@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "A NUESTRO SEÑOR DAD GRACIAS HOY",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "A NUESTRO SEÑOR DAD GRACIAS HOY",
+        "SU AMOR ES PARA SIEMPRE",
+        "PORQUE BUENO Y SOBERANO ES",
+        "SU AMOR ES PARA SIEMPRE",
+        "",
+        "CANTAD, CANTAD"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "BRAZOS DE PODER NOS EXTENDIÓ",
+        "SU AMOR ES PARA SIEMPRE",
+        "POR LA VIDA QUE ÉL NOS RESTAURÓ",
+        "SU AMOR ES PARA SIEMPRE",
+        "",
+        "// CANTAD, CANTAD //"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "// POR SIEMPRE DIOS ES FUERTE",
+        "POR SIEMPRE DIOS ES FIEL",
+        "POR SIEMPRE ESTÁ CONMIGO",
+        "POR SIEMPRE, POR SIEMPRE //"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "AL AMANECER, AL PONERSE EL SOL",
+        "SU AMOR ES PARA SIEMPRE",
+        "POR LA GRACIA DE DIOS PERMANECERÉ",
+        "SU AMOR ES PARA SIEMPRE",
+        "",
+        "CANTAD... POR SIEMPRE..."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "//// SU AMOR ES PARA SIEMPRE ////"
+      ]
+    }
+  ]
+}

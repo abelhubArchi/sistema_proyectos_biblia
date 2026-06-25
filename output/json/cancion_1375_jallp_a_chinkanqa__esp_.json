@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "Jallp’a Chinkanqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Cielo y tierra ya pronto pasarán,",
+        "Lo que dijo Dios permanecerá./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Así dijo Cristo, por la Biblia sé.",
+        "Por eso, hermanos, alistémonos,",
+        "Velando alertas. Pronto viene El.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Por eso, hermanos, esforcémonos",
+        "Sirviendo a Jesús. Pronto viene El./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Cristo nos dará gloriosa mansión",
+        "En su Santo Hogar. Gloria sea a El./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Pronto con Jesús estaremos ya",
+        "En la diestra de El, por la eternidad./"
+      ]
+    }
+  ]
+}

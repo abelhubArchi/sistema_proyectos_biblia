@@ -1,0 +1,58 @@
+{
+  "numero": 12,
+  "titulo": "LUZ A MIS PIES",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Luz a mis pies habrás de ser,",
+        "Para en tu senda andar;",
+        "Limpio raudal de gracia fiel,",
+        "Nítido manantial.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Pan de mi ser, feliz maná",
+        "De gracia celestial;",
+        "Eres fanal que me guiará",
+        "A gloria perennal.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Pilar serás de'protección",
+        "Que alumbre mi vivir;",
+        "Puedes calmar feroz turbión",
+        "Y mi alma bendecir.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Eres mi Dios, mi Pabellón,",
+        "Fuente de gran virtud;",
+        "Te doy mi ser, mi devoción,",
+        "Mi entera gratitud."
+      ]
+    }
+  ]
+}

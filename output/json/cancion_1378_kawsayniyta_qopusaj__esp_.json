@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Kawsayniyta Qopusaj (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Ya mi vida se la debo a Jesús,",
+        "Porque El murió en la cruz por mí./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Vida nueva encontré en la cru’. de Jesús",
+        "Porque Cristo mi deuda pagó./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Yo me rindo a los pies de Jesús mi Señor",
+        "Porque fui un infiel pecador./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Pecador, el Santo Espíritu te llama a tí,",
+        "Ven a Cristo y salvo serás./"
+      ]
+    }
+  ]
+}

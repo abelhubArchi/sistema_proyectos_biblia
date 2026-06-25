@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "YO SE QUE ESTAS AQUI",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "YO SE QUE ESTAS AQUI",
+        "SIENTO TU CAMINAR",
+        "TE MUEVES ENTRE EL PUEBLO",
+        "TRAYENDO SANIDAD",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "CON MI FE TE ALCANZARE",
+        "CON MI FE TE TOCARE",
+        "MI MILAGRO RECIBIRE",
+        "Y SE QUE TRANSFORMADO YO SERE"
+      ]
+    }
+  ]
+}

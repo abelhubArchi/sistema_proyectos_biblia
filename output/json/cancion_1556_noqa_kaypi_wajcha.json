@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Noqa Kaypi Wajcha",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Noqa kaypi wajcha purishajtíy,",
+        "Dios Tatáy, Qanlla k'anchaykuwanki./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Almaypa kamaynenqa",
+        "Maymaníaj kunan rínman,",
+        "Cristoman mana chimpayman chayqa?/",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Sumaj yuyaypi Qan kawsachiway",
+        "K'anchay ñanninta purikunaypaj./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Munasqa Dios Tatáy, chimpamuyki,",
+        "Jap'ikapuway makisniykipi./"
+      ]
+    }
+  ]
+}

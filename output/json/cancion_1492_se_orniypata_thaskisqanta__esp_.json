@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "Señorniypata Thaskisqanta (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "F. Paredes",
+  "compositor": "F. Paredes",
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Quiero seguir las pisadas del Maestro,",
+        "Quiero ir en pos de mi Rey y Señor;",
+        "Y modelando por El mi carácter,",
+        "Canto con gozo a mi Redentor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Qué hermoso es seguir las pisadas del Maestro,",
+        "Siempre en la luz, cerca de Jesús;",
+        "Qué hermoso es seguir las pisadas del Maestro",
+        "En su santa luz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Ando más cerca de aquél que me guía,",
+        "Cuando el maligno me quiere tentar;",
+        "Siempre confiando en Cristo, mi Amado,",
+        "Debo con gozo su nombre ensalzar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Quiero seguir las pisadas del Maestro;",
+        "Siempre hacia arriba con El quiero andar.",
+        "Viendo a mi Rey en gloriosa hermosura,",
+        "Con El en gloria podré descansar."
+      ]
+    }
+  ]
+}

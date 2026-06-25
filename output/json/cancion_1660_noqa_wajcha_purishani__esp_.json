@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Noqa Wajcha Purishani (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Ven, de todo bien la fuente, ven, eterno Salvador.",
+        "Ven, ayúdame a cantarte dignos cantos de loor.",
+        "Tú, Señor, por mi moriste, quiero yo por ti vivir.",
+        "Sólo Tú eres mi esperanza, sólo Tú mi porvenir.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Triste yo era y extraviado, cuando Cristo me buscó;",
+        "De la muerte por salvarme El su sangre derramó.",
+        "En su muerte de cariño vida, paz, perdón hallé;",
+        "Y por El la vida eterna en el cielo gozaré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "De tu gracia, oh bien Amado, soy continuo deudor.",
+        "Más y más a Ti me atraes, por los lazos de tu amor.",
+        "Ven, de todo bien la fuente, fuente de mi salvación.",
+        "Doy a Ti mis alabanzas, doy a ti mi corazón."
+      ]
+    }
+  ]
+}

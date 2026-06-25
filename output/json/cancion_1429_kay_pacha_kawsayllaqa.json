@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Kay Pacha Kawsayllaqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Kay pacha kawsayllaqa ni pita salvanqachu.",
+        "Cristoman chimpaykojlla salvacionta tarenqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Cristo kutimonqaña, punkupiñamin kashan.",
+        "Mashkhastajchus nishanku: ''Cristo nijamunmanchu/V",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Diosninchejqa munashan Payllata sirvinata.",
+        "Lantísta yupaychajpaj Ilakiy, waqaylla kanqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Kawsaj Diosnillanchejman oraciompi chimpana.",
+        "Payqa atiyniyojmin, waqaychakuwanchejtaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Chayrayku, runa masi, Diosllapi confíakuna.",
+        "Amaña chimpanachu tukuy rijch'aj lantisman."
+      ]
+    }
+  ]
+}

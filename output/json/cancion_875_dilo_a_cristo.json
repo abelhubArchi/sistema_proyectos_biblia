@@ -1,0 +1,71 @@
+{
+  "numero": null,
+  "titulo": "DILO A CRISTO",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cuando estás cansado y abatido,",
+        "Dilo a Cristo, dilo a Cristo;",
+        "Si te sientes débil confundido,",
+        "Dilo a Cristo el Señor.",
+        "Dilo a Cristo, dilo a Cristo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "El es tu amigo más fiel;",
+        "No hay otro amigo como Cristo",
+        "Dilo tan sólo a El.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cuando estás de tentación cercado,",
+        "Mira a Cristo, mira a Cristo;",
+        "Cuando rugen huestes de pecado,",
+        "Mira a Cristo el Señor.",
+        "Mira a Cristo, mira a Cristo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Si se apartan otros de la senda,",
+        "Sigue a Cristo, sigue a Cristo;",
+        "Si acrecienta entorno la contienda,",
+        "Sigue a Cristo el Señor.",
+        "Sigue a Cristo, sigue a Cristo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Cuando llegue la final jornada,",
+        "Fía en Cristo, fía en Cristo;",
+        "Te dará en el cielo franca entrada,",
+        "Fía en Cristo el Señor.",
+        "Fía en Cristo, fía en Cristo."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Jesús Salvawajniyta (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Si Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Quiero ver a mi Jesús en su gloriosa mansión.",
+        "Para todos los suyos nos prepara un hogar./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Pronto viene el Señor ¿prevenido tu estás?",
+        "Si rechazas a Jesús perderás la salvación./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Toda su gloria dejó Jesucristo al venir.",
+        "A este mundo tanto amó que su vida dio por tí./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/En la cruenta cruz murió Jesús mi buen Salvador.",
+        "El compró con su sangre a este mundo de maldad./"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "Comunidad Cristiana",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "// Bueno es alabarte, mi Señor",
+        "Y adorarte sólo a ti Altísimo //",
+        "",
+        "// Anunciar por las mañanas tu misericordia,",
+        "Y cada noche tu fidelidad. //",
+        "Oh, oh, oh…",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "// Me has alegrado con tus obras,",
+        "Me llenas de fuerzas como de búfalo. //",
+        "",
+        "// Con aceite fresco me has ungido",
+        "Me deleito en tu presencia. //",
+        "Oh, oh, oh…",
+        "",
+        "Mi Dios es amor…"
+      ]
+    }
+  ]
+}

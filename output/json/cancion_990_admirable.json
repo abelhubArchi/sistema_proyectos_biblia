@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "ADMIRABLE",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Admirable es nuestro Dios",
+        "Y Él reina con todo poder",
+        "Con sabiduría y amor",
+        "Admirable es nuestro Dios"
+      ]
+    }
+  ]
+}

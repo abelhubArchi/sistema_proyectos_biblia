@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "Imaraykuchus Dios",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Imaraykuchus Dios chay jinatapuni",
+        "Mundota munakorqa,",
+        "K'ata Churinta qorqa. Pillapis creej",
+        "Salvakunampaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Ama mñaypaj pierdekunampaj,",
+        "Wiñay kawsayniyoj kanampaj./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Dios Churinta kay pachaman kachamorqa",
+        "Salvasqas kananchejpaj.",
+        "Creenachej Jesuswan kawsananchejpaj",
+        "Wiñay wiñaypaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Munakuyta rikuchiwanchej Diosninchej",
+        "Churinta kachamuspa,",
+        "Munakuywan noqanchejpis kawsanapaj",
+        "Kay pachapeqa."
+      ]
+    }
+  ]
+}

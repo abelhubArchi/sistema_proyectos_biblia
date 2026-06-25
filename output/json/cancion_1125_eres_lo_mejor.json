@@ -1,0 +1,79 @@
+{
+  "numero": null,
+  "titulo": "ERES LO MEJOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Eres mi amigo, querido",
+        "Eres mi amado, deseado",
+        "Por quien suspira, mi vida, con devoción"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cada momento te anhelo",
+        "Cada instante, pretendo",
+        "Enamorarme, amarte, con devoción"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Que bueno es tenerte cerca",
+        "Y abandonarme a ti."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Eres lo mejor, que encontré en la vida",
+        "Eres la canción, que trae alegría",
+        "Nunca olvidare, cuanto me has amado",
+        "Eres lo mejor."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Si en un desierto, me encuentro",
+        "Se que contigo, yo cuento",
+        "Eres mi agua, de vida, mi protección"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 6,
+      "lineas": [
+        "Y si no tengo, aliento",
+        "Tu eres mi ayuda, sustento",
+        "Eres quien sana, mi vida, mi protección."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 7,
+      "lineas": [
+        "Te buscare cada mañana",
+        "Esperare solo en tu gracia",
+        "En ti  encuentro mi camino",
+        "Porque tú eres mi destino."
+      ]
+    }
+  ]
+}

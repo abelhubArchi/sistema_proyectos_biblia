@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "TE DOY GRACIAS, OH DIOS PADRE",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Te doy gracias, oh Dios Padre",
+        "Por tu gran amor por mí.",
+        ":A1 Señor Jesús has enviado Tú,",
+        "Siendo el Hijo de tu amor. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Te doy gracias, Jesucristo",
+        "Por tu gran amor por mí.",
+        ":Por tu salvación a los cielos voy,",
+        "Gozaré en la eternidad. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Te doy gracias, Jesucristo",
+        "Por tu gran amor por mí.",
+        ":De tu salvación testificaré",
+        "Con tu ayuda y dirección. (Bis)"
+      ]
+    }
+  ]
+}

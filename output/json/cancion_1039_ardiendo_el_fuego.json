@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "ARDIENDO EL FUEGO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ARDIENDO EN FUEGO",
+        "MI ALMA ESTA/",
+        "GLORISA LLAMA ME LIMPIARA",
+        "OH ALELUYA MI ALMA ARDIENDO ESTA",
+        "OH SEÑOR QUIERO QUE ARDAS EN MI SER",
+        "COMO LA ZARZA QUIERO ARDER CON TU PODER"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "EN NUEVAS LENGUAS",
+        "QUIERO HABLAR COMO SEÑAL",
+        "QUE ESTOY ARDIENDO CON EL FUEGO CELESTIAL",
+        "QUIERO ALABARTE Y ADORATE SOLO A TI",
+        "COMO SE ADORA EN ESPIRITU Y EN VERDAD",
+        "OH SEÑOR QUIERO QUE ARDAS EN MI SED",
+        "COMO LA ZARZA QUIERO ARDER CON TU PODER"
+      ]
+    }
+  ]
+}

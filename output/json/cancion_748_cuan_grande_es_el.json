@@ -1,0 +1,69 @@
+{
+  "numero": null,
+  "titulo": "CUAN GRANDE ES EL",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Señor mi Dios al contemplar los cielos",
+        "El firmamento y las estrellas mil,",
+        "",
+        "Al oir tu voz en los potentes truenos",
+        "Y ver brillar al sol en su cenit."
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "// Mi corazón entona esta canción,",
+        "¡Cuán grande es Él!,",
+        "¡Cuán grande es Él! //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Al recorrer los montes y los valles",
+        "Y ver las bellas flores al pasar,",
+        "",
+        "Al escuchar el canto de las aves",
+        "Y el murmurar del claro manantial.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cuando el Señor me llame a su presencia",
+        "Al dulce hogar, al cielo de esplendor,",
+        "",
+        "Le adoraré cantando la grandeza",
+        "De su poder y su infinito amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Cuando recuerdo del amor divino",
+        "que desde el cielo el salvador envio",
+        "Aquel Jesús que por salvarme vino",
+        "En una cruz sufrio por mi."
+      ]
+    }
+  ]
+}

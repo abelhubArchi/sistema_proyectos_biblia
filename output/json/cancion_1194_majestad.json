@@ -1,0 +1,64 @@
+{
+  "numero": null,
+  "titulo": "MAJESTAD",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ESTOY AQUI, RENDIDO ANTE TU MAJESTAD",
+        "CON TU GRACIA LIBRE ME HARÁS,",
+        "ESTOY AQUI, SE QUE TAL VEZ PUEDO FALLAR,",
+        "Y TU SANGRE ME CUBRIRÁ",
+        "Y AHORA HALLÉ, EL MAYOR AMOR QUE ENCONTRÉ",
+        "AL DAR TU VIDA EN SACRIFICIO POR MI"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "MAJESAD, MAJESTAD",
+        "TU GRACIA ME ALCANZÓ COMO SOY",
+        "Y AHORA VIVO EN TUS MANOS YO ESTOY",
+        "MAJESTAD, MAJESTAD",
+        "POR SIEMPRE CAMBIARÉ POR TU AMOR",
+        "EN LA PRESENCIA DE TU MAJESTAD"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "ESTOY AQUI, RENDIDO ANTE EL AMOR QUE ME DAS,",
+        "TU PERDÓN ME HACE PERDONAR",
+        "ESTOY AQUI, SE QUE TU ME AMAS SEÑOR",
+        "FUEGO Y GLORIA ME LIMPIARÁN",
+        "",
+        "Y AHORA HALLÉ, EL MAYOR AMOR QUE ENCONTRÉ",
+        "AL DAR TU VIDA EN SACRIFICIO POR MI"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "MAJESTY, MAJESTY",
+        "YOUR GRACE HAS FOUNDME JUST AS I´AM",
+        "EMPTY HANDED BUT ALIVE IN YOUR HANDS",
+        "MAJESTY, MAJESTY",
+        "FOREVER I´AM CHANGED BY YOUR LOVE",
+        "IN THE PRESENCE OF YOUR MAJESTY"
+      ]
+    }
+  ]
+}

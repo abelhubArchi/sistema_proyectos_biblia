@@ -1,0 +1,38 @@
+{
+  "numero": null,
+  "titulo": "EL HA CAMBIADO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "EL HA CAMBIADO MI LAMENTO Y MI TRISTEZAS EN DANZA",
+        "NO CALLARE CANTARE DE TU GOZO EN MI//"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "DONDE SOLO HABIA DOLOR EL TRAJO SANIDAD",
+        "DONDE HABIA DESTRUCCION",
+        "EL NOS DIO CONSOLACION",
+        "SIENTO SU DULCE, DULCE AMOR QUE ME ILUMINA",
+        "VEO EL RESPLANDOR DEL SOL",
+        "QUE BRILLANDO ESTA CON SU ALEGRIA",
+        "TU IRA SERA MOMENTANEA SEÑOR",
+        "MAS TU GRACIA Y FAVOR",
+        "DURARAN PARA TODA LA VIDA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Diosniy Qanllapiña Confiani",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Diosníy, Qanllapiña noqa confíakuni",
+        "Tükuy sonqoymanta./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Chayrayku, Dios Tatáy, perdonta mañaspa",
+        "Ch impaykam uyki./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Diosníy, mañakuyki, perdonarillaway",
+        "Tükuy juchaymanta./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Diosníy, mañakuyki uj kusiy kawsayta",
+        "Qan qonawaykita./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Diosníy, yanapaway Qanta sirvikuyta",
+        "Jamunaykikama./"
+      ]
+    }
+  ]
+}

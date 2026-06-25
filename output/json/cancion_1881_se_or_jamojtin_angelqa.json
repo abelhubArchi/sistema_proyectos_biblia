@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "Señor Jamojtin Angelqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Señor jamojtin, angelqa",
+        "Trompetanwan qhaparenqa creejkunata./",
+        "/Ripusunchej Jesuswan,",
+        "Yaykusunchej cieloman tukuy salvasqas./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Mosoj Jerusalempitaj",
+        "Mana wañoyqa kanqachu, nitaj waqaypis./",
+        "/Nitaj Ilakiy kanqachu,",
+        "Nitaj onqoy kanqachu; kusikuyilamin./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Jaqaypi lista pasajtín,",
+        "Diospa pañanman llojsisaj, Paypa",
+        "ladonman./",
+        "/Piwan wiñay kusiypi",
+        "Kawsamusaj wiñaypaj? Salvawajniywan./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Angeleswan takisunchej,",
+        "Diospa qori plazampeqa Iliphipirisun./",
+        "/Ángel jiña kasunchej,",
+        "Wiñaypaj kusikusun Señorninchejwan./"
+      ]
+    }
+  ]
+}

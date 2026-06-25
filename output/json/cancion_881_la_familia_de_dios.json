@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "LA FAMILIA DE DIOS",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Pertenezco a la amada familia de Dios;",
+        "Soy lavado y librado del mundo atroz.",
+        "Co-herederos con Cristo Jesús,",
+        "Parentesco tenemos, que es el de la cruz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Notarás que nos llamamos hermanos aquí;",
+        "Somos una familia, nos amamos así.",
+        "Y cuando uno sufre, todos sufren también;",
+        "Cuando canta alabanzas, le decimos amén'.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Fuimos huérfanos todos, adoptados por el Rey,",
+        "Parias espirituales, rescatados por fe.",
+        "Estábamos pobres, más ya no es así;",
+        "No merezco esta gracia, pero la recibí."
+      ]
+    }
+  ]
+}

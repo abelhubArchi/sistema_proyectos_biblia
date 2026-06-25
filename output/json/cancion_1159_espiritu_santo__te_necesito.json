@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "ESPIRITU SANTO, TE NECESITO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ESPÍRITU SANTO, YO TE NECESITO",
+        "",
+        "MANDA TU FUEGO A ESTE LUGAR",
+        "",
+        "ESPÍRITU SANTO, YO SÓLO ANHELO",
+        "",
+        "MIRAR TU GLORIA Y TU MAJESTAD",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "// TÚ ERES MI FUERZA,",
+        "TÚ ERES MI AYUDA",
+        "",
+        "ESPÍRITU SANTO,",
+        "VEN A ESTE LUGAR //"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Kawsayqa tukukonqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Nuestra vida acabará cual las hojas caerá,",
+        "Cual el haz se ligará; Busca a Dios.",
+        "Vuela cada día veloz y volando da su voz:",
+        "\"Ven a dar tu cuenta a Dios.\" Busca a Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Busca a Dios, busca a Dios",
+        "Entre tanto tengas tiempo busca a Dios.",
+        "Si te atreves a esperar,",
+        "Dios la puerta cerrará;",
+        "Te dirá: \"Es tarde ya \" Busca a Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Pierde el hombre su vigor, se marchita cual la flor.",
+        "Desvanece cual vapor. Busca a Dios.",
+        "Como el río a prisa va hasta entrar al vasto mar.",
+        "Vas así a la eternidad. Busca a Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Clama a Dios de corazón con sincera contricción",
+        "Por Jesús Dios da perdón. Busca a Dios.",
+        "Si no escuchas al Señor, si desprecias su perdón,",
+        "Te acarreas perdición. Busca a Dios."
+      ]
+    }
+  ]
+}

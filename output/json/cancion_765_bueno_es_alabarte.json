@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Bueno es Alabarte",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Bueno es alabar al Señor,",
+        "tu nombre, darte gloria, honra y honor",
+        "por siempre,",
+        "bueno es alabarte Jesus y gozarme en",
+        "tu poder.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Porque grande eres tu,",
+        "grande son tus obras, porque grande eres tu,",
+        "grande es tu amor, grande es tu gloria."
+      ]
+    }
+  ]
+}

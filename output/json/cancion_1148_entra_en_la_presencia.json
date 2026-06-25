@@ -1,0 +1,29 @@
+{
+  "numero": null,
+  "titulo": "ENTRA EN LA PRESENCIA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ENTRA EN LA PRESENCIA DEL SEÑOR",
+        "CON GRATITUD Y ADÓRALE  DE CORAZÓN.",
+        "ENTRA EN LA PRESENCIA DEL SEÑOR",
+        "CON GRATITUD Y ALZA TU VOZ CON JÚBILO.",
+        "",
+        "DAD GLORIA Y HONRA,",
+        "Y ALABANZAS AL SEÑOR.",
+        "OH CRISTO, NOMBRE SIN IGUAL."
+      ]
+    }
+  ]
+}

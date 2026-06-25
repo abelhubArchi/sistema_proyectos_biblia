@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "Ñapis Llakiykuna (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Poco tiempo será, poco tiempo será,",
+        "El sufrimiento aquí para mí,",
+        "Poco tiempo será para mí.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/No importa, hermanos, sufrir aquí,/",
+        "/Allí en el cielo no sufrirás./",
+        "/Vestido blanco allí tendrás./",
+        "/Corona de oro heredarás./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Mucho gozo será, mucho gozo será,",
+        "Cuando me llame a mí el Salvador,",
+        "Mucho gozo será para mí."
+      ]
+    }
+  ]
+}

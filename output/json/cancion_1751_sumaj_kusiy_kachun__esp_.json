@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Sumaj Kusiy Kachun (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Feliz cumpleaños, feliz cumpleaños,",
+        "Hoy te deseamos de corazón.",
+        "Que Dios te guarde, feliz te siga",
+        "Toda la vida su bendición.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "En la Biblia vemos las promesas de Dios:",
+        "\"No tengas miedo, contigo estoy.\"",
+        "De los peligros siempre nos cuida.",
+        "En Dios confía de corazón."
+      ]
+    }
+  ]
+}

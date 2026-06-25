@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "MA JAN SIRVIR ALI",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Si Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Má jan sirvir ali Diosajj waquichasi khanstañataqui.",
+        "Awatir Moisesajj ucampiw jiquisin Sinaí kolluna.",
+        "Musparcañaraquiw ali tok uñstána Diosan khanapajj.",
+        "Jan cunataquícas uca jisc'a ch'ojjñajj Diosatac sirvin.",
+        ":Nayajj uca ch'ojjñjam wali jisc'aquícsa.",
+        "Diosaw chhijilasitu khespiyasina. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Judea marcanjja tunca payan jake Cristojj ajllisín.",
+        "Jupanacarojja yaticharaquïnwa arunacapa.",
+        "Janiw jupanacajj yatiñantpcanti irnakañatac.",
+        "Jan cunataquícas uca jisc'a ch'ojjñjam Diosaw ajllisín.",
+        ":Nayajj jupanacjam má jisc'acasinsa",
+        "Diosaw chhijilasitu khespiyasina. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Munata jilata, jumajja sistati: \"Janiw asquïcti\".",
+        "Amtasim Diosatjja alir waquichatap Sinaí kolluna.",
+        "Amtasiraquimay tunca payanitjja, Cristow chhijilaway.",
+        "Take jupanacajj Tatit Cristotaquejj irnakapjjánwa.",
+        "Jumajj uca ch'ojjñjam jan sumácasinsa",
+        "Cristow khespiyasin chhíjllasitamjja.",
+        "Jiwasanacajja uca ch'ojjñjamáctans",
+        "Cristow ajilisistu irnakañatac."
+      ]
+    }
+  ]
+}

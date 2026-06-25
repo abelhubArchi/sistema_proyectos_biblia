@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Gloria Kachun Jesusman (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Gloria sea a Cristo, al Salvador bendito.",
+        "En el sólo yo confiaré./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Jesús es nuestra vida, en su poder nos guarda.",
+        "Alabemos sólo a Jesús./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Ven a Cristo, amigo; tiernamente te llama.",
+        "No rechaces su gran perdón./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Cuando Cristo regrese, a todos los salvados,",
+        "Hasta el cielo nos llevará./"
+      ]
+    }
+  ]
+}

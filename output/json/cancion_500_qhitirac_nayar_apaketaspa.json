@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "QHITIRAC NAYAR APAKETASPA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Qhitirac nayar apaketaspa Diosan amparapat.",
+        "Atipjirinac taypin nayajja jicjjatasiñ munta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        ":Alajjpacharuw sarascta",
+        "Kori marcaruw sarascta",
+        "Wiñayataqui. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Warank warank angelanacawa Diosarojj k'ochupjje.",
+        "Jupanacampi chicaraquiwa jicjjatasiñ munta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Ñankha Supayan amtatapajja mamayataquiw.",
+        "Jachañarusa jiwañarusa janiw ajjsarcáti.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Cunarac nayar camachitaspa cusisitaw sará.",
+        "Janiw sapácti. Diosaw nayampi. jupaw irpasquitu."
+      ]
+    }
+  ]
+}

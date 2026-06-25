@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "TATITOJJAW NAYAR KHESPIYITU",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Munat Tatitojja,",
+        "Ch'amamay churita",
+        "Wawanacamaru",
+        "Parlaña jjataqui.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cristo Tatitojjaw",
+        "Nayar khespiyasitu.",
+        "Jiwancamaw arca",
+        "Take chuymajjampi. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cusisitaw sará",
+        "Alajjpach marcaru.",
+        "Jupaquiw irpitan",
+        "Munasiñapampi.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Machak k'ochunaca",
+        "Yatichasitaya,",
+        "Take chuymajjampi",
+        "Yupaychañajjatac.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Kollan Ajayuma",
+        "Chuymajjar qhitanim,",
+        "Llaquit chuymajjaru",
+        "Cusisiyañatac."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Señor Jesusníy Khuyakuway",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "C. López",
+  "compositor": "C. López",
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Señor Jesusníy, khuyakuway,",
+        "Señor Jesusníy, waqaychaway.",
+        "Wawaykiñamin noqa kani,",
+        "Wiñaypataj sirvisqayki./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Kay kawsayninchej tukukaponqa.",
+        "Señor Jesús janaj pachaman",
+        "Phuyus patapi pusawasun,",
+        "Diosta yupaychaj ripusunchej./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Maná rikunki señalesta?",
+        "Diospa Palabran junfakushan.",
+        "Señor Jesusqa jamonqaña.",
+        "Oranachej tuta p'unchay./"
+      ]
+    }
+  ]
+}

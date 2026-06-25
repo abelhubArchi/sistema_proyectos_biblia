@@ -1,0 +1,60 @@
+{
+  "numero": null,
+  "titulo": "DIOSARU YUPAYCHAÑAWA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Diosaru yupaychañawa, jichhürojja jupanquiwa.",
+        "Sojjtürojja tucutawa, Cristoruya k'ochuñáni.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Jichhürojja Diosanquiwa",
+        "Kharürusa jupanquiwa;",
+        "Waquisiw yupaychañasa,",
+        "Tatituna utapana. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Sojjturonjja almasasa sinti t'uqhartataraquiw;",
+        "Jichhürojja kamañáni, Tatituna utapana.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cristo Kollana Awquejja marcamarojj uñtanimay",
+        "Mayisipjjsmawa Awquejja, ist'anipjjaquitay Tata.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Jacanajjansa Dios Tatay janiwa asquichasipcti,",
+        "Cristo Kollana Awquejja; yanapt'asipjjaquitaya."
+      ]
+    }
+  ]
+}

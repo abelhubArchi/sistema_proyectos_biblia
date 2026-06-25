@@ -1,0 +1,35 @@
+{
+  "numero": null,
+  "titulo": "DONDE ESTA EL ESPIRITU HAY LIBERTAD",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Donde está el Espíritu hay libertad",
+        "Y yo vivo y me sostengo",
+        "con la fuerza que Él me da",
+        "Donde está el Espíritu hay libertad"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Libertad, libertad, Cristo me da la libertad",
+        "Y yo vivo y me sostengo",
+        "con la fuerza que Él me da",
+        "Donde está el Espíritu hay libertad"
+      ]
+    }
+  ]
+}

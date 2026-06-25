@@ -1,0 +1,53 @@
+{
+  "numero": null,
+  "titulo": "EL SEÑOR ME ENCONTRÓ",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ":E1 Señor me encontró, vil, perdido me vio.",
+        "El me redimió. (Bis)",
+        ":Escuchando su voz presuroso acudí",
+        "Y pedí perdón. (Bis)",
+        ":Encontré dulce paz. Cristo me libertó,",
+        "Ya feliz estoy. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        ":Caminando con Dios cuantas veces me ví",
+        "En la tentación. (Bis)",
+        ":Pero Cristo, el Señor, con su voz de amor",
+        "Me fortaleció. (Bis)",
+        ":\"Ten valor, sin temor, resiste al tentador;",
+        "Que a tu lado estoy\".   (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        ":No sé cuando será tenga yo que dejar",
+        "Esta vida acá. (Bis)",
+        ":Pero me llamará a su lado el Señor",
+        "En su amor dirá: (Bis)",
+        ": \"Siervo fiel, ven a Mí. En el cielo tendrás",
+        "Gozo eternal\".  (Bis)"
+      ]
+    }
+  ]
+}

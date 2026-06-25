@@ -1,0 +1,69 @@
+{
+  "numero": null,
+  "titulo": "Cristo Orashajtin",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "S. Claros",
+  "compositor": "S. Claros",
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristo orashajtin Getsemanipi,",
+        "Judasqa entregaykorqa.",
+        "Presota jap'ispa, ch’ataykorqanku:",
+        "\"Chakatasqa kachun,\" nispa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Jesucristoj wañusqanrayku",
+        "Salvasqa kani./",
+        "/Chayrayku takini kusíywan,",
+        "Gloria Señorman./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Calvario orqoman q'epicherqanku",
+        "May sinch’i uj llasa cruzta.",
+        "May chhika kutista jasuferqanku,",
+        "Wakintaj thoqaykorqanku.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "\"Perdonapuy, Tatáy, juchasapasta,\"",
+        "Cristoqa nispa, mañarqa.",
+        "Wañunampaj nerqa: \"Tukuychasqaña,\"",
+        "Salvación tukuy runaspaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Cruzman chakatasqa Cristo wañorqa,",
+        "Jich’arqa Pay yawarninta.",
+        "P'ampasqankumanta",
+        "Kinsa p'unchayman",
+        "Wañuyta atiparqa Pay."
+      ]
+    }
+  ]
+}

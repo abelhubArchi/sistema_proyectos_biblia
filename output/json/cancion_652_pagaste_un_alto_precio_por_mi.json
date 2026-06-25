@@ -1,0 +1,30 @@
+{
+  "numero": null,
+  "titulo": "PAGASTE UN ALTO PRECIO POR MI",
+  "carpeta": "Comunidad Cristiana",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Pagaste un alto precio por mí",
+        "Ofreciste tu vida misma por mí,",
+        "Me consolaste cuando mas necesite",
+        "Como no voy a servirte, mi Señor.",
+        "",
+        "Permíteme elevarte adoración",
+        "Entregarte hoy todo mi ser,",
+        "Siempre, siempre, siempre te alabaré",
+        "Toda mi vida Señor te adoraré."
+      ]
+    }
+  ]
+}

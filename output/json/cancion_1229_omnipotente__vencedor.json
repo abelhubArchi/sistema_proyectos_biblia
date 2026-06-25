@@ -1,0 +1,30 @@
+{
+  "numero": null,
+  "titulo": "OMNIPOTENTE, VENCEDOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "OMNIPOTENTE, VENCEDOR",
+        "CASTILLO FUERTE MI LIBERTADOR//",
+        "FUERTE LES LIBRASTE  EL MAR SE ABRIÓ",
+        "Y EL PUEBLO EN SECO CAMINÓ",
+        "DIOS DE ABRAHAM, DIOS DE ISAAC",
+        "DIOS DE JACOB, YO SOY TU HIJO",
+        "DECLARÁNDOTE, SEÑOR  CON TU PODER",
+        "LOS MUROS DERRIBASTE  ELÍAS ORÓ",
+        "FUEGO DEL CIELO DESCENDIÓ"
+      ]
+    }
+  ]
+}

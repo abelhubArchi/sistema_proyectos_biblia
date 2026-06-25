@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "¡QUE CONTENTO ESTOY EN MI CORAZÓN!",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Oh Señor Jesús, sufriste en la cruz.",
+        "Por salvarme a mí de toda mi maldad.",
+        "Me diste perdón y nuevo corazón",
+        "Para que contigo pueda caminar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "¡Qué contento estoy en mi corazón!",
+        "Perdonado soy de toda mi maldad.",
+        "Ya mi vida en Dios transformada está",
+        "Para tu servicio, oh Señor Jesús.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Sin ti yo vivía, lejos de tu amor",
+        "Lleno de maldad y sin felicidad,",
+        "Triste y abatido sin consolación",
+        "Hasta que encontré tu paz y tu perdón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Escogido soy por ti Señor Jesús,",
+        "En tu gran familia adoptado soy;",
+        "Te prometo hoy servirte con valor,",
+        "Y tu voz divina obedeceré."
+      ]
+    }
+  ]
+}

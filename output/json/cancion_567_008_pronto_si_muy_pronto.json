@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "008 PRONTO SI MUY PRONTO",
+  "carpeta": "04 Poder del Evangelio",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Pronto, si muy pronto llegaré al huerto,",
+        "donde me espera mi Señor amado.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "CORO:",
+        ": Es un huerto hermoso",
+        "e incomparable",
+        "mis días felices",
+        "viviré allá. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Es la tierra Santa",
+        "de los escogidos",
+        "que El ha preparado",
+        "para los salvados. (bis)"
+      ]
+    }
+  ]
+}

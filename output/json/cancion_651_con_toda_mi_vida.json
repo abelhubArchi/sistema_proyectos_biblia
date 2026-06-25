@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "Con toda mi vida",
+  "carpeta": "Comunidad Cristiana",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Mi bendito Dios eres tan bueno",
+        "que me amaste siempre sin condición,",
+        "sin importarte como era yo",
+        "me llenaste con tu amor.",
+        "",
+        "Yo te amo con toda mi mente",
+        "yo te amo con toda mi vida,",
+        "te alabaré, te adoraré,",
+        "donde quiera que yo esté.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Si los cielos y la tierra de alaban",
+        "y toda la creación te da gloria.",
+        "yo que soy tu hijo de adoraré",
+        "eternamente yo te amaré.",
+        "",
+        "Desde que yo te conozco,",
+        "vivo muy feliz y con gran gozo",
+        "porque eres el dueño de mi corazón,",
+        "solo vivo para Ti."
+      ]
+    }
+  ]
+}

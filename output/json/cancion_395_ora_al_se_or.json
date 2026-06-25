@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "ORA AL SEÑOR",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¿Muy triste vives tú sin gozo y sin paz?",
+        "¿O enfermo y con dolor, deseando sanidad?",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Pues ora al Señor con fe y sin cesar;",
+        "Con solo la oración te fortalecerá.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¿Desprecio sufres tú por causa del Señor?",
+        "¿Desalentado estás, sin fuerza ni valor?",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¿Tan preocupado estás, por falta de sostén?",
+        "¿Y de problemas mil, rodeado vives tú?",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "¿Estás cercado tú de pruebas y dolor?",
+        "Jesús hoy presto está su ayuda a conceder."
+      ]
+    }
+  ]
+}

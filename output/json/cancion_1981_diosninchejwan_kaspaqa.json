@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "Diosninchejwan Kaspaqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Diosninchejwan kaspaqa, ni jayk'aj wañusunchu.",
+        "Mana juchallikoj nitaj wañupojñachu kasun.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Ni chirita, ni q’ñita chaypi ñakfarisunchu.",
+        "Ni waqayta ni wañuyta chaypi rikusunñachu.",
+        "/Qhallallaj t’ikas chawpipi wiñaypaj kawsamusun./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Diospa wawasnin santospa kusikuynimpi kasaj.",
+        "Ni kanqachu saqenakuy, ujchasqasllaña kasun.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jesuspi niraj creejpaj sinch'i Ilakiyila kanqa.",
+        "Qhepakojqa Diosninchejpa jasufinta sufrenqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Kunan tiempo kashan Evangeliota willanapaj,",
+        "Rinankupaj qhallallarej lugarman kusikamoj."
+      ]
+    }
+  ]
+}

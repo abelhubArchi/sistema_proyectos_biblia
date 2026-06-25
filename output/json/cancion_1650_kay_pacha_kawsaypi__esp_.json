@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "Kay Pacha Kawsaypi (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cuando vagaba en este mundo,",
+        "Muy lejos de mi buen Salvador,",
+        "En su amor Jesús me ha llamado,",
+        "Muy presuroso a El acudí.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Gracias al Señor que me ha salvado.",
+        "A su hogar santo El me llevará,",
+        "Y del infierno El me ha librado.",
+        "Ya soy salvado por su amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Ahora tengo a Cristo en mi vida.",
+        "Descanso y paz encontraré yo en El.",
+        "A su regreso El me llevará,",
+        "Gozaré por la eternidad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¿Y tú, mi hermano, estarás ya listo",
+        "Para ir con nuestro Salvador?",
+        "Sé fiel a Cristo hasta la muerte,",
+        "Corona de vida El te dará."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "numero": 54,
+  "titulo": "TAL COMO SOY",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tal como soy, sin más decir,",
+        "Que a otro yo no puedo ir,",
+        "Y Tú me invitas a venir;",
+        "Bendito Cristo, heme aquí.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tal como soy, sin demorar,",
+        "De mal queriéndome librar;",
+        "Tú sólo puedes perdonar;",
+        "Bendito Cristo, heme aquí.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Tal como soy, en aflicción;",
+        "Expuesto a muerte y perdición;",
+        "Buscando vida y perdón,",
+        "Bendito Cristo, heme aquí.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Tal como soy, tu gran amor,",
+        "Me vence y busco tu favor,",
+        "Servirte quiero con valor;",
+        "Bendito Cristo, heme aquí."
+      ]
+    }
+  ]
+}

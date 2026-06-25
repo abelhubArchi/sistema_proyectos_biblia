@@ -1,0 +1,60 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "04 Poder del Evangelio",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Aunque en esta vida, no tengo riquezas",
+        "Sé que allá en la gloria, tengo una mansión.",
+        "Cual alma perdida, Entre las pobrezas",
+        "De mí, Jesucristo tuvo compasión.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "CORO:",
+        "// Más allá del sol, //",
+        "Yo tengo un hogar, hogar",
+        "Bello hogar,",
+        "Más allá del sol. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Así por el mundo, sigo caminando",
+        "De pruebas rodeados, y de tentación.",
+        "Pero a mi lado viene consolando",
+        "Mi bendito Cristo,",
+        "En la turbación.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "A los pueblos todos, del linaje humano",
+        "Cristo quiere darles,  plena salvación.",
+        "También una casa para cada hermano,",
+        "Fue a prepararles",
+        "En la Santa Sión."
+      ]
+    }
+  ]
+}

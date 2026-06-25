@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Diosta Yupaychana (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Alabad a Cristo en su santo templo",
+        "Con todo fervor./",
+        "/El quiere que todos demos alabanzas",
+        "Gloria al Señor./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Dios ha derramado Espíritu Santo.",
+        "Vivamos en El./",
+        "/Dios es nuestro amparo que nos fortalece",
+        "Gloria al Señor."
+      ]
+    }
+  ]
+}

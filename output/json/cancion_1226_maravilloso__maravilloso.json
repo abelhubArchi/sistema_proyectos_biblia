@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "MARAVILLOSO, MARAVILLOSO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "// MARAVILLOSO, MARAVILLOSO JESÚS",
+        "",
+        "ERES MARAVILLOSO, MARAVILLOSO //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "SEÑOR JESÚS RESUCITASTE",
+        "",
+        "VENCISTE EN LA CRUZ",
+        "",
+        "Y VINISTE A BUSCARME",
+        "",
+        "SEÑOR JESÚS TE ADORARÉ",
+        "",
+        "CON MANOS ALZADAS TE CANTARÉ"
+      ]
+    }
+  ]
+}

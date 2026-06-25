@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "GRACIAS POR LA CRUZ",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Gracias por la cruz, Dios",
+        "Por el precio tu pagar",
+        "Mi pecado y dolor, tu amor quito",
+        "Dando gracias eternal",
+        "Gracias por tu amor, Dios",
+        "Por las manos que herí",
+        "Pues tu rió me limpio y siento al fin",
+        "Tu perdón y salvación"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Digno eres Señor, en tu trono estas",
+        "Coronado con poder, reinas con majestad",
+        "Cristo, hijo de Dios, exaltado rey",
+        "Moriste en la cruz en mi lugar",
+        "Digno eres Señor"
+      ]
+    }
+  ]
+}

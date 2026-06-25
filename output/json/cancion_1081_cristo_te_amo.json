@@ -1,0 +1,27 @@
+{
+  "numero": null,
+  "titulo": "CRISTO TE AMO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "CRISTO  TE AMO",
+        "CRISTO  TE EXALTO",
+        "",
+        "TÚ ERES EL GRAN YO SOY,",
+        "TÚ ERES MAGNÍFICO",
+        "TÚ ERES EL PRÍNCIPE DE PAZ//"
+      ]
+    }
+  ]
+}

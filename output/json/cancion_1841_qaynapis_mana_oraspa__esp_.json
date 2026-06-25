@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Qaynapis Mana Oraspa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Ayer dejando de orar, me encuentro hoy muy débil,",
+        "Sin armas para batallar hoy, no dispuesto estoy.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "A Dios oraré más y más, seguro las fuerzas tendré yo.",
+        "Orar y orar, más fuerzas yo tendré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "\"Oh santo, sigue en oración\", mi buen Dios me va a decir,",
+        "\"Que así podrás tu corazón de nuevo apercibir.\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Orando en todo tiempo a Dios jamás podría caer,",
+        "Sin efecto podrán quedar los dardos de Satanás."
+      ]
+    }
+  ]
+}

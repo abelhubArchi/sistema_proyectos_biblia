@@ -1,0 +1,34 @@
+{
+  "numero": null,
+  "titulo": "TRAEMOS SACRIFICIOS DE ALABANZA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "TRAEMOS SACRIFICIOS DE ALABANZA A LA CASA DEL SEÑOR",
+        "",
+        "TRAEMOS SACRIFICIOS DE ALABANZA A LA CASA DEL SEÑOR",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Y OFRECEMOS PARA TI SACRIFICIOS DE GRATITUD",
+        "",
+        "Y OFRECEMOS PARA TI SACRIFICIOS DE AMOR"
+      ]
+    }
+  ]
+}

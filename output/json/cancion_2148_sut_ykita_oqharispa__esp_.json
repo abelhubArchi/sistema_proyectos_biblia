@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Sutíykita Oqharispa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tu nombre ensalzaré, siempre y siempre cantaré.",
+        "Digno eres ¡Oh Cristo! de ser alabado.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Hoy en gloría celestial vivo reinas ¡Oh Señor!",
+        "Tú venciste al mundo por la eternidad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Gracias te doy ¡Oh Señor! por tu grande redención",
+        "Cantaré tu nombre por la eternidad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Tu promesa ¡Oh Señor! por toda la eternidad,",
+        "Siempre reunido seré en los cielos.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Mientras estemos aquí siempre habrá separación.",
+        "Esparcidos somos por toda la tierra."
+      ]
+    }
+  ]
+}

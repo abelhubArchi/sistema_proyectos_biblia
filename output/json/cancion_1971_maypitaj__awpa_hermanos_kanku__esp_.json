@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Maypitaj Ñawpa Hermanos kanku (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Donde están los hermanos de ayer,",
+        "Que alababan a Cristo Jesús./",
+        "/O que pronto se olvidaron las promesas",
+        "Que hicieron a El./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Y nosotros que estamos aquí,",
+        "Alabando a Cristo Jesús./",
+        "/Nunca, nunca nos apartemos",
+        "Del camino de Cristo Jesús./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Ay, de los que blasfeman la fe,",
+        "Y qué cuenta darán al Señor./",
+        "/Porque todos compareceremos",
+        "Ante el gran tribunal del Señor./"
+      ]
+    }
+  ]
+}

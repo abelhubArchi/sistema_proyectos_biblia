@@ -1,0 +1,24 @@
+{
+  "numero": null,
+  "titulo": "Kusisqapuni Kaychej",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/\"Kusisqaspuni kaychej, oraychejpuni.\"/",
+        "Graciastapis qoychej Diosninchej Tatanchejman.",
+        "/Chaymin Paypa munaynenqa Cristo Jesuspi./"
+      ]
+    }
+  ]
+}

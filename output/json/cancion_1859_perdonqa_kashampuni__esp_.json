@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Perdonqa Kashampuni (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Hay perdón por la sangre de nuestro Señor Jesús.",
+        "Hay perdón por su muerte de nuestro Salvador./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Cantaremos, alabando con todo el corazón,",
+        "Esperemos el regreso de nuestro Salvador./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Alabemos todos juntos a nuestro Señor Jesús.",
+        "Alabemos todos juntos a nuestro Salvador./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Anunciemos a la gente que carece del perdón./",
+        "Anunciemos a la gente del amor de Jesús./"
+      ]
+    }
+  ]
+}

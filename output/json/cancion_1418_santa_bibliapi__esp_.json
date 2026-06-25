@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "Santa Bibliapi (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "S. Claros",
+  "compositor": "S. Claros",
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Santa Biblia es Palabra de Dios,",
+        "De la salvación Buenas Nuevas da.",
+        "Debes tú leer para aprender,",
+        "Del amor de Dios y la salvación.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Todos meditemos la Palabra de Dios,",
+        "Nuestras almas serán fortalecidas.",
+        "Si al mandato de Dios obedientes somos,",
+        "Andaremos en luz,. Gloria sea a El.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Los hijos de Dios debemos leer",
+        "La Biblia, que es Palabra de Dios.",
+        "Cual verde árbol junto a las aguas,",
+        "Reverdecerá y se arraigará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Santa Biblia es Palabra de Dios;",
+        "Vayas por doquier, debes tú leer.",
+        "Te consolará, fuerzas te dará.",
+        "Dios nos habla hoy, debemos cumplir.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Santa Biblia es Palabra de Dios.",
+        "Dios nos habla hoy de la salvación.",
+        "Buenas Nuevas hoy debemos llevar",
+        "A la humanidad que perdida está."
+      ]
+    }
+  ]
+}

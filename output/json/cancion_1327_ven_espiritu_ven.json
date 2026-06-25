@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "VEN ESPIRITU VEN",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "VEN ESPÍRITU VEN Y LLENAME SEÑOR",
+        "CON TU PRECIOSA UNCIÓN",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "PURIFICAME Y LÁVAME,",
+        "RENUÉVAME, RESTÁURAME SEÑOR",
+        "CON TU PODER.",
+        "PURIFÍCAME Y LÁVAME,",
+        "RENUÉVAME, RESTÁURAME SEÑOR",
+        "TE QUIERO CONOCER."
+      ]
+    }
+  ]
+}

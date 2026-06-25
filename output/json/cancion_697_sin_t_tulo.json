@@ -1,0 +1,28 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Mira que lindo, que lindo es el Señor",
+        "Mira que lindo, que lindo es el Señor,",
+        "",
+        "Nadie iguala su belleza",
+        "nadie iguala su amor,",
+        "y todo lo que hace",
+        "lo hace con amor."
+      ]
+    }
+  ]
+}

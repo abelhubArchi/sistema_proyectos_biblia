@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "Mana Cristo Jiña (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "No hay cuál Jesús otro fiel amigo,",
+        "No lo hay, no lo hay.",
+        "Otro que pueda salvar las almas,",
+        "No lo hay, no lo hay.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Conoce todas nuestras luchas,",
+        "Y sólo El nos sostendrá.",
+        "No hay cuál Jesús otro fiel amigo,",
+        "No lo hay, no lo hay.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "No hay otro amigo tan santo y digno,",
+        "No lo hay, no lo hay.",
+        "Pero a la vez es humilde y tierno,",
+        "Otro no hay cual Jesús.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Mi Buen Pastor ¿cuando me es infiel?",
+        "Ni una vez, ni una vez.",
+        "¿Cuándo rechaza a los pecadores?",
+        "Ni una vez, ni una vez.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "No hay otro amor como el de Cristo,",
+        "No lo hay, no lo hay.",
+        "Ha prometido El estar conmigo",
+        "Hasta el fin, hasta el fin."
+      ]
+    }
+  ]
+}

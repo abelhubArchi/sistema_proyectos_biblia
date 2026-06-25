@@ -1,0 +1,63 @@
+{
+  "numero": null,
+  "titulo": "Christ Arose",
+  "carpeta": "Christ Arose",
+  "tono": null,
+  "compas": null,
+  "autor": "Robert Lowry, 1874",
+  "compositor": "Robert Lowry, 1874",
+  "copyright": "Public Domain",
+  "ccli": "27783",
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ".Bb                       F        Eb Bb",
+        "Low in the grave He lay, Jesus my Savior!",
+        ".Eb          Bb          Gm/Bb C      F",
+        "Waiting the coming day, Je____sus my Lord!",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        ".            Bb",
+        "(Spirited!) Up from the grave He arose,",
+        ".              Cm               Bb",
+        "With a mighty triumph o'er His foes;",
+        ".    F                      Gm   Eb Bb",
+        "He arose a victor from the dark do_main,",
+        ".       Eb       C             F      C7/G F/A",
+        "And He lives forever with His saints to   reign,",
+        ".    Bb        Eb         Bb     F       Bb",
+        "He arose! He arose! Hallelujah! Christ arose!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        ".Bb                         F        Eb Bb",
+        "Vainly they watch His bed, Jesus my Savior!",
+        ".Eb          Bb             Gm/Bb C      F",
+        "Vainly they seal the dead, Je____sus my Lord!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        ".Bb                          F        Eb Bb",
+        "Death cannot keep his prey, Jesus my Savior!",
+        ".Eb          Bb         Gm/Bb C      F",
+        "He tore the bars away, Je____sus my Lord!"
+      ]
+    }
+  ]
+}

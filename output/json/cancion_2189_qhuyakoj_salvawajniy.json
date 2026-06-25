@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Qhuyakoj Salvawajniy",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Qhuyakoj Salvawajniy Qanman chimpaykamuyki",
+        "Nak’ariy jamuwajtin pakaykuway Señorniy.",
+        "Ojilaykuway Señorniy mana manchikusajchu,",
+        "Pusawaypuni Señor cieloman rinaykama.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Llakiypi riqhurispa mana kallpayoj kani.",
+        "¿Pimantaj noqa riyman? Qanllaman chimpamuyki.",
+        "Sonqochajniy Qan kanki k’anchawajniy Qan kanki",
+        "Tukuy sonqowan Señor, chimpamuyki. Qhuyaway.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Qanpi tarini Señor ashqha bendicionesta.",
+        "Urmasqaña kashajtiy sayarichiwarqanki.",
+        "Onqoypi thañichinki laqhayaypi k'anchanki.",
+        "Qhuyakuyniyoj kanki. Yupaychasqayki Señor."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "numero": 22,
+  "titulo": "EN JESUCRISTO, MÁRTIR DE PAZ",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En Jesucristo, mártir de paz,",
+        "En horas negras de tempestad,",
+        "Hallan las almas dulce solaz,",
+        "Grato consuelo, felicidad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Gloria cantemos al Redentor,",
+        "Que por nosotros quiso morir;",
+        "La santa gracia del Salvador,",
+        "Siempre dirija nuestro vivir",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "En los peligros, en el dolor,",
+        "A cada paso su protección,",
+        "Calma le infunde, santo vigor,",
+        "Nuevos alientos al corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cuando en la lucha falta la fe,",
+        "Y el alma siente desfallecer,",
+        "Cristo nos dice: \"Yo os colmaré",
+        "De rica gracia, santo poder\"."
+      ]
+    }
+  ]
+}

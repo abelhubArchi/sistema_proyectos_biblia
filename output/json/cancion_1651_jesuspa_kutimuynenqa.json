@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Jesuspa Kutimuynenqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Jesuspa kutimuynenqa",
+        "Sinch'i qayllapiña kashan./",
+        "/Jamonqa Pay sinch'i atíyninwan,",
+        "Wawasninta pusarikapoj./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Jesusqa kutimuynimpi",
+        "Wawasninta oqharenqa./",
+        "Qanrí maná wakichikushanki?",
+        "Cuentata mañaj Pay jamonqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Bibliapi sufinchawanchej",
+        "Llakiy, yarqhay jamunanta./",
+        "/Diospa wasimpiña kashaspataj",
+        "Wiñaypajmin kusikamusun./"
+      ]
+    }
+  ]
+}

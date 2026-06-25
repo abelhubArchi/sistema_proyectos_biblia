@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "TE ALABARE CON GOZO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Si Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tan sólo a ti te loamos ¡oh Señor!",
+        "Por condolerse de la gente;",
+        "Tu amor es tan maravilloso y fiel,",
+        "¡Oh bendito, mi buen Salvador!",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Te alabaré con gozo y paz,",
+        "A tí, mi Señor Jesús;",
+        "Me liberaste del pecar,",
+        "Y te serviré con fe.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tu amor es tan grande para mí, ¡oh Señor!",
+        "Por mí sufriste en este mundo,",
+        "Con tu sangre vertida en la cruz,",
+        "Me aceptaste por tu hijo, ya.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Por tu amor tan profundo, ¡oh Señor!",
+        "Me guías por tu senda clara;",
+        "Me llevarás a tu mansión de luz,",
+        "Si te sigo con fe hasta el fin."
+      ]
+    }
+  ]
+}

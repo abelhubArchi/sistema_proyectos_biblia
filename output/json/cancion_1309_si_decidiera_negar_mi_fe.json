@@ -1,0 +1,54 @@
+{
+  "numero": null,
+  "titulo": "SI DECIDIERA NEGAR MI FE",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Si decidiera negar mi fe",
+        "Y no confiar nunca más en El",
+        "No tengo a donde ir,",
+        "No tengo a donde ir.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Si despreciare en mi corazón",
+        "La santa gracia que me salvó",
+        "No tengo a donde ir,",
+        "No tengo a donde ir",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Convencido estoy que sin tu amor se acabarían mis fuerzas",
+        "Y sin ti mi corazón sediento se muere, se seca.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Cerca de ti, yo quiero estar",
+        "De tu presencia no me quiero alejar"
+      ]
+    }
+  ]
+}

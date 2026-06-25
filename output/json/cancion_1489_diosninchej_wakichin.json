@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Diosninchej Wakichin",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "F. Paredes",
+  "compositor": "F. Paredes",
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Diosninchej wakichin cielopi wasista/",
+        "/Tiyakunanchejpaj Cristo Señorllawan./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Janaj pachallapi kusikamusunchej./",
+        "/Salvasqas kajkuna takisun Señorman./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Llimphu sonqonchejwan reinonman yaykusun,/",
+        "/Angeleswan khuska Señorpa ladonman./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Munasqa hermanóy, chimpaykuy Cristoman./",
+        "/Mundota saqepuy, ama iskayrayaspa./"
+      ]
+    }
+  ]
+}

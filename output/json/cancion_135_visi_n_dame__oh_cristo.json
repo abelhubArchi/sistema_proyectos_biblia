@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "VISIÓN DAME, OH CRISTO",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Visión dame, oh Cristo, que yo pueda ver",
+        "El mundo perdido, pronto a perecer;",
+        "Mi vida bendice tu obra al emprender,",
+        "Que muchos a Cristo puedan conocer.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Visión dame, oh Cristo; ¡cuan blanca es la mies!",
+        "Y la noche viene, ¡a trabajar, pues!",
+        "Las sombras se acercan, no hay que demorar;",
+        "Busquemos, hermanos, a quienes salvar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Visión dame, oh Cristo, no quiero llegar",
+        "Con manos vacías ante tu altar.",
+        "Yo quiero gavillas y frutos de amor",
+        "Llevar en mis manos a mi Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Visión dame, oh Cristo, que sepa ayudar",
+        "Hoy al que no sabe como a ti llegar.",
+        "Que un ser en el cielo me diga al entrar,",
+        "\"Por ti fue que pude a Cristo encontrar.\""
+      ]
+    }
+  ]
+}

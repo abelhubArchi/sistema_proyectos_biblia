@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "POCOS SON LOS QUE TEMEN A DIOS",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En todo el mundo entero saben que hay un Dios; (hay un Dios)",
+        "Todos también reciben su compasión y amor. (compasión)",
+        "Pero son pocos los que le temen, los que le siguen fiel.",
+        "También son pocos los que le sirven con todo el corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Todos los redimidos limpios de su pecado,",
+        "Gozo tendrán con Cristo por la eternidad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Hay siempre mucha gente que vuelve al pecar.(al pecar)",
+        "De Cristo se olvidan y de su salvación, (salvación)",
+        "Mas Dios les ama quiere salvarles de su pecado vil.",
+        "Quiere llevarles siempre consigo a su glorioso hogar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "En los postreros días muchos lamentarán, (en vano)",
+        "Pero será muy tarde, en vano llorarán, (llorarán)",
+        "Hoy es el tiempo de arrepentirse y hallar la salvación.",
+        "Hoy Cristo invita para que todos vayan con gozo a El."
+      ]
+    }
+  ]
+}

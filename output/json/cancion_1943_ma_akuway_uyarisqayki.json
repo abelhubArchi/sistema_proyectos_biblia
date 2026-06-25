@@ -1,0 +1,26 @@
+{
+  "numero": null,
+  "titulo": "Mañakuway Uyarisqayki",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "\"Mañakuway, uyarisqayki, mañakuway,",
+        "Yachachisqayki",
+        "Mana atínki chay imasta\". Chayta nishan Dios.",
+        "Amataj iskayrayaspa mañakuna bendicionninta.",
+        "Atipasun mañakuspa. Gloria Diosman."
+      ]
+    }
+  ]
+}

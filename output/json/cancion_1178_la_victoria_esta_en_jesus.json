@@ -1,0 +1,79 @@
+{
+  "numero": null,
+  "titulo": "LA VICTORIA ESTA EN JESUS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "LA VICTORIA ESTÁ EN JESÚS",
+        "",
+        "NUESTRA BANDERA",
+        "",
+        "LA VICTORIA ESTÁ EN JESÚS,",
+        "",
+        "GRACIAS DAMOS A DIOS",
+        "",
+        "QUIEN NOS DA LA VICTORIA"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "ÉL MURIÓ (eco)",
+        "POR LOS PECADOS (eco)",
+        "",
+        "SEPULTADO (eco)",
+        "Y AL TERCER DÍA (eco)"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "RESUCITÓ",
+        "CONFORME A LAS ESCRITURAS",
+        "",
+        "Y APARECIÓ A MUCHOS MOSTRANDO",
+        "",
+        "SU GRACIA Y SU PODER",
+        "",
+        "TRIUNFANDO EN VICTORIA"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Y PONDRÁN (eco)",
+        "EN EL SEÑOR (eco)",
+        "",
+        "LAS NACIONES (eco)",
+        "SU ESPERANZA (eco)"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "NO APAGARÁ EL FUEGO QUE HUMEA",
+        "",
+        "NI PARTIRÁ LA CAÑA QUEBRADA",
+        "",
+        "HASTA ESTABLECER",
+        "",
+        "LA JUSTICIA EN VICTORIA"
+      ]
+    }
+  ]
+}

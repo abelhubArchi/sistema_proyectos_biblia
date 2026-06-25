@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "PRONTO CRISTO VOLVERÁ",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Pronto volverá Cristo, el Rey de gloria,",
+        "Del hogar eterno en las nubes vendrá.",
+        "Esperemos pues, todos los salvados,",
+        "Siendo perdonado todo nuestro mal.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cuando Cristo vuelva al mundo,",
+        "Los trompetas celestiales",
+        "Sonarán que El ha llegado",
+        "Y a sus hijos fieles llevará. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Que gozo será cuando Cristo vuelva",
+        "Los que han muerto fieles tendrán felicidad.",
+        "Resucitarán de entre los muertos,",
+        "Y con nuevo cuerpo al Señor verán.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Y esperanza hay para los que viven",
+        "De regocijarse, transformados por Dios.",
+        "Todos juntos con los resucitados",
+        "Vivirán con Cristo por la eternidad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Pocos días más sufriremos pruebas,",
+        "Penas y dolores en la vida aquí.",
+        "Cristo ya vendrá, pronto nos iremos",
+        "Al hogar eterno junto a nuestro Dios."
+      ]
+    }
+  ]
+}

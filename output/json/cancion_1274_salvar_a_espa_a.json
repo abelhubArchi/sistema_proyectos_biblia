@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "SALVAR A ESPAÑA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "YO SE QUE ESTE PAÍS VA A VER TU GLORIA",
+        "TU IGLESIA CAMINARÁ DE VICTORIA EN VICTORIA",
+        "SERÉ UN TESTIGO FIEL DE TU GRANDEZA",
+        "VERÉ UN NUEVO DESPERTAR EN ESPAÑA,",
+        "EN TU IGLESIA"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "ÚSAME SEÑOR, PARA TRANSFORMAR CADA CORAZÓN",
+        "YO QUIERO QUE SE SALVE ESPAÑA",
+        "DERRAMA TU UNCIÓN, TU FUEGO Y TU PODER",
+        "QUEREMOS QUE SE SALVE ESPAÑA"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "SALVAR A ESPAÑA, ÚSAME SEÑOR",
+        "SALVAR A ESPAÑA, TRANSFORMA ESTA NACIÓN"
+      ]
+    }
+  ]
+}

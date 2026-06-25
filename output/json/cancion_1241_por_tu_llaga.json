@@ -1,0 +1,45 @@
+{
+  "numero": null,
+  "titulo": "POR TU LLAGA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "TODA ENFERMEDAD TU LLEVASTE AL MORIR",
+        "Y POR MI SUFRISTE EL SILENCIO MI DOLOR",
+        "POR MI REBELION AZOTADO Y HERIDO",
+        "Y POR DARME PAZ RECIBISTE MI CASTIGO"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "POR TU LLAGA SANO SOY, SOY FRUTO DE TU AFLICCION",
+        "OH MESIAS SALVADOR HOY TE RINDO ADORACION",
+        "PUSISTE TU VIDA EN EXPIACION POR LA MIA",
+        "JESUCRISTO MI REY GLORIOSO MESIAS"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "VARON DE DOLORES FUISTE DESECHADO",
+        "EN TODO QUEBRANTO EXPERIMENTADO",
+        "COMO UN CORDERO AL MATADERO LLEVADO",
+        "Y CON TU SANGRE LIMPIASTE MI PECADO."
+      ]
+    }
+  ]
+}

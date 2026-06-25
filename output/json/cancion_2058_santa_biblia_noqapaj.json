@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "Santa Biblia Noqapaj",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Santa Biblia noqapaj Diospa Libren qan kanki.",
+        "Qanmin wajcha almaypaj ñanninta k’anchaj kanki.",
+        "Pantay ñanta rishajtiy, Diosman pusawarqanki.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Sapa p'unchay noqata Diosman qayllachiwanki.",
+        "Sapa kuti almayta: \"Diospi suyay,\" nishanki.",
+        "Pantay ñanta rishajtiy, Diosman pusawarqanki.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Tukuy sajra kajmanta qanmin waqaychawanki.",
+        "Wañuypa atiyninta qan atipachiwanki.",
+        "Dios sapampi suyayta qan rikuchiwarqanki."
+      ]
+    }
+  ]
+}

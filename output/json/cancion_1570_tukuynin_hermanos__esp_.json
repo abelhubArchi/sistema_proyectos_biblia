@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Tukuynin Hermanos (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Todos los hermanos en Jesús unidos,",
+        "Unamos las voces para alabar./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/En la cruz de Cristo no hay diferencias,",
+        "Porque El sólo quiere nuestro corazón./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Consagrando a Cristo toda nuestra vida,",
+        "Honraremos todos al Señor Jesús./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Y así tendremos gozo incomparable,",
+        "De servir a Cristo hasta que vuelva./"
+      ]
+    }
+  ]
+}

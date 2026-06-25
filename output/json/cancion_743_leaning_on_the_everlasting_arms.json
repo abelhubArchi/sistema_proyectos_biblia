@@ -1,0 +1,39 @@
+{
+  "numero": null,
+  "titulo": "Leaning On The Everlasting Arms",
+  "carpeta": "Leaning On The Everlasting Arms",
+  "tono": null,
+  "compas": null,
+  "autor": "Elisha A. Hoffman & Anthony J. Showalter",
+  "compositor": "Elisha A. Hoffman & Anthony J. Showalter",
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "personalizado",
+      "nombre": "V",
+      "lineas": [
+        ".G                     C2                   G                          D",
+        "1What a fellowship,    what a joy divine!   Leaning on the everlasting arms;",
+        "2O how sweet to walk   in this pilgrim way, Leaning on the everlasting arms;",
+        "3What have I do dread? What have I to fear? Leaning on the everlasting arms;",
+        ".G                     C2                     G                  D       G",
+        "1What a blessedness,   what a peace is mine!  Leaning on the everlasting arms.",
+        "2O how bright the path grows from day to day, Leaning on the everlasting arms.",
+        "3I have blessed peace  with my Lord so near,  Leaning on the everlasting arms.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        ".G        C2       G                         D",
+        "Leaning, leaning, Safe and secure from all alarms;",
+        ".G        C2       G                  D       G",
+        "Leaning, leaning, Leaning on the everlasting arms."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "numero": null,
+  "titulo": "Gracias Dios Tatáy (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Te doy gracias, oh Jesús,",
+        "Por tu muerte en la cruz.",
+        "Del pecado limpio soy./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Sólo a Tí yo clamaré",
+        "En horas de tentación.",
+        "Líbrame del pecado, oh Jesús./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Te doy gracias, oh Jesús,",
+        "Salvo soy por tu amor.",
+        "Solo en ti yo confiaré./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Te doy gracias, oh Jesús,",
+        "Siempre atiendes mi oración,",
+        "Aún en horas de dolor./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Te doy gracias, oh Señor,",
+        "Tu Palabra es mi luz,",
+        "Y lumbrera a mis pies./"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "Juicio P’unchay",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Juicio p'unchay jamushan.",
+        "Tükuy salvos kajkunata taripajmin jamushan.",
+        "Phuyus chawpikamalla",
+        "Atíyninwan Señorninchej angeleswan jamonqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Señorninchej ñawpaqempi",
+        "Ujchasqasña kasunchej.",
+        "Mana kasukoj runarí",
+        "Nina lanvayman renga.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Señor Jesús jamonqa,",
+        "Chawpi tuta, sufiyaychus, ni ángeles yachanchu.",
+        "Chayta nishan Bibliapi.",
+        "Willakushan chamunantajunfakushan willaynin."
+      ]
+    }
+  ]
+}

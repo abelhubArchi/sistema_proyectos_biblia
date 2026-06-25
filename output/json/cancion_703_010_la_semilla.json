@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "010 LA SEMILLA",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ": La semilla, la semilla",
+        "puedes tú sembrar,",
+        "por los cerros y los valles",
+        "puedes tu sembrar. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        ": Nunca mires atrás",
+        "Sólo mira a Jesús,",
+        "Caminando en su senda",
+        "De amor y luz. (bis)"
+      ]
+    }
+  ]
+}

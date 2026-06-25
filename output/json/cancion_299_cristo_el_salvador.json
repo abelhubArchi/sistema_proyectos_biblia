@@ -1,0 +1,56 @@
+{
+  "numero": null,
+  "titulo": "CRISTO EL SALVADOR",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Ayúdame Cristo, mi Señor",
+        "Para seguirte hasta el fin de corazón.",
+        "Trabajaré con tu gran poder",
+        "Hasta cumplir tus obras. Señor, sin desmayar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Jesús es el que me ayudará",
+        "Siempre gozoso caminaré",
+        "Con mi Señor. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Desde los cielos mira. Señor,",
+        "Comprueba si mis obras aquí son para tí.",
+        "Manda tu espíritu y tu amor",
+        "Para que calme el gran dolor del corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "El enemigo ansioso está",
+        "Todas las obras por destruir de tí. Señor.",
+        "Este enemigo es Satanás",
+        "El, al creyente quiere engañar y hacer pecar."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "numero": null,
+  "titulo": "Jehová Nerqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Jehová le dijo al profeta: \"Estos huesos vivirán.\"",
+        "Profeta le respondió: \"Tú lo sabes, mi Señor./",
+        "//Estos huesos vivirán. // Tú lo sabes, mi Señor.\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Jehová Dios se refería a su pueblo de Israel,",
+        "De todas las naciones El los haría volver./",
+        "//\"Y pondré mi Espíritu, // los haré yo reposar.\""
+      ]
+    }
+  ]
+}

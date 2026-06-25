@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "Noqarayku Saqerqanki (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tú dejaste tu trono y corona por mi,",
+        "Al venir a Belén a nacer;",
+        "Mas a Tí no fue dado al entrar al mesón,",
+        "Y en pesebre te hicieron yacer.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Ven a mi corazón, Oh Cristo,",
+        "Pues en El hay lugar para Tí.",
+        "Ven a mi corazón, Oh Cristo ven.",
+        "Pues en El hay lugar para Ti.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "De los ángeles se oye un canto de paz",
+        "En que rinden el Verbo loor.",
+        "Mas humilde viniste a la tierra. Señor.",
+        "A dar vida al más vil pecador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Siempre pueden las zorras sus cuevas tener.",
+        "Y las aves sus nidos también,",
+        "Mas el Hijo del hombre no tuvo lugar",
+        "En el cuál reclinará su sien",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Tú viniste. Señor, con tu gran bendición",
+        "Para dar libertad y salud,",
+        "Mas con odio y desprecio te hicieron morir,",
+        "Aunque vieron tu amor y virtud"
+      ]
+    }
+  ]
+}

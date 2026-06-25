@@ -1,0 +1,41 @@
+{
+  "numero": null,
+  "titulo": "Cristo Salvawarqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Ya me salvó Jesús con su muerte en la cruz",
+        "Y muy feliz estoy porque a la gloria voy./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Acude a Jesús, El es tu Salvador",
+        "Ven, sin más demorar y El te salvará./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Allá en su mansión habrá gozo eternal",
+        "Y no habrá más dolor ¡Oh qué felicidad!/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "Michiwaykupuni Jesusniyku",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Michiwaykupuni, Jesusniyku,",
+        "Ovejasniyki kayku,",
+        "Mikhuytapis qonki almaykuman,",
+        "Tukuy nisqasniykiwan.",
+        "Yachayniyki máy jatunmin,",
+        "Qowayku allin kajta;",
+        "Bendicisqa Reymin kanki,",
+        "Llimphuchawaykupuni.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Wajchakunamampis QanIIa qonki",
+        "Llimphu kay thañikuyta.",
+        "May jiña juchayoj kajtíykupis,",
+        "Ni qhesachawaykuchu.",
+        "Perdontapis Qanlla qonki",
+        "Pischus mañakojmanqa",
+        "Salvawayku, k'anchawayku",
+        "Sonqosniyku ukhupi."
+      ]
+    }
+  ]
+}

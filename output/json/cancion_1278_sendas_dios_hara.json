@@ -1,0 +1,38 @@
+{
+  "numero": null,
+  "titulo": "SENDAS DIOS HARA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Sendas Dios hará",
+        "Donde piensas que no hay",
+        "Él obra en maneras que no podemos entender",
+        "Él me guiará a su lado estaré",
+        "Amor y fuerza me dará",
+        "un camino hará donde no lo hay",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Por camino en la soledad me guiará",
+        "y agua en el desierto encontraré",
+        "La tierra pasará, su Palabra eterna es",
+        "Él hará algo nuevo hoy."
+      ]
+    }
+  ]
+}

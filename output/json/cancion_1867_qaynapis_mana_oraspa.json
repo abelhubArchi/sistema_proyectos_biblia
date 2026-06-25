@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Qaynapis Mana Oraspa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Qaynapis mana oraspa, pisiyapun kallpayqa.",
+        "Mana kallpayoj kashani maqanakunaypajpis.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Orajtiy Diosman, aswanta",
+        "Pay kallpachawanqapuni.",
+        "Mañakojtiy, kallpachawanqa Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Siguillaypuni oraspa niwanqapuni Diosniy,",
+        "Jinamanta sonqoykipi kallpachakunaykipaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Tukuy p'unchay oraspaqa mañana urmaymanchu.",
+        "Supaypis chimpamuwajtin, mañana kasusajchu."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "CONMIGO SÉ",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Señor Jesús, el día ya se fue,",
+        "La noche cierra, oh, conmigo sé,",
+        "Sin otro amparo, tú, por compasión,",
+        "Al desvalido da consolación.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Veloz el día nuestro huyendo va,",
+        "Su gloria, sus ensueños pasan ya;",
+        "Mudanza y muerte veo en redor;",
+        "No mudas Tú; conmigo sé, Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Tu gracia en todo el día he menester;",
+        "¿Quién otro puede al tentador vencer?",
+        "¿Cuál otro amante guía encontraré?",
+        "En sombra o sol, Señor, conmigo sé.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Vea yo al fin en mi postrer visión",
+        "De luz la senda que me lleve a Sión,",
+        "Do alegre cantaré al triunfar la fe;",
+        "\"Jesús conmigo en vida y muerte fue\"."
+      ]
+    }
+  ]
+}

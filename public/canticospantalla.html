@@ -31,8 +31,8 @@
       background-position: center center;
       background-size: cover;
       background-repeat: no-repeat;
-      animation: kenBurns 30s ease-in-out infinite alternate;
-      transition: opacity 1.2s ease-in-out;
+      animation: kenBurns 35s ease-in-out infinite alternate;
+      transition: opacity 2.5s ease-in-out;
     }
 
     /* GIFs: sin kenBurns para no cortar animación */
@@ -104,6 +104,7 @@
       z-index: 2;
       background: radial-gradient(ellipse at bottom, rgba(9, 14, 36, 0.45), rgba(3, 5, 12, 0.85));
       overflow: hidden;
+      transition: opacity 1.5s ease;
     }
 
     /* Ambient glow blobs */
@@ -187,15 +188,15 @@
 
     @keyframes kenBurns {
       0% {
-        transform: scale(1.06) translate(0%, 0%);
+        transform: scale(1.02) translate(0%, 0%);
       }
 
       50% {
-        transform: scale(1.10) translate(-1.5%, -0.8%);
+        transform: scale(1.06) translate(-1%, -0.5%);
       }
 
       100% {
-        transform: scale(1.06) translate(1.2%, 0.5%);
+        transform: scale(1.02) translate(1%, 0.5%);
       }
     }
 
@@ -219,6 +220,17 @@
       padding: 0;
       width: 100vw;
       overflow: hidden;
+      transition: opacity 1.5s ease;
+    }
+
+    /* ── Estado Fondo Limpio ── */
+    body.modo-fondo-limpio .escena,
+    body.modo-fondo-limpio .logo,
+    body.modo-fondo-limpio .song-title,
+    body.modo-fondo-limpio .worship-bg {
+      opacity: 0 !important;
+      pointer-events: none;
+      transition: opacity 2s ease;
     }
 
     /* Song Title - Moved to top left */
@@ -226,7 +238,7 @@
       position: fixed;
       top: 30px;
       left: 30px;
-      z-index: 1000;
+      z-index: 0;
       text-align: left;
       font-size: clamp(1.2rem, 2.5vw, 2rem);
       font-weight: 600;
@@ -259,7 +271,7 @@
       flex-direction: column;
       justify-content: center;
       align-items: center;
-      overflow: hidden;
+      overflow: visible;
       transition: opacity 500ms;
     }
 
@@ -334,13 +346,14 @@
     .lyrics-content {
       font-family: 'Playfair Display', serif;
       font-weight: 700;
-      line-height: 1.2;
+      line-height: 1.05;
       text-align: center;
       color: #ffffff;
       text-shadow:
         0 4px 20px rgba(0, 0, 0, 0.9),
         0 2px 4px rgba(0, 0, 0, 0.8),
         0 0 60px rgba(0, 0, 0, 0.5);
+      padding: 10px 0 30px 0; /* Protect ascenders/descenders from clipping */
       opacity: 1;
       transform: scale(1);
       transition: opacity 500ms cubic-bezier(0.25, 1, 0.5, 1), transform 900ms cubic-bezier(0.25, 1, 0.5, 1);
@@ -352,6 +365,16 @@
       opacity: 0;
       transform: scale(1.025);
       transition: opacity 600ms cubic-bezier(0.25, 1, 0.5, 1), transform 500ms cubic-bezier(0.25, 1, 0.5, 1);
+    }
+
+    /* Estilo especial para selección libre (brillo verde/amarillo) */
+    .es-seleccion-libre {
+      color: #ecfdf5;
+      text-shadow:
+        0 4px 20px rgba(0, 0, 0, 0.9),
+        0 2px 4px rgba(0, 0, 0, 0.8),
+        0 0 50px rgba(16, 185, 129, 0.9),
+        0 0 80px rgba(250, 204, 21, 0.6) !important;
     }
 
     /* Verse indicator */
@@ -379,7 +402,8 @@
       position: fixed;
       top: 25px;
       right: 25px;
-      z-index: 1000;
+      z-index: 0;
+      transition: opacity 1.5s ease;
     }
 
     .logo img {
@@ -438,6 +462,7 @@
       -webkit-backdrop-filter: blur(8px);
       padding: 0 24px;
       pointer-events: none;
+      transition: opacity 1.5s ease;
     }
 
     /* Línea dorada superior del banner */
@@ -667,6 +692,7 @@
 
     // ── Recibir y mostrar cánticos ─────────────────────────────────────
     socket.on('cambio-estrofa', (data) => {
+      document.body.classList.remove('modo-fondo-limpio');
       updateDisplay(data);
     });
 
@@ -724,19 +750,29 @@
             titleEl.textContent = 'CORO';
             titleEl.classList.add('title-coro-mode');
             lyricsEl.classList.add('es-coro');
+            lyricsEl.classList.remove('es-seleccion-libre');
             indicatorEl.textContent = '🎶 ' + data.titulo;
             if (coroLabelEl) coroLabelEl.style.display = 'none';
             iniciarParticulas();
+          } else if (data.fuente === 'libre' || data.titulo === 'Selección' || data.titulo === 'Texto Resaltado') {
+            titleEl.textContent = 'SELECCIÓN';
+            titleEl.classList.remove('title-coro-mode');
+            lyricsEl.classList.remove('es-coro');
+            lyricsEl.classList.add('es-seleccion-libre');
+            indicatorEl.textContent = '✨ Texto Destacado';
+            if (coroLabelEl) coroLabelEl.style.display = 'none';
+            detenerParticulas();
           } else {
             titleEl.textContent = data.titulo;
             titleEl.classList.remove('title-coro-mode');
             lyricsEl.classList.remove('es-coro');
+            lyricsEl.classList.remove('es-seleccion-libre');
             if (coroLabelEl) coroLabelEl.style.display = 'none';
             detenerParticulas();
           }
 
-          titleEl.style.opacity = esCoro ? '1' : '0.8';
-          indicatorEl.style.opacity = esCoro ? '0.85' : '0.35';
+          titleEl.style.opacity = (esCoro || data.fuente === 'libre') ? '1' : '0.8';
+          indicatorEl.style.opacity = (esCoro || data.fuente === 'libre') ? '0.85' : '0.35';
 
           // Fade back in
           lyricsEl.classList.remove('hidden-state');
@@ -755,15 +791,21 @@
       const maxH = wrapper.clientHeight;
       const maxW = wrapper.clientWidth;
 
+      let availableH = maxH - 20; // Extra safety buffer
+      const coroLabel = document.getElementById('coro-label');
+      if (coroLabel && coroLabel.style.display !== 'none') {
+        availableH -= (coroLabel.offsetHeight + 30); // 20 margin + 10 extra buffer
+      }
+
       let min = 20; // Tamaño mínimo legible
-      let max = 400; // Tamaño máximo enorme
+      let max = 600; // Tamaño máximo enorme
       let best = min;
 
       while (min <= max) {
         let mid = Math.floor((min + max) / 2);
         el.style.fontSize = mid + 'px';
         
-        if (el.scrollHeight <= maxH && el.scrollWidth <= maxW) {
+        if (el.scrollHeight <= availableH && el.scrollWidth <= maxW) {
           best = mid;
           min = mid + 1; // Intentar hacerlo más grande
         } else {
@@ -836,26 +878,21 @@
         if (bigTitleEl) bigTitleEl.classList.remove('active');
         lyricsWrapper.style.opacity = '1';
 
-        // Fade out
-        lyricsEl.classList.add('hidden-state');
-        titleEl.style.opacity = '0';
-        indicatorEl.style.opacity = '0';
+        // Activar modo fondo limpio
+        document.body.classList.add('modo-fondo-limpio');
 
         setTimeout(() => {
           // Regresar a estado de espera
           lyricsEl.classList.remove('es-coro');
           titleEl.classList.remove('title-coro-mode');
           lyricsEl.classList.add('waiting-state');
-          lyricsEl.innerHTML = 'IGLESIA VIDA NUEVA <br> Esperando transmision...';
-          titleEl.textContent = 'PROYECCIÓN';
-          indicatorEl.textContent = 'CÁNTICOS';
-
-          // Fade back in
-          lyricsEl.classList.remove('hidden-state');
+          lyricsEl.innerHTML = '';
+          titleEl.textContent = '';
+          indicatorEl.textContent = '';
         }, 600);
-
-        // Cambiar al fondo por defecto
-        setWorshipBackground('/fondo_defecto.PNG');
+        
+        // Cambiar al fondo
+        setWorshipBackground('/fondodefectocantois.png');
       }
     });
   </script>

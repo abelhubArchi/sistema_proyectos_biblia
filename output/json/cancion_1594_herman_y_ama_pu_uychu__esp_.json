@@ -1,0 +1,69 @@
+{
+  "numero": null,
+  "titulo": "Hermanóy Ama Puñuychu (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Nunca desmayes, mi hermano,",
+        "Despierta y medita en Cristo.",
+        "No darán lumbre los astros,",
+        "Y habrá muchas aflicciones.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Querido hermano, despierte,",
+        "Pronto viene Jesucristo.",
+        "No seas de los que quedan",
+        "Durante las aflicciones.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Nunca desmayes, mi hermano,",
+        "Despierta y piensa en el mundo.",
+        "Rumores ya hay de guerras,",
+        "De llantos, de pestilencias.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Nunca desmayes, mi hermano,",
+        "Despierta y piensa en ti mismo.",
+        "Las riquezas plata y oro,",
+        "Te llevarán al infierno.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Nunca desmayes, mi hermano.",
+        "Despierta ya, ponte en marcha.",
+        "Constantemente orando",
+        "Al Salvador esperemos."
+      ]
+    }
+  ]
+}

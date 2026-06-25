@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "ARUNACAM PARLAÑJJA YANAPTTTAYA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Arunacam parlaña yanapt’itay Cristojja",
+        "Take chuymajjampiwa nayajj khananchá;",
+        "Walja jakenacawa, juchan chhaktat jacapjje",
+        "Khespiyasipjjañapajj waquisipuniw.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Tatit Jesusajj take jakeruw",
+        "Khespiyañatac jawsascaraqui,",
+        "Munásiñapajj sinti jach'awa",
+        "Take juchanac perdonañatac.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Ch'amamampiy phokt'ita suma Kollan Cristojja,",
+        "Khespiyasiñamata parlañataqui,",
+        "Cawquirus irpitáta. nayajj sarascaquiwa",
+        "Kollan Ajayumawa yanapitani.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Munasiñtam churita take ch'aman Cristojja",
+        "Juchan chhaktatanacar parlañataqui,",
+        "Walja jakenacawa khespiyasiñ munapjje",
+        "Cusisiñ jicjjataña, wiñay jacañsa."
+      ]
+    }
+  ]
+}

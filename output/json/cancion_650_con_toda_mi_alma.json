@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "Con toda mi alma",
+  "carpeta": "Comunidad Cristiana",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Eres mi Dios, mi sanador",
+        "Quien me cuida cada día, eres mi Señor",
+        "Quiero abrazarte, quiero amarte",
+        "Eres mi Padre que nada me hace faltar.",
+        "",
+        "Con toda mi alma",
+        "Te amare por siempre,",
+        "Con todo mi ser",
+        "Te adoraré eternamente.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "De tu Espíritu Santo me estoy llenando",
+        "Con tu amor me estoy embriagando",
+        "Con mi amado Jesús,",
+        "Mi Dios te estoy adorando.",
+        "",
+        "Cada latido de mi corazón,",
+        "Te está expresando adoración",
+        "Porque estoy enamorado de Ti",
+        "Mi vida ya no puede seguir."
+      ]
+    }
+  ]
+}

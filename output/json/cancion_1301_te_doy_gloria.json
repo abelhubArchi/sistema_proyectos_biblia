@@ -1,0 +1,39 @@
+{
+  "numero": null,
+  "titulo": "TE DOY GLORIA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cuan hermoso eres Jesús",
+        "Son tus palabras es tu amor",
+        "Cuan glorioso eres Jesús",
+        "Es tu poder fue tu cruz",
+        "La que me salvo me rescato",
+        "Un momento ahí me dio libertad",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Y te doy gloria gloria",
+        "Y te doy gloria gloria",
+        "Y te doy gloria gloria",
+        "A ti Jesús",
+        "//Con una corona de espinos te hiciste Rey por siempre"
+      ]
+    }
+  ]
+}

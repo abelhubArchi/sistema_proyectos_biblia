@@ -1,0 +1,60 @@
+{
+  "numero": null,
+  "titulo": "EL SEÑOR ME SALVO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Amante Salvador, dame tu gran poder",
+        "Para testificar de tu infinito amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cristo, mi Salvador,",
+        "Me has perdonado del mal.",
+        "De todo corazón",
+        "Te seguiré con fe. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Con gozo y paz iré al cielo, oh Señor.",
+        "Pues con tu gran amor, siempre me guiarás.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Tus nuevos cánticos enséñame. Señor,",
+        "Para alabarte más de todo corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Tu Santo Espíritu manda a mi corazón.",
+        "El me consolará, y me dará su paz."
+      ]
+    }
+  ]
+}

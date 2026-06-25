@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "LOS MUROS CAEN",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "LOS MUROS CAEN,  LOS MUROS CAEN,",
+        "Y CON ELLOS MIS CADENAS",
+        "",
+        "LOS MUROS CAEN,  LOS MUROS CAEN,",
+        "SE DERRUMBAN LAS FORTALEZAS"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "JEHOVÁ ENTREGÓ",
+        "EN TUS MANOS JERICÓ",
+        "Y GRITAN ¡ALELUYA!",
+        "TOCA LA TROMPETA"
+      ]
+    }
+  ]
+}

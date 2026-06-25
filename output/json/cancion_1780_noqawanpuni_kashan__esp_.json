@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "Noqawanpuni Kashan (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Dios el Padre siempre está conmigo,",
+        "Y su Hijo Jesucristo, El también.",
+        "El está allí. El está aquí,",
+        "Santo Espíritu mora en mi."
+      ]
+    }
+  ]
+}

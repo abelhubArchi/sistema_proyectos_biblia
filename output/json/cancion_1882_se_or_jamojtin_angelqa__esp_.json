@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Señor Jamojtin Angelqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Cuando venga Cristo el Señor,",
+        "Llamará el ángel de Dios, arrebatará./",
+        "/Juntamente con Jesús,",
+        "Entraremos los salvos al celeste hogar./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/En la nueva Jerusalén",
+        "Ya no habrá dolor ni muerte. ¡Qué felicidad!/",
+        "/Nunca habrá penurias,",
+        "Ni más llanto, ni dolor. ¡Qué felicidad!/",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Cuando allí se pase lista",
+        "En la diestra de mi Señor, allí yo estaré./",
+        "/Con Jesús yo gozaré",
+        "Por todo la eternidad. ¡Gloria al Señor!/",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Con los ángeles cantaré",
+        "Allá donde mora Jesús. ¡Qué felicidad!/",
+        "/Para siempre cantaré",
+        "Y a Cristo alabaré por la eternidad./"
+      ]
+    }
+  ]
+}

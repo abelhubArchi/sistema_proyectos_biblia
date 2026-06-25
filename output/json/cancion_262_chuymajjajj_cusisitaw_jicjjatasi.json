@@ -1,0 +1,38 @@
+{
+  "numero": null,
+  "titulo": "CHUYMAJJAJJ CUSISITAW JICJJATASI",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Chuymajjajj cusisitaw jicjjatasi",
+        "Cristor arcatajjat.",
+        ":¿ Cunas camsitan?",
+        "¿Qhitis jarq'itan?",
+        "Diosaw nayar imasquitu.  (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¿Cunarus ajjsará?",
+        "Jupaw Awquejjajja.",
+        ":Chuymajja churta,",
+        "Arojja arsta,",
+        "Wiñayaw Jupampi jaca. (Bis)"
+      ]
+    }
+  ]
+}

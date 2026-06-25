@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Renuevame",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Renuevame Señor Jesús",
+        "Ya no quiero ser igual",
+        "Renuevame Señor Jesús",
+        "Pon en mi tu corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Porque todo lo que hay dentro de mi",
+        "necesita ser cambiado Señor",
+        "Porque todo lo que hay dentro de mi corazón",
+        "necesita mas de ti."
+      ]
+    }
+  ]
+}

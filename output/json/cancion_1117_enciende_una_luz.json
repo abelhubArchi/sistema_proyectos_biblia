@@ -1,0 +1,43 @@
+{
+  "numero": null,
+  "titulo": "ENCIENDE UNA LUZ",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ENCIENDE UNA LUZ,",
+        "DÉJALA BRILLAR,",
+        "ES LA LUZ DE JESÚS,",
+        "QUE BRILLE EN TODO LUGAR.",
+        "NO LA PUDES ESCONDER,",
+        "NO LA PUEDES CALLAR,",
+        "ANTE TAL NECESIDAD,",
+        "ENCIENDE UNA LUZ,",
+        "EN LA OSCURIDAD"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¿Y CÓMO PUES INVOCARÁ",
+        "A AQUEL QUE NO HAN CREÍDO?",
+        "¿Y CÓMO CREERÁN EN AQUEL DE QUIEN NO HAN OIDO?",
+        "¿Y COMO OIRÁN SI NADIE LES PREDICA?",
+        "HERMOSOS SON LOS PIES",
+        "DE LOS QUE ANUNCIAN LA PAZ",
+        "LAS BUENAS NUEVAS DE JESÚS."
+      ]
+    }
+  ]
+}

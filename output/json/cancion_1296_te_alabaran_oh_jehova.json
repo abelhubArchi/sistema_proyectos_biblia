@@ -1,0 +1,35 @@
+{
+  "numero": null,
+  "titulo": "TE ALABARAN OH JEHOVA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Te alabaran oh Jehová todos los reyes",
+        "todos los reyes de la tierra",
+        "porque han oído los dichos de tu boca",
+        "y cantara de los caminos Jehová"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Porque la gloria de Jehová es grande",
+        "porque Jehová es excelso en sus caminos",
+        "porque Jehová atiende al humilde",
+        "más mira de lejos al altivo"
+      ]
+    }
+  ]
+}

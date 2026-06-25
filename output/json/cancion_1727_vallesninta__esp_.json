@@ -1,0 +1,28 @@
+{
+  "numero": null,
+  "titulo": "Vallesninta (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Por los valles y los cerros yo voy cantando",
+        "/El Señor Jesús conmigo está./",
+        "En las noches de tristeza me consolará,",
+        "/Me ayudará, mi fiel Salvador./",
+        "/El me ama y me cuida,",
+        "Me alienta y me salva.",
+        "Reconozco su amor donde quiera que ande yo./"
+      ]
+    }
+  ]
+}

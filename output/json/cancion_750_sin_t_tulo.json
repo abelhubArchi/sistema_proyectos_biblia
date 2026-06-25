@@ -1,0 +1,78 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "Sorata2016",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Somos perdonados, cantamos tu redención",
+        "Con fuego en el corazón, con fuego en el corazón,"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Nada nos detiene, vencemos la oscuridad",
+        "Con fuego en el corazón, con fuego en el corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Somos libres  una generación que",
+        "Canta tu gloria",
+        "Tu eres aquel en quien nos movemos",
+        "Tuya es la gloria",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Hay un fuego que arde en el corazón",
+        "Que nunca se apagará",
+        "Somos libres, y tuya es la gloria.",
+        "Oh, \tOh,\tOh,\tOh",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Resucitados vivimos para ti",
+        "La pasión no morirá, la pasión no morirá,",
+        "",
+        "Nada nos detiene, venceremos la oscuridad",
+        "La pasión no morirá, la pasión no morirá,",
+        "Oh,\tOh,\tOh,\tOh",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 6,
+      "lineas": [
+        "Resucitaste con poder",
+        "Te levantaste y nos levantamos, nos levantamos",
+        "Hacia el mundo que Tu amas",
+        "",
+        "Caminaremos y nos levantamos,  nos levantamos",
+        "Nos levantamos."
+      ]
+    }
+  ]
+}

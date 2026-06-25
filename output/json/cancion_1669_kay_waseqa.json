@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "Kay Waseqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Kay waseqa Diosniypata, Señorniy kaypi kashan.",
+        "Tükuy creej bautizakun, Evangelio willakun./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Aleluya, aleluya,",
+        "Kusiywan Diosninchejman takisaj./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Jamuy ari kunampacha Señorman qayllaykukuy.",
+        "Jesús salvasusqanta tukuyman willaramuy./"
+      ]
+    }
+  ]
+}

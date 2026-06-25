@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Cieloman Ripunayqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Que glorioso es andar hacia el cielo con Jesús.",
+        "Roca de la eternidad, sólo en Ti yo tengo fe.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Cristo, tu inmenso amor yo no puedo comprender.",
+        "Sólo sé que por amor me salvaste del pecar./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Yo vivía en el dolor, triste, herido, pobre, vil.",
+        "Mas mi bendito Jesús me llevó a su redil.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Mientras haya de vivir, y al momento de morir,",
+        "Mis labios repetirán: \"eres Tú mi Salvador\"."
+      ]
+    }
+  ]
+}

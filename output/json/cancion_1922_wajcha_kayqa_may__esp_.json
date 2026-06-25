@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Wajcha Kayqa May (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Perder los bienes es mucho,",
+        "Perder la salud es aún más,",
+        "Perder el alma es pérdida tal",
+        "Que no se recobra jamás.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Venid a Cristo sin tardar,",
+        "Ofrece a todos el perdón.",
+        "Cristo Jesús murió en la cruz",
+        "Por darte vida eternal."
+      ]
+    }
+  ]
+}

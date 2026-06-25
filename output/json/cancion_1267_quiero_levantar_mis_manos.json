@@ -1,0 +1,45 @@
+{
+  "numero": null,
+  "titulo": "QUIERO LEVANTAR MIS MANOS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "QUIERO LEVANTAR MIS  MANOS,",
+        "QUIERO LEVANTAR MI VOZ.",
+        "OFRECIENDO A TÍ  MI VIDA",
+        "EN SANTIDAD Y AMOR,"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "PADRE SÓLO  A TÍ TE OFREZCO",
+        "MI VIDA  Y MI CORAZÓN",
+        "Y ME POSTRO EN TU PRESENCIA,",
+        "EN ADORACIÓN"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "HIJO DE DIOS, RECIBE HOY",
+        "TODA LA GLORIA,",
+        "LA HONRA,",
+        "Y EL HONOR//"
+      ]
+    }
+  ]
+}

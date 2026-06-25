@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "CON VOZ BENIGNA",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Con voz benigna te llama Jesús,",
+        "Invitación de puro amor.",
+        "¿Por qué le dejas en vano llamar?",
+        "¿Sordo serás pecador?",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Hoy te convida, hoy te convida;",
+        "Voz bendecida, benigna convídate hoy.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "A los cansados convida Jesús;",
+        "Con compasión mira el dolor;",
+        "Tráele tu carga, te bendecirá,",
+        "Te ayudará el Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Siempre guardando contempla a Jesús:",
+        "¡Tanto esperar! ¡con tanto amor!",
+        "Hasta sus plantas ven, mísero y trae,",
+        "Tu tentación, tu dolor."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "VUELVE A DIOS, HIJO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Si alejado vives triste y sin Dios,",
+        "Solo y sin nadie, sin su comunión,",
+        "Si así tú vives, no prosperarás,",
+        "Viviendo en pecado, perdido estarás.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Vuelve, hijo mío, a tu Padre Dios,",
+        "No sigas la senda lejos de su amor. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Toda tu riqueza pronto acabará,",
+        "Los fieles amigos te abandonarán.",
+        "Deja el pecado, sal de la maldad,",
+        "Vuelve a tu Padre, porque es Dios de amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cristo, el Hijo Bueno, en la cruz murió,",
+        "Ofreció su vida por salvarte a ti,",
+        "Quiere ayudarte; ven a El por fe,",
+        "Ábrele la puerta de tu corazón."
+      ]
+    }
+  ]
+}

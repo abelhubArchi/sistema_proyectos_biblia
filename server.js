@@ -278,6 +278,21 @@ try {
     console.error("❌ Error al cargar cancionero.json:", error);
 }
 
+// Cargar coros_2.json y agregarlo a la fuente 'coros'
+try {
+    const coros2Path = path.join(__dirname, "src", "himnarios", "coros_2.json");
+    if (fs.existsSync(coros2Path)) {
+        const rawCoros2 = JSON.parse(fs.readFileSync(coros2Path, "utf-8"));
+        const coros2List = rawCoros2.himnos ? rawCoros2.himnos : [];
+        const coros2Convertidos = convertirIglesiaDeDios(coros2List);
+        coros2Convertidos.forEach(c => c.fuente = 'coros');
+        cancionero = cancionero.concat(coros2Convertidos);
+        console.log(`📚 Cargados ${coros2Convertidos.length} cánticos adicionales de coros_2.json.`);
+    }
+} catch (error) {
+    console.error("❌ Error al cargar coros_2.json:", error);
+}
+
 // Cargar Himnario Cala
 let himarioCala = [];
 try {
@@ -298,6 +313,18 @@ try {
     console.log(`⛪ Cargados ${himnarioIglesiaDeDios.length} himnos del Himnario Iglesia de Dios.`);
 } catch (error) {
     console.error("❌ Error al cargar himnosIglesiaDeDios.json:", error);
+}
+
+// Cargar Nuevos Cánticos (OpenSong)
+let himnarioOpenSong = [];
+try {
+    const opensongPath = path.join(__dirname, "src", "himnarios", "opensong.json");
+    if (fs.existsSync(opensongPath)) {
+        himnarioOpenSong = JSON.parse(fs.readFileSync(opensongPath, "utf-8"));
+        console.log(`📁 Cargados ${himnarioOpenSong.length} cánticos de OpenSong.`);
+    }
+} catch (error) {
+    console.error("❌ Error al cargar opensong.json:", error);
 }
 
 // ==================== LÍNEAS PERSONALIZADAS ====================
@@ -343,6 +370,52 @@ try {
 function guardarCorosOverride() {
     fs.writeFile(corosOverridePath, JSON.stringify(corosOverride, null, 2), "utf-8", (err) => {
         if (err) console.error("❌ Error al guardar coros-override.json:", err);
+    });
+}
+
+// ==================== ESTROFAS PERSONALIZADAS ====================
+const estrofasOverridePath = process.pkg
+    ? path.join(path.dirname(process.execPath), "estrofas-override.json")
+    : path.join(__dirname, "src", "himnarios", "estrofas-override.json");
+let estrofasOverride = {};
+
+try {
+    if (fs.existsSync(estrofasOverridePath)) {
+        estrofasOverride = JSON.parse(fs.readFileSync(estrofasOverridePath, "utf-8"));
+        console.log(`📝  Cargadas estrofas editadas para ${Object.keys(estrofasOverride).length} cántico(s).`);
+    }
+} catch (e) {
+    console.error("❌ Error al cargar estrofas-override.json:", e);
+    estrofasOverride = {};
+}
+
+function guardarEstrofasOverride() {
+    fs.writeFile(estrofasOverridePath, JSON.stringify(estrofasOverride, null, 2), "utf-8", (err) => {
+        if (err) console.error("❌ Error al guardar estrofas-override.json:", err);
+    });
+}
+
+// ==================== NUEVOS CÁNTICOS (AGREGADOS POR USUARIO) ====================
+const nuevosCanticosPath = process.pkg
+    ? path.join(path.dirname(process.execPath), "nuevos-canticos.json")
+    : path.join(__dirname, "src", "himnarios", "nuevos-canticos.json");
+let nuevosCanticos = [];
+
+try {
+    if (fs.existsSync(nuevosCanticosPath)) {
+        nuevosCanticos = JSON.parse(fs.readFileSync(nuevosCanticosPath, "utf-8"));
+        console.log(`➕ Cargados ${nuevosCanticos.length} cánticos nuevos del usuario.`);
+        // Añadirlos al cancionero general
+        cancionero = cancionero.concat(nuevosCanticos);
+    }
+} catch (e) {
+    console.error("❌ Error al cargar nuevos-canticos.json:", e);
+    nuevosCanticos = [];
+}
+
+function guardarNuevosCanticos() {
+    fs.writeFile(nuevosCanticosPath, JSON.stringify(nuevosCanticos, null, 2), "utf-8", (err) => {
+        if (err) console.error("❌ Error al guardar nuevos-canticos.json:", err);
     });
 }
 
@@ -499,16 +572,30 @@ io.on("connection", (socket) => {
         io.emit("navegar-versiculo", direccion);
     });
 
+    socket.on("toggle-dividir-verso", (activo) => {
+        io.emit("toggle-dividir-verso", activo);
+    });
+
+    socket.on("siguiente-parte-verso", () => {
+        io.emit("siguiente-parte-verso");
+    });
+
+    socket.on("anterior-parte-verso", () => {
+        io.emit("anterior-parte-verso");
+    });
+
     // Evento para limpiar la pantalla (quitar versículo o terminar canto)
     socket.on("limpiar-pantalla", (data) => {
         if (data && data.tipo === 'versiculo') {
             ultimoVersiculo = null;
             ultimaBusqueda = { texto: '', resultados: [], tipo: null, timestamp: null };
+            fondoActual = "/fondodefectobiblia.png";
         } else if (data && data.tipo === 'cantico') {
             ultimoCanticoProyectado = null;
+            fondoActual = "/fondodefectocantois.png";
+        } else {
+            fondoActual = "/fondo_defecto.PNG";
         }
-        // Resetear fondo al por defecto
-        fondoActual = "/fondo_defecto.PNG";
         io.emit("cambiar-fondo", fondoActual);
         io.emit("limpiar-pantalla", data);
     });
@@ -650,18 +737,48 @@ app.delete("/api/canticos/:titulo/lineas", (req, res) => {
 
 app.get("/api/canticos", (req, res) => {
     const query = req.query.q;
-    const fuente = req.query.fuente || 'coros'; // 'coros' | 'cala' | 'iglesiadedios'
+    const fuente = req.query.fuente || 'coros'; // 'coros' | 'cala' | 'iglesiadedios' | 'opensong' | 'todos'
 
     let coleccion;
     if (fuente === 'cala') coleccion = himarioCala;
     else if (fuente === 'iglesiadedios') coleccion = himnarioIglesiaDeDios;
+    else if (fuente === 'opensong') {
+        coleccion = himnarioOpenSong;
+        if (req.query.carpeta && req.query.carpeta !== 'todas') {
+            coleccion = coleccion.filter(c => c.carpeta === req.query.carpeta);
+        }
+    }
+    else if (fuente === 'todos') {
+        // En "todos", juntar todas las listas (evitando duplicados si se considera necesario, o simplemente sumando)
+        coleccion = [...cancionero, ...himarioCala, ...himnarioIglesiaDeDios, ...himnarioOpenSong];
+    }
     else coleccion = cancionero;
 
+    // Aplicar overrides a la colección primero para que la búsqueda vacía los muestre
+    const coleccionConOverrides = coleccion.map(cantico => {
+        if (corosOverride[cantico.titulo] || estrofasOverride[cantico.titulo]) {
+            const canticoCopy = JSON.parse(JSON.stringify(cantico));
+            if (estrofasOverride[canticoCopy.titulo]) {
+                canticoCopy.estrofas = estrofasOverride[canticoCopy.titulo];
+                // Actualizar la letra completa por si se usa en otros lados
+                canticoCopy.letraCompleta = canticoCopy.estrofas.map(e => e.texto).join('\n');
+            }
+            if (canticoCopy.estrofas && corosOverride[canticoCopy.titulo]) {
+                canticoCopy.estrofas.forEach((est, idx) => {
+                    est.tipo = corosOverride[canticoCopy.titulo].includes(idx) ? 'coro' : 'estrofa';
+                });
+            }
+            return canticoCopy;
+        }
+        return cantico;
+    });
+
     if (!query || query.trim() === '') {
-        return res.json(coleccion);
+        return res.json(coleccionConOverrides);
     }
+
     const normalizedQuery = normalizarTexto(query);
-    const resultados = coleccion.filter(cantico => {
+    const resultados = coleccionConOverrides.filter(cantico => {
         if (!cantico) return false;
         const tituloNorm = normalizarTexto(cantico.titulo || "");
         if (tituloNorm.includes(normalizedQuery)) return true;
@@ -670,17 +787,6 @@ app.get("/api/canticos", (req, res) => {
             return cantico.estrofas.some(est => normalizarTexto(est.texto || "").includes(normalizedQuery));
         }
         return false;
-    }).map(cantico => {
-        if (corosOverride[cantico.titulo]) {
-            const canticoCopy = JSON.parse(JSON.stringify(cantico));
-            if (canticoCopy.estrofas) {
-                canticoCopy.estrofas.forEach((est, idx) => {
-                    est.tipo = corosOverride[canticoCopy.titulo].includes(idx) ? 'coro' : 'estrofa';
-                });
-            }
-            return canticoCopy;
-        }
-        return cantico;
     });
     res.json(resultados);
 });
@@ -695,6 +801,81 @@ app.post("/api/canticos/:titulo/coros", (req, res) => {
     corosOverride[titulo] = corosIndices;
     guardarCorosOverride();
     res.json({ exito: true, titulo, corosIndices });
+});
+
+// Editar cántico de OpenSong
+app.put("/api/canticos/:titulo", (req, res) => {
+    const tituloDecoded = decodeURIComponent(req.params.titulo);
+    const { titulo, estrofas } = req.body;
+    
+    // Find song in himnarioOpenSong
+    const index = himnarioOpenSong.findIndex(c => c.titulo === tituloDecoded);
+    if (index !== -1) {
+        if (titulo) himnarioOpenSong[index].titulo = titulo;
+        if (estrofas) {
+            himnarioOpenSong[index].estrofas = estrofas;
+            himnarioOpenSong[index].cantidadEstrofas = estrofas.length;
+            himnarioOpenSong[index].letraCompleta = estrofas.map(e => e.texto).join('\n');
+        }
+        
+        // Save to opensong.json
+        try {
+            const opensongPath = path.join(__dirname, "src", "himnarios", "opensong.json");
+            fs.writeFileSync(opensongPath, JSON.stringify(himnarioOpenSong, null, 2), "utf-8");
+            res.json({ exito: true, cantico: himnarioOpenSong[index] });
+        } catch (error) {
+            res.status(500).json({ error: 'Error al guardar opensong.json' });
+        }
+    } else {
+        res.status(404).json({ error: 'Cántico no encontrado' });
+    }
+});
+
+// Obtener carpetas de OpenSong
+app.get("/api/carpetas-opensong", (req, res) => {
+    const carpetas = [...new Set(himnarioOpenSong.map(c => c.carpeta || "Otras"))].sort();
+    res.json(carpetas);
+});
+
+// Guardar estrofas personalizadas para un cántico
+app.post("/api/canticos/:titulo/estrofas", (req, res) => {
+    const titulo = decodeURIComponent(req.params.titulo);
+    const { estrofas } = req.body;
+    if (!Array.isArray(estrofas)) {
+        return res.status(400).json({ error: 'Se esperaba un array estrofas' });
+    }
+    estrofasOverride[titulo] = estrofas;
+    guardarEstrofasOverride();
+    res.json({ exito: true, titulo, totalEstrofas: estrofas.length });
+});
+
+// Agregar nuevo cántico
+app.post("/api/canticos/nuevo", express.json(), (req, res) => {
+    const { titulo, tono, letraCompleta } = req.body;
+    
+    if (!titulo || !letraCompleta) {
+        return res.status(400).json({ error: 'Título y Letra son obligatorios' });
+    }
+
+    // Dividir letra en estrofas/coros
+    const estrofas = dividirEnEstrofas(letraCompleta);
+    
+    const nuevoCantico = {
+        titulo: titulo.trim(),
+        tono: tono ? tono.trim() : '',
+        letraCompleta: letraCompleta,
+        estrofas: estrofas,
+        fuente: 'nuevos'
+    };
+
+    // Agregar a la lista de persistencia
+    nuevosCanticos.push(nuevoCantico);
+    guardarNuevosCanticos();
+    
+    // Agregar a la lista en memoria (al principio para que se vea rápido, o al final)
+    cancionero.unshift(nuevoCantico);
+    
+    res.json({ exito: true, cantico: nuevoCantico });
 });
 
 // ==================== SUBIR FONDO ====================

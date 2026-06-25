@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "DIOSAN MUNASIÑAPA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Diosan munasiñapajj",
+        "Taketaquiw utjasqui,",
+        "Maqhatam jichhürpacha",
+        "Take iyawsañampi.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Tatit Jesusajja",
+        "Jichhaw jumar suyasctam",
+        "Jucham perdonañatac",
+        "Cusisiñ churasina.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Diosan munasiñapat,",
+        "Khespitajj uñjasi'ta,",
+        "Jupan wawapájjataw,",
+        "Jutam, Tatit Cristoru.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Diosan munasiñapat",
+        "Atipt’añ jícjjatáta,",
+        "Jucha lurañarusa,",
+        "Ñankha Supayarusa."
+      ]
+    }
+  ]
+}

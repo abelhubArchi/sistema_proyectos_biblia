@@ -1,0 +1,26 @@
+{
+  "numero": null,
+  "titulo": "RIO DE DIOS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "RÍO DE DIOS, RÍO DE DIOS",
+        "FLUYE TUS AGUAS SOBRE MI.",
+        "PROFUNDO Y LIMPIO RÍO",
+        "DESDE EL TRONO DE DIOS",
+        "QUE TU ESPÍRITU FLUYA EN MI."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cantare y me gozare delante de mi Rey",
+        "Con todo el corazón yo danzare ante el",
+        "Con panderos y banderas yo le alabare...",
+        "Y le agradeceré",
+        "Por su amor",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Jesucristo bendícenos llénanos de poder",
+        "",
+        "Jesucristo bendícenos llénanos de tu ///amor///",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "En Tu presencia hay gozo y paz",
+        "Justicia y seguridad.",
+        "Todo es bello en Ti, resplandece en mí",
+        "El brillo de tu faz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Con alegría y júbilo tu nombre alabaré.",
+        "En tu honor Señor yo celebraré",
+        "Lo grande de tu amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Que todas las naciones conozcan de tu amor.",
+        "Y sepan que eres nuestro Señor;",
+        "Que salvas y que sanas y vida nueva das,",
+        "Que Tú eres el Príncipe de Paz",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 6,
+      "lineas": [
+        "Los muros caen, los muros caen",
+        "y con ellos las cadenas.",
+        "los muros caen, los muros caen",
+        "se derrumban las fortalezas",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 7,
+      "lineas": [
+        "//El señor entrego en mis manos Jérico",
+        "grita ¡Hey! toca la trompeta.//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 8,
+      "lineas": [
+        "//Hay muchas formas de alabar tu nombre",
+        "y de exaltarte, Jehová",
+        "hay muchas formas de magnificarte",
+        "pero ahora lo haré así.//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 9,
+      "lineas": [
+        "Remolineando, remolineando",
+        "Celebrare a Jehová",
+        "Remolineando, remolineando",
+        "//Me haré mas vil,",
+        "Por causa de Jehová//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 10,
+      "lineas": [
+        "Saco mi vida del anonimato",
+        "Me dio corona y vestido real",
+        "Asi es Jehova que exalta al pequeño;",
+        "Por causa de él, yo me hare mas vil,",
+        "Por causa de él, yo me hare mas vil,",
+        "Por causa de él, yo me hare mas vil.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 11,
+      "lineas": [
+        "//La,la...la,la,la,la,la,la,...la,la.//"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "Wasiy Tiyan (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "//Un palacio tengo allá más lindo que el sol//",
+        "En el más allá.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "//Bendito Cristo contigo yo estaré,//",
+        "En el más allá.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "//Si tu quieres ir al cielo ven al Señor.//",
+        "Ven sin demorar."
+      ]
+    }
+  ]
+}

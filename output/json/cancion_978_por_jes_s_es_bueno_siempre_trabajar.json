@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "POR JESÚS ES BUENO SIEMPRE TRABAJAR",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Por Jesús es bueno siempre trabajar,",
+        "En su campo hay mucho labor;",
+        "Trabajemos todos pues sin descansar",
+        "Hasta que venga el Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Por Jesús, el Señor,",
+        "Demos nuestro servicio y ardor;",
+        "¡Pronto! Trabajemos mientras haya luz,",
+        "Y que venga otra vez Jesús. Amén.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Bueno es en el nombre de Jesús orar,",
+        "Nunca ociosos debemos estar;",
+        "En el juicio nuestras obras juzgará,",
+        "Dios con fuego las probará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "De Jesús en toda nuestra actividad",
+        "Tan precisa es su aprobación;",
+        "Si servimos siempre con sinceridad",
+        "Nos dará su alta bendición.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Hoy Jesús te llama a trabajar también,",
+        "En su viña te ofrece lugar;",
+        "Si eres fiel oirás un día el parabién:",
+        "Ven a tu celestial hogar."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Cristoj Jamunán Suyani",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristoj jamunán suyani. Jayk’ajchus jamonqari?",
+        "Jamojtín chaypachatajrí, noqa Paywan ripusaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Kusisqa kayvsáy munani Tataypa wasimpeqa.",
+        "Kay phutikuyjallp'apeqa Ilakisqalla purini.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Janaj pachapi Cristoqa Dioswan allinyachiwan.",
+        "Supaypa makisninmanta Paymin kacharichiwan.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cristopi hermanos ujchasqas, Cristota suyasunchej.",
+        "Llakiypis, pruebapis kachun, Paylla waqaychawasun."
+      ]
+    }
+  ]
+}

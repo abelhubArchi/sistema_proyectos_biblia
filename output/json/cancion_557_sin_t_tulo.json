@@ -1,0 +1,39 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "03 Alabanza Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "// Cristo ha llegado a mi vida",
+        "A nada puedo temer.",
+        "",
+        "Con su sangre me limpio",
+        "Con su amor me rodeo. //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "// Nada me podrá apartar",
+        "Del amor de mi Jesús.",
+        "",
+        "Su palabra llevaré",
+        "Y sus huellas seguiré. //",
+        ""
+      ]
+    }
+  ]
+}

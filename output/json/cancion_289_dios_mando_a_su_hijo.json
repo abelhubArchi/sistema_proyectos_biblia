@@ -1,0 +1,52 @@
+{
+  "numero": null,
+  "titulo": "DIOS MANDO A SU HIJO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Amó Dios tanto al mundo que envió su único Hijo,",
+        "El cual murió en Calvario, sacándonos de tinieblas,",
+        "Salvándonos del pecado.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Con gratitud alabemos a Dios, el Padre celestial,",
+        "Quien por su amor infinito mandó a Jesús el Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Amando tanto al mundo. Jesús fue hasta el Calvario,",
+        "Muriendo crucificado, sufrió terribles dolores",
+        "Para salvar a los hombres.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "El gran amor que Dios tiene por todos los pecadores",
+        "Se muestra en el sacrificio de Cristo para salvarnos",
+        "De todo nuestro pecado."
+      ]
+    }
+  ]
+}

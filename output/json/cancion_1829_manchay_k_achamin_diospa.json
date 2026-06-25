@@ -1,0 +1,42 @@
+{
+  "numero": null,
+  "titulo": "Manchay K’achamin Diospa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "//Manchay k'achamin Diospa munakuynin//",
+        "T'ukuchiwampuni.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "May jiña jatun, ni tarpay atina.",
+        "Mayjina ukhu niyaykuy atina.",
+        "May jiña ancho ni wakiy atina.",
+        "Diospa munakuynin.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "//Cruzpi wañorqa juchasninchejrayku//",
+        "Munakuyninrayku."
+      ]
+    }
+  ]
+}

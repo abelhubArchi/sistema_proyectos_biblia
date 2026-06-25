@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "Cristoj Jamunanqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristoj jamunanqa junfakushanñamin.",
+        "Imanasunchejtaj?",
+        "Jatun munakuywan Payta suyasunchej",
+        "Jesús Salvawajninchejta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Mañana sirvispa iskay dioskunata,",
+        "Cristo sapallanta tukuy sirvinachej.",
+        "Manamin Diostaqa, Supaytawan khuska",
+        "Sirvisunmanchu, hermanóy.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Iskayta sirvejqa mana kawsanqachu,",
+        "Wañuyilaman renqa;",
+        "Cristo sapallanta sirvejkunapajqa",
+        "Wiñay kawsay wakichisqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Imaymana nejta uyarishanchejña.",
+        "Qhawaychej allinta",
+        "Onqoykunatapis, chayrí ch'ajwastapis.",
+        "Qayllamunña juicio p'unchay.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Higos sach'amanta yuyarikunachej,",
+        "Q'omeryashajtinña,",
+        "Punkupiña kasaj, nerqa Jesusninchej,",
+        "Noqanchejwan kawsanqa Pay."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "numero": null,
+  "titulo": "EL ESPIRITU DEL SANTO DIOS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "EL ESPIRITU DEL SANTO DIOS",
+        "ESTA SOBRE TI",
+        "LAS BUENAS NUEVAS LLEVARAS",
+        "CON SU UNCION",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "A LOS POBRES TE ENVIO,",
+        "ESTE DIA ES",
+        "DONDE HAY QUE SANAR",
+        "ESTE AÑO ES",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Y A TRAER LUZ EN LAS TINIEBLAS",
+        "ESTE AÑO ES",
+        "EL SEÑOR TE GUIARA",
+        "ESTE DIA ES",
+        "Y EL TE PROTEGERA",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "TRAE ALIVIO AL CORAZON",
+        "ESTE DIA ES",
+        "EL SANARA AL PUEBLO ESCOGIDO",
+        "ESTE AÑO ES",
+        "DE SU ACEITE DERRAMARA",
+        "ESTE DIA ES",
+        "ALABEMOS AL REY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Hoy estamos en tu templo la iglesia reunida a cantar",
+        "a expresar en nuestro canto la alegría, la esperanza y la fe;",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "a decirte que te amamos por habernos rescatado Tú del mal;",
+        "sufriste Tú por mí, Moriste Tú por mí, jamás te olvidaré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Prometisté regresar, te esperamos hoy Señor;",
+        "En las nubes volverá y todo ojo le verá",
+        "Y alabará su Nombre.(BIS)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Cuando suene la trompeta en el cielo aparezca el Señor,",
+        "Y los muertos resuciten elévandose a los cielos a reinar,",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Los que viven se transformen a la imagen tan gloriosa de Jesús,",
+        "Que bello sera estar al lado del que amé porque EL me amó a mí."
+      ]
+    }
+  ]
+}

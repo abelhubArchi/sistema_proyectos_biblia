@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "YO LE ALABO DE CORAZON",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Yo le alabo de corazón",
+        "yo le alabo con mi voz",
+        "",
+        "Yo le alabo de corazón",
+        "yo le alabo con mi voz."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Y si me falta la voz",
+        "yo le alabo con las manos",
+        "Y si me faltan las manos",
+        "yo le alabo con los pies",
+        "",
+        "Y si me faltan los pies",
+        "yo le alabo con el alma",
+        "Y si me falta el alma",
+        "es que ya me fui con Él.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Oh gloria a Dios",
+        "Oh aleluya, sigue alabando",
+        "que la victoria es tuya.",
+        "",
+        "Oh gloria Dios",
+        "Oh aleluya, sigue alabando",
+        "que la victoria es tuya."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "numero": null,
+  "titulo": "Llakisqachu Purishanki",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Llakisqachu purishanki? Uyariy Diospa nisqanta.",
+        "Llimphuchajniyki wajyashan,",
+        "Yachanki Diospa nisqanta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Jamukuy jamukuy, samarichisonqa qanta.",
+        "Jamukuy, jamukuyf kamarichisonqa Jesuslla.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Si qan nisqaña kashanki, juchapi kasqaykirayku.",
+        "Diosmanta karupi kashanki",
+        "Supaywan kasqaykirayku."
+      ]
+    }
+  ]
+}

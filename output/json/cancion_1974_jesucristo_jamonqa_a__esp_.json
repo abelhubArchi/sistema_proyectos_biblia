@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Jesucristo Jamonqaña (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristo viene, esto es cierto, porque así está escrito.",
+        "Siempre fiel a su promesa, por los suyos ya regresa.",
+        "¡Vedle ya, ved al Señor! trae aquellos que han dormido,",
+        "Ni uno solo se ha perdido, ¡Sí, vendrá; oh, sí, vendrá!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "El que en la cruz muriendo, dio su alma bendiciendo;",
+        "Viene ya resplandeciente, en las nubes imponentes",
+        "¡Vedle ya, ved al Señor! vedle ya venir en gloria,",
+        "Coronado de victoria: ¡Sí, vendrá; oh, si vendrá!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¡Ay de aquél que no ha ido a Jesús, ni recibido",
+        "Ropa santa, regalada, para bodas adornada!",
+        "¡Vedle ya, ved al Señor! a su encuentro ve, ¡oh esposa!",
+        "Es tu hora, más dichosa, ¡Sí, vendrá, oh, sí, vendrá!"
+      ]
+    }
+  ]
+}

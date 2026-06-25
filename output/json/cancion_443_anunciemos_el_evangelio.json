@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "ANUNCIEMOS EL EVANGELIO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristo Jesús nuestro Salvador",
+        "Nos dio una gran misión;",
+        "De su evangelio a proclamar",
+        "A la humanidad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Los hijos del Señor",
+        "Vamos sin demorar;",
+        "Las Buenas Nuevas a predicar",
+        "De Cristo el Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Para anunciar del Señor Jesús",
+        "Y de su salvación;",
+        "Seamos llenos de su poder",
+        "Y de su santo amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Quién quiera ser salvo por Jesús",
+        "De toda su maldad;",
+        "Que lo confiese a Cristo el Rey",
+        "Confiando en su amor"
+      ]
+    }
+  ]
+}

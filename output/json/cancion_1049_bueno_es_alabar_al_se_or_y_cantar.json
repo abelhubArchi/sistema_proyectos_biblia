@@ -1,0 +1,95 @@
+{
+  "numero": null,
+  "titulo": "BUENO ES ALABAR AL SEÑOR Y CANTAR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "//BUENO ES ALABAR AL SEÑOR",
+        "Y CANTAR",
+        "SALMOS A SU NOMBRE//"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "//ANUNCIAR POR LA MAÑANA SU MISERICORDIA,",
+        "SU FIDELIDAD DE NOCHE//"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¿QUIÉN ES EL QUE VIVE? (SALVA, SANA, VIENE)",
+        "¡CRISTO ES EL QUE VIVE! (SALVA, SANA, VIENE)"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "//ASÍ, ASÍ, ASÍ SE ALABA A DIOS//"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "///CON MUCHA ALEGRÍA Y GOZO///",
+        "ASÍ SE ALABA A DIOS"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 6,
+      "lineas": [
+        "///BATIENDO LAS MANOS TODOS///",
+        "ASÍ SE ALABA A DIOS"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 7,
+      "lineas": [
+        "//ALLÍ EN EL CIELO SE OYE",
+        "LO QUE EN LA TIERRA SE CANTA//"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 8,
+      "lineas": [
+        "//VAMOS TODOS A ALABAR AL SEÑOR",
+        "CON PANDERO Y DANZA//"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 9,
+      "lineas": [
+        "//¿QUIÉN VIVE? ¡CRISTO!",
+        "Y A SU NOMBRE... ¡GLORIA!//"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 10,
+      "lineas": [
+        "//ALÁBALE, ALÁBALE, ALÁBALE DE CORAZÓN//",
+        "ALÁBALE... (X 15)"
+      ]
+    }
+  ]
+}

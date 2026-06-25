@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "OH DIOS DEL FUEGO LIMPIADOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "personalizado",
+      "nombre": "C1",
+      "lineas": [
+        "OH Dios de fuego limpiador",
+        "Manda el fuego",
+        "Aquel poder consumidor",
+        "Manda el fuego hoy",
+        "Oh Dios de Elías escúchanos",
+        "Manda el fuego",
+        "En vida o muerte yo te doy",
+        ""
+      ]
+    },
+    {
+      "tipo": "personalizado",
+      "nombre": "C2",
+      "lineas": [
+        "Manda el fuego hoy",
+        "Con gracia para el mundo amar",
+        "Con fuerza para hoy conquistar",
+        "En santidad siempre andad",
+        "Manda el fuego"
+      ]
+    }
+  ]
+}

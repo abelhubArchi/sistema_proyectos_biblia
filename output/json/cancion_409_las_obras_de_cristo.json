@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "LAS OBRAS DE CRISTO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Mi buen Jesucristo, allá en Judea.",
+        "Tus grandiosas obras, las manifestaste;",
+        "Grandes maravillas con poder hiciste,",
+        "Con amor profundo, compasión mostraste.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Tu poder y gloria son incomparables,",
+        "Oh bendito Cristo, tu amor es inmenso;",
+        "Muéstranos tu ayuda, tu poder y gracia,",
+        "En las aflicciones, manda tu consuelo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Con poder sanaste a los sordomudos,",
+        "También a los cojos, y a los enfermos.",
+        "Por tu amor profundo, vista diste a ciegos,",
+        "Y resucitaste con poder a muertos.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "A los afligidos y amedrentados,",
+        "Tu los consolaste, oh bendito Cristo.",
+        "A los pecadores tu los perdonaste,",
+        "Dando paz y gozo a sus corazones."
+      ]
+    }
+  ]
+}

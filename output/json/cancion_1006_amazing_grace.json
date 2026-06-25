@@ -1,0 +1,42 @@
+{
+  "numero": null,
+  "titulo": "AMAZING GRACE",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "AMAZING GRACE HOW SWEET THE SOUND",
+        "",
+        "THAT SAVED A WRETCH LIKE ME",
+        "",
+        "I ONCE WAS LOST, BUT NOW AM FOUND",
+        "",
+        "WAS BLIND BUT NOW I SEE",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "WHEN WE’VE BEEN THERE TEN THOUSAND YEARS",
+        "",
+        "BRIGHT SHINING AS THE SUN",
+        "",
+        "WE’VE NO LESS DAYS TO SING GOD’S PRAISE",
+        "",
+        "THAN WHEN WE’D FIRST BEGUN"
+      ]
+    }
+  ]
+}

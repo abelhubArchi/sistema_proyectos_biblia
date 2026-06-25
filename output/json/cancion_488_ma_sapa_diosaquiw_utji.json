@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "MA SAPA DIOSAQUIW UTJI",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Má sap ch'aman Diosaquiw utjtajja",
+        "Quimsa Personaraquitaw;",
+        "Dios Awquimp, Dios Yokamp mayaquitaw,",
+        "Kollan Ajayump uqhama.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cheka Dios yupaychapjjsmawa,",
+        "Alfat chuymanacajjampi;",
+        "Janiw jumjam yakha Dios utjquiti,",
+        "Take munañan Diosajja. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Take ch'aman suma Dios Awquejja,",
+        "Luratamajj musparcañaw;",
+        "Alajjpachas, take acapachasa,",
+        "Amparamamp luratawa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Kollan Khespiyir suma Cristojja",
+        "Acá oraker jutasina,",
+        "Khespiyasiñ taketac altajja,",
+        "Cruzan t'akhesitamampi.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Taker ch'amanchir Kollan Ajayu,",
+        "Chuymanacajjan jacjjtajja;",
+        "Sapüruw thaquiman irpapjjesta,",
+        "Llaquisiftans chuymachasa."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "EL REINO DE DIOS",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Bellas mansiones de paz y amor,",
+        "Dios nos prepara para morar.",
+        "Los redimidos en el Señor,",
+        "Iremos pues a gozar con él.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Al hogar celestial de Dios,",
+        "Ningún pecador entrará;",
+        "Más los de limpio corazón,",
+        "Reinar podremos junto a él.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Para llegar al celeste hogar,",
+        "Marchemos todos sin desmayar;",
+        "Perseveremos hasta el fin,",
+        "Siempre venciendo a la maldad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Allí en los cielos ya no habrá",
+        "Ningún pesar, ni muerte fatal.",
+        "En la presencia de nuestro Dios,",
+        "Gozar podremos por siempre allí.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Allí en los cielos, con nuestro Dios",
+        "Moraremos por siempre jamás.",
+        "Con el gran coro angelical,",
+        "Alabaremos al Salvador."
+      ]
+    }
+  ]
+}

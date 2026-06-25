@@ -1,0 +1,54 @@
+{
+  "numero": null,
+  "titulo": "PODEROSO, VICTORIOSO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "PODEROSO VICTORIOSO",
+        "",
+        "QUIEN NOS DIO LA VICTORIA",
+        "",
+        "CON SU AMOR",
+        "",
+        "SOBERANO REY DE GLORIA",
+        "",
+        "CONFESAMOS QUE ÉL ES EL SEÑOR"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "SOBRE TODA LA TIERRA",
+        "",
+        "EXCELENTE ES TU NOMBRE",
+        "",
+        "SOBRE TODOS LOS PUEBLOS",
+        "",
+        "NO HAY OTRO COMO TÚ"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "HOY CONFESAMOS QUE",
+        "",
+        "CRISTO ES EL SEÑOR",
+        "HOY CONFESAMOS QUE",
+        "CRISTO ES EL SEÑOR"
+      ]
+    }
+  ]
+}

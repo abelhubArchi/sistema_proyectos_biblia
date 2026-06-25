@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "SOY NUEVA CRIATURA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "SOY NUEVA CRIATURA",
+        "LO DECLARA LA ESCRITURA",
+        "EL ME HA PERDONADO",
+        "CON SU SANGRE ME HA LAVADO",
+        "TODOS MIS PECADOS",
+        "POR SU SANGRE SON BORRADOS",
+        "LIBRE SOY, DEL PECADO",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "LIBRE DEL PECADO Y LA MALDAD",
+        "SOY LIBRE",
+        "EL HA ROTO MIS CADENAS",
+        "LIBRE, LIBRE PARA DAR MI VIDA",
+        "AL QUE ME SALVO"
+      ]
+    }
+  ]
+}

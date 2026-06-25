@@ -1,0 +1,53 @@
+{
+  "numero": null,
+  "titulo": "DIOS ESTA AQUI",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "DIOS ESTÁ AQUÍ",
+        "TAN CIERTO COMO EL AIRE QUE RESPIRO,",
+        "",
+        "TAN CIERTO COMO LA MAÑANA SE LEVANTA",
+        "",
+        "TAN CIERTO COMO QUE LE CANTO Y ME PUEDES OÍR",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "LO PUEDES NOTAR A TU LADO EN ESTE MISMO INSTANTE",
+        "",
+        "LO PUEDES SENTIR MUY DENTRO DE TU CORAZÓN",
+        "",
+        "LO PUEDES NOTAR EN ESE PROBLEMA QUE TIENES",
+        "",
+        "JESÚS ESTÁ AQUÍ, SI TÚ QUIERES LO PUEDES SENTIR",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "DIOS ESTÁ AQUÍ TAN CIERTO COMO EL AIRE QUE RESPIRO,",
+        "",
+        "TAN CIERTO COMO LA MAÑANA SE LEVANTA",
+        "",
+        "TAN CIERTO COMO QUE LE CANTO Y ME PUEDES OÍR"
+      ]
+    }
+  ]
+}

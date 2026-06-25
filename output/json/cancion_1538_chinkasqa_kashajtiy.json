@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Chinkasqa Kashajtiy",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "R. Veizaga",
+  "compositor": "R. Veizaga",
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Chinkasqa kashajtíy, Jesús wajyawarqa./",
+        "/Tarinawampajtaj cruzkama chayarqa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Chay munakuyninta yuyarikuspataj,/",
+        "/Ni jayk'aj qhepaman kutiriymanñachu./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Q'ayachus, minchhachus Jesús wajyawanqa./",
+        "/Llank'asqaymantataj tinkata qowanqa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Janaj pachapitaj salvos kajkunawan/",
+        "/Diospa ñawpaqempi may kusiypi kasaj./"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cuán Bello es el Señor",
+        "Cuán Hermoso es el Señor",
+        "Cuán Bello es el Señor",
+        "Hoy le quiero adorar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "La belleza de mi Señor",
+        "Nunca se agotará,",
+        "La hermosura de mi Señor",
+        "siempre resplandecera."
+      ]
+    }
+  ]
+}

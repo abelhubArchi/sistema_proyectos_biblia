@@ -1,0 +1,72 @@
+{
+  "numero": null,
+  "titulo": "Solo Cristo Jesus",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "El día oscurece a pesar",
+        "de que el sol no se ha ido.",
+        "Es que tú corazón está muy dolido",
+        "Jugaron con tu ilusión de amar en la vida",
+        "y piensas que no hay en quien creer",
+        "Que no vale la pena el confiar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Diste todo de ti por amar a quien no supo",
+        "Entregarte su amor y hacerte feliz",
+        "Y piensas que jamás podras hallar amor verdadero",
+        "Que para ti jamás encontraras amor sincero.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Solo Cristo Jesús, puede darte amor",
+        "y sanar tu corazón",
+        "El te ama de verdad desde la eternidad",
+        "Y su amor no cambiará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Solo Cristo Jesús, solo el puede llenar",
+        "El vacio que hay en ti",
+        "Ábrele tu corazón deja a Cristo entrar",
+        "Te aseguro es lo mejor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "No podras encontrar el amor en el mundo",
+        "Si no pones tu vista primero en Dios",
+        "El es todo amor y sin el amor no existe",
+        "Y aquel que no ha conocido ha Dios",
+        "tampoco a conocido el amor."
+      ]
+    }
+  ]
+}

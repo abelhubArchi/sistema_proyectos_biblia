@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "Rijch’ariy",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Rijch’ariy, rijch'ariy misk’i puñuymanta,",
+        "Cristo wajyasunki willanaykipaj./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Puñullanki chayqa, chinkayman renqanku.",
+        "Jatariy, usqayta rispa, llank'amuyj",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/\"Noqamin ñan kani, cheqataj kawsaytaj.",
+        "Tatayman renqanku Noqanejilata./"
+      ]
+    }
+  ]
+}

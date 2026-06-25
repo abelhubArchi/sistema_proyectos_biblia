@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Imawan Runa Ñanninta (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Con qué limpiará su camino el joven?",
+        "Con guardar tu Palabra su camino limpiará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Adelante, juventud, en la viña del Señor.",
+        "Ganaremos la victoria con la ayuda del Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Te busqué Señor para consagrar mi ser,",
+        "Quiero servirte sólo a Tí con todo mi corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "En mi corazón tu Palabra guardaré.",
+        "Mas contra Ti no pecaré, tu Palabra al guardar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "En tus obras. Dios, enséñame a meditar.",
+        "Ayúdame, oh Padre Dios, a seguirte solo a Tí."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "numero": null,
+  "titulo": "Uj P'unchaypi Jesús  (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "F. Paredes",
+  "compositor": "F. Paredes",
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Por Jericó Jesús andaba",
+        "Anunciando la verdad./",
+        "Vino uno llamado Zaqueo,",
+        "A Jesús el quizo ver.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Oh amigo, acude a CRISTO,",
+        "Cuál Zaqueo se apresuró.",
+        "Jesucristo, Salvador del mundo,",
+        "Te invita en su tierna voz.",
+        "Zaqueo era un hombre rico,",
+        "Fue de impuesto el cobrador.",
+        "Al saber que Jesús venía,",
+        "Presuroso quiso ver.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Zaqueo vino a Jesucristo,",
+        "Del árbol ver procuró.",
+        "Es Jesús quien ve corazones,",
+        "Te llama con tierna voz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jesús perdonó a Zaqueo",
+        "De todo que confesó.",
+        "El mismo hoy quiere perdonarte",
+        "Si te entregas hoy a El."
+      ]
+    }
+  ]
+}

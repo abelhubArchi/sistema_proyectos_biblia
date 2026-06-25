@@ -1,0 +1,45 @@
+{
+  "numero": null,
+  "titulo": "TAL COMO SOY SEÑOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tal como soy señor.",
+        "Sin nada que ofrecer",
+        "Mas que mi canción .",
+        "No tengo mas que darte",
+        "pues todo es tuyo Señor ."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tal como soy Señor",
+        "Sin nada que entregar mas que el corazón",
+        "Me rindo todo a ti Tómame Señor",
+        "tal como soy"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Acéptame como ofrenda de amor ,",
+        "como un sacrificio agradable en tu honor.",
+        "Grato perfume yo quiero ser Señor.///"
+      ]
+    }
+  ]
+}

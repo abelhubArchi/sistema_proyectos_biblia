@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "Ñawpajman Rinachej (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Firmes y adelante, huestes de la fe,",
+        "Sin temor alguno que Jesús nos ve.",
+        "Jefe soberano. Cristo al frente va.",
+        "Y la regia enseña tremolando está.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Firmes y adelante, huestes de la fe,",
+        "Sin temor alguno que Jesús nos vé.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Muévete potente la Iglesia de Dios,",
+        "De los ya gloriosos vamos hoy en pos;",
+        "Somos solo un cuerpo y uno es el Señor,",
+        "Una la esperanza y uno es el Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Tronos y coronas pueden perecer",
+        "De Jesús la Iglesia siempre habrá de ser.",
+        "Nada en contra suya prevalecerá",
+        "Porque la promesa nunca faltará."
+      ]
+    }
+  ]
+}

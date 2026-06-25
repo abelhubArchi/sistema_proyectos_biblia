@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "¡OH, CUAN DULCE!",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¡Oh, cuan dulce es fiar en Cristo,",
+        "Y entregarse todo a El;",
+        "Esperar en sus promesas,",
+        "Y en sus sendas serle fiel!",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Jesucristo, Jesucristo,",
+        "Ya tu amor probaste en mí;",
+        "Jesucristo, Jesucristo,",
+        "Siempre quiero fiar en ti.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Es muy dulce fiar en Cristo",
+        "Y cumplir su voluntad,",
+        "No dudando su palabra,",
+        "Que es la luz y la verdad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Siempre es grato fiar en Cristo",
+        "Cuando busca el corazón",
+        "Los tesoros celestiales",
+        "De la paz y del perdón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Siempre en Ti confiar yo quiero,",
+        "Mi precioso Salvador;",
+        "En la vida y en la muerte",
+        "Protección me dé tu amor."
+      ]
+    }
+  ]
+}

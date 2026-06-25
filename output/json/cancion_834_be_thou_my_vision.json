@@ -1,0 +1,74 @@
+{
+  "numero": null,
+  "titulo": "Be Thou My Vision",
+  "carpeta": "z Songs Ingles",
+  "tono": null,
+  "compas": null,
+  "autor": "Irish Folk Hymn; Elanor H. Hull",
+  "compositor": "Irish Folk Hymn; Elanor H. Hull",
+  "copyright": "Public Domain",
+  "ccli": "248328",
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ".D          Bm7       G          D",
+        "Be Thou my Vision, O Lord of my heart,",
+        ".A             Bm7        G              A",
+        "Naught be all else to me save that Thou art;",
+        ".Gmaj7        F#m7       D         G    A",
+        "Thou my best thought by day or by night,",
+        ".D         Bm7           G2          D",
+        "Waking or sleeping, Thy presence my light.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        ".D          Bm7        G            D",
+        "Be Thou my wisdom, be Thou my true Word,",
+        ".A      Bm7           G             A",
+        "I ever with Thee and Thou with me, Lord;",
+        ".Gmaj7         F#m7        D          G  A",
+        "Thou my great Father, and I thy true son,",
+        ".D          Bm7           G2          D",
+        "Thou in me dwelling, and I with Thee one.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        ".E        C#m7          A           E",
+        "Riches I heed not, nor man's empty praise,",
+        ".B           C#m7      A         B",
+        "Thou mine Inheritance now and always;",
+        ".Amaj7         G#m7  E           A    B",
+        "Thou and Thou only, first in my heart,",
+        ".E            C#m7       A2            E",
+        "High King of heaven, my Treasure Thou art.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        ".E            C#m7      A       E",
+        "High King of heaven my victory won,",
+        ".B           C#m7           A                 B",
+        "May I reach heaven's joys, O bright heav'n's Sun;",
+        ".Amaj7       G#m7           E      A   B",
+        "Heart of my own heart, whatever befall,",
+        ".E           C#m7      A2       E",
+        "Still be my Vision, O Ruler of all."
+      ]
+    }
+  ]
+}

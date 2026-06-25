@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "¡OH DIOS, PADRE CELESTIAL!",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¡Oh, Dios Padre Celestial! Venimos con gratitud.",
+        "Te alabamos con fervor; acepta nuestro loor.",
+        "Nuestro Padre Celestial, hoy escucha nuestra voz.",
+        "imploramos tu piedad en tu presencia. Señor. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cristo, Nuestro Salvador, Te alabamos con amor.",
+        "Por tu muerte en la cruz del pecado das perdón.",
+        "De la muerte nos libró, vida eterna nos mostró.",
+        ":Tuyos somos, oh Señor, gracias por la salvación. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Santo Espíritu de Dios,limpia nuestro corazón.",
+        "Llénanos de tu amor; fortalece nuestro ser.",
+        "En la lucha con Satán danos paz, consolación.",
+        ":Y a la gloria celestial guíanos con tu poder. (Bis)"
+      ]
+    }
+  ]
+}

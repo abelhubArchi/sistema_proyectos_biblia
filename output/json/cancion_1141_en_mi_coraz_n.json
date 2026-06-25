@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "EN MI CORAZÓN",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "EN MI CORAZÓN HAY UNA CANCIÓN",
+        "QUE  DEMUESTRA MI PASIÓN",
+        "PARA MI REY Y ME SEÑOR,",
+        "PARA AQUEL QUE ME AMÓ."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "HERMOSO ERES MI SEÑOR,",
+        "HERMOSO ERES TÚ,",
+        "AMADO MÍO, TÚ ERES LA FUENTE",
+        "DE MI VIDA",
+        "Y EL ANHELO DE MI CORAZÓN."
+      ]
+    }
+  ]
+}

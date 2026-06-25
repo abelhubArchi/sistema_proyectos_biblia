@@ -1,0 +1,28 @@
+{
+  "numero": null,
+  "titulo": "A Cristo, sólo a Cristo",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "A Cristo, sólo a Cristo yo exaltaré",
+        "A Cristo, sólo a Cristo yo adoraré",
+        "Porque El me ha dado vida eterna",
+        "Porque El me ha dado el poder",
+        "Porque El me ha dado la victoria",
+        "El es mi rey",
+        "A Cristo he proclamado Rey"
+      ]
+    }
+  ]
+}

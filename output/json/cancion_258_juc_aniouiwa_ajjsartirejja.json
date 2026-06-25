@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "JUC'ANIOUIWA AJJSARTIREJJA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Take acapachawa Diosatjja yatipjje; (yatipjje)",
+        "Qhuyapayasiñapsa catokapjjaraqui. (Diosatjja)",
+        "Juc'aniquiwa Ajjsartirejja Tatitusarojja.",
+        "Juc'aniquiwa take chuymampi Diosar sirvirejja.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Khespiyatanacajja takeniw mantapjjani",
+        "Alajjpacha marcaru, wíñay cusisiri.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Walja jakenacawa jucharu cutt'apjje. (cutt'apjje)",
+        "Diosan arunacapsa armasipjjaraqui. (armapjje)",
+        "Takenitaqui waquichatawa khespiyasiñajja.",
+        "Takenitaqui waquichatawa alajjpach marcajja.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Khepa urunacanjja jachañaw utjani. (utjani)",
+        "Inamayataquiwa jachapjjaraquini. (inamay)",
+        "Tatitusajja jichha uruwa takenir jawsasqui.",
+        "Tatitusajja munasiñampiw khespiyascaraqui."
+      ]
+    }
+  ]
+}

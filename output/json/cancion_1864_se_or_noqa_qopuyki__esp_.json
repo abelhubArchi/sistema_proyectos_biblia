@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Señor Noqa Qopuyki (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Mi vida entera consagro a Ti, a tu servicio. Señor.",
+        "Hasta el momento que me llames Tú a tu presencia. Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Te pertenezco, Señor, servirte es mi deber.",
+        "Prometo sólo servirte a Tí toda mi vida, Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "De mi ser dueño ya eres Tú, quiero servirte yo a Ti.",
+        "Enséñame a hacer tu voluntad en tu amor y verdad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Yo me consagro a Ti, Señor, alma, vida y corazón,",
+        "Tal como soy, yo vengo a Tí, a tu presencia. Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Tómame de la mano. Jesús, y no me dejes caer.",
+        "Haz que yo pueda contigo vivir en tu santa voluntad."
+      ]
+    }
+  ]
+}

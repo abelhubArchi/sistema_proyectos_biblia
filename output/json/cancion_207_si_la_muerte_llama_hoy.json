@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "SI LA MUERTE LLAMA HOY",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Allá en el reino de nuestro buen Dios,",
+        "Ningún pecador jamás podrá entrar.",
+        "Y si tú anhelas con Jesús estar,",
+        "Entrégate a Cristo y salvo serás.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Si la muerte toca a tu puerta hoy,",
+        "Confiado en Cristo puedes tú morir.",
+        "Pues allí en el cielo nos hemos de ver,",
+        "Y con gozo eterno le hemos de adorar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¿Estás ya limpiado del pecado vil",
+        "Para entrar al reino de nuestro buen Dios?",
+        "Si no te has lavado en su sangre ya,",
+        "Acércate a Cristo, El te limpiará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Si tú estás viviendo bien con tu Señor,",
+        "\"Hijo mío, ven\", un día te dirá.",
+        "Pero si en pecado tú vas a morir,",
+        "\"Yo no te conozco\". Cristo te dirá."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "numero": null,
+  "titulo": "RENUEVAME, SEÑOR JESUS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "RENUÉVAME, SEÑOR JESÚS",
+        "YA NO QUIERO SER IGUAL.",
+        "RENUÉVAME  SEÑOR JESÚS",
+        "PON EN MI TU CORAZÓN."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "PORQUE TODO LO QUE HAY DENTRO DE MI,",
+        "NECESITA SER CAMBIADO SEÑOR",
+        "PORQUE TODO LO QUE HAY DENTRO DE MI  CORAZÓN NECESITA MAS DE TÍ/"
+      ]
+    }
+  ]
+}

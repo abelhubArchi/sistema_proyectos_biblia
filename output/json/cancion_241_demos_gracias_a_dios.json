@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "DEMOS GRACIAS A DIOS",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Demos gracias al Señor, Padre Dios y Creador",
+        "Quien nos llena cada día de paz y bendición.",
+        "Demos gracias por su amor con el cual El nos salvó",
+        "Del camino oscuro y vil a la vida eternal.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Demos gracias de todo corazón al buen Salvador,",
+        "En felicidad y paz o en dolores y aflicción. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Demos gracias al Señor porque con su amor nos dio",
+        "Su mensaje de perdón del pecado y todo mal.",
+        "Demos gracias al Señor por la vida que El nos da,",
+        "Vida de felicidad, gozo, paz y gran amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Demos gracias al Señor por su grande protección",
+        "Pues El siempre nos ayuda en las penas y dolor.",
+        "Demos gracias al Señor por las pruebas que El nos da.",
+        "Ya que nos enseñan como cumplir su voluntad."
+      ]
+    }
+  ]
+}

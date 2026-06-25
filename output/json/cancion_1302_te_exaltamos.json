@@ -1,0 +1,54 @@
+{
+  "numero": null,
+  "titulo": "TE EXALTAMOS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "TE EXALTAMOS SOBRE  UN TRONO DE ALABANZAS,",
+        "TE EXALTAMOS OH SEÑOR",
+        "NUESTRAS ALABANZAS SUBIRÁN",
+        "DELANTE DE TU TRONO OH SEÑOR.//"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "OLOR FRAGANTE, A TI SEÑOR,",
+        "HONOR Y ALABANZA POR SIEMPRE DARÉ.",
+        "AL QUE ESTA SENTADO",
+        "SOBRE EL TRONO DE MI DIOS"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "MAJESTUOSAMENTE REINAS SIN IGUAL",
+        "TU ERES PODEROSO DIOS.",
+        "TE PROCLAMARÉ TE EXALTARÉ,",
+        "TU ERES EL REY SOBRE MI CORAZÓN"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "TE EXALTAMOS, TE EXALTAMOS,",
+        "TE EXALTAMOS, TE EXALTAMOS",
+        "OH, SEÑOR."
+      ]
+    }
+  ]
+}

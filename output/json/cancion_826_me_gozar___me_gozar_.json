@@ -1,0 +1,89 @@
+{
+  "numero": null,
+  "titulo": "ME GOZARÉ, ME GOZARÉ",
+  "carpeta": "xMinisterio",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "transición",
+      "lineas": [
+        "*",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "// Cuando el Señor",
+        "Hiciere volver la cautividad,",
+        "Seremos como los que sueñan. //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "// Mi boca llenará de risa,",
+        "Mis labios de alabanza",
+        "Entonces dirán las naciones:",
+        "Grandes cosas ha hecho el Señor. //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "// Me gozaré, me gozaré",
+        "Me gozaré, me gozaré en Jehová",
+        "(Gózate)",
+        "Pues ha llevado todo mi dolor",
+        "Me ha hecho libre. //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "// Así como David cantaba",
+        "Así como David danzaba,",
+        "Así como David fluía",
+        "En su presencia. //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "// Yo cantaré…",
+        "Yo danzaré…",
+        "En tu presencia me gozaré",
+        "Y sólo en TÍ me alegraré",
+        "Porque Tú eres mi Dios y mi Rey. //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 6,
+      "lineas": [
+        "Me gozaré, me gozaré",
+        "Me gozaré, me gozaré en Jehová",
+        "(Gózate)",
+        "Pues ha llevado todo mi dolor",
+        "Me ha hecho libre."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Cielo Ventanasta (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "//Abre las ventanas de los cielos. Señor.//",
+        "Envía tu bendición.",
+        "//Bendice las ofrendas y los diezmos. Señor.//",
+        "Envía tu bendición.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "//Bendice a tus siervos y a tus siervas, Señor.//",
+        "Envía tu bendición.",
+        "//Bendice a mi hermano y mi hermana. Señor.//",
+        "Envía tu bendición."
+      ]
+    }
+  ]
+}

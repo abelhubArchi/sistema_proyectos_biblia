@@ -1,0 +1,63 @@
+{
+  "numero": null,
+  "titulo": "Jisq'on Chunka Jisq'onniyoj (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Noventa y nueve ovejas son",
+        "Las que en el prado están.",
+        "Mas una sola sin pastor por la montaña va.",
+        "La puerta de oro traspasó,",
+        "/Y vaga en triste soledad./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Por esta oveja el Buen Pastor",
+        "Se expone con piedad,",
+        "Dejando solo aquel redil",
+        "Que le ama con piedad.",
+        "Y a la fragosa selva va",
+        "/Su pobre oveja a rescatar./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Oscura noche ve venir, y negra tempestad.",
+        "Mas todo arrostra ya amor, lo lleva su bondad.",
+        "Su oveja quiere restituir,",
+        "/Y a todo trance restaurar./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Sangrando llega el Buen Pastor,",
+        "La oveja herida está.",
+        "El bosque siente su dolor,",
+        "Comparte su ansiedad.",
+        "Empero Cristo con amor,",
+        "/Su oveja pudo rescatar./"
+      ]
+    }
+  ]
+}

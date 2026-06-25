@@ -1,0 +1,28 @@
+{
+  "numero": null,
+  "titulo": "AQUI, ESTOY",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "AQUÍ, ESTOY TE OFREZCO",
+        "TODO LO QUE SOY.",
+        "AQUÍ, ESTOY UN SACRIFICIO QUIERO SER",
+        "TOMA MI SER, MI VIDA ENTREGO HOY A TI.",
+        "PORQUE TU ERES MI DIOS",
+        "ERES DIGNO DE ADORACIÓN",
+        "UNA OFRENDA DE AMOR SERE  PARA TI."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "numero": null,
+  "titulo": "HAY UNA UNCIÓN AQUI",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "HAY UNA UNCIÓN AQUÍ",
+        "CAYENDO SOBRE MÍ,",
+        "MUDÁNDOME, CAMBIANDO",
+        "MI SER,",
+        "MI ESPÍRITU Y MI ALMA",
+        "SE ESTÁN LLENANDO CON EL PODER",
+        "DEL ESPÍRITU SANTO,",
+        "MI VIDA NUNCA MÁS",
+        "SERÁ IGUAL."
+      ]
+    }
+  ]
+}

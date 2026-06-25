@@ -1,0 +1,31 @@
+{
+  "numero": null,
+  "titulo": "ESTE ES MI DESEO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ESTE ES MI DESEO  HONRARTE A TÍ",
+        "CON TODO MI SER TE ADORARÉ",
+        "CON TODAS MIS FUERZAS TE ALABARÉ",
+        "MI ADORACIÓN ERES TÚ.",
+        "",
+        "HOY TE RINDO MI SER, TE DOY MI CORAZÓN",
+        "YO VIVO PARA TI,",
+        "EN CADA PALPITAR,",
+        "MIENTRAS HAYA ALIENTO EN MI,",
+        "DIOS HAZ TU OBRA EN MI"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "numero": null,
+  "titulo": "158 ALZO MIS MANOS",
+  "carpeta": "04 Poder del Evangelio",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ":Quiero que mi corazón",
+        "sea un templo de ti Señor,",
+        "y por siempre seas Tú",
+        "mi fiel consolador. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Alzo mis manos, te alabo Señor.",
+        "Alzo mis brazos, te adoro Jesús.",
+        ":Quiero hacer siempre tu voluntad. (bis)"
+      ]
+    }
+  ]
+}

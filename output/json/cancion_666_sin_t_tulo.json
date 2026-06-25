@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "Comunidad Cristiana",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "// Yo soy feliz, pero muy feliz",
+        "Porque vivo con mi Dios. //",
+        "",
+        "// A su lado nada me falta,",
+        "Lo que necesito siempre me da. //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "//Yo tengo gozo pero mucho gozo,",
+        "Danzo alegre con mi Dios.//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "// Si vienen problemas",
+        "O ataques contra mí,",
+        "",
+        "Yo no tengo miedo",
+        "Porque Dios cuida de mí. //"
+      ]
+    }
+  ]
+}

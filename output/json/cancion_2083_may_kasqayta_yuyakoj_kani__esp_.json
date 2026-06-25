@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "May kasqayta yuyakoj kani (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Años mi alma en vanidad vivió,",
+        "Ignorando a quién por mí sufrió.",
+        "Oh que en el Calvario sucumbió",
+        "El Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Mi alma allí divina gracia halló.",
+        "Dios allí perdón y paz me dio,",
+        "Del pecado allí me libertó",
+        "El Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Por la Biblia miro que pequé,",
+        "Y su ley divina quebranté.",
+        "Mi alma entonces contempló con fe",
+        "Al Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Todo mi alma a Cristo ya entregué,",
+        "Hoy le quiero y sirvo como a Rey.",
+        "Por los siglos siempre cantaré",
+        "Al Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "En la cruz su amor Dios demostró",
+        "Y de gracia al hombre revistió.",
+        "Cuando por nosotros se entregó",
+        "El Salvador."
+      ]
+    }
+  ]
+}

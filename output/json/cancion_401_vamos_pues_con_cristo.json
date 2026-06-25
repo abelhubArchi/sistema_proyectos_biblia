@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "VAMOS PUES CON CRISTO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Anduve en tinieblas en la senda ancha,",
+        "Perdido en pecado, en el cieno inmundo.",
+        "Mas mi amado Cristo, me salvó con gracia,",
+        "Para conducirme a su mansión celestial.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Vamos pues con Cristo, con amor sincero.",
+        "Sin ninguna duda, guiados por el Salvador. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "De entre las tinieblas me libraste Cristo",
+        "De todo pecado tú me perdonaste.",
+        "De día y noche, tú me protegiste,",
+        "Con amor sincero, con valor te seguiré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Hay gozo profundo en servir a Cristo",
+        "Y en cumplir sus dichos y sus mandamientos.",
+        "La vida es hermosa si le obedecemos,",
+        "Llenos estaremos de su paz y santo amor."
+      ]
+    }
+  ]
+}

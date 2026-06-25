@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Cristo K’anchay Noqapi",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristo k'anchay noqapi k’anchay noqapi.",
+        "K'anchay noqapi, Señor.",
+        "Uj p’unchay kutimunki,",
+        "Rikusqayki gloriaykipi. /Aleluya, Señor./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cristoqa uyariwan mañakusqayta.",
+        "Mañakusqayta qowan.",
+        "Sapa p'unchay mañasaj,",
+        "Mañasaj Señormanta./Uyariway, Señor./"
+      ]
+    }
+  ]
+}

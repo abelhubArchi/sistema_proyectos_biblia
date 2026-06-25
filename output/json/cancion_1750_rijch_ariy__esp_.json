@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "Rijch’ariy (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Despierta, despierta de tu sueño, hermano,",
+        "Que Jesús te llama para predicar./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Y si tu te duermes, las almas se pierden.",
+        "Levántate y vete al campo a luchar./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Cristo dijo: \"Yo soy verdad y la vida.",
+        "Nadie viene al Padre sino es por mí.\"/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "numero": null,
+  "titulo": "ENTRA AL LUGAR SANTISIMO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ENTRA AL LUGAR SANTÍSIMO",
+        "POR LA SANGRE DEL",
+        "CORDERO DE DIOS,",
+        "ENTRA A SU PRESENCIA",
+        "CON CANTICOS, ADORA",
+        "ANTE EL TRONO DE DIOS//",
+        "LEVANTA MANOS SANTAS",
+        "ANTE NUESTRO REY",
+        "ADORA A CRISTO"
+      ]
+    }
+  ]
+}

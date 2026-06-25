@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Yuyarikuy Tukuy (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Acordémonos de nuestro Dios",
+        "Todos los días./",
+        "/A su nombre hoy honraremos",
+        "Obedeciendo a El.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Seis días para trabajar",
+        "Dios nos ha dado./",
+        "/El día primero es del Señor",
+        "Todos honremos a El./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Obedientes seamos a Dios",
+        "Sirvamos a El./",
+        "/Anunciando siempre por doquier",
+        "Y también en nuestro hogar./"
+      ]
+    }
+  ]
+}

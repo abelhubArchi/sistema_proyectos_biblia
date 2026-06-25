@@ -1,0 +1,29 @@
+{
+  "numero": null,
+  "titulo": "LIMPIAME CON EL FUEGO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "LÍMPIAME CON EL FUEGO DE TU ESPÍRITU.",
+        "OH, LÍMPIAME, Y HAZME ARDER",
+        "POR TI DEJO ATRÁS TODO MI PASADO",
+        "TUYO SOY, Y QUIERO HACER TU VOLUNTAD.",
+        "TÓMAME Y ENVÍAME A SERVIRTE",
+        "TÓMAME, Y HUMÍLLAME, SEÑOR,",
+        "DEJO ATRÁS TODO MI PASADO TUYO SOY,",
+        "Y QUIERO HACER TU VOLUNTAD."
+      ]
+    }
+  ]
+}

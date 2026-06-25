@@ -1,0 +1,56 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "Sorata2016",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Estoy aquí, desesperado por Ti",
+        "Con un corazón sediento, que espera beber de Ti.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cuando tu gloria desciende a un lugar",
+        "Toda la tierra tiene que adorar,",
+        "",
+        "Resucitan los muertos se sanan los enfermos",
+        "Por tu poder.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Queremos de Ti, llenarnos de Ti",
+        "Espíritu Santo envuélvenos en Ti,",
+        "Derrama tu gloria",
+        "Esperamos en Ti.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "CORO",
+        "Ven, ven, ven, Espíritu Santo",
+        "Ven, ven, ven, Espíritu Santo",
+        "Ven, ven, ven, llena este lugar."
+      ]
+    }
+  ]
+}

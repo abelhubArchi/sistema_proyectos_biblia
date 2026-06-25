@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "URUMAW JICHHÜROJJA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Urumaw jichhürojj. urumaw jichhürojj.",
+        "Munat jilata;",
+        "ücat cusisita jumar uruyapjjsma",
+        "Jichha urunjja.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Diosajj bendicionamp",
+        "Jacáwimar phokfpan acá uruna. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Má maramp phoktajja Diosan munaflapat,",
+        "Acá urunjja.",
+        "ücat takenisa Wali cusisita,",
+        "K'ochupjjaracta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Diosar yuspagaram cusisit chuymampi.",
+        "Acá uruna.",
+        "Jupaw ch'amapampi, urus arumasa,",
+        "Imascaractam."
+      ]
+    }
+  ]
+}

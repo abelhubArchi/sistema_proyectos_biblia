@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Jesucristo Atiyniyoj (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Ved a Cristo, ser de gloria, es del mundo el Vencedor",
+        "De la guerra vuelve invicto; Todos deben darle loor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Coronadle, coronadle, Coronadle Rey de reyes;",
+        "Homenaje tributadle, tributad al Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Pecadores se burlaron, despreciando al Salvador;",
+        "Más los santos redimidos, hoy proclámenle Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Exaltadle, exaltadle, ricos triunfos trae Jesús,",
+        "En los cielos entronado, en la refulgente luz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Escuchad las alabanzas, que se elevan hacia Aquél,",
+        "Que por nos fue inmolado, dad honores a Emmanuel."
+      ]
+    }
+  ]
+}

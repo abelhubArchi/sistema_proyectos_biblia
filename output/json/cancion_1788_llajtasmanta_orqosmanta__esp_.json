@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Llajtasmanta Orqosmanta (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "De los pueblos, de los bosques,",
+        "De las islas de la mar;",
+        "Toda gente reunida allí estará,",
+        "Junto con sus mensajeros ante el trono del Señor",
+        "Cuando allá se pase lista yo estaré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cuando allá se pase lista,",
+        "Maravilla será a todos.",
+        "Presenciar tal compañía,",
+        "Los de toda tribu y lengua estarán."
+      ]
+    }
+  ]
+}

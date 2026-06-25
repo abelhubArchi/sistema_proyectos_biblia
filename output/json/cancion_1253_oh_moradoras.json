@@ -1,0 +1,38 @@
+{
+  "numero": null,
+  "titulo": "OH MORADORAS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "OH! MORADORA DE SION ALABA A JEHOVÁ.",
+        "GRANDES SON SUS MARAVILLAS//",
+        "SOBRE LOS MONTES Y COLLADOS A MI AMADO BUSCARÉ,",
+        "GRANDE ES SU HERMOSURA.",
+        "Y AL ESTAR EN SU PRESENCIA GOZOSO DANZARÉ,",
+        "AL SEÑOR ALABARÉ."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "GRANDE ES JEHOVÁ,",
+        "DIGNO DE ALABAR//",
+        "",
+        "TU ERES GRANDE JEHOVÁ",
+        "GRANDE ES TU NOMBRE///"
+      ]
+    }
+  ]
+}

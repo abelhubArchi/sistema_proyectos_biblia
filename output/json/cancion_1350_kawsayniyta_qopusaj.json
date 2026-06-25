@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Kawsayniyta Qopusaj",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Kawsayniyta qopusaj Señor Jesusniyman,",
+        "Cruzpi Pay noqapaj wañorqa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Cristo cruzpi wañuspa, kawsayta qowarqa,",
+        "Perdonawarqatajjuchayta./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Jesusniypa chakisninman chimpaykushajtiy,",
+        "Juchasniyta llimphuchawarqa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Juchaykiwan, amigóy, Diosman chimpaykuwaj.",
+        "Pay muñan qanta salvasuyta./"
+      ]
+    }
+  ]
+}

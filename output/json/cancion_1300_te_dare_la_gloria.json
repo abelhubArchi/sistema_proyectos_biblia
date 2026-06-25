@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "TE DARE LA GLORIA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "TE DARE LA GLORIA EN LUGAR DE CENIZA",
+        "OLEO DE GOZO EN LUGAR DE",
+        "MANTO DE ALEGRIA EN LUGAR DE",
+        "ESPIRITU ANGUSTIADO",
+        "",
+        "Y SERÉS LLAMADOS ÁRBOLES DE",
+        "JUSTICIA"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Y RESTAURE LAS CIUDADES",
+        "ARRUINADAS",
+        "Y LEVANTARÉ LOS MUROS CAIDOS",
+        "SANARAS MI ALMA CANSADA Y",
+        "ENTRISTECIDA",
+        "RESTAURÁNDOME PARA SERVIR"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Si el Espiritu de Dios se mueve en mí",
+        "yo canto como David,//",
+        "",
+        "Yo canto, yo canto",
+        "yo canto como David.//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Si el Espiritu de Dios se mueve en mí",
+        "yo oro como David,//",
+        "",
+        "Yo oro, yo oro",
+        "yo oro como David.//"
+      ]
+    }
+  ]
+}

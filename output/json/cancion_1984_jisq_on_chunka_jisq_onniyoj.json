@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Jisq'on Chunka Jisq'onniyoj",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jisq'on chunkajisq'onnniyoj ovejas karqanku.",
+        "Ujnintaj chinkarparerqa ch’in lomakunapi.",
+        "Corralmanta llojsiytawan,",
+        "/Llakiyta chinkasqa purimorqa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Jisq'on chunkajisq’onniyoj ovejasraj kanku.",
+        "Señor, imamanña riwaj ujsituraykuri?",
+        "Salvawajtaj kuticherqa:",
+        "/\"Chinkasqa ovejay purikushan.”/",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Ni pi yachanchu Señorpa ñak'arisqasninta,",
+        "Laqha tutasta pasaspa, yaku ukhustapis.",
+        "Ovejanta tarinampaj",
+        "/May jinataraj Pay ñak'arerqa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Chay sumaj Michejpataqa chakisnin, makisnin,",
+        "Ovejanta mask'asqampi yawarila kasharqa.",
+        "Peligrospi wañuymanta",
+        "/Tarikapunankama mask'arqa./"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "numero": null,
+  "titulo": "CASA DE DIOS",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Eres tú la única razón de mi adoración",
+        "Oh Jesús.",
+        "Eres tú la esperanza que anhele tener",
+        "Oh Jesús.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Mejor es un día en la casa de Dios",
+        "Que mil años lejos de Él",
+        "Prefiero un rincón en la casa de Dios",
+        "Que todo el palacio de un rey,",
+        "Que todo el palacio de un rey",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Ven conmigo a la casa de Dios,",
+        "Celebraremos juntos su amor,",
+        "Haremos fiesta en honor de aquel que nos amó",
+        "Estando aquí en la casa de Dios",
+        "Alegraremos su corazón,",
+        "Le brindaremos ofrendas de obediencia y amor",
+        "En la casa de Dios",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Arde mi alma, arde de amor,",
+        "Por aquel que me dio la vida,",
+        "Por eso le anhela mi corazón,",
+        "Anhela de su compañía,",
+        "Anhela de su compañía",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Ven conmigo a la casa de Dios,",
+        "Celebraremos juntos su amor,",
+        "Haremos fiesta en honor de aquel que nos amó",
+        "Estando aquí en la casa de Dios",
+        "Alegraremos su corazón,",
+        "Le brindaremos ofrendas de obediencia y amor",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 6,
+      "lineas": [
+        "En la casa de Dios",
+        "En la casa de Dios",
+        "En la casa de Dios"
+      ]
+    }
+  ]
+}

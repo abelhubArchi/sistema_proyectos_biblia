@@ -1,0 +1,68 @@
+{
+  "numero": 64,
+  "titulo": "YA TODO DEJE",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tan triste y tan lejos de Dios me sentí,",
+        "Y sin el perdón de Jesús;",
+        "Mas cuando Su voz amorosa oí,",
+        "Que dijo, \"Oh, ven a la luz.\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Ya todo dejé para andar en la luz,",
+        "No moro en tinieblas ya más;",
+        "Ya todo dejé por seguir a Jesús",
+        "Y vivo en la luz de su faz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¡Qué amigo tan dulce es el tierno Jesús!",
+        "Tan lleno de paz y amor",
+        "De todo este mundo es la fúlgida luz",
+        "El nombre del buen Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "De mi alma el anhelo por siempre será",
+        "Más cerca vivir de la cruz,",
+        "Do santo poder y pureza me da",
+        "La sangre de Cristo Jesús.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "¡Oh! ven a Jesús, infeliz pecador,",
+        "No vagues a ciegas ya más;",
+        "Oh, ven a Jesús, nuestro gran Salvador",
+        "Y en El salvación hallarás."
+      ]
+    }
+  ]
+}

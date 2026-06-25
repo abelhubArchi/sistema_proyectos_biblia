@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "MUNASIRI KOLLAN CRISTO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Munasiri Kollan Cristo",
+        "Irpaquitay ch'amamampi.",
+        "Janiquiy amparamatjja",
+        "Nayar antutt'asistati.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Suma Kollan Awatiri",
+        "Amtasitay wawamata,",
+        "Take sarnakäwejjana.",
+        "Irpaquitay Kollan Cristo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cawquirurac jaltirista",
+        "Juman nayrakatamata.",
+        "Alajjpachas acapachas",
+        "Juman amparamanquiwa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jumataquiw jacañ munta",
+        "Yapumana irnakasa;",
+        "Arunacam khananchasa",
+        "Munasiñamat parlasa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Cunapachatejj jiwjjájja,",
+        "Jumataquiw jiwañ munta,",
+        "Alajjpacha marcamana",
+        "Wiñay cusisiñataqui."
+      ]
+    }
+  ]
+}

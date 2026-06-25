@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "¿QUIERES TU SEGUIR A CRISTO?",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¿Quieres tú seguir a Cristo,",
+        "Y la cruz por El llevar?",
+        "¿Quieres el orgullo y gloria",
+        "De este mundo abandonar?",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Oh, sí, yo quiero seguir a Jesús;",
+        "Será mi gloria llevar la cruz;",
+        "Su luz radiante mi senda alumbrará,",
+        "Y fiel hasta el fin mi vida a El será.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¿Quieres tú andar con Cristo",
+        "Por la vía de la cruz?",
+        "Su presencia irá contigo",
+        "En la sombra o en la luz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¿Quieres consumir tu vida",
+        "Por la vida superior?",
+        "Puesto que El te ha redimido,",
+        "Debes darle lo mejor."
+      ]
+    }
+  ]
+}

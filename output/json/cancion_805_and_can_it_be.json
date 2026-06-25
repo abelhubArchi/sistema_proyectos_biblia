@@ -1,0 +1,69 @@
+{
+  "numero": null,
+  "titulo": "And Can It Be",
+  "carpeta": "z Songs Ingles",
+  "tono": null,
+  "compas": null,
+  "autor": "Lindell Cooley",
+  "compositor": "Lindell Cooley",
+  "copyright": "Public Domain",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ".G               Am/C D      G        C D      G     D A      D",
+        "And can be that I    should gain,|an interest in my Savior's blood?",
+        ".D           G/D     G/B        D         C       G      D        G",
+        "Died He for me, who caused His pain?|For me, who Him to death pursued?",
+        ".G       G/D       C   A  D",
+        "Amazing love, how can it be",
+        ".     G       C           D       G",
+        "That thou my Lord should die for me?",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        ". G      D         C      G",
+        "Amazing love, how can it be",
+        ".     C       G   Am     C   D   G",
+        "That thou my God should die for me?",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        ".G                  Am/C D   G         C     D  G       D A      D",
+        "Long my imprisoned spi__rit lay,|Fast bound in sin and nature's night,",
+        ".D            G/D     G/B        D      C         G       D           G",
+        "Thine eye diffused a quickening ray,|I woke, the dungeon flamed with light;",
+        ".G              G/D     C     A   D",
+        "My chains fell off, my heart was free,",
+        ".  G          C         D        G",
+        "I rose, went forth and followed thee.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        ".G               Am/C D G        C    D   G      D    A  D",
+        "No condemnation now  I dread,|Jesus, and all in Him, is mine;",
+        ".D        G/D     G/B    D        C            G        D      G",
+        "Alive in Him, my living Head|and clothed with righteousness divine,",
+        ".G        G/D         C  A   D",
+        "Bold I approach the eternal throne,",
+        ".    G         C             D          G",
+        "And claim the crown through Christ, my own."
+      ]
+    }
+  ]
+}

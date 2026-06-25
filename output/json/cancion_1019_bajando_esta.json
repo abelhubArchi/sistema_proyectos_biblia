@@ -1,0 +1,27 @@
+{
+  "numero": null,
+  "titulo": "BAJANDO ESTA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "BAJANDO ESTÁ, BAJANDO ESTÁ",
+        "¡OH, LA GLORIA DEL SEÑOR BAJANDO ESTÁ!",
+        "",
+        "COMENCEMOS A ORAR Y SU VOLUNTAD SE HARÁ",
+        "",
+        "Y LA GLORIA DEL SEÑOR BAJANDO ESTÁ"
+      ]
+    }
+  ]
+}

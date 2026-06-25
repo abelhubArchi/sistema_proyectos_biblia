@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "IRPAQUITAY JESUCRISTO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Irpaquitay Tatit Cristo",
+        "Jumaruquiw arcan munsma.",
+        "Suma khana thaquimanjja;",
+        "Jumampejj sarapuniwa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Irpaquitay Jesucristo",
+        "Kollan Ajayumampejja,",
+        "Jumampiquiw jacañ munta",
+        "Suma kori marcamanjja. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Acá llaqui orakenjja",
+        "Llaquit sarnakañaquiwa,",
+        "Yanapfasiquitay Tatay;",
+        "Jumaruquiw arcan munsma."
+      ]
+    }
+  ]
+}

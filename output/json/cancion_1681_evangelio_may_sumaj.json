@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "Evangelio May Sumaj",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Evangelio may sumaj. Biblia leeytaqa",
+        "Dios Tatanchej yachachiwasun./",
+        "/Qantapis, noqatapis atiyninwan yanapawasun./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Jesucristo Salvador wajyashawanchej",
+        "Sapa p'unchay munakuyninwan./",
+        "/\"Juchayojkunatarí Noqa samarichisaj,\" nispa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Juchasapakunarí jucha q'epirisqa",
+        "Infíernoman yaykuponqanku./",
+        "/Noqanchej salvasqasrí.janaj pachaman ripusunchej./"
+      ]
+    }
+  ]
+}

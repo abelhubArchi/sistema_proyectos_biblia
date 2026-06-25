@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "¿PREPARADO ESTAS?",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristo un día al mundo volverá;",
+        "¿Preparado estás?",
+        "Si le sirves bien te premiará;",
+        "¿Preparado estás?",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "El viene. El viene;",
+        "¿Preparado estás?",
+        "El viene, El viene,",
+        "¿Preparado estás?",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "No es su voluntad tu perdición;",
+        "¿Preparado estás?",
+        "¿Cuánto estimas, tú, la salvación?",
+        "¿Preparado estás?",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cristo viene, el tiempo cerca está;",
+        "¿Preparado estás?",
+        "En justicia al mundo juzgará;",
+        "¿Preparado estás?",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Es tan peligroso dilatar;",
+        "¿Preparado estás?",
+        "Tu esperanza no hay que desechar;",
+        "¿Preparado estás?"
+      ]
+    }
+  ]
+}

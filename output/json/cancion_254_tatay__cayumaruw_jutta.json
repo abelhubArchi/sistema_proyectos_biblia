@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "TATAY, CAYUMARUW JUTTA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tatay, cayumaruw jutta jacht'asisaw maqhatansma",
+        "Take juchanacajjata perdont'ayasiri.",
+        "Kollan Ajayumajja chuymajj ch'alljjtayitu.",
+        ": ¡Má ninjamaw ake munasiñamajja! (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cunampirac Jumarojja qhuyapayasiñamatjja",
+        "Nayajj yuspagaririsma jachajjaquiw jutjje.",
+        "Alt'at chuymajjampiwa jumar maqhatansma",
+        ": ¡Alajjpach marcana jumampiw cusís!! (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cunja sumas thaquimajja perdón churista ucatjja",
+        "Cheka thaquimancasajja cusisiñapiniw.",
+        "¿Cunas apaketani munasiñamatjja?",
+        ":Take jan walitsa jumajj arjjatistaw. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Cunja cusisiñas utji jac'amanccasajj Awquejja",
+        "Ch'amanchascapunituwa Kollan Ajayumajj.",
+        "Suma arunacamajj wiñayataquiwa.",
+        ": ¡Cawqhanctatejj, Cristo, uqharuy irpjjeta! (Bis)"
+      ]
+    }
+  ]
+}

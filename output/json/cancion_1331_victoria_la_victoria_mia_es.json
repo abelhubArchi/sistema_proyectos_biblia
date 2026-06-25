@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "VICTORIA LA VICTORIA MIA ES",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "VICTORIA LA VICTORIA MIA ES",
+        "VICTORIA LA VICTORIA MIA ES",
+        "SI MANTENGO MI PAZ",
+        "EL PELEA LA BATALLA",
+        "VICTORIA LA VICTORIA MIA ES",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "PODEMOS SUBIR ALLA",
+        "Y TOMAR LA TIERRA",
+        "POSEER DE LA MONTAÑA HASTA EL MAR",
+        "Y AUNQUE ESTA TIERRA SEA DE GIGANTES",
+        "NUESTRO DIOS LA VICTORIA NOS DARA",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "SOL DETENTE EN GABAON",
+        "Y TU LUNA EN AJALON",
+        "EL SOL SE PARO",
+        "CUANDO JOSUE ORO",
+        "PORQUE JOSUE OBEDECIO"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "numero": 65,
+  "titulo": "EL PECADO NO ENTRA ALLÍ",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Es el cielo un lugar puro, santo y sin par;",
+        "El pecado no entra allí.",
+        "Todo es limpio y puro en él, de maldad guardado fiel;",
+        "El pecado no entra allí.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "El pecado no entra allí,",
+        "El pecado no entra allí;",
+        "Así que si tú estás",
+        "En pecado y en maldad,",
+        "No podrás entrar allí.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Si tu esperas encontrar cuando mueras esa paz",
+        "En tan célico lugar,",
+        "Limpíate de todo mal, y recuerda que jamás",
+        "El pecado entra allá.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Si persistes en pecar y vivir en tu maldad,",
+        "Algún día tu estarás",
+        "En presencia del Señor escuchando allí su voz",
+        "Impidiéndote entrar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Tú aquí vivir podrás en pecado y en maldad,",
+        "Pero no entrarás allí;",
+        "En la puerta, pecador, hay aviso del Señor;",
+        "\"El pecado no entra aquí\"."
+      ]
+    }
+  ]
+}

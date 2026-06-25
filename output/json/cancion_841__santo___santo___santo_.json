@@ -1,0 +1,69 @@
+{
+  "numero": null,
+  "titulo": "¡SANTO! ¡SANTO! ¡SANTO!",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¡Santo! ¡Santo! ¡Santo! Señor Omnipotente,",
+        "Siempre el labio mío loores te dará;",
+        "¡Santo! ¡Santo! ¡Santo! te adoro reverente,",
+        "Dios en tres personas, bendita Trinidad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¡Santo! ¡Santo! ¡Santo! en numeroso coro,",
+        "Santos escogidos, te adoran con fervor,",
+        "De alegría llenos, y sus coronas de oro",
+        "Rinden ante el trono glorioso del Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¡Santo! ¡Santo! ¡Santo! la inmensa muchedumbre,",
+        "De ángeles que cumplen tu santa voluntad,",
+        "Ante tí se postra bañada con tu lumbre",
+        "Ante tí que has sido, que eres y serás.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "¡Santo! ¡Santo! ¡Santo! por más que estés velado,",
+        "E imposible sea tu gloria contemplar,",
+        "Santo tú eres sólo y nada hay a tu lado,",
+        "En poder perfecto, pureza y caridad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "¡Santo! ¡Santo! ¡Santo! la gloria de tu nombre,",
+        "Vemos en tus obras en cielo, tierra y mar.",
+        "¡Santo! ¡Santo! ¡Santo! te adorará todo hombre,",
+        "Dios en tres personas, bendita Trinidad."
+      ]
+    }
+  ]
+}

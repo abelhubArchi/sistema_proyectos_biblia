@@ -1,0 +1,28 @@
+{
+  "numero": null,
+  "titulo": "EL ESPIRITU DE DIOS ESTA SOBRE MI",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "EL ESPIRITU DEL SEÑOR",
+        "ESTA SOBRE MÍ,",
+        "TE HA  UNGIDO PARA DARNOS BUENAS NUEVAS,",
+        "A PROCLAMARNOS LIBERTAD Y DARNOS VIDA,",
+        "A LIBERAR  DE LA OPRESIÓN,",
+        "A PROCLAMAR ELTIEMPO DEL SEÑOR,",
+        "TU ERES DIGNO, DIGNO JESÚS DE ADORACIÓN."
+      ]
+    }
+  ]
+}

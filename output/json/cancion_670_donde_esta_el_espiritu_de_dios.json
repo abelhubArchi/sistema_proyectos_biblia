@@ -1,0 +1,30 @@
+{
+  "numero": null,
+  "titulo": "DONDE ESTA EL ESPIRITU DE DIOS",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Donde está el Espíritu de Dios",
+        "hay libertad, hay libertad,",
+        "Donde está el Espíritu de Dios",
+        "allí siempre hay libertad.",
+        "",
+        "Libertad, libertad, libertad, libertad.",
+        "",
+        "Donde está el Espíritu de Dios",
+        "allí siempre hay libertad."
+      ]
+    }
+  ]
+}

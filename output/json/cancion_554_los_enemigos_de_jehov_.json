@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Los enemigos de Jehová",
+  "carpeta": "03 Alabanza Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Los enemigos de Jehová,",
+        "Son tenidos por vanidad.",
+        "Sus adversarios también,",
+        "Son como el tamo ante él.",
+        "",
+        "Es Jehová, es vencedor",
+        "Es Jehová, es el Señor",
+        "Jehová es Dios de los dioses.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Decapitó a Dagón, dios de los filisteos",
+        "Cortándole las dos manos,",
+        "Avergonzó a Baal y todos sus profetas,",
+        "Fue grande la victoria que Jehová mostró.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jehová, Jehová, Jehová, es vencedor",
+        "Jehová, Jehová, Jehová, es el Señor."
+      ]
+    }
+  ]
+}

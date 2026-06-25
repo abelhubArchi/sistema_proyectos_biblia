@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "Ama manchachikuychu (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/\"No temas que yo estoy contigo,",
+        "No temas que yo soy Tu Dios./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/\"Clama a mí y te responderé,",
+        "Cosas nuevas te enseñaré\"./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/\"Esfuérzate y sé muy valiente\",",
+        "De este libro no te apartes./"
+      ]
+    }
+  ]
+}

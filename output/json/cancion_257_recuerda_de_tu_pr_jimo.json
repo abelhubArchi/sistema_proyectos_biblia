@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "RECUERDA DE TU PRÓJIMO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Muchas personas viven sin Dios",
+        "Sin esperanza ni salvación.",
+        "Anda, hermano, a proclamar",
+        "Ese mensaje de libertad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Pronto vendrá Jesús de la gloria",
+        "Ya no habrá tiempo de predicar.",
+        "Hoy es el día de salvación,",
+        "Hoy proclamemos de su perdón. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Con tus amigos habla de Dios",
+        "De su perdón y gran salvación.",
+        "Si tú le sirves de corazón",
+        "Con bendiciones te colmará."
+      ]
+    }
+  ]
+}

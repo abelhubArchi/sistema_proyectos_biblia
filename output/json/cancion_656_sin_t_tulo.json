@@ -1,0 +1,39 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "Comunidad Cristiana",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "// Jesús tu eres mi Rey",
+        "Mi amado en quien me deleito. //",
+        "",
+        "// En tu presencia me gozo hoy,",
+        "Tu gran amor me hace feliz. //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "// Tus delicias son para mí,",
+        "Mi adoración es para Tí. //",
+        "",
+        "// Contigo yo soy feliz,",
+        "Mi ser se alegra en Tí. //",
+        ""
+      ]
+    }
+  ]
+}

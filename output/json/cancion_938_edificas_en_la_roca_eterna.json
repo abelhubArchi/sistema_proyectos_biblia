@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "EDIFICAS EN LA ROCA ETERNA",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¿Edificas en la Roca eterna,",
+        "O en la arena que insegura está?",
+        "¿Vas a aquel hogar, mansión suprema",
+        "En la patria hermosa más allá?",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "¿En la arena edificas,",
+        "O en Roca eternal?",
+        "¿Edificas en la Roca,",
+        "Roca eternal?",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¿Edificas en el fundamento",
+        "Que resiste toda tempestad?",
+        "¿Sobre el enemigo y su tormento,",
+        "Puedes, tú, vencer la adversidad?",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¿Edificas en el fundamento",
+        "Firme, y que por siglos durará?",
+        "¿Vives siempre en la verdad contento,",
+        "Listo para el juicio que vendrá?",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "¿Edificas en el fundamento",
+        "Que calamidad resistirá?",
+        "¿Vives sin temor de detrimento?",
+        "¿En la Roca tu ancla firme está?"
+      ]
+    }
+  ]
+}

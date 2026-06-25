@@ -1,0 +1,65 @@
+{
+  "numero": null,
+  "titulo": "hay libertad en la casa de Dios",
+  "carpeta": "xAniversario 2017",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Hoy puedo danzar con libertad",
+        "Porque soy su hijo, porque soy su hijo,",
+        "",
+        "Hoy puedo danzar con libertad",
+        "porque soy amado, porque soy amado.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "// Podemos sentir tu gozo, podemos sentir tu rio,",
+        "Hay sanidad en las aguas, queremos danzar. //",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "// Hay libertad en la casa de Dios,",
+        "Hay libertad en la casa de Dios,",
+        "Hay libertad,",
+        "Hay libertad //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Hay libertad en la casa....,",
+        "Hay libertad al danzar.....",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Puedo danzar en la casa de Dios",
+        "Puedo danzar, y disfrutar,",
+        "que somos libres, somos libres",
+        "Por su sangre, libre soy."
+      ]
+    }
+  ]
+}

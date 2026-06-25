@@ -1,0 +1,62 @@
+{
+  "numero": null,
+  "titulo": "DIOS ME GUARDARA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En momentos de dolor. Dios me guardará,",
+        "En tristeza y afán, me consolará.",
+        "El nunca me dejará, a mi lado está;",
+        "En peligro y temor. El me ayudará.",
+        ":Ya mi vida entera está entregada a El. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "En momentos de dolor. Dios me guardará,",
+        "Nada mal me pasará si con El estoy,",
+        "El Señor me ayudará por su gran amor,",
+        "A mi lado siempre está con su gran poder.",
+        ":Siempre con su gran amor Dios me ayudará. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "En momentos de dolor. Dios me guardará,",
+        "Cuando tenga que sufrir, El me sostendrá.",
+        "Nunca me olvidaré de su gran amor,",
+        "El un día me dará vida eternal.",
+        ":A su lado gozaré vida eternal. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "En momentos de dolor. Dios me guardará,",
+        "Aunque pruebas, tentación vengan sobre mí.",
+        "Pronto esta vida aquí ya terminará,",
+        "En el cielo viviré siempre con Jesús.",
+        ":En el cielo no habrá pruebas ni dolor. (Bis)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "CANTEMOS DE JESÚS",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cantemos todos de corazón",
+        "Por Jesucristo y su pasión.",
+        "Quien por la culpa nuestra sufrió",
+        "Muerte cruenta allí en la cruz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Alabaremos al Salvador,",
+        "Quien por nosotros quiso sufrir;",
+        "Démosle gracias por el perdón,",
+        "Que proveyó por el pecador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "El sol brillante se obscureció.",
+        "La tierra entera se estremeció.",
+        "Empero Cristo resucitó.",
+        "Y para siempre El vivirá.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Hoy en el cielo reina Jesús.",
+        "Pero un día regresará,",
+        "Para llevarnos con El a estar",
+        "Donde paz, gozo siempre habrá."
+      ]
+    }
+  ]
+}

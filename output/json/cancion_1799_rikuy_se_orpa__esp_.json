@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "Rikuy Señorpa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Mira lo que hizo mi Señor./",
+        "/Me levantó y me libertó.",
+        "Mira lo que hizo mi Señor./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Caminando por la senda voy./",
+        "/De prueba en prueba, victoria tras victoria,",
+        "Caminando por la senda voy./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/El enemigo ya vencido está.",
+        "/Jesús lo venció muriendo en la cruz.",
+        "El enemigo ya vencido está./"
+      ]
+    }
+  ]
+}

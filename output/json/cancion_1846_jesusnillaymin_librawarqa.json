@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Jesusnillaymin Librawarqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Jesusnillaymin librawarqa juchaymantaqa.",
+        "/Señorta qhatisaj tukuy kawsayniypi wiñayrúntínipaj./",
+        "/Kusikusataj janaj pachapeqa,",
+        "Diospa ñawpaqempi./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Hermanosníy, mosoj kawsaywan noqa k’anchasaj./",
+        "/Mosoj wawa kani Diospa atiyninwan, mosojyachisqa/",
+        "/Diospaj kawsani, mañana kay pacha",
+        "Runañachu kani./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Jamuychej, hermanos, Señoría yupaychasunchej./",
+        "Pajtá qhesachawaj Señominchejtaqa munakusunki./",
+        "/Amaña, hermanóy, desmayankiñachu",
+        "Diospa ñawpaqempi./"
+      ]
+    }
+  ]
+}

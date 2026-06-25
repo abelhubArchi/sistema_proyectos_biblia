@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "KHESPIYIRI JUMARUW CATOKSMA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Munat Khespiyiri, Jumaruw catoksma",
+        "Chuymajjar utt'asim wiñayataqui;",
+        "Munasihaniampi thaquiman irpita,",
+        "Jan khepar uñtasaw nayajj arcama.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Take chuymajjampiw nayajj yupaycháma,",
+        "Juman sutimatsa nayajj khanancha;",
+        "Má thuru cruzana wilam wartasawa,",
+        "Khespiyañ altajja takenitaqui.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Maypach jacáwejja Jumaruw catuysma",
+        "Chek iyawsañampi jacañataqui;",
+        "Kollan Ajayumajj chuymajjanay akpan,",
+        "Mojjsa arunacam parlañataqui.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cunapachatejja Supayajj jutani,",
+        "Cunayman yant'ampi mayjt'ayañatac;",
+        "Jurnan ch'amamampejj jan ajjsarasawa",
+        "Nayajj atipjájja. Cristo Tatitu.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Tatit Jesucristo, take chuymajjampi",
+        "Cruzam apt'atawa nayajj arcama.",
+        "T'akhesiñas jutpan, llaquisiñanacas,",
+        "Jumaw imitata munasiñampi."
+      ]
+    }
+  ]
+}

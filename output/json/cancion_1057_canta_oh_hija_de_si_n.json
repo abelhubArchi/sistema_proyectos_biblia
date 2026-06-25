@@ -1,0 +1,30 @@
+{
+  "numero": null,
+  "titulo": "CANTA OH HIJA DE SIÓN",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "CANTA OH HIJA DE SION,",
+        "DA VOCES DE JÚBLIO OH ISRAEL!",
+        "GÓZATE Y REGOCÍJATE DE TODO CORAZÓN",
+        "JEHOVÁ HA APARTADO SUS JUICIOS",
+        "HA ECHADO FUERA TUS ENEMIGOS!!",
+        "JEHOVÁ ES REY DE ISRAEL Y",
+        "EL ESTA EN MEDIO DE TI,",
+        "NUNCA MÁS VERÁS EL MAL,",
+        "PORQUE JEHOVÁ ESTÁ EN MEDIO DE TI!"
+      ]
+    }
+  ]
+}

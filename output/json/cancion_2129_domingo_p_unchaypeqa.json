@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "Domingo P’unchaypeqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Domingo p’unchaypeqa kusisqa kashani,",
+        "Lunes, martespi, miércolespiwan kusiyilataj.",
+        "Juevespi purishani Cristoj k’anchaynimpi.",
+        "Viernespi, sábadopiwan Payllapi confíani."
+      ]
+    }
+  ]
+}

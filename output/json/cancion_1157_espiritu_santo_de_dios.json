@@ -1,0 +1,29 @@
+{
+  "numero": null,
+  "titulo": "ESPIRITU SANTO DE DIOS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ESPÍRITU SANTO DE DIOS",
+        "ENVÍA TU GLORIA Y  MAJESTAD",
+        "EN TU PRESENCIA QUIERO ESTAR",
+        "",
+        "MANDA TU FUEGO ACEITE DEL CIELO",
+        "QUEREMOS TU VIDA HOY SEÑOR,",
+        "MANDA TU GOZO SIENTO TU AMOR",
+        "ESPÍRITU SANTO DE DIOS."
+      ]
+    }
+  ]
+}

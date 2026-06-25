@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "Dios Tatayman Takisaj",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Dios Tatayman takisaj, ALELUYA.",
+        "Llakiypipis takisaj, ALELUYA./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Graciasta qoyki. Señor,",
+        "Munakuyniykimanta.",
+        "Salvasqañamin kani, ALELUYA.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Jesucristo salvawan, ALELUYA.",
+        "Yawarnintajich'aspa, ALELUYA./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Mañakusaj, Diosmanta, ALELUYA.",
+        "Payqa atiyniyojmin, ALELUYA./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Munakuwan Diosneyqa, ALELUYA.",
+        "Paytapis niunakusaj, ALELUYA./"
+      ]
+    }
+  ]
+}

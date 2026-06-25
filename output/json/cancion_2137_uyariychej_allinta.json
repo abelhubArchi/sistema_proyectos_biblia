@@ -1,0 +1,29 @@
+{
+  "numero": null,
+  "titulo": "Uyariychej Allinta",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Uyariychej allinta, tukuynin wawas,",
+        "Qallarisun Bibliamanta yachayta.",
+        "Yachasun Diosmanta, khuyayninmanta.",
+        "Diospa, Palabranmanta yachakusun.",
+        "Kay Bibliaqa k’anchaykuwanchej,",
+        "Purinanchej, chay ñankunasta.",
+        "Uyariychej allinta, tukuynin wawas,",
+        "Qallarisun Bibliamanta yachayta."
+      ]
+    }
+  ]
+}

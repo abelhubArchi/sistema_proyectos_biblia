@@ -1,0 +1,60 @@
+{
+  "numero": null,
+  "titulo": "KHESPIYIR CRISTOR MAQHATAM",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Khespiyir Cristoru jutjjamay jilata,",
+        "Jupaquiw Awquimajj iyawsaquimaya.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Jichhüruw waquisi",
+        "Tatitur jaysañajj;",
+        ":Kharürojj jayp'uniw,",
+        "Janiw utj-jjaniti. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tatitur arsusim take juchanaca,",
+        "Perdonasítamwa jan mayampitaqui.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Tatitur catokam Khespiyirimata.",
+        "Wilap wartawayi jumar munasinjja.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Khespiyir Cristojja suma wawapata",
+        "Catokañ muntamjja, maqhatam j upar u."
+      ]
+    }
+  ]
+}

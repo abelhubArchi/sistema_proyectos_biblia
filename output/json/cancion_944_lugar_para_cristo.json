@@ -1,0 +1,79 @@
+{
+  "numero": null,
+  "titulo": "LUGAR PARA CRISTO",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tú dejaste tu trono y corona por mí,",
+        "Al venir a Belén a nacer;",
+        "Mas a tí no fue dado el entrar al mesón,",
+        "Y en pesebre te hicieron nacer",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Ven a mi corazón, ¡Oh, Cristo!",
+        "Pues en él hay lugar para ti;",
+        "Ven a mi corazón, ¡Oh, Cristo! ven,",
+        "Pues en él hay lugar para ti.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Alabanzas celestes los ángeles dan,",
+        "En que rinden al Verbo loor;",
+        "Mas humilde viniste a la tierra, Señor.",
+        "A dar vida al más vil pecador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Siempre pueden las zorras sus cuevas tener,",
+        "Y las aves sus nidos también,",
+        "Mas el Hijo del hombre no tuvo un lugar",
+        "En el cual reclinara su sien.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Tú viniste, Señor, con tu gran bendición",
+        "Para dar libertad y salud,",
+        "Mas con odio y desprecio te hicieron morir,",
+        "Aunque vieron tu amor y virtud.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Alabanzas sublimes los cielos darán,",
+        "Cuando vengas glorioso de allí,",
+        "Y tu voz entre nubes dirá: \"Ven a mí,",
+        "Que hay lugar junto a mí para tí\"."
+      ]
+    }
+  ]
+}

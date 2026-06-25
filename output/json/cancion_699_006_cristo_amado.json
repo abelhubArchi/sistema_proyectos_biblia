@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "006 CRISTO AMADO",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Oh Cristo amado",
+        "alumbra pues mi camino,",
+        "para llevar tu palabra",
+        "a pueblo desconocido.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Jehova es mi Padre",
+        "Cristo es mi salvador,",
+        "el Espiritu Santo",
+        "es mi fortaleza."
+      ]
+    }
+  ]
+}

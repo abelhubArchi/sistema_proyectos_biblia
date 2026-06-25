@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Bibliapi Niwanchej",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Si Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Bibliapi niwanchej kanqa terremotos,",
+        "Yarqhaypis, onqoypis, tukuy mundopi./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Cristo kutimojtinñaqa,/",
+        "/Mañana kanqachu waqaypis, Ilakiypis.",
+        "Pay sapallantaña alabasunchej./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Intipis, killapis laqhayaykaponqa,",
+        "Ni ch'askakunapis k'anchanqañachu.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Ujllata Rey Cristo rikhuriykamonqa,",
+        "Phuyus ukhumanta k'anchaykamonqa./"
+      ]
+    }
+  ]
+}

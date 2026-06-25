@@ -1,0 +1,59 @@
+{
+  "numero": 53,
+  "titulo": "ESCUCHA, POBRE PECADOR",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Escucha, pobre pecador, en Cristo hay perdón;",
+        "¡Oh! ven a El, y cree en El, en El hay salvación.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Ven a Cristo, ven a Cristo,",
+        "Ven a Emanuel; y la vida, vida eterna,",
+        "Hallarás en El.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Por redimirte el Salvador, su sangre derramó;",
+        "Y en la cruz, la cruz cruel, tu redención obró.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Camino cierto es Jesús, que lleva a la paz;",
+        "Pues ven a El, y cree en El, descanso hallarás.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Ven con el santo pueblo fiel, dejando todo mal;",
+        "Así la paz de Dios tendrás, y gloria inmortal."
+      ]
+    }
+  ]
+}

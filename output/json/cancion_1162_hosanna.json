@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "HOSANNA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Hosanna, hosanna al hijo de David",
+        "Bendito al que viene en el nombre del Señor",
+        "Toda rodilla se doblará  ante él",
+        "En las alturas, hosanna"
+      ]
+    }
+  ]
+}

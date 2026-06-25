@@ -1,0 +1,79 @@
+{
+  "numero": null,
+  "titulo": "Getsemaní Lugarpeqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En huerto de Getsemaní",
+        "Oró Jesús al Padre Dios.",
+        "Hágase en Mí tu voluntad,",
+        "Así oró Jesús.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "En medio de la multitud,",
+        "Judas Iscariote le vendió.",
+        "Con sólo un beso entregó",
+        "A Jesús el Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Entonces esa multitud,",
+        "Tomáronle como rehén;",
+        "Arrepentido Judas fue,",
+        "Y pronto se ahorcó.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Una corona de espinas",
+        "A Jesús lo coronaron.",
+        "Oh, que dolor sintió Jesús",
+        "Por darme salvación.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Pesada cruz llevó Jesús,",
+        "Cuantos azotes recibió.",
+        "Y en el lugar del Calvario",
+        "Crucificáronle.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Con su muerte en la cruenta cruz",
+        "Nuestros pecados El borró.",
+        "Hermanos míos, por lo cuál",
+        "Somos salvados ya."
+      ]
+    }
+  ]
+}

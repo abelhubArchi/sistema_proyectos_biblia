@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Señor Jesusniy (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jesús me ama vino a salvarme;",
+        "Jesús me ama, murió por mí.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Por eso canto siempre El me ama,",
+        "Jesús me ama, mi Salvador./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Yo era preso del vil pecado.",
+        "Yo era preso, más me libró.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Lo que merezco es el castigo,",
+        "Lo que merezco Jesús pagó.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Ahora entrego mi vida y alma,",
+        "Ahora entrego todo al Señor."
+      ]
+    }
+  ]
+}

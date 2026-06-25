@@ -1,0 +1,34 @@
+{
+  "numero": null,
+  "titulo": "CUANDO EL PUEBLO ALABA A DIOS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "CUANDO EL PUEBLO ALABA A DIOS",
+        "SUCEDEN COSAS, SUCEDEN COSAS MARAVILLOSAS//",
+        "HAY SANIDAD, LIBERACION SE SIENTE LA BENDICION",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "AQUI SE SIENTE LA PRESENCIA DE DIOS//",
+        "SIENTO EL FUEGO DEL ESPIRITU SANTO//",
+        "SIENTO GOZO, SIENTO PAZ, SIENTO EL AMOR QUE DIOS ME DA"
+      ]
+    }
+  ]
+}

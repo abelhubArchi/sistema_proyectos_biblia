@@ -1,0 +1,41 @@
+{
+  "numero": null,
+  "titulo": "Kawsaqesniykita",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Kawsaqesniykitachus qhuyanki chayqa,",
+        "Willaray Jesús salvasusqanta./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Parlay Cristomanta; willay kawsaqesman,",
+        "Cristo qanrayku wañusqanta./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Willaramuy, willaramuy,",
+        "Mayllapipis willay Jesusmanta./"
+      ]
+    }
+  ]
+}

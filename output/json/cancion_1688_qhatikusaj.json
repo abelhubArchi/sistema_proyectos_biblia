@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Qhatikusaj",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Qhatikusaj, Jesusta qhatisaj,",
+        "Maymampis Paywanqa rillasajpuni.",
+        "Qhatikusaj, Jesusta qhatisaj.",
+        "Kachawajtin, mayllamampis kasusaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Jaku riña, jaku riña Paywan.",
+        "Kasuspa nisqanta riña willamoj.",
+        "Jesucristo cruzpi wañusqanta",
+        "Mundontinman rispa willaramuna."
+      ]
+    }
+  ]
+}

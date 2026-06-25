@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "Jesucristo Jamonqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Jesucristo pronto vendrá,",
+        "Ese día muy cerca está.",
+        "Para estar con el Salvador,",
+        "Preparémonos.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Ese día pronto será.",
+        "¿Preparado tú estarás?",
+        "Si te quedares sin Jesús",
+        "Tu perecerás./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/A sus discípulos mandó",
+        "Su Evangelio a pregonar.",
+        "Y que Jesús regresará",
+        "Pronto a llevar./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Presto siempre debes estar",
+        "Para anunciar de su verdad.",
+        "Al servicio del Salvador,",
+        "Dale tu vigor./"
+      ]
+    }
+  ]
+}

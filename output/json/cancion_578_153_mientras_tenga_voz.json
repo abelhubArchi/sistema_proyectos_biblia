@@ -1,0 +1,48 @@
+{
+  "numero": null,
+  "titulo": "153 MIENTRAS TENGA VOZ",
+  "carpeta": "04 Poder del Evangelio",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Mientras tenga voz para cantar",
+        "Quiero alabar a mi Señor,",
+        "Levantar mis manos y saltar",
+        "Como el corderito del pastor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "CORO:",
+        "Para mi Señor quiero danzar",
+        "Como el Rey David danzaba así,",
+        "Para mis Señor quiero cantar",
+        "Como el Rey David cantaba así.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Es verdad que el tiempo se llevó",
+        "Parte de mi fuerza y juventud",
+        "Mas no pudo con mi corazón",
+        "Que latiendo siempre está al compás."
+      ]
+    }
+  ]
+}

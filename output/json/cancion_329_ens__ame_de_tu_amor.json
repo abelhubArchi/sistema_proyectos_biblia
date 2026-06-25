@@ -1,0 +1,66 @@
+{
+  "numero": null,
+  "titulo": "ENSÉÑAME DE TU AMOR",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Sobre los collados, y también por valles",
+        "Tú atravesaste, mi buen Jesucristo.",
+        "De pueblo en pueblo siempre enseñaste",
+        "Con palabras bellas, con misericordia.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Señor Jesucristo, quiero que me enseñes",
+        "Como hablar a otros de tu amor eterno. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Aquí en este mundo de sed anduviste,",
+        "Hambriento y cansado. Señor, tú sufriste.",
+        "Con amor curaste a muchos enfermos",
+        "Y Tú consolaste a los afligidos.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "La cruz tan pesada. Tú Señor, llevaste",
+        "Hasta el Calvario, donde Tú moriste.",
+        "Con grande agonía en la cruz sufriste",
+        "Tu sangre vertiste para redimirme.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Con amor profundo, salvación me diste,",
+        "Y Tú me conduces hasta el santo cielo.",
+        "¡Cuan inmensurable es tu amor divino!",
+        "¡Cuan incomparables son. Señor, tus obras¡"
+      ]
+    }
+  ]
+}

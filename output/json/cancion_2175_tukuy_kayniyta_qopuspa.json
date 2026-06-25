@@ -1,0 +1,67 @@
+{
+  "numero": null,
+  "titulo": "Tukuy kayniyta qopuspa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tukuy kayniyta Jaywaspa chimpaykamuyki Señorniy",
+        "Tukuy sonqoy Qanllataña, sirvisuyta munani",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Chimpakamuyki, chakisniykiman;",
+        "Noqamanta imatapis, ruway Señorniy.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "K’umuykamusojkunata uyarinki Qan Diosniy",
+        "Qhuyawaspa kallpachaway Santo Espirituykiwan.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Qhespichiway juchasniyta, may chhikachus kasqanta.",
+        "Juchasniyta wijch'uspataj, sirvisuyta atisaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Takillasajpuni Qanman sonqoyman jamuwajta",
+        "Diospaj allinta kawsaspa, Jesusmanta willasaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Almay junfa kusikuywan, Qampata kasqaymanta.",
+        "Ñapis cielo wasiypeqa, kawsamusajña Señor."
+      ]
+    }
+  ]
+}

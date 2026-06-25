@@ -1,0 +1,29 @@
+{
+  "numero": null,
+  "titulo": "AL QUE ME CIÑE DE PODER",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "AL QUE ME CIÑE DE PODER",
+        "AQUEL QUE MI VICTORIA ES",
+        "SÓLO A ÉL ALABARÉ,",
+        "SÓLO A ÉL EXALTARÉ //",
+        "A TÍ SERÁ MI ALABANZA",
+        "EN LA CONGREGACIÓN",
+        "CANTARÉ Y ALABARÉ",
+        "TU NOMBRE SEÑOR."
+      ]
+    }
+  ]
+}

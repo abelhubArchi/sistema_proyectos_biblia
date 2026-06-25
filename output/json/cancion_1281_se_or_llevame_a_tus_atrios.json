@@ -1,0 +1,37 @@
+{
+  "numero": null,
+  "titulo": "SEÑOR LLEVAME A TUS ATRIOS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Señor llévame a tus atrios,",
+        "al lugar santo, al altar de bronce;",
+        "Señor tu rostro quiero ver.",
+        "Pasare la muchedumbre",
+        "por donde sacerdote canta,",
+        "tengo hambre y sed de justicia",
+        "y solo encuentro un lugar."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Llévame al lugar santísimo",
+        "por la sangre del cordero redentor/",
+        "Tócame, límpiame, heme aquí."
+      ]
+    }
+  ]
+}

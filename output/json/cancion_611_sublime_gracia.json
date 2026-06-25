@@ -1,0 +1,54 @@
+{
+  "numero": null,
+  "titulo": "Sublime Gracia",
+  "carpeta": "ADORACION",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Sublime gracia del Señor que un infeliz salvó;",
+        "",
+        "Fui ciego mas hoy miro yo, perdido y Él me halló.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Su gracia me enseñó a temer, mis dudas ahuyentó,",
+        "",
+        "¡Oh cuan precioso fue a mi ser, al dar mi corazón!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "En los peligros o aflicción que yo he tenido aquí;",
+        "",
+        "Su gracia siempre me libró y me guiará feliz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Y cuando en Sión por siglos mil brillando esté cual sol;",
+        "",
+        "Yo cantaré por siempre allí su amor que me salvó."
+      ]
+    }
+  ]
+}

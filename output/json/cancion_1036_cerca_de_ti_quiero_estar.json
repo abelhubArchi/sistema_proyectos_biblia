@@ -1,0 +1,38 @@
+{
+  "numero": null,
+  "titulo": "CERCA DE TI QUIERO ESTAR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "CERCA DE TI YO QUIERO ESTAR",
+        "PARA ESCUCHAR TU VOZ",
+        "Y APRENDER DE TI",
+        "QUIERO SER",
+        "UN REFLEJO DE TU AMOR",
+        "YO QUIERO VIVIR,",
+        "SOLO EN TU VOLUNTAD"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "JESÚS ERES MI BUEN PASTOR,",
+        "TU CONOCES MI CAMINO",
+        "JESÚS PUEDO CONFIAR EN TI",
+        "OH MI DIOS ME RINDO HOY."
+      ]
+    }
+  ]
+}

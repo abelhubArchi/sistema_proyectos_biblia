@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "Munakuypi Kawsana",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Munakuypi kawsana tukuynin hermanos,",
+        "Uj ayllullaña kanchej Dios Tatanchejwanqa./",
+        "/Señor Jesucristoqa niwarqanchejña,",
+        "Mosoj kamachimpeqa munanakunata./"
+      ]
+    }
+  ]
+}

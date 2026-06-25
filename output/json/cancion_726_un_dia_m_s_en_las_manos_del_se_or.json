@@ -1,0 +1,54 @@
+{
+  "numero": null,
+  "titulo": "UN DIA MÄS EN LAS MANOS DEL SEÑOR",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Un dia más en las manos del señor",
+        "Un dia más en las manos del señor",
+        "Un dia más en las manos del señor",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "//pasan días,pasan meses,",
+        "pasan años,seguiré",
+        "en las manos en las manos del Señor.//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "La tristeza puede durar hasta el anochecer,",
+        "//Mas alagria viene,Viene al amanecer.//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Quiero despertar cantando,",
+        "Quiero despertar orando,",
+        "//Quiero despertar cantando",
+        "y alabando a mi Señor.//"
+      ]
+    }
+  ]
+}

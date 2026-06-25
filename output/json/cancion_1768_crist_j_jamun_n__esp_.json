@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "Cristój Jamunán (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Cristo ya viene, señales ya hay,",
+        "Almas salvadas viene a llevar./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Yo voy con El, con El yo voy./",
+        "Con Jesucristo pronto me iré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Los pecadores se quedarán.",
+        "Y los salvados irán con El./"
+      ]
+    }
+  ]
+}

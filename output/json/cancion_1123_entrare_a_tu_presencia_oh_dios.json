@@ -1,0 +1,45 @@
+{
+  "numero": null,
+  "titulo": "ENTRARE A TU PRESENCIA OH DIOS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ENTRARE A TU PRESENCIA OH DIOS",
+        "CON SACRIFICIO DE ALABANZA",
+        "CON MI CANTO YO TE EXALTARE",
+        "TU SANTO NOMBRE ADORARE"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "TE DARE TODA LA GLORIA",
+        "ME LIBRASTE DEL TEMOR",
+        "FUI CREADO EN TU JUSTICIA",
+        "TU SANTO NOMBRE ADORARE"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "// EXALTALE, SU NOMBRE SEA EXALTADO",
+        "EXALTALE, SU NOMBRE HAY QUE ADORAR //",
+        "SU NOMBRE HAY QUE ADORAR...",
+        "¡EXALTALE!"
+      ]
+    }
+  ]
+}

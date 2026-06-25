@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "PAN DE VIDA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cuando flaquea mi fe",
+        "Y siento desfallecer",
+        "Cuando no puedo seguir",
+        "Y faltan fuerzas en mi",
+        "Puedo a la mesa venir",
+        "Y puedo el pan compartir",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Es Jesús el pan de vida",
+        "El maná de mi desierto",
+        "Mi energia mi sustento",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Es Jesús el pan de vida",
+        "Mi necesidad primera",
+        "Y sin ti yo nada fuera",
+        "Porque Jesus",
+        "Es Pan de vida eterna"
+      ]
+    }
+  ]
+}

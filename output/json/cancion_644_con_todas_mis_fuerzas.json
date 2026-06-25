@@ -1,0 +1,86 @@
+{
+  "numero": null,
+  "titulo": "Con todas mis fuerzas",
+  "carpeta": "Comunidad Cristiana",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Con todas mis fuerzas yo te amo",
+        "Yo te amo mi Dios,",
+        "",
+        "Porque eres lo que más quiero",
+        "Te necesito cada día más.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cada célula de mi ser",
+        "Te anhela Mi Señor,",
+        "",
+        "Porque eres el sustento",
+        "Que necesito para vivir.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "// Más unción quiere mi ser,",
+        "Del Espíritu Santo lléname. //",
+        "",
+        "// Y en el Espíritu te adoraré",
+        "Con danza te alabaré. //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "// Más unción quiere mi ser,",
+        "Del Espíritu Santo lléname. //",
+        "",
+        "// En tu presencia me embriagaré",
+        "Sólo en Ti me alegraré. //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "// Y en el Espíritu te adoraré",
+        "Con danza te alabaré. //",
+        "",
+        "Más unción quiere mi ser,",
+        "Del Espíritu Santo lléname.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 6,
+      "lineas": [
+        "En tu presencia me embriagaré",
+        "Sólo en Ti me alegraré.",
+        "",
+        "Y en el Espíritu te adoraré",
+        "Con danza te alabaré."
+      ]
+    }
+  ]
+}

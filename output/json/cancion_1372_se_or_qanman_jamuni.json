@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Señor Qanman Jamuni",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "F. Paredes",
+  "compositor": "F. Paredes",
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Señor, Qanman jamuni, kawsayniyta qopuyki.",
+        "Bendeciway, Dios Tatáy, pusawaytaj k’anchaypi./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Purimusaj llank'aspa, kasuspa Señorniyta,",
+        "Evangelio mllaspa juchapi chinkasqasmanJ",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Kusikuywan takispa, Jesusniyta qhatisaj.",
+        "Kallpata qoway, Señor, jucha atipanaypaj./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Wiñay kawsayta qowan cruzpi ñak’arisqanwan.",
+        "Almaytapis llimphuchan janaj pacha llajtampaj./"
+      ]
+    }
+  ]
+}

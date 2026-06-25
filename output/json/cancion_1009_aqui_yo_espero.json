@@ -1,0 +1,37 @@
+{
+  "numero": null,
+  "titulo": "AQUI YO ESPERO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "AQUÍ Y ESPERO PIDO QUE MORES EN MI",
+        "CUANTO AHNELO  MÁS DE TÍ.",
+        "ESCÓNDEME EN TU AMOR",
+        "ME POSTRO ANTE TÍ",
+        "MAS CERCA DE CRISTO QUIERO ESTAR",
+        "VEN VIVE EN MI."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "TODA MI VIDA CONTROLA",
+        "TU ALIENTO EN MI",
+        "SOBRE ALAS DE AGUILA",
+        "ME LEVANTARAS//"
+      ]
+    }
+  ]
+}

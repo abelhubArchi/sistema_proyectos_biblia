@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "Qayna Kunan",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Qayna, kunan, wiñaypajpis Cristo kikimpuni.",
+        "Llakiykuna kallampuni, Pay yanapawan.",
+        "Pay yanapawan, Paypi confíani.",
+        "Llakiykuna jamojtenqa, Pay yanapawan."
+      ]
+    }
+  ]
+}

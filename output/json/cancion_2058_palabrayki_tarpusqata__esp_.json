@@ -1,0 +1,34 @@
+{
+  "numero": null,
+  "titulo": "Palabrayki Tarpusqata (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "La palabra hoy sembrada, hazla, Salvador, nacer.",
+        "Para darles crecimiento, sólo tienes tú poder.",
+        "/Ricos frutos. Tú nos puedes conceder./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¡Oh, prepara muchas almas al servicio del Señor!",
+        "Y salvadlas por tu gracia, bondadoso Salvador.",
+        "/Tu Iglesia mostrará tu grande amor./"
+      ]
+    }
+  ]
+}

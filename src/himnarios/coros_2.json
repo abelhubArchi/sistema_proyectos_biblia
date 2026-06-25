@@ -1,0 +1,4533 @@
+{
+    "himnos": [
+        {
+            "numero": 1,
+            "titulo": "TE EXALTARÉ, MI DIOS, MI REY",
+            "tono": "RE menor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Te exaltaré, mi Dios, mi Rey",
+                        "Y bendeciré tu nombre,",
+                        "Eternamente y para siempre",
+                        "Cada día te bendeciré",
+                        "Y alabaré tu nombre",
+                        "Eternamente y para siempre",
+                        "Grande es Jehová",
+                        "Y digno de suprema alabanza",
+                        "Y su grandeza es inescrutable",
+                        "Cada día te bendeciré."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 2,
+            "titulo": "EN EL PRINCIPIO EL ESPÍRITU DE DIOS",
+            "tono": "RE menor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "//En el principio el Espíritu de Dios",
+                        "Se movía sobre las aguas.//"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "//Pero ahora se está moviendo,",
+                        "En la iglesia del Señor;",
+                        "//Pero ahora se está moviendo,",
+                        "Dentro de mi corazón."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 3,
+            "titulo": "VEN ESPÍRITU DIVINO",
+            "tono": "RE menor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "//Ven, ven, ven",
+                        "Espíritu divino",
+                        "Ven, ven, ven",
+                        "Acércate a mí.//"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "//Apodérate, apodérate, apodérate",
+                        "De todo mi ser.//"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 4,
+            "titulo": "SI ME PREGUNTAN PORQUE ESTOY CONTENTO",
+            "tono": "RE menor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Si me preguntan",
+                        "Porque estoy contento",
+                        "Si me preguntan",
+                        "Porque canto así."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "//Es porque Cristo",
+                        "Me ha lavado con su sangre",
+                        "En una nube blanca",
+                        "Volverá por mí.//"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 5,
+            "titulo": "AQUÍ SE SIENTE LA PRESENCIA DEL SEÑOR",
+            "tono": "RE menor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "//Aquí se siente la presencia del Señor//",
+                        "//Siento el fuego del Espíritu Santo//",
+                        "Siento gozo, siento paz",
+                        "Siento el amor que Dios me da",
+                        "Aquí se siente la presencia del Señor."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 6,
+            "titulo": "EL HOMBRE DE GALILEA",
+            "tono": "RE menor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "//El hombre de Galilea",
+                        "Va pasando ya",
+                        "El hombre de Galilea",
+                        "Va pasando ya.//"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Déjalo que te toque",
+                        "Déjalo que te toque",
+                        "Déjalo que te toque",
+                        "Y te dé su bendición."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 7,
+            "titulo": "JESUCRISTO REINA, REINA YA",
+            "tono": "RE menor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Jesucristo reina, reina ya",
+                        "Jesucristo reina, reina ya",
+                        "Jesucristo reina, reina ya"
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Oh, gloria a Dios",
+                        "Aleluya amén reinando está."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "///En la iglesia reina, reina ya///"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "///En mi vida reina, reina ya///"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 8,
+            "titulo": "HAY VICTORIA",
+            "tono": "RE menor",
+            "compas": "3/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Hay victoria (gloria a Dios)",
+                        "Hay victoria (gloria a Dios)",
+                        "Hay victoria en la sangre de Jesús",
+                        "Hay victoria (gloria a Dios)",
+                        "Hay victoria (gloria a Dios)",
+                        "Hay victoria en la sangre de Jesús."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "No podrá el enemigo",
+                        "Vencer a nuestras almas",
+                        "//Porque hay victoria",
+                        "Porque hay victoria",
+                        "Porque hay victoria",
+                        "En la sangre de Jesús.//"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 9,
+            "titulo": "BIENVENIDOS",
+            "tono": "RE menor",
+            "compas": "6/8",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Mi gozo es grande al verte,",
+                        "Mi gozo es grande al verte,",
+                        "Mi gozo es grande al verte,",
+                        "Mi gozo es grande, grande,",
+                        "Grande al verte a ti."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "La paz de Dios te deseo,",
+                        "La paz de Dios te deseo,",
+                        "La paz de Dios te deseo,",
+                        "La paz de Dios, de Dios,",
+                        "De Dios deseo en ti."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Bienvenidos te damos,",
+                        "Bienvenidos te decimos,",
+                        "Bienvenidos te damos,",
+                        "Bienvenidos,",
+                        "Bienvenido a este lugar."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 10,
+            "titulo": "ESTA REUNIÓN YA ES DE BENDICIÓN",
+            "tono": "RE menor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "//Esta reunión ya es de bendición//",
+                        "//Porque Jesús es el mismo de ayer",
+                        "Con el mismo poder;",
+                        "El Señor está aquí.//"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 11,
+            "titulo": "SOLAMENTE EL AMOR DE JESÚS",
+            "tono": "RE menor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Solamente el amor de Jesús,",
+                        "Solamente el amor de Jesús,",
+                        "Solamente el amor de Jesús,",
+                        "Puede cambiar, puede cambiar",
+                        "Tu corazón."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "///Cuántas veces Señor yo negué///",
+                        "Tu gran amor, tu gran perdón",
+                        "Y salvación."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "///Solamente Jesús puede dar///",
+                        "Felicidad, felicidad",
+                        "Y dulce paz."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 12,
+            "titulo": "CRISTO ES LA PEÑA DE HOREB",
+            "tono": "RE menor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Cristo es la peña de Horeb",
+                        "Que está brotando",
+                        "Agua de vida saludable para ti,",
+                        "Cristo es la peña de Horeb,",
+                        "Que está brotando",
+                        "Agua de vida saludable para ti."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Ven, a tomarla",
+                        "Que es más dulce que la miel;",
+                        "Refresca el alma",
+                        "Refresca todo tu ser."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Cristo es la peña de Horeb,",
+                        "Que está brotando,",
+                        "Agua de vida saludable para ti."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 13,
+            "titulo": "SIGO ESCALANDO PELDAÑOS",
+            "tono": "RE menor",
+            "compas": "3/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Vamos escalando peldaños,",
+                        "Vamos llevando esa cruz;",
+                        "Sigamos el camino angosto",
+                        "Que con Cristo es mucho mejor."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "//Ya viene la recompensa",
+                        "Ya no voy a llorar,",
+                        "Tengo a Cristo en mi vida",
+                        "Por eso quiero escalar.//"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "A veces me siento débil",
+                        "Ya no puedo escalar",
+                        "Alzo mis brazos al cielo",
+                        "Y Cristo fuerzas me da."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 14,
+            "titulo": "EL DIA DE GRACIA",
+            "tono": "RE menor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Se va terminando, se va terminando",
+                        "El día de gracia",
+                        "se va terminando (bis)"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "// Es la luz que alumbra mi vida //",
+                        "Todos alabemos",
+                        "Su bendito nombre (bis)"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "En la Biblia dice",
+                        "Habrá terremotos",
+                        "Guerras y hambrunas",
+                        "Por todo el mundo (bis)"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 15,
+            "titulo": "JUVENTUD BOLIVIANA",
+            "tono": "RE menor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "//Juventud Boliviana",
+                        "Jesús te llama",
+                        "A servirle, a servirle con valor.//"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "//Él quiere ser tu ayudador",
+                        "Amigo fiel es el Señor",
+                        "Adelante juventud Boliviana.//"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 16,
+            "titulo": "QUIERO CANTAR UNA LINDA CANCIÓN",
+            "tono": "DO Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Quiero cantar una linda canción,",
+                        "De un hombre que me transformó;",
+                        "Quiero cantar una linda canción",
+                        "De aquel que mi vida cambió."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Es mi amigo Jesús,",
+                        "Es mi amigo más fiel",
+                        "Él es Dios, Él es Rey,",
+                        "Es amor; es verdad",
+                        "Sólo en Él encontré,",
+                        "Esa paz que busqué",
+                        "Sólo en Él encontré,",
+                        "La felicidad."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 17,
+            "titulo": "HE DECIDIDO SEGUIR A CRISTO",
+            "tono": "DO Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "He decidido seguir a Cristo,",
+                        "He decidido seguir a Cristo,",
+                        "He decidido seguir a Cristo."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "No vuelvo atrás, no vuelvo atrás."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Aunque otros vuelven, yo sigo a Cristo…"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "La cruz delante, el mundo atrás…"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "El diablo habla, no hay que oírle…"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 5,
+                    "lineas": [
+                        "La vida vieja ya he dejado…"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 6,
+                    "lineas": [
+                        "El Rey de gloria, me ha transformado…"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 18,
+            "titulo": "DEMOS GRACIAS AL SEÑOR",
+            "tono": "DO Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "//Demos gracias al Señor, demos gracias,",
+                        "Demos gracias por su amor,",
+                        "Por las mañanas",
+                        "Las aves cantan las alabanzas",
+                        "De Cristo el Salvador",
+                        "Y tú hermano, porque no cantas",
+                        "Las alabanzas de Cristo el Salvador."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 19,
+            "titulo": "ROPA BLANCA VESTIRÉ",
+            "tono": "RE Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Ropa blanca vestiré,",
+                        "En casa de mi Dios,",
+                        "En casa de mi Dios,",
+                        "En casa de mi Dios.",
+                        "Ropa blanca vestiré",
+                        "En casa de mi Dios",
+                        "Qué feliz seré."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Una arpa tocaré....."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Una corona llevaré....."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Calles de oro andaré....."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 5,
+                    "lineas": [
+                        "En un palacio habitaré....."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 6,
+                    "lineas": [
+                        "Y con Elías danzaré....."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 20,
+            "titulo": "TUS MANOS SEÑOR",
+            "tono": "RE Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "//Voy a seguir cantando,",
+                        "Hasta que venga el Rey;",
+                        "Voy a seguir cantando al Señor.//"
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Tus manos Señor, extiende a tu pueblo.",
+                        "Tus manos Señor, de amor y sanidad.",
+                        "Tus manos Señor, extiende a tu pueblo,",
+                        "Tus manos Señor, de amor y sanidad."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "//Voy a seguir orando,",
+                        "Hasta que venga el Rey;",
+                        "Voy a seguir orando al Señor.//"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "//Voy a seguir ganando,",
+                        "Almas para el Rey;",
+                        "Voy a seguir ganando para el Rey.//"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 21,
+            "titulo": "YO TENGO UN AMIGO, QUE ME AMA",
+            "tono": "RE Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Yo tengo un amigo que me ama,",
+                        "Me ama, me ama,",
+                        "Yo tengo un amigo que me ama;",
+                        "Su nombre es Jesús.",
+                        "Que me ama, que me ama",
+                        "Que me ama con su tierno amor.",
+                        "Que me ama, que me ama",
+                        "Su nombre es Jesús."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Tú tienes un amigo que te ama..."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Tenemos un amigo que nos ama..."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 22,
+            "titulo": "SOLAMENTE EN CRISTO",
+            "tono": "RE Mayor",
+            "compas": "9/8",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Solamente en Cristo, solamente en Él",
+                        "La salvación se encuentra en Él",
+                        "No hay otro nombre",
+                        "Dado a los hombres,",
+                        "Solamente en Cristo, solamente en Él."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 23,
+            "titulo": "CUANDO LOS SANTOS SE MARCHARÁN",
+            "tono": "RE Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Cuando los santos se marcharán,",
+                        "Cuando los santos se marcharán,",
+                        "Señor, yo quiero estar en el número",
+                        "Cuando los santos se marcharán."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Oh aleluya, oh aleluya,",
+                        "Oh aleluya, gloria a Dios",
+                        "Señor, yo quiero estar en el número",
+                        "Cuando los santos se marcharán."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 24,
+            "titulo": "CUANDO CRISTO VINO A MI CORAZÓN",
+            "tono": "RE Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Cuando Cristo vino a mi corazón,",
+                        "Mi vida entera cambió",
+                        "Su paz y su amor alejaron de mí",
+                        "Las dudas, las sombras y el temor."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "//Mi vida comenzó",
+                        "Cuando el Señor llegó",
+                        "Y hoy puedo cantar de su amor.//"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Cuando Cristo vino a mi corazón",
+                        "Poder sin igual encontré.",
+                        "En un hombre nuevo Él me transformó",
+                        "Hoy vivo con propósito y perdón."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "En esta vida yo soy muy feliz",
+                        "Y quiero contártela a ti.",
+                        "El príncipe de paz ha llenado mi ser",
+                        "Hoy tengo razón para vivir."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Si quieres que Cristo te transforme a ti,",
+                        "Y cambie tu vida también.",
+                        "Mira la cruz donde Cristo murió",
+                        "Y dale tu corazón."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 25,
+            "titulo": "AL MIRAR LOS CIELOS",
+            "tono": "RE Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Al mirar los cielos, al mirar el sol",
+                        "Pienso en su gran poder que los formó",
+                        "Miro las estrellas, la luna también",
+                        "Pienso en su gran poder que los formó",
+                        "Aunque el hombre nada es,",
+                        "Sin embargo tú lo ves",
+                        "Aunque el hombre nada es,",
+                        "Sin embargo lo visitas.",
+                        "Al mirar los cielos, al mirar el sol",
+                        "Pienso en su gran poder que los formó."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 26,
+            "titulo": "EL GOZO QUE TENGO YO",
+            "tono": "RE mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "El gozo que tengo yo",
+                        "El mundo no me lo dio",
+                        "El mundo no me lo dio",
+                        "//Y como no me lo dio",
+                        "No me lo puede quitar //"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Si empezamos a cantar",
+                        "Esta tierra tiembla",
+                        "Si empezamos a orar",
+                        "Hablaremos nuevas lenguas",
+                        "//Elías oró y el fuego cayó",
+                        "Oró Josué el sol se paró.//"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Este gozo que yo siento en mi alma",
+                        "Sólo Cristo me lo pudo dar",
+                        "Este gozo que yo siento en mi alma",
+                        "Sólo Cristo me lo pudo dar",
+                        "Sólo Cristo me lo pudo dar",
+                        "Sólo Cristo me lo pudo dar",
+                        "Este gozo que yo siento en mi alma",
+                        "Sólo Cristo me lo pudo dar"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "//Pero que felicidad",
+                        "Pero que felicidad",
+                        "Cantando todos en coro",
+                        "A nuestro Padre celestial //"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 5,
+                    "lineas": [
+                        "//Yo no sé a lo que tu haz venido",
+                        "Pero yo vine alabar a Dios//",
+                        "//Yo vine, yo vine",
+                        "Yo vine alabar a Dios.//"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 27,
+            "titulo": "A QUE TÚ NO SABES",
+            "tono": "RE mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "A que tú no sabes lo que en la iglesia pasó",
+                        "Lo que pasó, lo que pasó",
+                        "A que tú no sabes lo que en la iglesia pasó",
+                        "Lo que pasó, lo que pasó",
+                        "Fue el Espíritu Santo",
+                        "Fue el Espíritu Santo",
+                        "Fue el Espíritu Santo",
+                        "Que sobre la iglesia se derramó."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "A que tu no sabes lo que en Damasco pasó…",
+                        "Fue el Espíritu Santo que sobre Pablo se derramó…"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "A que tu no sabes lo que en mi vida pasó…",
+                        "Fue el Espíritu Santo que sobre mi vida se derramó…"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 28,
+            "titulo": "MIRA LO QUE HIZO MI SEÑOR",
+            "tono": "MI Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "//Mira lo que hizo mi Señor.//",
+                        "//Me levantó, y me libertó;",
+                        "Mira lo que hizo mi Señor.//"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "//Caminando por la senda voy//",
+                        "//De pruebas en pruebas;",
+                        "Victorias tras victorias",
+                        "Caminando por la senda voy.//"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "//El enemigo ya vencido está//",
+                        "//Jesús lo venció,",
+                        "Muriendo en la cruz;",
+                        "El enemigo ya vencido está.//"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 29,
+            "titulo": "ESTÁ AQUÍ, ESTÁ AQUÍ",
+            "tono": "MI Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Está aquí, está aquí",
+                        "Nos gozamos porque Dios está aquí,",
+                        "Está aquí, está aquí,",
+                        "Aleluya nuestro Dios está aquí."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Yo ya vencí, yo ya vencí,",
+                        "Al pecado y al mundo ya vencí",
+                        "Yo ya vencí, yo ya vencí,",
+                        "Al pecado y al mundo ya vencí."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "No me quedaré, no me quedaré,",
+                        "Por Bolivia su palabra llevaré",
+                        "No me quedaré, no me quedaré,",
+                        "Por Bolivia su palabra llevaré."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 30,
+            "titulo": "CUANDO LOS SANTOS SE MARCHEN YA",
+            "tono": "MI Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Cuando los santos se marcharan",
+                        "Hacia la patria celestial",
+                        "Señor yo quiero estar en el número",
+                        "Cuando los santos se marcharan."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 31,
+            "titulo": "CON PLUMA DE ORO",
+            "tono": "MI Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Con pluma de oro escrito está",
+                        "Escrito está, escrito está",
+                        "Con pluma de oro escrito está,",
+                        "Mi nombre más allá.",
+                        "//Más allá, mi nombre escrito está.//"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 32,
+            "titulo": "PUEDO CONFIAR EN EL SEÑOR",
+            "tono": "MI Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Puedo confiar en el Señor",
+                        "No me va fallar,",
+                        "Puedo confiar en el Señor,",
+                        "No me va fallar."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Si el sol llegará a obscurecer",
+                        "Y no brille más,",
+                        "Yo igual confío en el Señor",
+                        "No me va fallar."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Puedo descansar, puedo descansar",
+                        "Pues en su amor, él me guardara."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 33,
+            "titulo": "CON JESÚS IRÉ",
+            "tono": "FA Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Con Jesús iré, con Jesús iré,",
+                        "Donde Él me guíe",
+                        "Yo le seguiré.",
+                        "Aunque vengan pruebas",
+                        "Luchas y temor,",
+                        "Todo mi camino con el Salvador."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 34,
+            "titulo": "¡FELIZ CUMPLEAÑOS!",
+            "tono": "FA Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "¡Feliz cumpleaños!",
+                        "¡Feliz cumpleaños!",
+                        "Hoy te deseamos de corazón.",
+                        "Que Dios te guarde, feliz te siga",
+                        "Toda la vida su bendición."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 35,
+            "titulo": "CUANDO VENGA EL SEÑOR",
+            "tono": "LA menor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "//Cuando venga de los cielos el Señor",
+                        "Estés vivo o estés muerto",
+                        "Que cuenta le vas a dar.//"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Amigo ya no peques más",
+                        "Jesús te dice ven a mí",
+                        "Recuerda que es tu Salvador",
+                        "Recuerda que Él murió por ti."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "//Oh vienen los ángeles",
+                        "Vienen los ángeles",
+                        "A adorar al Rey.//"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 36,
+            "titulo": "UNA MIRADA DE FE",
+            "tono": "FA Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "//Una mirada de fe,",
+                        "Una mirada al Señor",
+                        "Es la que puede salvar al pecador.//"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "//Y si tú vienes a Cristo Jesús",
+                        "Él te perdonará",
+                        "Porque una mirada de fe,",
+                        "Es la que te puede salvar.//"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 37,
+            "titulo": "CON CRISTO EN LA FAMILIA",
+            "tono": "FA Mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Con Cristo en la familia,",
+                        "Un feliz hogar, sí, un feliz hogar,",
+                        "Sí, un feliz hogar.",
+                        "Con Cristo en la familia,",
+                        "Un feliz hogar,",
+                        "¡Qué felicidad!"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 38,
+            "titulo": "YO TENGO GOZO EN MI ALMA",
+            "tono": "FA Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Yo tengo gozo en mi alma,",
+                        "Gozo en mi alma,",
+                        "Gozo en mi alma y en mi ser.",
+                        "Son como ríos de agua viva,",
+                        "Ríos de agua viva,",
+                        "Ríos de agua viva en mi ser."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 39,
+            "titulo": "SOLO DIOS HACE AL HOMBRE FELIZ",
+            "tono": "FA Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Sólo Dios hace al hombre feliz,",
+                        "Sólo Dios hace al hombre feliz,",
+                        "La vida es nada todo se acaba",
+                        "Sólo Dios hace al hombre feliz."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 40,
+            "titulo": "NO HAY DIOS TAN GRANDE",
+            "tono": "FA Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "//No hay Dios tan grande como tú;",
+                        "No lo hay, no lo hay//"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "//No hay Dios que puede hacer las obras,",
+                        "Como las que haces tú.//"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "//No es con espada, ni con ejército,",
+                        "Mas con tu Santo Espíritu//"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Y muchas almas se salvarán,",
+                        "Y muchas almas se salvarán,",
+                        "Y muchas almas se salvarán;",
+                        "Con tu Santo Espíritu."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 41,
+            "titulo": "ALABARÉ A MI SEÑOR",
+            "tono": "SOL Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "//Alabaré, alabaré,//",
+                        "Alabaré a mi Señor"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Juan vio el número de los redimidos",
+                        "Y todos alababan al Señor",
+                        "Unos oraban, otros cantaban",
+                        "Y todos alababan al Señor",
+                        "//Alabaré, alabaré,//",
+                        "Alabaré a mi Señor."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Todos unidos alegres cantamos,",
+                        "Glorias y alabanzas al Señor.",
+                        "Gloria al Padre, gloria al Hijo,",
+                        "Gloria al Espíritu de amor."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 42,
+            "titulo": "HACE TU CASA SOBRE LA PEÑA",
+            "tono": "SOL Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "//Hace tu casa sobre la peña",
+                        "Que Jesucristo te ayudará.//"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "//Si viene lluvia,",
+                        "Si sopla el viento",
+                        "Pero tu casa no caerá.//"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 43,
+            "titulo": "MARAVILLOSO ES EL AMOR DE DIOS",
+            "tono": "SOL Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "///Maravilloso es el amor de Dios///",
+                        "Maravilloso es Él."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Tan alto no puedo subir allá",
+                        "Tan profundo no puedo bajar allá",
+                        "Tan ancho no puedo alcanzar allá",
+                        "Maravilloso es Él."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 44,
+            "titulo": "TE VENGO A DECIR",
+            "tono": "SOL Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "//Te vengo a decir//",
+                        "Oh, mi Salvador.",
+                        "//Que yo te amo a ti//",
+                        "Con el corazón.",
+                        "//Te vengo a decir//",
+                        "Toda la verdad.",
+                        "Te quiero Señor, te amo Señor",
+                        "Con el corazón."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "//Yo quiero cantar//",
+                        "De gozo y de paz",
+                        "//Yo quiero llorar//",
+                        "De felicidad."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 45,
+            "titulo": "PUEBLOS TODOS",
+            "tono": "SOL Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "//Pueblos todos, batid las manos;",
+                        "Alabad a Dios, de Israel.//"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Cantad a Dios cantad,",
+                        "Cantad a nuestro Rey;",
+                        "Porque Él es el Rey,",
+                        "De toda la tierra.",
+                        "Cantad a Dios cantad",
+                        "Cantad a nuestro Rey."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Batiendo vuestras manos",
+                        "Danzando con los pies",
+                        "Pueblos todos, batid las manos;",
+                        "Alabad a Dios de Israel."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 46,
+            "titulo": "LOS HIJOS DE SIÓN",
+            "tono": "SOL Mayor",
+            "compas": "6/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Los hijos de Sión se gozan en su Rey;",
+                        "Alaban su nombre con danzas;",
+                        "Con panderos y arpas cantan alabanzas,",
+                        "Cantan alabanzas a Él."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Aleluya, aleluya,",
+                        "Aleluya, gloria a Dios."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 47,
+            "titulo": "MI PENSAMIENTO ERES TÚ SEÑOR",
+            "tono": "SOL Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Mi pensamiento eres tú Señor,",
+                        "Mi pensamiento eres tú Señor,",
+                        "Mi pensamiento eres tú Señor;",
+                        "Mi pensamiento eres tú."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Porque tú me has dado la vida",
+                        "Porque tú me has dado el existir",
+                        "Porque tú me has dado el cariño",
+                        "Me has dado amor."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 48,
+            "titulo": "EL ESPÍRITU DE DIOS ESTÁ EN ESTE LUGAR",
+            "tono": "SOL mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "El espíritu de Dios está en este lugar",
+                        "El espíritu de Dios se mueve en este lugar",
+                        "Está aquí para consolar, está aquí para liberar",
+                        "Está aquí para guiar, el espíritu de Dios está aquí."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Muévete en mí, muévete en mí",
+                        "Toma mi mente y mi corazón",
+                        "Llena mi vida de tu amor",
+                        "Muévete en mí, Santo Espíritu",
+                        "Muévete en mí."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 49,
+            "titulo": "DIOS ESTÁ AQUÍ",
+            "tono": "RE mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Dios está aquí",
+                        "Tan cierto como el aire que respiro",
+                        "Tan cierto como en la mañana se levanta el sol",
+                        "Tan cierto como yo le canto y Él me puede oír."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 50,
+            "titulo": "TU FIDELIDAD ES GRANDE",
+            "tono": "RE mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "//Tu fidelidad es grande",
+                        "Tu fidelidad incomparable es",
+                        "Nadie como Tú, bendito Dios",
+                        "Grande es Tu fidelidad//"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 51,
+            "titulo": "RENUÉVAME",
+            "tono": "RE mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Renuévame, Señor Jesús",
+                        "Ya no quiero ser igual",
+                        "Renuévame, Señor Jesús",
+                        "Pon en mí Tu corazón"
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Porque todo lo que hay",
+                        "Dentro de mí",
+                        "Necesita ser cambiado Señor",
+                        "Porque todo lo que hay",
+                        "Dentro de mi corazón",
+                        "Necesita más de Ti"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 52,
+            "titulo": "CUÁN BELLO ES EL SEÑOR",
+            "tono": "DO mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Cuán bello es el Señor",
+                        "Cuán hermoso es el Señor",
+                        "Cuán bello es el Señor",
+                        "Hoy le quiero adorar"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "La belleza de mi Señor",
+                        "Nunca se agotará",
+                        "La hermosura de mi Señor",
+                        "Siempre resplandecerá"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 53,
+            "titulo": "QUIERO LLENAR TU TRONO DE ALABANZAS",
+            "tono": "SOL Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Quiero llenar",
+                        "Tu trono de alabanza",
+                        "Quiero llenar",
+                        "Tu trono de adoración",
+                        "Quiero adorar, postrado en tu presencia",
+                        "Y proclamarte Señor"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 54,
+            "titulo": "AMARTE SOLO A TI SEÑOR",
+            "tono": "RE menor",
+            "compas": "6/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Amarte sólo a ti Señor",
+                        "Amarte sólo a ti Señor",
+                        "Amarte sólo a ti Señor",
+                        "Y no mirar atrás."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "//Seguir tu caminar Señor,",
+                        "Seguir sin desmayar Señor,",
+                        "Postrado ante tu altar Señor,",
+                        "Y no mirar atrás.//"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 55,
+            "titulo": "PON ACEITE A MI LÁMPARA SEÑOR",
+            "tono": "MI menor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Pon aceite a mi lámpara Señor,",
+                        "Pon aceite a mi lámpara Señor.",
+                        "Que yo quiero servirte con amor,",
+                        "Pon aceite a mi lámpara Señor."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Señor Jesús, tú eres mi guía.",
+                        "Señor Jesús, tú eres mi amor.",
+                        "//Salvaste mi alma perdida,",
+                        "Por eso te alabo con el corazón//",
+                        "Con el corazón, con el corazón,"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 56,
+            "titulo": "MIRA QUE LINDO",
+            "tono": "MI menor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Mira que lindo, que lindo es el Señor",
+                        "Mira que lindo, que lindo es el Señor"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "//Nadie iguala a su belleza,",
+                        "Nadie iguala a su poder.",
+                        "Y todo lo que hace, lo hace con amor.//"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 57,
+            "titulo": "SI TUVIERAS FE COMO UN GRANITO DE MOSTAZA",
+            "tono": "LA menor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "//Si tuvieras fe,",
+                        "Como un granito de mostaza,//",
+                        "Eso dice el Señor."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "//Tú le dirías a esa montaña:",
+                        "Muévete, muévete.//"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Y esa montaña se moverá,",
+                        "Se moverá, se moverá;",
+                        "Y esa montaña se moverá,",
+                        "Se moverá, se moverá."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 2,
+            "titulo": "A TU CASA, PADRE, VENIMOS HOY",
+            "tono": "RE mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "A tu casa, Padre, venimos hoy",
+                        "Himnos para levantar",
+                        "Y ensalzar el nombre del Salvador",
+                        "Y en tus obras meditar."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "A la casa tuya acudimos, Señor",
+                        "Do tu pueblo anhela estar;",
+                        "Como enseña tu fiel palabra así",
+                        "Te queremos adorar."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Hasta ahora has dado tu protección",
+                        "En el diario caminar;",
+                        "Por la noche fiel tú nos guiarás",
+                        "Hasta ver la luz brillar."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Que tu pueblo unido de corazón",
+                        "Goce comunión aquí,",
+                        "Que en la tierra se haga tu voluntad",
+                        "Como en el cielo allí."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Como incienso a ti suba la oración",
+                        "Oh, recíbela Señor;",
+                        "Nuestra gratitud te cantamos hoy",
+                        "En tributo de loor."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 3,
+            "titulo": "OH QUE GRANDE ES NUESTRO DIOS",
+            "tono": "RE mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Por su poder Dios pudo crear",
+                        "El gran cielo, tierra y mar;",
+                        "Sostiene al mundo con bondad",
+                        "Y suprema majestad."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "¡Oh, qué grande es nuestro Dios!",
+                        "¡Oh, qué grande es nuestro Dios!",
+                        "Reina en majestad, reina con bondad;",
+                        "¡Oh, qué grande es nuestro Dios!"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "El mundo de la nada creó;",
+                        "Las montañas Él formó;",
+                        "Su mano mide extenso mar",
+                        "Y sostiene el ancho hogar."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Su voz aquieta el turbio mar,",
+                        "Calma fiera tempestad;",
+                        "Los cielos cantan su loor,",
+                        "Lo proclaman el Señor."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Para salvar la humanidad",
+                        "A su hijo Dios nos dio;",
+                        "La vida del creyente en Él",
+                        "Se convierte en un Edén."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 8,
+            "titulo": "TE LOAMOS ¡OH DIOS!",
+            "tono": "SOL mayor",
+            "compas": "3/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Te loamos, ¡oh Dios!, con unánime voz,",
+                        "Que en Cristo tu Hijo nos diste perdón."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "¡Aleluya! Te alabamos, ¡Cuán grande es tu amor!",
+                        "¡Aleluya! Te adoramos, Bendito Señor."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Te loamos, Jesús, quien tu trono de luz",
+                        "Has dejado por darnos salud en la cruz."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Te damos loor, Santo Consolador,",
+                        "Que nos llenas de gozo y santo valor."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Unidos load a la gran Trinidad,",
+                        "Que es la fuente de gracia, virtud y verdad."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 9,
+            "titulo": "DIOS ES AMOR",
+            "tono": "SOL mayor",
+            "compas": "6/8",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Con serenidad escucha,",
+                        "cántico consolador",
+                        "Que nos trae la dulce nueva,",
+                        "que el Señor Dios es amor."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Es amor (Es amor, Dios es amor)",
+                        "Es amor (Es amor, Dios es amor)",
+                        "Coro angélico entonad, con fervor a Dios load",
+                        "Entonando mil cantares, por la tierra y por los mares",
+                        "Revelando a los millares, Que el Señor Dios es amor."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Compasión profunda muestra",
+                        "A este mundo de dolor",
+                        "Con mandar a este mundo",
+                        "Al precioso Salvador."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Un testigo viene a mi alma",
+                        "Cual paloma celestial,",
+                        "Revelando a mi alma entera",
+                        "Nueva hermosa sin igual."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Corazón, ¡despierta y canta!",
+                        "Ve de Cristo el esplendor",
+                        "Disipando las tinieblas,",
+                        "Muestra que Dios es amor."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 11,
+            "titulo": "¡SANTO! ¡SANTO! ¡SANTO!",
+            "tono": "RE mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "¡Santo! ¡Santo! ¡Santo! Señor Omnipotente,",
+                        "Siempre el labio mío loores te dará;",
+                        "¡Santo! ¡Santo! ¡Santo! te adoro reverente,",
+                        "Dios en tres personas, bendita Trinidad."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "¡Santo! ¡Santo! ¡Santo! en numeroso coro,",
+                        "Santos escogidos te adoran con fervor;",
+                        "De alegría llenos, y sus coronas de oro",
+                        "Rinden ante el trono glorioso del Señor."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "¡Santo! ¡Santo! ¡Santo! la inmensa muchedumbre",
+                        "De ángeles que cumplen tu santa voluntad,",
+                        "Ante ti se postra bañada con tu lumbre,",
+                        "Ante ti que has sido, que eres y serás."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "¡Santo! ¡Santo! ¡Santo! por más que estés velado",
+                        "E imposible sea tu gloria contemplar,",
+                        "Santo tú eres solo y nada hay a tu lado",
+                        "En poder perfecto, pureza y caridad."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 13,
+            "titulo": "FUENTE DE LA VIDA ETERNA",
+            "tono": "RE mayor",
+            "compas": "3/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Fuente de la vida eterna y de toda bendición;",
+                        "Ensalzar tu gracia tierna debe cada corazón.",
+                        "Tu piedad inagotable, abundante en perdonar,",
+                        "Único ser adorable, gloria a ti debemos dar."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "De los cánticos celestes te quisiéramos cantar;",
+                        "Entonados por las huestes, que lograste rescatar.",
+                        "Almas que a buscar viniste, porque les tuviste amor,",
+                        "De ellas te compadeciste, con ternísimo favor."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Toma nuestros corazones, llénalos de tu verdad;",
+                        "De tu Espíritu los dones, y de toda santidad.",
+                        "Guíanos en obediencia, humildad, amor y fe;",
+                        "Nos ampare tu clemencia; Salvador, propicio sé."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 22,
+            "titulo": "EN JESUCRISTO, MÁRTIR DE PAZ",
+            "tono": "DO mayor",
+            "compas": "9/8",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "En Jesucristo, mártir de paz,",
+                        "En horas negras de tempestad,",
+                        "Hallan las almas dulce solaz,",
+                        "Grato consuelo, felicidad."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Gloria cantemos al Redentor,",
+                        "Que por nosotros quiso morir;",
+                        "La santa gracia del Salvador,",
+                        "Siempre dirija nuestro vivir."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "En los peligros, en el dolor,",
+                        "A cada paso su protección,",
+                        "Calma le infunde, santo vigor,",
+                        "Nuevos alientos al corazón."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Cuando en la lucha falta la fe,",
+                        "Y el alma siente desfallecer,",
+                        "Cristo nos dice: \"Yo os colmaré",
+                        "De rica gracia, santo poder\"."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 37,
+            "titulo": "LUGAR PARA CRISTO",
+            "tono": "RE mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Tú dejaste tu trono y corona por mí,",
+                        "Al venir a Belén a nacer;",
+                        "Mas a ti no fue dado el entrar al mesón,",
+                        "Y en pesebre te hicieron nacer."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Ven a mi corazón, ¡oh, Cristo!",
+                        "Pues en él hay lugar para ti;",
+                        "Ven a mi corazón, ¡oh, Cristo! ven,",
+                        "Pues en él hay lugar para ti."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Alabanzas celestes los ángeles dan,",
+                        "En que rinden al Verbo loor;",
+                        "Mas humilde viniste a la tierra, Señor,",
+                        "A dar vida al más vil pecador."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Siempre pueden las zorras sus cuevas tener,",
+                        "Y las aves sus nidos también,",
+                        "Mas el Hijo del hombre no tuvo un lugar",
+                        "En el cual reclinara su sien."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Tú viniste, Señor, con tu gran bendición",
+                        "Para dar libertad y salud,",
+                        "Mas con odio y desprecio te hicieron morir,",
+                        "Aunque vieron tu amor y virtud."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 5,
+                    "lineas": [
+                        "Alabanzas sublimes los cielos darán,",
+                        "Cuando vengas glorioso de allí,",
+                        "Y tu voz entre nubes dirá: \"Ven a mí,",
+                        "Que hay lugar junto a mí para ti\""
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 46,
+            "titulo": "SANTO ESPÍRITU, DESCIENDE",
+            "tono": "DO mayor",
+            "compas": "6/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Santo Espíritu desciende a mi pobre corazón,",
+                        "Llénalo de tu presencia, y haz en él tu habitación."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "¡Llena hoy, llena hoy, llena hoy mi corazón,",
+                        "¡Santo Espíritu, desciende, y haz en mí tu habitación."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "De tu gracia puedes darme inundando el corazón,",
+                        "Ven, que mucho necesito, dame hoy tu bendición."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Débil soy, ¡oh! sí, muy débil, y a tus pies postrado estoy,",
+                        "Esperando que tu gracia con poder me llene hoy."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Dame paz, consuelo y gozo, cúbreme hoy en tu perdón;",
+                        "Tú confortas y redimes, tú das grande salvación."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 48,
+            "titulo": "LLUVIAS DE GRACIA",
+            "tono": "LA mayor",
+            "compas": "6/8",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Dios nos ha dado promesa: Lluvias de gracia enviaré",
+                        "Dones que os den fortaleza; Gran bendición os daré"
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Lluvias de gracia, Lluvias pedimos Señor",
+                        "Mándanos lluvias copiosas, Lluvias del Consolador"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Cristo nos dio la promesa, Del santo Consolador",
+                        "Dándonos paz y pureza, Para su gloria y honor."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Muestra, Señor, al creyente, Todo tu amor y poder;",
+                        "Tú eres de gracia la fuente, Llena de paz nuestro ser."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Obra en tus siervos piadosos, Celo, virtud y valor,",
+                        "Dándonos dones preciosos, Dones del Consolador."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 49,
+            "titulo": "SANTA BIBLIA",
+            "tono": "SOL mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Santa Biblia, para mí eres un tesoro aquí",
+                        "Tú contiones, con verdad, la divina voluntad",
+                        "Tú me dices lo que soy, de quién vine y a quién voy."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Tú reprendes mi dudar; tú me exhortas sin cesar",
+                        "Eres faro que a mi pie, va guiando por la fe",
+                        "A las fuentes del amor del bendito Salvador."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Eres infalible voz del Espíritu de Dios;",
+                        "Qué vigor al alma da cuando en aflicción está;",
+                        "Tú me enseñas a triunfar de la muerte y el pecar."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Por tu santa letra sé que con Cristo reinaré",
+                        "Yo que tan indigno soy, por tu luz al cielo voy;",
+                        "¡Santa Biblia! para mí eres un tesoro aquí."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 50,
+            "titulo": "OH, CANTÁDMELAS OTRA VEZ",
+            "tono": "SOL mayor",
+            "compas": "6/8",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "¡Oh! cantádmelas otra vez, Bellas palabras de vida",
+                        "Hallo en ellas mi gozo y luz, Bellas palabras de vida",
+                        "Sí, de luz y vida, Son sostén y guía"
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "¡Qué bellas son, qué bellas son!, Bellas palabras de vida",
+                        "¡Qué bellas son, qué bellas son!, Bellas palabras de vida"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Jesucristo a todos da, Bellas palabras de vida.",
+                        "Oye su dulce voz, mortal, Bellas palabras de vida.",
+                        "Con amor te salva, Y al cielo llama."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Grato el cántico sonará, Bellas palabras de vida;",
+                        "Tus pecados perdonará, Bellas palabras de vida.",
+                        "Sí, de luz y vida, Son sostén y guía."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 51,
+            "titulo": "HAY PODER EN JESÚS",
+            "tono": "LA mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "¿Quieres ser salvo de toda maldad?",
+                        "Tan sólo hay poder en mi Jesús.",
+                        "¿Quieres vivir y gozar santidad?",
+                        "Tan sólo hay poder en Jesús."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Hay poder, poder, sin igual poder,",
+                        "En Jesús quien murió;",
+                        "Hay poder, poder, sin igual poder,",
+                        "En la sangre que Él vertió."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "¿Quieres ser libre de orgullo y pasión?",
+                        "Tan sólo hay poder en mi Jesús.",
+                        "¿Quieres vencer toda cruel tentación?",
+                        "Tan sólo hay poder en Jesús."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "¿Quieres servir a tu Rey y Señor?",
+                        "Tan sólo hay poder en mi Jesús.",
+                        "Ven, y ser salvo podrás en su amor,",
+                        "Tan sólo hay poder en Jesús."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 52,
+            "titulo": "PECADOR, VEN A CRISTO JESÚS",
+            "tono": "SOL mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Pecador, ven a Cristo Jesús,",
+                        "y feliz para siempre serás,",
+                        "Que si tú le quisieres tener,",
+                        "al divino Señor hallarás."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Ven a Él, ven a Él, que te espera tu buen Salvador;",
+                        "Ven a Él, ven a Él, que te espera tu buen Salvador."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Si cual hijo que necio pecó,",
+                        "Vas buscando a sus pies compasión,",
+                        "Tierno Padre en Jesús hallarás,",
+                        "Y tendrás en sus brazos perdón."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Si enfermo, te sientes morir,",
+                        "Él será tu Doctor celestial;",
+                        "Y hallarás en su sangre también",
+                        "Medicina que cure tu mal."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Ovejuela que huyó del redil,",
+                        "¡He aquí tu benigno Señor!",
+                        "Y en los hombros llevada serás,",
+                        "De tan dulce y amante Pastor."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 54,
+            "titulo": "TAL COMO SOY",
+            "tono": "RE mayor",
+            "compas": "6/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Tal como soy, sin más decir,",
+                        "Que a otro yo no puedo ir,",
+                        "Y Tú me invitas a venir;",
+                        "Bendito Cristo, heme aquí."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Tal como soy, sin demorar,",
+                        "De mal queriéndome librar;",
+                        "Tú sólo puedes perdonar;",
+                        "Bendito Cristo, heme aquí."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Tal como soy, en aflicción;",
+                        "Expuesto a muerte y perdición;",
+                        "Buscando vida y perdón,",
+                        "Bendito Cristo, heme aquí."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Tal como soy, tu gran amor,",
+                        "Me vence y busco tu favor,",
+                        "Servirte quiero con valor;",
+                        "Bendito Cristo, heme aquí."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 55,
+            "titulo": "A JESUCRISTO VEN SIN TARDAR",
+            "tono": "LA mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "A Jesucristo ven sin tardar,",
+                        "Que entre nosotros hoy Él está,",
+                        "Y te convida con dulce afán,",
+                        "Tierno diciendo: \"Ven\"."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "¡Oh, cuan grata nuestra reunión",
+                        "Cuando allá Señor, en tu mansión,",
+                        "Contigo estemos en comunión",
+                        "Gozando eterno bien!"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Piensa que Él sólo puede colmar",
+                        "Tu triste pecho de gozo y paz;",
+                        "Y porque anhela tu bienestar,",
+                        "Vuelve a decirte: \"Ven\"."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Su voz escucha sin vacilar,",
+                        "Y grato acepta lo que hoy te da,",
+                        "Tal vez mañana no habrá lugar,",
+                        "No te detengas, ven."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 62,
+            "titulo": "EN LA CRUZ",
+            "tono": "MI Mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Me hirió el pecado, fui a Jesús",
+                        "Mostréle mi dolor;",
+                        "Perdido, errante, vi su luz,",
+                        "Bendíjome en su amor."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "En la cruz, en la cruz, do primero vi la luz,",
+                        "Y las manchas de mi alma yo lavé;",
+                        "Fue allí por fe do vi a Jesús,",
+                        "Y siempre feliz con Él seré."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Sobre una cruz, mi buen Señor",
+                        "Su sangre derramó,",
+                        "Por este pobre pecador",
+                        "A quien así salvó."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Venció la muerte con poder,",
+                        "Y al cielo se exaltó;",
+                        "Confiar en Él es mi placer,",
+                        "Morir no temo yo."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Aunque Él se fue solo no estoy:",
+                        "Mandó al Consolador,",
+                        "Divino Espíritu, que hoy",
+                        "Me da perfecto amor."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 70,
+            "titulo": "DEJO EL MUNDO Y SIGO A CRISTO",
+            "tono": "FA Mayor",
+            "compas": "3/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Dejo el mundo y sigo a Cristo",
+                        "Porque el mundo pasará;",
+                        "Mas su amor, amor bendito",
+                        "Por los siglos durará."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "¡Oh, qué gran misericordia!",
+                        "¡Oh, de amor sublime don!",
+                        "Plenitud de vida eterna,",
+                        "Prenda viva de perdón."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Dejo el mundo y sigo a Cristo,",
+                        "Paz y gozo en él tendré,",
+                        "Y al mirar que va conmigo,",
+                        "Siempre salvo cantaré."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Dejo el mundo y sigo a Cristo,",
+                        "Su sonrisa quiero ver,",
+                        "Como luz que mi camino",
+                        "Haga aquí resplandecer."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Dejo el mundo y sigo a Cristo,",
+                        "Acogiéndome a su cruz,",
+                        "Y después ir a mirarle",
+                        "¡Cara a cara en plena luz!"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 75,
+            "titulo": "PRECIOSA ES TU PALABRA",
+            "tono": "Re menor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Oh Señor escucha mi oración",
+                        "Dame tu gran poder para oír tu voz."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Tus palabras, oh Señor,",
+                        "Son más dulces que la miel;",
+                        "Me confortan, me dan paz,",
+                        "Me hablan de tu amor."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Hay riquezas en el mundo aquí,",
+                        "Todas sí, oh Señor se terminarán;",
+                        "Aunque tan hermosa es la flor,",
+                        "Nunca ha de durar, se marchitará."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 77,
+            "titulo": "TUYO SOY, JESÚS",
+            "tono": "SOL Mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Tuyo soy, Jesús, ya escuché la voz",
+                        "De tú amor hablándome aquí;",
+                        "Mas anhelo en alas de fe subir,",
+                        "Y más cerca estar de ti."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Aún más cerca, cerca de tu cruz,",
+                        "Llévame, ¡oh, Salvador!",
+                        "Aún más cerca, cerca, cerca de tu cruz,",
+                        "Llévame, ¡oh, buen Pastor!"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "A seguirte a ti me consagro hoy,",
+                        "Constreñido por tu amor,",
+                        "Y mi espíritu, alma y cuerpo doy",
+                        "Por servirte, mi Señor."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "¡Oh! cuan pura y santa delicia es,",
+                        "De tu comunión gozar,",
+                        "Y contigo hablar y tu dulce voz",
+                        "Cada día escuchar."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "De tu grande amor no comprenderé",
+                        "Cuál es la profundidad,",
+                        "Hasta que contigo, Jesús, esté",
+                        "En gloriosa eternidad."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 83,
+            "titulo": "EN BUSCA DE OBREROS",
+            "tono": "SOL Mayor",
+            "compas": "3/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Cristo está buscando obreros hoy,",
+                        "que quieran ir con Él",
+                        "¿Quién dirá: \"Señor contigo voy,",
+                        "Yo quiero serte fiel."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "¡Oh! Señor, es mucha la labor,",
+                        "y obreros faltan ya",
+                        "Danos luz, ardiente fe y valor,",
+                        "y obreros siempre habrá"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Cristo quiere mensajeros hoy,",
+                        "Que anuncien su verdad;",
+                        "¿Quién dirá: \"Señor yo listo estoy,",
+                        "Haré tu voluntad\"?"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Hay lugar si quieres trabajar,",
+                        "De Cristo en la labor;",
+                        "Puedes de su gloria al mundo hablar,",
+                        "De su bondad y amor."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "¿Vives ya salvado por Jesús,",
+                        "Su amor conoces ya?",
+                        "¡Habla, pues, anuncia que en la luz",
+                        "De Cristo vives ya!"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 84,
+            "titulo": "PRONTO LA NOCHE VIENE",
+            "tono": "MI Mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Pronto la noche viene, tiempo es de trabajar;",
+                        "Los que lucháis por Cristo, no habréis de descansar;",
+                        "Cuando la vida es sueño, gozo, vigor, salud,",
+                        "Y es la mañana hermosa de la juventud."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Pronto la noche viene, tiempo de trabajar;",
+                        "Para salvar al mundo hay que batallar;",
+                        "Cuando la vida alcanza toda su esplendidez,",
+                        "Cuando es el medio día de la madurez."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Pronto la noche viene, tiempo es de trabajar;",
+                        "Si el pecador perece, idlo a rescatar;",
+                        "Aun a la edad provecta, débil y sin salud,",
+                        "Aun a la misma tarde de la senectud."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Pronto la noche viene, ¡listos a trabajar!",
+                        "Listos, que muchas almas hay que rescatar.",
+                        "¿Quién de la vida el día puede desperdiciar?",
+                        "Viene la noche cuando nadie puede obrar."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 87,
+            "titulo": "FIRMES Y ADELANTE",
+            "tono": "RE Mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Firmes y adelante, huestes de la fe,",
+                        "Sin temor alguno, que Jesús nos ve.",
+                        "Jefe soberano, Cristo al frente va,",
+                        "Y la regia enseña, tremolando está."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Firmes y adelante, huestes de la fe,",
+                        "Sin temor alguno, que Jesús nos ve."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Al sagrado nombre de nuestro adalid,",
+                        "Tiembla el enemigo y huye de la lid.",
+                        "Nuestra es la victoria, dad a Dios loor,",
+                        "Y óigalo el averno lleno de pavor."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Muévase potente, la Iglesia de Dios;",
+                        "De los ya gloriosos marchamos en pos;",
+                        "Somos sólo un cuerpo, y uno es el Señor,",
+                        "Una la esperanza, y uno nuestro amor."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Tronos y coronas pueden perecer;",
+                        "De Jesús la Iglesia fiel habrá de ser;",
+                        "Nada en contra suya prevalecerá,",
+                        "Porque la promesa nunca faltará."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 90,
+            "titulo": "SOY MÁS QUE VENCEDOR",
+            "tono": "SOL Mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "En esta vida el enemigo hostil,",
+                        "me asedia siempre sin cesar",
+                        "Mas por el Salvador, soy más que vencedor",
+                        "en mi diario caminar"
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Con el Salvador soy más que vencedor,",
+                        "ya Cristo me da la victoria",
+                        "Si acosa el tentador yo digo con valor",
+                        "que Cristo me da la victoria"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Aunque la lucha sea muy tenaz;",
+                        "Y fiero sea el tentador",
+                        "Aunque afligido esté",
+                        "Con Cristo bien lo sé",
+                        "Que saldré yo vencedor."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Las huestes redimidas por Jesús",
+                        "Batallan siempre con valor;",
+                        "Jamás se rendirán,",
+                        "La lucha ganarán",
+                        "Por Jesús su Salvador."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Fielmente por Jesús trabajaré,",
+                        "Con Él jamás tendré temor;",
+                        "Vencer con Él podré,",
+                        "Triunfante marcharé",
+                        "Con las huestes del Señor."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 98,
+            "titulo": "HIJO DE DIOS SOY YO",
+            "tono": "SOL Mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "En mi corazón tengo paz y gozo,",
+                        "Hijo de Dios soy yo;",
+                        "Mora en mí Jesús, mi Señor glorioso,",
+                        "Hijo de Dios soy yo."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Hijo de Dios soy yo,",
+                        "Hijo de Dios soy yo;",
+                        "Porque me entregué a mi Jesucristo,",
+                        "Hijo de Dios soy yo."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Del pecado vil quedo perdonado,",
+                        "Hijo de Dios soy yo;",
+                        "De mis vicios mil Cristo me ha librado,",
+                        "Hijo de Dios soy yo."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Viviré por Él una vida santa,",
+                        "Hijo de Dios soy yo;",
+                        "De mi libertad mi alma siempre canta,",
+                        "Hijo de Dios soy yo."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Dondequiera que esté siempre testifico,",
+                        "Hijo de Dios soy yo;",
+                        "Quiero compartir este don tan rico,",
+                        "Hijo de Dios soy yo."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 99,
+            "titulo": "¡OH, QUE ADMIRABLES SON!",
+            "tono": "DO Mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Llevó mis transgresiones, Él me santificó,",
+                        "Oyó mis peticiones, su sangre me sanó."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "¡Admirables obras las que me ha hecho Dios!",
+                        "¡Oh, cuán admirables son! ¡Admirables todas son!",
+                        "¡Admirables obras las que me ha hecho Dios!",
+                        "¡A su nombre loor!"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "En medio de afliciones",
+                        "conmigo siempre está,",
+                        "Si asaltan tentaciones,",
+                        "Él mi alma guardará."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Su bendición me sacia;",
+                        "Él me hace prosperar,",
+                        "Me da su gloria y gracia,",
+                        "me sabe acrisolar."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Me guarda fiel, por tanto,",
+                        "gozando estoy su amor;",
+                        "Mi gratitud le canto,",
+                        "y sirvo a mi Señor."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 104,
+            "titulo": "SUBLIME GRACIA",
+            "tono": "SOL Mayor",
+            "compas": "3/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Sublime gracia del Señor que un infeliz salvó;",
+                        "Fui ciego mas hoy miro yo, perdido y Él me halló."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Su gracia me enseñó a temer, mis dudas ahuyentó,",
+                        "¡Oh cuán precioso fue a mi ser, al dar mi corazón!"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "En los peligros o aflicción que yo he tenido aquí;",
+                        "Su gracia siempre me libró y me guiará feliz."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Y cuando en Sión por siglos mil brillando esté cual sol;",
+                        "Yo cantaré por siempre allí su amor que me salvó."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 111,
+            "titulo": "¡OH, CUAN DULCE!",
+            "tono": "SOL Mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "¡Oh, cuán dulce es fiar en Cristo, Y entregarse todo a Él,",
+                        "Esperar en sus promesas, y en sus sendas serle fiel."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Jesucristo, Jesucristo, ya tu amor probaste en mí;",
+                        "Jesucristo, Jesucristo, siempre quiero fiar en ti."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Es muy dulce fiar en Cristo",
+                        "Y cumplir su voluntad,",
+                        "No dudando su palabra,",
+                        "Que es la luz y la verdad."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Siempre es grato fiar en Cristo",
+                        "Cuando busca el corazón",
+                        "Los tesoros celestiales",
+                        "De la paz y del perdón."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Siempre en Ti confiar yo quiero,",
+                        "Mi precioso Salvador;",
+                        "En la vida y en la muerte",
+                        "Protección me dé tu amor."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 112,
+            "titulo": "LAS PROMESAS DE JESÚS",
+            "tono": "LA Mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Todas las promesas del Señor Jesús,",
+                        "Son apoyo poderoso de mi fe;",
+                        "Mientras luche aquí buscando yo su luz,",
+                        "Siempre en sus promesas confiaré."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Grandes, fieles,",
+                        "Las promesas que el Señor Jesús me ha dado;",
+                        "Grandes, fieles,",
+                        "En ellas para siempre confiaré."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Todas sus promesas para el hombre fiel,",
+                        "El Señor en sus bondades cumplirá;",
+                        "Y confiando sé que para siempre en Él,",
+                        "Paz eterna mi alma gozará."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Todas las promesas del Señor serán",
+                        "Gozo y fuerza en nuestra vida terrenal;",
+                        "Ellas en la dura lid nos sostendrán,",
+                        "Y triunfar podremos sobre el mal."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 116,
+            "titulo": "DILO A CRISTO",
+            "tono": "SOL Mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Cuando estás cansado y abatido,",
+                        "dilo a Cristo, dilo a Cristo;",
+                        "Si te sientes débil, confundido,",
+                        "dilo a Cristo el Señor.",
+                        "Dilo a Cristo, dilo a Cristo."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Él es tu amigo más fiel;",
+                        "No hay otro amigo como Cristo,",
+                        "Dilo tan sólo a Él."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Cuando estás de tentación cercado,",
+                        "Mira a Cristo, mira a Cristo;",
+                        "Cuando rugen huestes de pecado,",
+                        "Mira a Cristo el Señor.",
+                        "Mira a Cristo, mira a Cristo."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Si se apartan otros de la senda,",
+                        "Sigue a Cristo, sigue a Cristo;",
+                        "Si acrecienta entorno la contienda,",
+                        "Sigue a Cristo el Señor.",
+                        "Sigue a Cristo, sigue a Cristo."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Cuando llegue la final jornada,",
+                        "Fía en Cristo, fía en Cristo;",
+                        "Te dará en el cielo franca entrada,",
+                        "Fía en Cristo el Señor.",
+                        "Fía en Cristo, fía en Cristo."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 117,
+            "titulo": "PAZ INEFABLE",
+            "tono": "SOL Mayor",
+            "compas": "6/8",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "En el seno de mi alma una dulce quietud",
+                        "Se difunde embargando mi ser;",
+                        "Una calma infinita que sólo podrán",
+                        "Los amados de Dios comprender."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "¡Paz! ¡Paz! ¡Cuán dulce paz",
+                        "Es aquella que el Padre me da!",
+                        "Yo le ruego que inunde por siempre mi ser",
+                        "En sus ondas de amor celestial."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Esta paz inefable consuelo me da,",
+                        "Descansando tan sólo en Jesús;",
+                        "Y ningunos peligros mi vida tendrá",
+                        "Si me siento inundado en su luz."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Sin cesar yo medito en aquella ciudad",
+                        "Do el Autor de la paz he de ver,",
+                        "Y en que el himno más dulce que habré de cantar",
+                        "¡De su paz nada más ha de ser!"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Alma triste que en rudo conflicto te ves,",
+                        "Sola y débil tu senda al seguir,",
+                        "Haz de Cristo el amigo que fiel siempre es,",
+                        "¡Y su paz tú podrás recibir!"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 123,
+            "titulo": "¡OH, QUÉ AMIGO!",
+            "tono": "MI Mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "¡Oh, qué amigo nos es Cristo!",
+                        "Él llevó nuestro dolor,",
+                        "Y nos manda que llevemos",
+                        "Todo a Dios en oración."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "¿Vive el hombre desprovisto",
+                        "De paz, gozo y santo amor",
+                        "Esto es porque no llevamos",
+                        "Todo a Dios en oración."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "¿Vives débil y cargado",
+                        "De cuidados y temor?",
+                        "A Jesús, refugio eterno,",
+                        "Dile todo en oración."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "¿Te desprecian tus amigos?",
+                        "Cuéntaselo en oración;",
+                        "En sus brazos de amor tierno",
+                        "Paz tendrá tu corazón."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 5,
+                    "lineas": [
+                        "Jesucristo es nuestro amigo,",
+                        "De esto pruebas Él nos dio,",
+                        "Al sufrir el cruel castigo",
+                        "Que el culpable mereció."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 6,
+                    "lineas": [
+                        "Y su pueblo redimido",
+                        "Hallará seguridad,",
+                        "Fiando en este Amigo eterno",
+                        "Y esperando en su bondad."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 131,
+            "titulo": "ME GUÍA ÉL, CON CUÁNTO AMOR",
+            "tono": "RE Mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Me guía Él, con cuánto amor,",
+                        "Me guía siempre mi Señor;",
+                        "Al ver mi esfuerzo en serle fiel,",
+                        "Con cuánto amor me guía Él."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Me guía Él, me guía Él,",
+                        "Con cuánto amor me guía Él;",
+                        "No abrigo dudas ni temor,",
+                        "Pues me conduce el buen Pastor."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "En el abismo del dolor,",
+                        "O en donde brille el sol mejor,",
+                        "En dulce paz o en lucha cruel,",
+                        "Con gran bondad me guía Él."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Tu mano quiero yo tomar,",
+                        "Jesús, y nunca vacilar,",
+                        "Pues sólo a quién te sigue fiel",
+                        "Se oyó decir: Me guía Él."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Y mi carrera al terminar,",
+                        "Y así mi triunfo realizar,",
+                        "No habrá ni dudas ni temor,",
+                        "Pues me guiará mi buen Pastor"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 132,
+            "titulo": "DULCE ORACIÓN",
+            "tono": "RE Mayor",
+            "compas": "6/8",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Dulce oración, dulce oración,",
+                        "De toda influencia mundanal",
+                        "Elevas tú mi corazón,",
+                        "Al tierno Padre celestial."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "¡Oh, cuántas veces tuve en ti",
+                        "Auxilio en ruda tentación,",
+                        "Y cuántos bienes recibí",
+                        "Mediante ti, dulce oración!"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Dulce oración, dulce oración,",
+                        "Al trono excelso de bondad;",
+                        "Tú llevarás mi petición",
+                        "A Dios que escucha con piedad."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Por fe espero recibir",
+                        "La gran divina bendición,",
+                        "Y siempre a mi Señor servir",
+                        "Por tu virtud, dulce oración."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 5,
+                    "lineas": [
+                        "Dulce oración, dulce oración,",
+                        "Que aliento y gozo al alma das,",
+                        "En prueba, en duelo y aflicción",
+                        "Consuelo siempre me serás."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 6,
+                    "lineas": [
+                        "Hasta el momento en que veré",
+                        "Francas las puertas de Sión,",
+                        "Entonces me despediré",
+                        "Feliz, de ti, dulce oración."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 133,
+            "titulo": "CERCA DE TI, SEÑOR",
+            "tono": "SOL Mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Cerca de Ti, Señor, quiero morar;",
+                        "Tu grande, tierno amor quiero gozar.",
+                        "Llena mi pobre ser, limpia mi corazón;",
+                        "Hazme tu rostro ver en comunión."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Pasos inciertos doy; el sol se va;",
+                        "Mas si contigo estoy, no temo ya.",
+                        "Himnos de gratitud ferviente cantaré,",
+                        "Y fiel a ti, Jesús, siempre seré."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Día feliz veré, creyendo en ti,",
+                        "En que yo habitaré cerca de ti.",
+                        "Mi voz alabará tu dulce nombre allí,",
+                        "Y mi alma gozará cerca de ti."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 141,
+            "titulo": "CUANDO ESTEMOS EN GLORIA",
+            "tono": "DO Mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Canten del amor de Cristo,",
+                        "Ensalzad al Redentor;",
+                        "Tributadle santos todos,",
+                        "Grande gloria y loor."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Cuando estemos en gloria,",
+                        "En presencia de nuestro Redentor,",
+                        "A una voz la historia diremos",
+                        "Del gran Vencedor."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "La victoria es segura",
+                        "A las huestes del Señor;",
+                        "¡Oh, pelead con la mirada",
+                        "Puesta en nuestro Protector!"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "El pendón alzad, cristianos,",
+                        "De la cruz, y caminad;",
+                        "De triunfo en triunfo siempre",
+                        "Firmes avanzad."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Adelante en la lucha,",
+                        "¡Oh, soldados de la fe!",
+                        "Nuestro triunfo, oh escucha,",
+                        "Los clamores: ¡Viva el Rey!"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 142,
+            "titulo": "CUANDO ALLÁ SE PASE LISTA",
+            "tono": "SOL Mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Cuando la trompeta suene en aquel día final,",
+                        "Y que el alba eterna rompa en claridad;",
+                        "Cuando las naciones salvas a su patria lleguen ya,",
+                        "Y que sea pasada lista, allí he de estar."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Cuando allá se pase lista,",
+                        "Cuando allá se pase lista,",
+                        "Cuando allá se pase lista,",
+                        "A mi nombre yo feliz responderé."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "En aquel día sin nieblas",
+                        "En que muerte ya no habrá,",
+                        "Y su gloria el Salvador impartirá;",
+                        "Cuando los llamados entren a su celestial hogar,",
+                        "Y que sea pasada lista, allí he de estar."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Trabajemos por el Maestro",
+                        "Desde el alba al vislumbrar;",
+                        "Siempre hablemos de su amor y fiel bondad,",
+                        "Cuando todo aquí fenezca y nuestra obra cese ya,",
+                        "Y que sea pasada lista, allí he de estar."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": 158,
+            "titulo": "DIOS OS GUARDE",
+            "tono": "DO Mayor",
+            "compas": "4/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Dios os guarde en su santo amor;",
+                        "Hasta el día en que lleguemos",
+                        "A la patria do estaremos,",
+                        "Para siempre con el Salvador."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Al venir Jesús nos veremos",
+                        "A los pies de nuestro Salvador;",
+                        "Reunidos todos seremos,",
+                        "Un redil con nuestro buen Pastor."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Dios os guarde en su santo amor;",
+                        "En la senda peligrosa,",
+                        "De esta vida tormentosa,",
+                        "Os conserve en paz y sin temor."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Dios os guarde en su santo amor;",
+                        "Os conduzca su bandera;",
+                        "Y os esfuerce en gran manera",
+                        "Con su Espíritu Consolador."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Dios os guarde en su santo amor;",
+                        "Con su gracia Él os sostenga",
+                        "Hasta que el Maestro venga,",
+                        "A fundar su reino en esplendor."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": null,
+            "titulo": "GUÍAME A LA GLORIA",
+            "tono": "SI menor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Vivo cada día, a tus pies orando,",
+                        "Pensando en tus dichos,",
+                        "Cristo Salvador.",
+                        "Del vivir en vano, líbrame te ruego,",
+                        "Con fe victoriosa quiero trabajar."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Guíame a la gloria de tu santidad,",
+                        "Como el peregrino caminando estoy;",
+                        "Gozar es mi anhelo contigo, Señor,",
+                        "Estar en el cielo por la eternidad."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Pensando en riquezas aquí no las tengo",
+                        "Pero tus promesas más que ellas son;",
+                        "Al fin de mi vida yo ansioso espero",
+                        "Tu voz bendecida por siempre escuchar."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Nunca tengas dudas de esas bendiciones",
+                        "Para ti son todas, si caminas fiel;",
+                        "Si a Cristo acudes, las dudas se alejan",
+                        "Acepta y confía en tu Salvador."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Si fui infiel, no comprendí,",
+                        "En la maldad lejos vagué;",
+                        "Ahora Señor, perdóname,",
+                        "Limpia mi ser, quiero ser fiel."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": null,
+            "titulo": "MÁS ALLÁ DEL SOL",
+            "tono": "Re Mayor",
+            "compas": "3/4",
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Aunque en esta vida no tengo riquezas",
+                        "Sé que allá en la gloria tengo una mansión;",
+                        "Cual alma perdida entre las pobrezas",
+                        "De mi Jesucristo tuvo compasión."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "//Más allá del sol, más allá del sol,",
+                        "Yo tengo un hogar, hogar bello hogar;",
+                        "Más allá del sol.//"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Así por el mundo yo voy caminando,",
+                        "De penas rodeado y de tentación;",
+                        "Pero a mi lado viene consolando,",
+                        "Mi bendito Cristo con su gran amor."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": null,
+            "titulo": "ENTERA CONSAGRACIÓN",
+            "tono": "RE Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Que mi vida entera esté",
+                        "Consagrada a ti, Señor;",
+                        "Que a mis manos pueda guiar",
+                        "El impulso de tu amor."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Lávame en tu sangre, Salvador,",
+                        "Límpiame de toda mi maldad;",
+                        "Traigo a ti mi vida, para ser, Señor",
+                        "Tuya por la eternidad."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Que mis pies tan sólo en pos",
+                        "De lo santo puedan ir;",
+                        "Y que a ti, Señor, mi voz",
+                        "Se complazca en bendecir."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Que mi tiempo todo esté",
+                        "Consagrado a tu loor;",
+                        "Que mis labios al hablar",
+                        "Hablen sólo de tu amor."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Toma, ¡oh Dios!, mi voluntad,",
+                        "Hazla tuya, nada más;",
+                        "Toma, sí, mi corazón,",
+                        "Por tu trono lo tendrás."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": null,
+            "titulo": "¡CUÁN GRANDE ES ÉL!",
+            "tono": "LA Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Señor, mi Dios, al contemplar los cielos,",
+                        "El firmamento y las estrellas mil,",
+                        "Al oír tu voz en los potentes truenos",
+                        "Y ver brillar al sol en su cenit."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Mi corazón entona esta canción:",
+                        "¡Cuán grande es Él!",
+                        "¡Cuán grande es Él!",
+                        "Mi corazón entona esta canción:",
+                        "¡Cuán grande es Él!",
+                        "¡Cuán grande es Él!"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Al recorrer los montes y los valles,",
+                        "Y ver las bellas flores al pasar,",
+                        "Al escuchar el canto de las aves",
+                        "Y el murmurar del claro manantial."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Cuando recuerdo del amor divino",
+                        "Que desde el cielo al Salvador envió,",
+                        "Aquel Jesús que por salvarme vino",
+                        "Y en una cruz sufrió por mí y murió."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Cuando el Señor me llame a su presencia",
+                        "Al dulce hogar, al cielo de esplendor",
+                        "Le adoraré cantando la grandeza",
+                        "De su poder y su infinito amor."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": null,
+            "titulo": "EN CRISTO ESTÁ MI SALVACIÓN",
+            "tono": "RE Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "En Cristo está mi salvación;",
+                        "Él es mi fuerza, luz, canción.",
+                        "La Roca Eterna, fundación;",
+                        "Firme en prueba y tentación.",
+                        "Oh, alto amor, profunda paz;",
+                        "La lucha cesa y el temor.",
+                        "Mi esperanza y protección;",
+                        "En el amor de Cristo estoy."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "En Cristo está mi redención;",
+                        "Dios infinito se humilló.",
+                        "Su don de amor y libertad",
+                        "El mundo entero despreció.",
+                        "Allá en la cruz, mientras murió,",
+                        "El justo Dios se conformó.",
+                        "Y mi pecado Él cargó,",
+                        "Hoy en Su muerte vivo yo."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Fue sepultado al morir,",
+                        "La luz del mundo se apagó.",
+                        "Mas con poder resucitó:",
+                        "De muerte Él se levantó.",
+                        "¡Glorioso Rey! El Vencedor",
+                        "De mi pecado me libró.",
+                        "Pues Suyo soy y mío es Él,",
+                        "Dios con Su sangre me compró."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Vivir sin culpa y sin temor,",
+                        "Es el poder de Cristo en mí.",
+                        "Desde nacer hasta morir,",
+                        "Cristo conduce mi existir.",
+                        "No hay poder ni voluntad",
+                        "Que de Él me pueda apartar.",
+                        "Hasta que vuelva o muera yo,",
+                        "En el poder de Cristo estoy."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": null,
+            "titulo": "TODO A CRISTO YO ME RINDO",
+            "tono": "DO Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Todo a Cristo yo me rindo,",
+                        "Con el fin de serle fiel;",
+                        "Para siempre quiero amarle",
+                        "Y agradarle sólo a Él."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Yo me rindo a Él,",
+                        "Yo me rindo a Él;",
+                        "Todo a Cristo yo me entrego,",
+                        "Quiero serle fiel."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Todo a Cristo yo me rindo,",
+                        "A sus pies postrado estoy;",
+                        "Los placeres he dejado,",
+                        "Y le sigo desde hoy."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Todo a Cristo yo me rindo",
+                        "Si, de todo corazón",
+                        "Yo le entrego alma y cuerpo",
+                        "Busco hoy su santa unción."
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 4,
+                    "lineas": [
+                        "Todo a Cristo he rendido,",
+                        "Siento el fuego de su amor;",
+                        "¡Oh, qué gozo hay en mi alma!",
+                        "¡Gloria, gloria a mi Señor!"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": null,
+            "titulo": "VINE ADORARTE",
+            "tono": "RE Mayor",
+            "compas": null,
+            "autor": "Marcela Gándara",
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Tú eres la luz",
+                        "Que brilló en las tinieblas",
+                        "Abrió mis ojos pude ver",
+                        "Mi corazón adora tu hermosura",
+                        "Esperanza de vida eres tú"
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "// Vine a adorarte //",
+                        "Vine a postrarme",
+                        "Vine a decir que eres mi Dios",
+                        "Solo tú eres grande",
+                        "Solo tú eres digno",
+                        "Eres asombroso para mí //"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Tú eres el Rey",
+                        "Grandemente exaltado",
+                        "Glorioso por siempre Señor",
+                        "El mundo que creaste humilde viviste",
+                        "Y pobre te hiciste por amor"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 3,
+                    "lineas": [
+                        "Nunca sabré",
+                        "Cuánto costó",
+                        "Ver mi maldad",
+                        "Sobre esa cruz"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": null,
+            "titulo": "ABRE MIS OJOS OH CRISTO",
+            "tono": "RE Mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Abre mis ojos oh Cristo",
+                        "Abre mis ojos te pido",
+                        "Yo quiero verte",
+                        "Yo quiero verte"
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Y contemplar Tu Majestad",
+                        "Y el resplandor de Tu gloria",
+                        "Derrama Tu amor y poder",
+                        "Cuando cantamos:",
+                        "Santo, Santo",
+                        "Santo, Santo, Santo",
+                        "Santo, Santo, Santo",
+                        "Santo, Santo, Santo",
+                        "Yo quiero verte"
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": null,
+            "titulo": "CREO EN TI",
+            "tono": "La menor",
+            "compas": null,
+            "autor": "Julio Melgar",
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Quiero levantar a ti mis Manos",
+                        "Maravilloso Jesús, Milagroso señor",
+                        "Llena este lugar de tu presencia",
+                        "Has descender tu poder, a los que estamos aquí."
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Recibe toda la gloria",
+                        "Recibe toda la honra",
+                        "Precioso hijo de Dios"
+                    ]
+                },
+                {
+                    "tipo": "estrofa",
+                    "numero": 2,
+                    "lineas": [
+                        "Creo en ti... Je-sus",
+                        "De lo que harás en mi",
+                        "En MI... en MI..."
+                    ]
+                }
+            ]
+        },
+        {
+            "numero": null,
+            "titulo": "TÚ ESTÁS AQUÍ",
+            "tono": "Sol mayor",
+            "compas": null,
+            "autor": null,
+            "compositor": null,
+            "referencias_biblicas": [],
+            "secciones": [
+                {
+                    "tipo": "estrofa",
+                    "numero": 1,
+                    "lineas": [
+                        "Aunque mis ojos no te puedan ver,",
+                        "te puedo sentir, sé que estás aquí.",
+                        "Aunque mis manos no pueden tocar",
+                        "tu rostro Señor, sé que estás aquí…"
+                    ]
+                },
+                {
+                    "tipo": "coro",
+                    "lineas": [
+                        "Mi corazón puede sentir tu presencia",
+                        "Tú estás aquí,",
+                        "tú estás aquí.",
+                        "Puedo sentir tu Majestad.",
+                        "Tú estás aquí,",
+                        "tú estás aquí."
+                    ]
+                }
+            ]
+        }
+    ]
+}

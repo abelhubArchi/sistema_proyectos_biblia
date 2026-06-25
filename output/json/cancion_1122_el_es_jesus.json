@@ -1,0 +1,51 @@
+{
+  "numero": null,
+  "titulo": "EL ES JESUS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "EL ES JESÚS QUIÉN VENCIÓ EN LA CRUZ",
+        "",
+        "FUE QUIEN CARGÓ",
+        "",
+        "QUIEN LLEVÓ NUESTRO DOLOR"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "JESÚS RESUCITÓ",
+        "",
+        "Y POR SU SANGRE, SUS HERIDAS",
+        "",
+        "NOS SANÓ",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "NADA ES DIFÍCIL PARA DIOS",
+        "",
+        "TODO ES POSIBLE AL QUE CREE",
+        "",
+        "HOY LAS MONTAÑAS POR LA FE",
+        "",
+        "SE MOVERÁN POR SU PODER"
+      ]
+    }
+  ]
+}

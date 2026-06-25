@@ -1,0 +1,71 @@
+{
+  "numero": null,
+  "titulo": "PROSEGUIREMOS HACIA LA META",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ESTAMOS HOY AQUÍ CON UN MISMO SENTIR",
+        "DANDO GRACIAS Y GLORIA AL SEÑOR",
+        "CONTEMPLAMOS TODOS JUNTOS UN GLORIOSO PORVENIR",
+        "MAS UN MOMENTO CONVIENE REFLEXIONAR"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "RECORDEMOS LOS COMIENZOS Y SU FIDELIDAD,",
+        "TANTAS COSAS NOS HA HECHO LOGRAR",
+        "HEMOS VIVIDO MUCHAS PRUEBAS MAS SU MANO SIEMPRE ESTÁ",
+        "Y LA VICTORIA NOS DARÁ",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "CORO:",
+        "PROSEGUIREMOS... HACIA LA META...",
+        "JUNTOS MARCHANDO... IMPULSADOS POR SU AMOR",
+        "CON FE SEGUIREMOS... A JESUCRISTO...",
+        "SIEMPRE AVANZANDO... EN LA MISIÓN QUE ÉL NOS DIO",
+        "HACIA LA META HASTA EL FINAL",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "OTROS FIELES NOS PASARON EL TESTIGO DE JESÚS",
+        "Y SEGUIMOS CORRIENDO CON FERVOR",
+        "NUEVAS FRONTERAS NOS ESPERAN Y LAS VAMOS A ALCANZAR",
+        "CON LA AYUDA DEL SEÑOR",
+        "",
+        "– CORO –"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "DERRIBAMOS FORTALEZAS EN EL NOMBRE DE JESÚS, HAY MUCHA TIERRA AÚN POR CONQUISTAR",
+        "EN SU FUERZA LUCHAREMOS SIN RENDIRNOS JAMÁS Y EL ADVERSARIO NO NOS DETENDRÁ, EL PUEBLO DE LA LUZ VENCERÁ",
+        "",
+        "– CORO –"
+      ]
+    }
+  ]
+}

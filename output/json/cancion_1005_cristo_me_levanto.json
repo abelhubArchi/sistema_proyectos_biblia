@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "CRISTO ME LEVANTO",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Caminaba en pecado y desesperación,",
+        "Triste, agobiado y en gran aflicción;",
+        "Con dudas viví, y el temor me postró,",
+        "Mas vino Jesús y me levantó.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Del vil cenagal Cristo me levantó,",
+        "Y sobre la roca mis pies colocó;",
+        "A célicos sitios El me levantó,",
+        "Y mi alma de gracia Cristo llenó.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Yo vagaba muy lejos de Cristo y mi hogar,",
+        "Tan fatigado yo de mi pecar",
+        "Ayuda busqué y el Señor me escuchó,",
+        "El pronto llegó y me levantó.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Sobre arena yo mi casa edifiqué,",
+        "Todos los bienes del mundo busqué:",
+        "\"Perdido tú estás,\" Satanás declaró,",
+        "Mas vino Jesús y me levantó.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Al hogar celestial voy con dulce canción,",
+        "Con El camino, ¡que gran bendición!",
+        "La sangre de Cristo me purificó;",
+        "¡Oh gloria a su nombre, me levantó!"
+      ]
+    }
+  ]
+}

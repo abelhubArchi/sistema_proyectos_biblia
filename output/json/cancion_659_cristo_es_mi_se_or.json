@@ -1,0 +1,52 @@
+{
+  "numero": null,
+  "titulo": "CRISTO ES MI SEÑOR",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "CRISTO ES MI SEÑOR",
+        "NO ME DA TEMOR",
+        "DECLARARE AL MUNDO ENTERO DE SU GRAN PODER",
+        "EN MI VIDA PERMITIR QUE EL SE DEJE VER"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "CRISTO ES MI SEÑOR",
+        "NO ME DA TEMOR",
+        "DEMOSTRAR CON MIS ACCIONES QUE EL PUEDE REINAR",
+        "EN LA VIDA DE CUALQUIERA QUE SE QUIERA ENTREGAR"
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "¡JESUCRISTO! NO ME DETENDRE",
+        "DE DOBLAR MI RODILLA Y MI SER",
+        "ANTE TU MAJESTAD"
+      ]
+    },
+    {
+      "tipo": "personalizado",
+      "nombre": "C1",
+      "lineas": [
+        "¡JESUCRISTO! TE CONFESARE",
+        "CON MIS LABIOS DECLARARE",
+        "QUE TU ERES SEÑOR//"
+      ]
+    }
+  ]
+}

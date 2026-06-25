@@ -1,0 +1,55 @@
+{
+  "numero": 41,
+  "titulo": "LA TUMBA LE ENCERRÓ",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "La tumba le encerró. Cristo, mi Cristo;",
+        "El alba allí esperó, Cristo el Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cristo la tumba venció, (sí, venció)",
+        "Y con gran poder resucitó;",
+        "De sepulcro y muerte Cristo es vencedor,",
+        "",
+        "Vive para siempre nuestro Salvador;",
+        "¡Gloria a Dios!  (¡Gloria a Dios!)",
+        "¡Gloria a Dios!  (¡Gloria a Dios!)",
+        "El Señor resucitó.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "De guardas escapó, Cristo, mi Cristo;",
+        "El sello destruyó, Cristo el Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "La muerte dominó, Cristo, mi Cristo;",
+        "Y su poder venció, Cristo el Señor."
+      ]
+    }
+  ]
+}

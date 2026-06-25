@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Dios Tatayku",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Dios Tatayku, yachachiwayku Palabraykita.",
+        "Riyta munayku janaj pachaman wiñay kawsayman./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Palabraykeqa yachachiwayku.",
+        "Qorimanta wasis kasqanta janaj pachapiJ",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Kay pachapi noqaykupajqa tukukaponqa.",
+        "Qori, qolqepis, k’acha imaspis qhepakaponqa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Jatun wasispis jatun llajtaspis urmaykaponqa.",
+        "Ajinamanta Palabraykeqa junfakaponqa./"
+      ]
+    }
+  ]
+}

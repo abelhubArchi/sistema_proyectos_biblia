@@ -1,0 +1,56 @@
+{
+  "numero": null,
+  "titulo": "LIMPIA, SEÑOR, MI MALDAD",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Maravilloso Dios, omnipotente Rey,",
+        "Tu amor y santidad por siempre durarán.",
+        "Mi amante Redentor, da a tu siervo hoy,",
+        "Pureza y verdad, según tu voluntad.",
+        ":Te ruego, ¡oh Señor;",
+        "Que limpies mi maldad;",
+        "Y asf podré servirte fiel. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¡Oh, mi Señor Jesús; Hoy llena a mi ser,",
+        "Con Espíritu de paz y tu divino amor.",
+        "Deseo, oh Señor, paciencia y solaz,",
+        "Bondad y compasión, y ser perdonador.",
+        ":Te ruego, ¡oh Señor;",
+        "Que limpies mi maldad,",
+        "Con tu fuego purificador. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¡Oh, mi Señor Jesús; sin esta santidad,",
+        "Pues nadie te verá, allí en tu mansión.",
+        "Tan sólo te verán, los limpios en verdad;",
+        "Y vivirán allí por la eternidad.",
+        ":Te ruego, ¡oh Señor;",
+        "Que limpies mi maldad;",
+        "Y así contigo moraré. (Bis)"
+      ]
+    }
+  ]
+}

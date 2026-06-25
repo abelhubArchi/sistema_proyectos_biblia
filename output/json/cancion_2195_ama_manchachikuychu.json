@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "Ama manchachikuychu",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/\"Ama manchachikuychu niwan Señor",
+        "Atiyniyoj Diosniyki kani\"./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/”Mañakuway, noqa qosqayki;",
+        "Mosoj willay yachachisqayki\"./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/\"Kallpachakuy, chanta wapuchakuytaj qan",
+        "Kamachisniyta ama saqespa”./"
+      ]
+    }
+  ]
+}

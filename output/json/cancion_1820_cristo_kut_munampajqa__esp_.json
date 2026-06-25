@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Cristo Kutímunampajqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Antes que venga el Señor, los astros oscurecerán.",
+        "Ni la luna dará su luz. El luego nos sorprenderá.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Muy pronto acontecerá el regreso del Salvador./",
+        "Preparémonos, hermanos, para el encuentro con Jesús",
+        "Pronto viene el Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "El retomo de mi Jesús, todo ojo contemplará.",
+        "Con su gran poder bajará en medio de sus ángeles.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Muchos dicen: mañana quizás. El mañana tarde será",
+        "Tiempo no habrá de salvación, la puerta ya se cerrará."
+      ]
+    }
+  ]
+}

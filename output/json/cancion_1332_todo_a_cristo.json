@@ -1,0 +1,65 @@
+{
+  "numero": null,
+  "titulo": "TODO A CRISTO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "TODO A CRISTO YO ME RINDO,",
+        "CON EL FIN DE SERLE FIEL.",
+        "PARA SIEMPRE QUIERO AMARLE,",
+        "Y AGRADARLE SOLO A ÉL."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "YO ME RINDO A ÉL,",
+        "YO ME RINDO A ÉL.",
+        "TODO A CRISTO YO ME ENTREGO,",
+        "QUIERO SERLE FEIL."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "TODO A CRISTO YO ME RINDO,",
+        "A SUS PIES POSTRADO ESTOY.",
+        "L0S PLACERES HE DEJADO,",
+        "Y LE SIGO DESDE HOY."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "TODO A CRISTO YO ME RINDO,",
+        "SI, DE TODO CORAZÓN.",
+        "YO LE ENTREGO ALMA Y CUERPO,",
+        "BUSCO HOY SU SANTA UNCIÓN."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "TODO A CRISTO YO ME RINDO,",
+        "SIENTO EL FUEGO DE SU AMOR.",
+        "¡OH, QUE GOZO HAY EN MI ALMA!",
+        "GLORIA, GLORIA A MI SEÑOR."
+      ]
+    }
+  ]
+}

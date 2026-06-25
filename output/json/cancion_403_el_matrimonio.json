@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "EL MATRIMONIO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Instituido el matrimonio fue por nuestro Dios,",
+        "¡Qué gozo es! ¡Qué gozo es!",
+        "Puso a Adán y Eva en el Huerto de Edén",
+        "Para gozar en comunión.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "¡Qué gozo es, qué gozo es!",
+        "Sentimos gran felicidad.",
+        "Todos cantaremos y regocijémonos",
+        "Con los que aquí se casan hoy. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Oh qué bueno es cumplir la voluntad de Dios",
+        "¡Qué gozo es, qué gozo es!",
+        "Y obedecer lo que El nos dice en su ley,",
+        "¡Qué gozo es, qué gozo es!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Y si no separa el hombre lo que Dios juntó",
+        "¡Qué gozo habrá, qué gozo habrá!",
+        "Y si en armonía viven cada día con Dios",
+        "¡Qué gozo habrá, qué gozo habrá!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Recibamos hoy el buen mensaje del amor",
+        "De nuestro Dios, ¡qué gozo da!",
+        "Que el Señor bendiga hoy a este nuevo hogar",
+        "Con gozo y paz, con gozo y paz."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Niraj Diosta Rejsishaspa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Mientras vagaba en tinieblas,",
+        "Cuantos males me invadieron./",
+        "/Rendido por mis pecados,",
+        "Destinado al tormento./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Ahora conozco a Cristo,",
+        "Ya me siento muy gozoso./",
+        "/Sólo a mi Jesús doy gracias,",
+        "En su amor me ha perdonado./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/¿Amigo, tu estás afligido,",
+        "Cuando agobiado te sientes?/",
+        "/A Jesús acude hoy mismo,",
+        "Te salvará El del tormento./"
+      ]
+    }
+  ]
+}

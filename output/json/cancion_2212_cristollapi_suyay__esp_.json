@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "Cristollapi Suyay (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "El que va doquiera con Jesús,",
+        "Más temores, nunca ya tendrá;",
+        "Aunque vengan penas y dolor,",
+        "Con él siempre estará Jesús.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Es dichoso todo hombre,",
+        "Que confiare en Señor Jesús;",
+        "Tendrá él siempre victorias,",
+        "En las pruebas duras que vendrán.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Quiero andar con mi Señor Jesús,",
+        "A pesar de tropiezos mil,",
+        "Llegaré con mi Señor Jesús,",
+        "A gozar al celeste hogar",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¡Oh mi hermano! ¿en soledad estás?",
+        "Cristo quiere ser tu amigo fiel;",
+        "Si hoy mismo das tu corazón,",
+        "Para siempre gozarás con El."
+      ]
+    }
+  ]
+}

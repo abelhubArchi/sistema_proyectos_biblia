@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Cristo Sapallantaña",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Cristo sapallantaña noqa qhatisaj,",
+        "Misk’i Palabrasninwan sonqochawanqa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Jatun munakuyninwan yanapawanqa.",
+        "Kusichiwan soqoyta mñayninümpaj./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Kay pachapi kawsayqa tukukojllamin,",
+        "Janaj pachapi kawsay wiñaypaj kanqa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Payta qhatejkunaqa salvos kajkuna,",
+        "Diospi tukuy ujchasqas kallpachakunku./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Kaypi kawsanaykama qhatisajpuni.",
+        "Llakiypi, waqaypipis yanapawanqa./"
+      ]
+    }
+  ]
+}

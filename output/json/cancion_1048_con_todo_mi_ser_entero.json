@@ -1,0 +1,48 @@
+{
+  "numero": null,
+  "titulo": "CON TODO MI SER ENTERO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": "J. Caleb Ward 2005",
+  "compositor": "J. Caleb Ward 2005",
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "CON TODO MI SER ENTERO",
+        "",
+        "TE PROCLAMARÉ",
+        "",
+        "CON DENUEDO Y CORAZÓN SINCERO",
+        "",
+        "PUES ERES PARA MI JESÚS",
+        "",
+        "MI ESPERANZA Y FORTALEZA",
+        "",
+        "EN TU NOMBRE ESTÁ MI SALVACIÓN",
+        "",
+        "Y LA FUENTE DE MI FUERZA",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "CANTARÉ Y DANZARÉ",
+        "",
+        "EN TU PRESENCIA ME REGOCIJARÉ",
+        "",
+        "ANTE TI CON GOZO SALTARÉ",
+        "",
+        "Y SÓLO EN TI ME GOZARÉ"
+      ]
+    }
+  ]
+}

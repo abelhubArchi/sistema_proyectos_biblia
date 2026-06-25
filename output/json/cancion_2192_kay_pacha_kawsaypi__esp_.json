@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "Kay Pacha Kawsaypi (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En este mundo cruel hay penas y dolor.",
+        "No hay descanso para mi alma, no hay felicidad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Buscando encontré a Cristo, el Salvador.",
+        "Siendo perdido, El me ha salvado.",
+        "Su gozo y paz me dio.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Siempre en la luz de Dios yo quiero caminar.",
+        "Gozar con Cristo día y noche, gozando en su bondad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Señor, yo quiero hacer siempre tu voluntad.",
+        "Mi vida entera quiero entregarte, bendito Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Quiero agradecerte por tu infinito amor.",
+        "Te serviré por toda mi vida de todo corazón."
+      ]
+    }
+  ]
+}

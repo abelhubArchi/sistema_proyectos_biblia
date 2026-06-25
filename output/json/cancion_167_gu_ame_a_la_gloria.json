@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "GUÍAME A LA GLORIA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Vivo cada día, a tus pies orando,",
+        "Pensando en tus dichos, Cristo Salvador.",
+        "Del vivir en vano, líbrame te ruego",
+        "Con fe victoriosa quiero trabajar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Guíame a la gloria de tu santidad,",
+        "Como el peregrino caminando estoy.",
+        "Gozar es mi anhelo contigo. Señor,",
+        "Estar en el cielo por la eternidad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Pensando en riquezas aquí no las tengo.",
+        "Pero tus promesas más que ellas son.",
+        "Al fin de mi vida yo ansioso espero,",
+        "Tu voz bendecida por siempre escuchar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Nunca tengas dudas de esas bendiciones",
+        "Para ti son todas, si caminas fiel.",
+        "Si a Cristo acudes, las dudas se alejan",
+        "Acepta y confía en tu Salvador."
+      ]
+    }
+  ]
+}

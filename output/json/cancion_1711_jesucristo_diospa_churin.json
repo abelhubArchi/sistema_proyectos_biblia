@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "Jesucristo Diospa Churin",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jesucristo Diospa Churin,",
+        "Qanmin Salvawajniy kanki.",
+        "Wañuymanta librawanki,",
+        "Salvador, wiñaypaj kanki.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Sutiykiman gloria, gloria,",
+        "Wiñaypaj noqa takisaj.",
+        "Aleluya, aleluya,",
+        "Wiñaypaj noqa kawsasaj./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Imawantaj junfasqayki,",
+        "Munakuwasqaykimanta?",
+        "Kay wajcha sonqoyta qoyki",
+        "Chay munakuyniykimanta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jesucristo Salvawajniy",
+        "Wiñaypaj Qampata kani.",
+        "Wiñaypajtaj sutíykita",
+        "Yupaychasaj, aleluya."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "PRONTO LA NOCHE VIENE",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Pronto la noche viene, tiempo es de trabajar;",
+        "Los que lucháis por Cristo, no habréis de descansar;",
+        "Cuando la vida es sueño, gozo, vigor, salud,",
+        "Y es la mañana hermosa de la juventud.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Pronto la noche viene, tiempo de trabajar;",
+        "Para salvar al mundo hay que batallar;",
+        "Cuando la vida alcanza toda su esplendidez,",
+        "Cuando es el medio día de la madurez.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Pronto la noche viene, tiempo es de trabajar;",
+        "Si el pecador perece, idlo a rescatar,",
+        "Aun a la edad provecta, débil y sin salud,",
+        "Aun a la misma tarde de la senectud.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Pronto la noche viene, ¡listos a trabajar!",
+        "Listos, que muchas almas hay que rescatar.",
+        "¿Quién de la vida el día puede desperdiciar?",
+        "Viene la noche cuando nadie puede obrar."
+      ]
+    }
+  ]
+}

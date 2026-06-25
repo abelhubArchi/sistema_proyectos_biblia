@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "Diospata Kajkunaqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Levanten la bandera los hijos del Señor.",
+        "Marchemos adelante con Cristo el Capitán./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Cuando Cristo venga, todos gozaremos,",
+        "Todos cantaremos. Gloria al Señor./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Orando en todo tiempo, vayamos con Jesús.",
+        "Llevemos su evangelio a toda humananidad./"
+      ]
+    }
+  ]
+}

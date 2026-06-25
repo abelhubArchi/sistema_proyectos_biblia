@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "JACQUIR DIOSAN ARUNACAPA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jacquir Diosan arunacapajja,",
+        "Santa Biblianawa kellkata. kellkata, kellkata.",
+        ":Acqha suma Biblia, acqha suma Biblia,",
+        "Wiñay jacañ arunacawa kellkata, kellkata. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Ch'amanchir Kollan arunacajja,",
+        "Santa Biblianawa kellkata, kellkata, kellkata.",
+        ":Acqha suma Biblia, acqha suma Biblia,",
+        "Wiñay jacaft arunacawa kellkata, kellkata. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Chuymachir Kollan arunacajja,",
+        "Santa Biblianawa kellkata, kellkata, kellkata.",
+        ":Acqha suma Biblia, acqha suma Biblia,",
+        "Wiñay jacañ arunacawa kellkata, kellkata. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Criston wastat cutiniftapajja,",
+        "Santa Biblianawa kellkata, kellkata. kellkata.",
+        ":Acqha suma Biblia, acqha suma Biblia,",
+        "Wiñay jacañ arunacawa kellkata. kellkata. (Bis)"
+      ]
+    }
+  ]
+}

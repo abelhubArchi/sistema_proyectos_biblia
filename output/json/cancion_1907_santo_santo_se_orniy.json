@@ -1,0 +1,41 @@
+{
+  "numero": null,
+  "titulo": "Santo Santo Señorniy",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Santo, santo, Señorniy, Sonqochajta Qan qowanki",
+        "Llampo sonqo kaytapis, Espíritu Santo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Gloria kachun sutíykiman,",
+        "Aleluya Señorniyman",
+        "Kicharisqaña sonqoyqa, Espíritu Santo",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Diospa Santo Espíritun tiyakunkiña noqapi",
+        "Kawsayniyman junfaykuy. Espíritu Santo."
+      ]
+    }
+  ]
+}

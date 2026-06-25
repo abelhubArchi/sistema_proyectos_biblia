@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "BUSCANDO ENCONTRÉ AL SALVADOR",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En este mundo cruel hay penas y dolor.",
+        ":No hay descanso para mi alma, no hay felicidad. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Buscando encontré a Cristo, el Salvador.",
+        ": Siendo perdido. El me ha salvado,",
+        "Su gozo y paz me dio. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Siempre en la luz de Dios yo quiero caminar.",
+        ": Gozar con Cristo día y noche, gozando en tu bondad. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Señor, yo quiero hacer siempre tu voluntad.",
+        ":Mi vida entera quiero entregarte, bendito Salvador. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Yo quiero agradecer por tu infinito amor.",
+        ":Te serviré por toda mi vida de todo corazón. (Bis)"
+      ]
+    }
+  ]
+}

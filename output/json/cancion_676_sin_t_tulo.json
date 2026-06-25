@@ -1,0 +1,39 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cuando venga el Señor",
+        "estés vivo o estes muerto",
+        "que cuenta le vas a dar,",
+        "",
+        "Amigo ya no peques más",
+        "Jesús te dice ven a mí,",
+        "recuerda que es tu Salvador",
+        "recuerda que Él murió por tí,",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Oh vienen los ángeles,",
+        "vienen los ángeles",
+        "a alavar al Rey."
+      ]
+    }
+  ]
+}

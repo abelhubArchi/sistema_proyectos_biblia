@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "Diosninchejwan Kaspaqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "La esperanza es vivir eternamente con Dios,",
+        "En un cuerpo transformado, inmortal y divino.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Donde nunca más el frío del invierno llegará,",
+        "No habrá llanto, ni dolor que consuma nuestro ser.",
+        "/La eterna primavera por siempre florecerá./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "En la fiesta de los santos, oh qué gozo reinará,",
+        "Un encuentro sin igual, do no habrá separación.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Los que rechazaron a Jesús se quedarán de El.",
+        "El castigo del Señor, cuan horrendo les será.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Oh hermano, hoy es tiempo de anunciar del Salvador.",
+        "A Jesús los que aceptan, que felices vivirán."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "Hermanóy Llakiypichu Qan (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cuando combatido por la adversidad,",
+        "Creas ya perdida tu felicidad.",
+        "Mira lo que el cielo para tí guardó,",
+        "Cuenta las riquezas que el Señor te dio.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Bendiciones, cuantas tienes ya.",
+        "Bendiciones, Dios te manda más.",
+        "Bendiciones, te sorprenderás,",
+        "Cuando veas lo que Dios por tí hará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¿Andas agobiado por algún pesar?",
+        "¿Duro te parece amarga cruz llevar?",
+        "Cuenta las promesas del Señor Jesús,",
+        "Y de las tinieblas nacerá la luz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cuando de otros veas la prosperidad,",
+        "Y tus pies claudiquen tras de su maldad,",
+        "Cuenta las riquezas que tendrás por fe",
+        "Donde el oro es polvo que hollará tu pie."
+      ]
+    }
+  ]
+}

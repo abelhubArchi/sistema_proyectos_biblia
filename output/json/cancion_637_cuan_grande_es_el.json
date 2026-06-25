@@ -1,0 +1,69 @@
+{
+  "numero": null,
+  "titulo": "CUAN GRANDE ES EL",
+  "carpeta": "ALABANZAS PASTOR PEDRO LUNA",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Señor mi Dios, al contemplar los cielos,",
+        "Y el firmamento y las estrellas mil.",
+        "Al oír tu voz en los potentes truenos",
+        "y al ver brillar el sol en su cenit.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "CORO:",
+        "Mi corazón entona esta canción",
+        "¡Cuán grande es Él! ¡Cuán grande es Él!",
+        "Mi corazón entona esta canción",
+        "¡Cuán grande es Él! ¡Cuán grande es Él!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Al recorrer los montes y los valles",
+        "y al ver las bellas flores al pasar,",
+        "al escuchar el canto de las aves",
+        "y el murmurar del claro manantial.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cuando recuerdo del amor divino",
+        "que desde el cielo al Salvador envió.",
+        "Aquel Jesús que por salvarme vino",
+        "y en una cruz sufrió y por mí murió.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Cuando el Señor me llame a su presencia",
+        "al dulce hogar, al cielo de esplendor.",
+        "Le adoraré, cantando la grandeza",
+        "de su poder y de su infinito amor."
+      ]
+    }
+  ]
+}

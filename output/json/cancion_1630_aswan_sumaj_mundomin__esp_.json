@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "Aswan Sumaj Mundomin (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Hay un mundo feliz en fulgor,",
+        "Donde moran los santos en luz",
+        "Tributando eterno loor",
+        "Al invicto glorioso Jesús.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/En el mundo feliz",
+        "Moraremos con nuestro Señor./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cantaremos con gozo a Jesús,",
+        "Al Cordeo que nos rescató.",
+        "Y con sangre vertida en la cruz",
+        "Todos nuestros pecados quitó.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Para siempre en el mundo feliz",
+        "Con los santos daremos loor,",
+        "Al invicto, glorioso Jesús,",
+        "A Jesús, nuestro digno Señor."
+      ]
+    }
+  ]
+}

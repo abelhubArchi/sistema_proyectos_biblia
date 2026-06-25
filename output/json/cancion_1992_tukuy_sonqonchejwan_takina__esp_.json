@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Tukuy Sonqonchejwan Takina (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Cantemos con gozo al bendito Cristo",
+        "Y al eterno Padre. ¡ Qué felicidad!/",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Listo esperemos a Cristo Jesús.",
+        "Nunca en pecado, tampoco en penurias,",
+        "Podemos vivir./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Seremos felices allá en el cielo,",
+        "Todos alabando a Cristo Jesús./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Cuando Cristo venga dejaremos todo",
+        "Para estar con Cristo. ¡Qué felicidad!/"
+      ]
+    }
+  ]
+}

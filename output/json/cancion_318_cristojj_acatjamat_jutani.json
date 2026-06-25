@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "CRISTOJJ ACATJAMAT JUTANI",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cuna horasatejj Cristojj jutcan ucjja",
+        "Janiwa qhitisa yatquiti.",
+        "Angelanacasa janiraquiw yatquit,",
+        "Dios Awqui sapaquiw yatejja.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Janc'aquiw jutanejj Tatit Khespiyirejj",
+        "Take ch'amapampi.",
+        "Khespitanacaruw Tatitojj apjjestan",
+        "Wiñay cusisiri.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Noen urupanjam jakejj catjatániw",
+        "Cunayman jucha lurañana.",
+        "Paniniw pampancan mayniw apatáni,",
+        "Maynejj jaytanucutániwa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Diosan arupajja: \"Suyapjjam\" sistuwa",
+        "Tatit Cristor catokañatac.",
+        "Cusisiñancaniw qhitirutejj suyquir",
+        "Tatitojj jicjjatan ucajja."
+      ]
+    }
+  ]
+}

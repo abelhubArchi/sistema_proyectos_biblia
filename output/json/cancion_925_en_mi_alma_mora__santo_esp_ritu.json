@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "EN MI ALMA MORA, SANTO ESPÍRITU",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En mi alma mora, Santo Espíritu;",
+        "Del mundo aleja mi ambición banal;",
+        "Con tu poder mi vida inspira, Tú;",
+        "Y haz que yo Te ame cual Te debo amar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "No anhelo en sueños, celestial visión,",
+        "Ni roto el velo del misterio ver;",
+        "Ni querubines, ni eternal mansión;",
+        "Solo que limpies, oh Señor, mi ser.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Haz que te sienta cuando cerca estás;",
+        "Por ti haz que luche con resolución;",
+        "Que no suspire, ni que dude más;",
+        "Y que en tí espere con resignación.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Cual los querubes yo te quiero amar;",
+        "Que llene sólo una pasión mi ser;",
+        "Pues en mi pecho se alzará un altar",
+        "Do viva el fuego de tu gran poder. Amén."
+      ]
+    }
+  ]
+}

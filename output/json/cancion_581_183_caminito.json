@@ -1,0 +1,74 @@
+{
+  "numero": null,
+  "titulo": "183 CAMINITO",
+  "carpeta": "04 Poder del Evangelio",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Camino por donde vine",
+        "caminito por dónde voy,",
+        "de regreso a mi casa",
+        "donde tengo a mi familia",
+        "cuanto antes quiero llegar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Por este camino vine",
+        "y por el mismo me voy,",
+        "llevando muchos recuerdos",
+        "de mis hermanos y amigos",
+        "que nunca olvidaré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "CORO:",
+        "No puedo evitar mi llanto",
+        "en esta despedida,",
+        "más me consuela este canto",
+        "que llevo en el corazón. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Si acaso ya no regreso",
+        "de  nuevo a estos lugares,",
+        "recuerden que les decía",
+        "no se aparten del camino",
+        "que lleva a ll vida eterna.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Si al recorrer el camino",
+        "viniera el Rey de gloria",
+        "para llevar a su pueblo",
+        "yo quisiera mis hermanos",
+        "que estemos todos allá."
+      ]
+    }
+  ]
+}

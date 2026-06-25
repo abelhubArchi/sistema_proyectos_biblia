@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "Diospa Makinmanta (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Del amor divino, ¿quién me apartará?",
+        "Escondido en Cristo, ¿quién me tocará?",
+        "Si Dios justifica, ¿quién condenará?",
+        "Cristo por mí ruega, ¿quién me acusará?",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "A los que a Dios aman, todo ayuda a bien.",
+        "Esto es mi consuelo, esto es mi sostén.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Todo lo que pasa en mi vida aquí",
+        "Dios me lo prepara por amor de mí",
+        "En mis pruebas duras. Dios me es siempre fiel.",
+        "¿Por qué pues las dudas? Yo descanso en El.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Plagas hay y muerte a mi alrededor.",
+        "Ordenó mi suerte El que es Dios de amor.",
+        "Ni una sola flecha me podrá dañar.",
+        "Si El no lo permite, ni me alcanzará."
+      ]
+    }
+  ]
+}

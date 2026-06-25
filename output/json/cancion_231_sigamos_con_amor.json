@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "SIGAMOS CON AMOR",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Iremos todos con alegría",
+        "A la presencia del Salvador.",
+        "En tiempos tristes, tiempos gozosos,",
+        "Iremos juntos con fe y amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cristo, amor eterno,",
+        "Santo y benigno, Dios de perdón.",
+        "Siempre ama a todos,",
+        "Y les ofrece su salvación.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Allí en el cielo ya preparado",
+        "Hay un lugar hermoso y feliz.",
+        "Con Jesucristo do reinaremos,",
+        "Siempre gozosos, limpios del mal.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Hermano mío, nunca te alejes",
+        "Del buen camino del Redentor.",
+        "Y protegidos juntos iremos",
+        "Hasta que estemos con el Señor."
+      ]
+    }
+  ]
+}

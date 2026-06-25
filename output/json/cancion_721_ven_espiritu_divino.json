@@ -1,0 +1,27 @@
+{
+  "numero": null,
+  "titulo": "VEN ESPIRITU DIVINO",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Ven, ven, ven",
+        "Espíritu Divino",
+        "Ven, ven, ven",
+        "",
+        "Apoderate, apoderate, apoderate",
+        "de todo mi ser."
+      ]
+    }
+  ]
+}

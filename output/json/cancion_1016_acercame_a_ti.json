@@ -1,0 +1,31 @@
+{
+  "numero": null,
+  "titulo": "ACERCAME A TI",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Acércame a Ti, no me dejes ir",
+        "Daría todo una vez más",
+        "A cambio de tu amistad",
+        "Te deseo a Ti, nadie hay más que Tú",
+        "Pues nadie me puede llenar,",
+        "ni dar calor al abrazar",
+        "",
+        "Guíame Señor de regreso a Ti",
+        "Solo a Ti es lo que yo anhelo",
+        "Cerca de Ti es donde quiero estar"
+      ]
+    }
+  ]
+}

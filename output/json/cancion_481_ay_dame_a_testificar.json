@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "AYÚDAME A TESTIFICAR",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Ayúdame, ¡oh Señor! a testificar de ti,",
+        "Con sincera convicción te proclamaré;",
+        "Perdidos y errantes van. cual ovejas sin pastor;",
+        "Cuan necesitadas van de la salvación.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cristo el Señor, nos ofrece hoy,",
+        "Su gran salvación y seguridad;",
+        "Su amor sin igual, que Huyendo está,",
+        "Para perdonar del pecado vil.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Lléname con tu poder, ¡oh bendito Salvador'.",
+        "Y podré testificar de tu salvación;",
+        "Por doquier me guíes tú, sin temor iré Señor;",
+        "Tu Espíritu de poder me confortará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Lléname con tu piedad, ¡oh bendito Salvador'.",
+        "Al perdido pecador, lo proclamaré;",
+        "Mucha gente, ¡oh Señor; tiene sed de tu perdón;",
+        "De obtener vida eterna y felicidad."
+      ]
+    }
+  ]
+}

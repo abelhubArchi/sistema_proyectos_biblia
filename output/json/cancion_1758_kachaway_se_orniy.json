@@ -1,0 +1,29 @@
+{
+  "numero": null,
+  "titulo": "Kachaway Señorniy",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Kachaway, Señorniy, kachaway, Señorniy,",
+        "Kachaway, Señorniy, willarajta.",
+        "Kallpaykita qoway, kallpaykita qoway",
+        "Chinkasqa almasta pusamusaj.",
+        "Kawsay ñanniykiman, kawsay ñanniykiman",
+        "Kawsay ñanniykiman juchayojta.",
+        "/Kachaway, Señorniy, kachaway, Señorniy,",
+        "Kachaway, Señorniy, willarajta./"
+      ]
+    }
+  ]
+}

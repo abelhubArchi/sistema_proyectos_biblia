@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Rikuchiway Ñanniykita",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "G. Zeballos",
+  "compositor": "G. Zeballos",
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Rikuchiway ñanniykita, munakoj Dios Tatáy.",
+        "Qanmanta mañakamuyki tukuy sonqoymanta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Dios Tatáy, kf anchaban k'acha Palabrayki.",
+        "Ñanniykita rikuchiyvay Palabraykiwan, Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Laqhayaypi k'anchaykuway qhatikunasuypaj.",
+        "Chay k'acha Palabrastaqa Señormin parlarqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Yanapaway kasukuyta kamachisniykita,",
+        "Almaytaj kallpachakonqa Palabrasniykiwan."
+      ]
+    }
+  ]
+}

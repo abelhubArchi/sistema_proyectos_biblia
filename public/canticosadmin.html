@@ -34,7 +34,7 @@
       font-family: 'Outfit', sans-serif;
       background-color: var(--bg-main);
       color: var(--text-main);
-      height: 100vh;
+      height: 100dvh;
       overflow: hidden;
       display: flex;
       flex-direction: column;
@@ -98,7 +98,7 @@
       display: grid;
       grid-template-columns: 380px 1fr;
       flex: 1;
-      height: calc(100vh - 65px);
+      height: calc(100dvh - 65px);
       overflow: hidden;
     }
 
@@ -277,8 +277,9 @@
     }
 
     .verse-card.selected {
-      border-color: var(--border-active);
-      background: rgba(99, 102, 241, 0.08);
+      border-color: var(--accent);
+      background: rgba(99, 102, 241, 0.25);
+      box-shadow: 0 0 12px rgba(99, 102, 241, 0.3);
     }
 
     .verse-card.projected {
@@ -512,23 +513,31 @@
         display: none !important;
       }
 
+      body {
+        height: auto !important;
+        overflow: visible !important;
+      }
+
       body.view-list .sidebar {
         display: flex !important;
-        height: calc(100vh - 65px) !important;
+        height: auto !important;
+        min-height: 100dvh;
         border-bottom: none !important;
       }
 
       body.view-control .control-area {
-        display: grid !important;
-        height: calc(100vh - 65px) !important;
-        grid-template-rows: auto 1fr auto !important;
+        display: flex !important;
+        flex-direction: column !important;
+        height: auto !important;
+        min-height: 100dvh;
         padding: 16px;
+        padding-bottom: 120px !important; /* Espacio para botones fijos */
         gap: 16px;
       }
 
       .main-layout {
-        grid-template-columns: 1fr;
-        height: calc(100vh - 65px);
+        display: block;
+        height: auto;
       }
 
       /* Hide preview pane completely on mobile */
@@ -536,21 +545,19 @@
         display: none !important;
       }
 
-      /* Control workspace becomes single column */
+      /* Control workspace flows naturally */
       .control-workspace {
-        grid-template-columns: 1fr !important;
-        height: 100% !important;
-        gap: 0;
-        overflow: hidden !important;
+        display: block !important;
+        height: auto !important;
+        overflow: visible !important;
       }
 
-      /* Verses list gets full height and scroll */
+      /* Verses list scrolls naturally with the body */
       .verses-list-container {
-        height: 100% !important;
-        overflow-y: auto !important;
+        height: auto !important;
+        overflow: visible !important;
         padding-right: 0 !important;
-        padding-bottom: 80px !important;
-        /* Space for sticky footer */
+        padding-bottom: 0 !important;
       }
 
       /* Large easy-to-tap cards on mobile */
@@ -831,10 +838,22 @@
     /* Tabs de himnario */
     .himnario-tabs {
       display: flex;
-      gap: 6px;
-      padding: 14px 20px 0;
+      gap: 10px;
+      margin-bottom: 20px;
       border-bottom: 1px solid var(--border-color);
+      padding-bottom: 15px;
       flex-wrap: wrap;
+      max-height: 200px;
+      overflow-y: auto;
+    }
+    
+    /* Scrollbar minimalista para los tabs */
+    .himnario-tabs::-webkit-scrollbar {
+      width: 6px;
+    }
+    .himnario-tabs::-webkit-scrollbar-thumb {
+      background: var(--border-color);
+      border-radius: 4px;
     }
 
     .himnario-tab {
@@ -1090,6 +1109,12 @@
       </div>
     </div>
     <div class="header-actions">
+      <button class="btn btn-secondary" style="padding: 8px 12px; font-size: 0.8rem; height: auto; border-color: var(--success); color: var(--success);" onclick="abrirModalNuevoCantico()">
+        ➕ Nuevo Cántico
+      </button>
+      <button class="btn btn-secondary" id="btn-toggle-mix" style="padding: 8px 12px; font-size: 0.8rem; height: auto; border-color: var(--gold); color: var(--gold);" onclick="toggleModoMix()">
+        🎼 Crear Mix
+      </button>
       <button class="btn btn-secondary" style="padding: 8px 12px; font-size: 0.8rem; height: auto;"
         onclick="abrirFondoModal()">
         🌅 Fondos
@@ -1122,15 +1147,21 @@
     <!-- Sidebar for search and selection -->
     <div class="sidebar">
       <!-- Tabs de Himnario -->
-      <div class="himnario-tabs" id="himnario-tabs">
-        <button class="himnario-tab active" data-fuente="coros" onclick="cambiarFuente('coros')">🎵 Coros</button>
-        <button class="himnario-tab" data-fuente="cala" onclick="cambiarFuente('cala')">📖 Himnario Cala</button>
-        <button class="himnario-tab" data-fuente="iglesiadedios" onclick="cambiarFuente('iglesiadedios')">⛪ Iglesia de
-          Dios</button>
+      <div class="himnario-tabs" id="himnario-tabs" style="flex-wrap: wrap;">
+        <!-- Se cargarán dinámicamente -->
       </div>
       <div class="search-container">
         <input type="text" id="search-input" class="search-input" placeholder="Buscar por título, número o letra..."
           autocomplete="off">
+      </div>
+      <div id="mix-panel" style="display:none; padding: 12px; background: rgba(226, 196, 117, 0.1); border-bottom: 1px solid var(--border-active);">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
+           <span style="font-weight:bold; color:var(--gold); font-size: 0.9rem;">🎼 Mix Actual</span>
+           <button class="btn btn-primary" style="padding:4px 8px; font-size:0.7rem; height:auto; border-radius:4px;" onclick="cargarMix()">Cargar Mix</button>
+        </div>
+        <div id="mix-list" style="display:flex; flex-direction:column; gap:6px; max-height: 150px; overflow-y:auto; font-size:0.8rem;">
+            <div style="color:var(--text-muted); text-align:center; padding: 4px;">Haz clic en los cánticos de abajo para añadirlos.</div>
+        </div>
       </div>
       <div id="song-list" class="song-list">
         <!-- Songs dynamically loaded here -->
@@ -1204,6 +1235,58 @@
     </div>
   </div>
 
+  <!-- Modal Nuevo Cántico -->
+  <div id="nuevo-cantico-modal" class="modal">
+    <div class="modal-content" style="max-width: 600px;">
+      <div class="modal-header">
+        <h2>Añadir Nuevo Cántico</h2>
+        <span class="close-modal" onclick="cerrarModalNuevoCantico()">&times;</span>
+      </div>
+      <div style="padding: 10px 0;">
+        <label style="display:block; margin-bottom:5px; color:var(--text-muted); font-size:0.85rem;">Título del cántico *</label>
+        <input type="text" id="nuevo-titulo" style="width:100%; padding:10px; margin-bottom:15px; border-radius:6px; border:1px solid var(--border-color); background:rgba(255,255,255,0.05); color:white;" placeholder="Ej: Cuan Grande es Él">
+        
+        <label style="display:block; margin-bottom:5px; color:var(--text-muted); font-size:0.85rem;">Tono / Compás (Opcional)</label>
+        <input type="text" id="nuevo-tono" style="width:100%; padding:10px; margin-bottom:15px; border-radius:6px; border:1px solid var(--border-color); background:rgba(255,255,255,0.05); color:white;" placeholder="Ej: Do Mayor, 4/4">
+        
+        <label style="display:block; margin-bottom:5px; color:var(--text-muted); font-size:0.85rem;">Letra Completa *</label>
+        <div style="font-size: 0.75rem; color:var(--gold); margin-bottom:8px;">💡 Deja un renglón en blanco para separar estrofas. Empieza el bloque con "Coro:" para marcarlo como coro.</div>
+        <textarea id="nuevo-letra" rows="10" style="width:100%; padding:10px; border-radius:6px; border:1px solid var(--border-color); background:rgba(255,255,255,0.05); color:white; font-family:inherit; resize:vertical;" placeholder="1. Señor mi Dios, al contemplar los cielos...
+
+Coro:
+Mi corazón entona la canción..."></textarea>
+      </div>
+      <div style="display:flex; justify-content:flex-end; gap:10px; margin-top:15px;">
+        <button class="btn btn-secondary" onclick="cerrarModalNuevoCantico()">Cancelar</button>
+        <button class="btn btn-live" onclick="guardarNuevoCantico()">Guardar Cántico</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal para Editar Cántico -->
+  <div id="editar-cantico-modal" class="modal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2>Editar Cántico (OpenSong)</h2>
+        <span class="close-modal" onclick="cerrarModalEditarCantico()">&times;</span>
+      </div>
+      <div style="padding: 20px; color: var(--text-color);">
+        <div style="margin-bottom: 10px;">
+            <label>Título:</label>
+            <input type="text" id="edit-cantico-titulo" class="search-input" style="width:100%; border:1px solid #444; margin-top:5px;">
+        </div>
+        <div style="margin-bottom: 10px;">
+            <label>Letra (Separa las estrofas con doble salto de línea):</label>
+            <textarea id="edit-cantico-letra" rows="15" class="search-input" style="width:100%; border:1px solid #444; margin-top:5px; font-family:monospace; resize:vertical;"></textarea>
+        </div>
+        <div style="display:flex; justify-content:flex-end; gap:10px; margin-top: 20px;">
+            <button class="btn btn-secondary" onclick="cerrarModalEditarCantico()">Cancelar</button>
+            <button class="btn btn-primary" onclick="guardarEdicionCantico()">Guardar Cambios</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <!-- Load socket.io -->
   <script src="/socket.io/socket.io.js"></script>
   <script>
@@ -1239,14 +1322,26 @@
     var projectedSongTitle = "";
     var projectedVerseIndex = -1;
     var fuenteActual = 'coros'; // 'coros' | 'cala' | 'iglesiadedios'
+    let isMixMode = false;
+    let currentMix = [];
+    let carpetaActual = 'todas';
 
     // Cambiar fuente/himnario
-    function cambiarFuente(fuente) {
+    function cambiarFuente(fuente, carpeta = 'todas', btn = null) {
       fuenteActual = fuente;
-      // Actualizar tabs
+      carpetaActual = carpeta;
+      
+      // Actualizar tabs visualmente
       document.querySelectorAll('.himnario-tab').forEach(tab => {
-        tab.classList.toggle('active', tab.dataset.fuente === fuente);
+        tab.classList.remove('active');
       });
+      if (btn) {
+        btn.classList.add('active');
+      } else {
+        // Fallback for direct calls
+        const defaultBtn = document.querySelector(`.himnario-tab[data-carpeta="${carpeta}"]`) || document.querySelector('.himnario-tab');
+        if (defaultBtn) defaultBtn.classList.add('active');
+      }
       // Limpiar búsqueda
       document.getElementById('search-input').value = '';
       loadSongs();
@@ -1277,7 +1372,7 @@
     // Load initial songs list
     async function loadSongs(query = "") {
       try {
-        const response = await fetch(`/api/canticos?fuente=${encodeURIComponent(fuenteActual)}&q=${encodeURIComponent(query)}`);
+        const response = await fetch(`/api/canticos?fuente=${encodeURIComponent(fuenteActual)}&carpeta=${encodeURIComponent(carpetaActual)}&q=${encodeURIComponent(query)}`);
         songs = await response.json();
         renderSongList();
       } catch (err) {
@@ -1288,12 +1383,16 @@
     // Render song list in sidebar
     function renderSongList() {
       const listContainer = document.getElementById('song-list');
-      if (songs.length === 0) {
+      if (!listContainer) return;
+      if (!Array.isArray(songs) || songs.length === 0) {
         listContainer.innerHTML = '<div style="text-align: center; padding: 20px; color: var(--text-muted)">No se encontraron cánticos</div>';
         return;
       }
 
-      listContainer.innerHTML = songs.map((song, index) => {
+      const renderLimit = 150;
+      const songsToRender = songs.slice(0, renderLimit);
+
+      let html = songsToRender.map((song, index) => {
         const isActive = activeSong && activeSong.titulo === song.titulo;
         const totalEstrofas = song.estrofas ? song.estrofas.length : 0;
         const numBadge = song.numero ? `<span class="numero-badge">#${song.numero}</span>` : '';
@@ -1307,6 +1406,12 @@
           </div>
         `;
       }).join('');
+
+      if (songs.length > renderLimit) {
+        html += `<div style="text-align: center; padding: 15px; font-size: 0.85rem; color: var(--text-muted);">Mostrando ${renderLimit} de ${songs.length} cánticos.<br>Usa el buscador para ver más.</div>`;
+      }
+      
+      listContainer.innerHTML = html;
     }
 
     // Handle search input with simple debounce
@@ -1320,7 +1425,81 @@
 
     // Select song
     function selectSong(index) {
+      if (isMixMode) {
+        currentMix.push(songs[index]);
+        renderMixList();
+        return;
+      }
       activeSong = songs[index];
+      iniciarControlCantico();
+    }
+
+    function toggleModoMix() {
+      isMixMode = !isMixMode;
+      const btn = document.getElementById('btn-toggle-mix');
+      const panel = document.getElementById('mix-panel');
+      if (isMixMode) {
+        btn.style.background = 'var(--gold)';
+        btn.style.color = 'var(--bg-dark)';
+        panel.style.display = 'block';
+        currentMix = [];
+        renderMixList();
+      } else {
+        btn.style.background = 'transparent';
+        btn.style.color = 'var(--gold)';
+        panel.style.display = 'none';
+      }
+    }
+
+    function renderMixList() {
+      const list = document.getElementById('mix-list');
+      if (currentMix.length === 0) {
+        list.innerHTML = '<div style="color:var(--text-muted); text-align:center; padding: 4px;">Haz clic en los cánticos para añadirlos al Mix.</div>';
+        return;
+      }
+      list.innerHTML = currentMix.map((song, i) => `
+        <div style="display:flex; justify-content:space-between; align-items:center; background:rgba(0,0,0,0.2); padding: 6px 8px; border-radius:4px;">
+          <span>${i+1}. ${song.titulo}</span>
+          <button onclick="event.stopPropagation(); quitarDelMix(${i})" style="background:none; border:none; color:var(--danger); cursor:pointer;">❌</button>
+        </div>
+      `).join('');
+    }
+
+    function quitarDelMix(index) {
+      currentMix.splice(index, 1);
+      renderMixList();
+    }
+
+    function cargarMix() {
+      if (currentMix.length === 0) return;
+      
+      // Construir un cántico virtual combinando estrofas
+      let estrofasCombinadas = [];
+      currentMix.forEach(song => {
+        if (song.estrofas) {
+          song.estrofas.forEach(est => {
+            estrofasCombinadas.push({
+              ...est,
+              tituloOriginal: song.titulo // Para mostrar de qué canción viene
+            });
+          });
+        }
+      });
+
+      activeSong = {
+        titulo: "Mix: " + currentMix.map(s => s.titulo).join(" + "),
+        tono: currentMix[0].tono || '',
+        numero: null,
+        fuente: 'mix',
+        estrofas: estrofasCombinadas,
+        letraCompleta: estrofasCombinadas.map(e => e.texto).join('\n')
+      };
+      
+      toggleModoMix(); // Cerrar modo mix
+      iniciarControlCantico();
+    }
+
+    function iniciarControlCantico() {
       selectedVerseIndex = 0;
       modoActual = 'estrofas';
       lineasCantico = [];
@@ -1333,15 +1512,15 @@
       const controlArea = document.getElementById('control-area');
       controlArea.innerHTML = `
         <div class="song-header">
-          <div class="song-title-group">
-            <h1>${activeSong.titulo}</h1>
-            <p>${activeSong.numero ? `#${activeSong.numero} · ` : ''}Tono: ${activeSong.tono || 'No especificado'} · Secciones: ${activeSong.estrofas.length}</p>
+          <div class="song-title-group" style="display:flex; justify-content:space-between; align-items:flex-start; width:100%;">
+            <div>
+              <h1>${activeSong.titulo}</h1>
+              <p>${activeSong.numero ? `#${activeSong.numero} · ` : ''}Tono: ${activeSong.tono || 'No especificado'} · Secciones: ${activeSong.estrofas.length}</p>
+            </div>
+            ${activeSong.fuente === 'opensong' ? `
+              <button class="btn btn-secondary" onclick="abrirModalEditarCantico()">✏️ Editar Cántico</button>
+            ` : ''}
           </div>
-        </div>
-
-        <div class="mode-tabs">
-          <button class="mode-tab active" data-modo="estrofas" onclick="cambiarModo('estrofas')">Por Estrofas</button>
-          <button class="mode-tab" data-modo="lineas" onclick="cambiarModo('lineas')">Por Líneas</button>
         </div>
 
         <div class="control-workspace">
@@ -1441,8 +1620,22 @@
       }
 
       // Si se hace tap/click por segunda vez en la misma estrofa, se proyecta inmediatamente
+      // PROYECTA SOLO ESTA ESTROFA ignorando la selección múltiple (Doble tap/click)
       if (isAlreadySelected) {
-        projectActiveVerse();
+        const estrofa = activeSong.estrofas[index];
+        const payload = {
+          titulo: activeSong.titulo,
+          estrofaActual: index + 1,
+          totalEstrofas: activeSong.estrofas.length,
+          texto: estrofa.texto,
+          esCoro: estrofa.tipo === 'coro',
+          fuente: activeSong.fuente || 'coros',
+          tono: activeSong.tono || ''
+        };
+        socket.emit("cambio-estrofa", payload);
+        projectedSongTitle = activeSong.titulo;
+        projectedVerseIndex = index;
+        updateProjectedUI();
       }
     }
 
@@ -1520,11 +1713,11 @@
 
     // Keyboard Shortcuts
     window.addEventListener('keydown', (e) => {
-      // Ignore key events when inside search input
-      if (document.activeElement === document.getElementById('search-input')) {
-        if (e.key === 'Enter') {
+      // Ignore key events when inside any input or textarea
+      if (document.activeElement && ['INPUT', 'TEXTAREA'].includes(document.activeElement.tagName)) {
+        if (document.activeElement.id === 'search-input' && e.key === 'Enter') {
           // If hit enter inside search, blur it and select first match
-          document.getElementById('search-input').blur();
+          document.activeElement.blur();
           const firstCard = document.querySelector('.song-card');
           if (firstCard) {
             firstCard.click();
@@ -1582,21 +1775,43 @@
         projectedVerseIndex = -1;
         updateProjectedUI();
       } else {
-        // Modo estrofas (original)
-        const estrofa = activeSong.estrofas[selectedVerseIndex];
-        const payload = {
-          titulo: activeSong.titulo,
-          estrofaActual: selectedVerseIndex + 1,
-          totalEstrofas: activeSong.estrofas.length,
-          texto: estrofa.texto,
-          esCoro: estrofa.tipo === 'coro',
-          fuente: activeSong.fuente || 'coros',
-          tono: activeSong.tono || ''
-        };
-        socket.emit("cambio-estrofa", payload);
-        projectedSongTitle = activeSong.titulo;
-        projectedVerseIndex = selectedVerseIndex;
-        updateProjectedUI();
+        // Modo estrofas
+        const indicesSeleccionados = activeSong.estrofas.map((e, i) => e.seleccionada ? i : -1).filter(i => i !== -1);
+        
+        if (indicesSeleccionados.length > 1) {
+          const texto = indicesSeleccionados.map(i => activeSong.estrofas[i].texto).join('\n\n');
+          const payload = {
+            titulo: activeSong.titulo,
+            estrofaActual: 'Múltiple',
+            totalEstrofas: null,
+            texto: texto,
+            esCoro: false,
+            fuente: activeSong.fuente || 'coros',
+            tono: activeSong.tono || ''
+          };
+          socket.emit("cambio-estrofa", payload);
+          projectedSongTitle = activeSong.titulo;
+          projectedVerseIndex = indicesSeleccionados[0]; // Marcar la primera estrofa seleccionada como activa para el UI
+          updateProjectedUI();
+        } else {
+          // Normal individual selection
+          const idxAProyectar = indicesSeleccionados.length === 1 ? indicesSeleccionados[0] : selectedVerseIndex;
+          const estrofa = activeSong.estrofas[idxAProyectar];
+          const payload = {
+            titulo: activeSong.titulo,
+            estrofaActual: idxAProyectar + 1,
+            totalEstrofas: activeSong.estrofas.length,
+            texto: estrofa.texto,
+            esCoro: estrofa.tipo === 'coro',
+            fuente: activeSong.fuente || 'coros',
+            tono: activeSong.tono || ''
+          };
+          socket.emit("cambio-estrofa", payload);
+          projectedSongTitle = activeSong.titulo;
+          projectedVerseIndex = idxAProyectar;
+          updateProjectedUI();
+          if (idxAProyectar !== selectedVerseIndex) selectVerse(idxAProyectar);
+        }
       }
     }
 
@@ -1693,28 +1908,145 @@
       }
     }
 
+    function toggleEstrofa(index, checked) {
+      activeSong.estrofas[index].seleccionada = checked;
+      // Actualizar vista previa
+      const seleccionadas = activeSong.estrofas.filter(e => e.seleccionada);
+      const previewLyrics = document.getElementById('preview-lyrics');
+      const previewIndicator = document.getElementById('preview-indicator');
+      if (seleccionadas.length > 1) {
+         if (previewLyrics) previewLyrics.innerHTML = seleccionadas.map(e => e.texto.replace(/\n/g, '<br>')).join('<br><br>');
+         if (previewIndicator) previewIndicator.textContent = `Múltiples secciones seleccionadas`;
+      } else {
+         selectVerse(selectedVerseIndex);
+      }
+    }
+
     function renderEstrofasView() {
       const versesListEl = document.getElementById('verses-list');
       if (!versesListEl || !activeSong) return;
-      versesListEl.innerHTML = activeSong.estrofas.map((est, i) => {
+      
+      let html = `<div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;flex-wrap:wrap;gap:6px;">
+        <div style="display:flex;align-items:center;gap:8px;">
+          <span style="font-size:0.78rem;color:var(--text-muted)">${activeSong.estrofas.length} secciones</span>
+          ${activeSong.fuente !== 'mix' ? `<div class="save-status" id="save-status-estrofas">✓ Guardado permanentemente</div>` : ''}
+        </div>
+      </div>`;
+
+      html += activeSong.estrofas.map((est, i) => {
         const esCoro = est.tipo === 'coro';
+        const origenBadge = est.tituloOriginal ? `<span style="font-size:0.6rem; background:rgba(255,255,255,0.1); padding:2px 6px; border-radius:10px; color:var(--text-muted); margin-right:8px;">${est.tituloOriginal}</span>` : '';
+        
         return `
-          <div class="verse-card ${i === selectedVerseIndex ? 'selected' : ''} ${esCoro ? 'coro-card' : ''}" id="verse-card-${i}" onclick="selectVerse(${i})">
+          <div class="verse-card ${i === selectedVerseIndex ? 'selected' : ''} ${esCoro ? 'coro-card' : ''}" id="verse-card-${i}">
             <div class="verse-number">
               <div style="display:flex; align-items:center; gap:8px;">
-                <span>${esCoro ? '🎶 Coro' : `Estrofa ${i + 1}`}</span>
-                <button class="btn btn-secondary" style="padding: 2px 6px; font-size: 0.65rem; height:auto;" onclick="event.stopPropagation(); toggleCoro(${i})">
-                  ${esCoro ? 'Quitar Coro' : 'Marcar Coro'}
-                </button>
+                <input type="checkbox" class="line-check" ${est.seleccionada ? 'checked' : ''} onchange="toggleEstrofa(${i}, this.checked)" title="Seleccionar para proyección múltiple">
+                <span onclick="selectVerse(${i})" style="cursor:pointer;">${esCoro ? '🎶 Coro' : `Estrofa ${i + 1}`}</span>
+                ${origenBadge}
+                ${activeSong.fuente !== 'mix' ? `<button class="btn btn-secondary" style="padding: 2px 6px; font-size: 0.65rem; height:auto;" onclick="event.stopPropagation(); toggleCoro(${i})">${esCoro ? 'Quitar Coro' : 'Marcar Coro'}</button>
+                <button class="btn btn-secondary btn-edit-estrofa" style="padding: 2px 6px; font-size: 0.65rem; height:auto; color: var(--gold); border-color: rgba(226, 196, 117, 0.4);" onclick="event.stopPropagation(); editarEstrofa(${i})">✏️ Editar Texto</button>` : ''}
               </div>
-              ${esCoro ? '<span class="coro-badge">CORO</span>' : '<span class="live-indicator">EN VIVO</span>'}
+              ${esCoro ? `<span class="coro-badge" onclick="selectVerse(${i})" style="cursor:pointer;">CORO</span>` : `<span class="live-indicator" onclick="selectVerse(${i})" style="cursor:pointer;">EN VIVO</span>`}
             </div>
-            <div class="verse-content">${est.texto}</div>
+            <div class="verse-content" id="estrofa-text-${i}" onclick="selectVerse(${i})">${est.texto}</div>
           </div>
         `;
       }).join('');
+      versesListEl.innerHTML = html;
       updateProjectedUI();
     }
+
+    function editarEstrofa(index) {
+      const textEl = document.getElementById(`estrofa-text-${index}`);
+      if (!textEl) return;
+      const lineaOriginal = activeSong.estrofas[index].texto;
+      const textarea = document.createElement('textarea');
+      textarea.className = 'line-text-input';
+      textarea.style.minHeight = '100px';
+      textarea.style.resize = 'vertical';
+      textarea.style.width = '100%';
+      textarea.style.fontSize = '1.05rem';
+      textarea.style.lineHeight = '1.5';
+      textarea.value = lineaOriginal;
+      
+      // Detener propagación para evitar proyectar accidentalmente al hacer click en el textarea
+      textarea.onclick = (e) => e.stopPropagation();
+      textarea.ondblclick = (e) => e.stopPropagation();
+      
+      const actionsDiv = document.createElement('div');
+      actionsDiv.style.display = 'flex';
+      actionsDiv.style.gap = '8px';
+      actionsDiv.style.marginTop = '8px';
+      
+      const btnSave = document.createElement('button');
+      btnSave.className = 'btn btn-primary';
+      btnSave.style.padding = '4px 12px';
+      btnSave.style.fontSize = '0.8rem';
+      btnSave.textContent = 'Guardar';
+      btnSave.onclick = (e) => {
+        e.stopPropagation();
+        confirmar(textarea.value);
+      };
+      
+      const btnCancel = document.createElement('button');
+      btnCancel.className = 'btn btn-secondary';
+      btnCancel.style.padding = '4px 12px';
+      btnCancel.style.fontSize = '0.8rem';
+      btnCancel.textContent = 'Cancelar';
+      btnCancel.onclick = (e) => {
+        e.stopPropagation();
+        restaurar();
+      };
+      
+      actionsDiv.appendChild(btnSave);
+      actionsDiv.appendChild(btnCancel);
+      
+      const container = document.createElement('div');
+      container.appendChild(textarea);
+      container.appendChild(actionsDiv);
+      
+      textEl.replaceWith(container);
+      textarea.focus();
+
+      const restaurar = () => {
+         const div = document.createElement('div');
+         div.className = 'verse-content';
+         div.id = `estrofa-text-${index}`;
+         div.textContent = lineaOriginal;
+         container.replaceWith(div);
+      };
+
+      const confirmar = async (nuevoTexto) => {
+        const textoReal = nuevoTexto.trim() || lineaOriginal;
+        activeSong.estrofas[index].texto = textoReal;
+        const div = document.createElement('div');
+        div.className = 'verse-content';
+        div.id = `estrofa-text-${index}`;
+        div.textContent = textoReal;
+        container.replaceWith(div);
+        
+        // Actualizar UI
+        if (selectedVerseIndex === index) {
+            selectVerse(index);
+        }
+        
+        // Guardar permanentemente
+        try {
+            await fetch(`/api/canticos/${encodeURIComponent(activeSong.titulo)}/estrofas`, {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ estrofas: activeSong.estrofas })
+            });
+            const el = document.getElementById('save-status-estrofas');
+            if (el) {
+                el.classList.add('visible');
+                setTimeout(() => el.classList.remove('visible'), 2500);
+            }
+        } catch (e) { console.error('Error guardando estrofas:', e); }
+      };
+    }
+
 
     function renderLineasView() {
       const versesListEl = document.getElementById('verses-list');
@@ -1957,9 +2289,230 @@
       input.value = '';
     }
 
-    // Run initial load
-    loadSongs();
+    // =========================================================================
+    // SNIPPET: PROYECTAR TEXTO SELECCIONADO (Fondo Azul)
+    // =========================================================================
+    const floatingBtn = document.createElement('button');
+    floatingBtn.innerHTML = '📺 Proyectar Selección';
+    floatingBtn.style.cssText = 'position: absolute; display: none; background: var(--accent); color: white; border: none; padding: 10px 16px; border-radius: 8px; cursor: pointer; box-shadow: 0 4px 15px rgba(0,0,0,0.3); font-weight: bold; z-index: 9999; font-size: 14px; font-family: inherit; transition: all 0.2s;';
+    floatingBtn.onmouseover = () => { floatingBtn.style.transform = 'scale(1.05)'; floatingBtn.style.background = 'var(--accent-hover)'; };
+    floatingBtn.onmouseout = () => { floatingBtn.style.transform = 'scale(1)'; floatingBtn.style.background = 'var(--accent)'; };
+    document.body.appendChild(floatingBtn);
+
+    function handleSelection() {
+        setTimeout(() => {
+            const selection = window.getSelection();
+            const text = selection.toString().trim();
+            if (text.length > 0 && !selection.isCollapsed) {
+                const range = selection.getRangeAt(0);
+                const rect = range.getBoundingClientRect();
+                floatingBtn.style.top = `${rect.top + window.scrollY - 55}px`;
+                
+                let left = rect.left + window.scrollX + (rect.width/2) - 80;
+                if (left < 10) left = 10;
+                
+                floatingBtn.style.left = `${left}px`;
+                floatingBtn.style.display = 'block';
+            } else {
+                floatingBtn.style.display = 'none';
+            }
+        }, 50);
+    }
+
+    document.addEventListener('mouseup', handleSelection);
+    document.addEventListener('touchend', handleSelection);
+    document.addEventListener('selectionchange', handleSelection);
+
+    floatingBtn.addEventListener('mousedown', (e) => {
+        e.preventDefault(); // Evitar deselección
+    });
+
+    floatingBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        const text = window.getSelection().toString().trim();
+        if (text) {
+            socket.emit("cambiar-pantalla", "/canticospantalla");
+            socket.emit("cambio-estrofa", {
+                titulo: "Selección",
+                estrofaActual: "",
+                totalEstrofas: "",
+                texto: text,
+                esCoro: false,
+                fuente: "libre",
+                tono: ""
+            });
+            
+            const oldText = floatingBtn.innerHTML;
+            floatingBtn.innerHTML = '✅ ¡Proyectado!';
+            floatingBtn.style.background = 'var(--success)';
+            setTimeout(() => {
+                floatingBtn.innerHTML = oldText;
+                floatingBtn.style.background = 'var(--accent)';
+                floatingBtn.style.display = 'none';
+                window.getSelection().removeAllRanges();
+            }, 1500);
+        }
+    });
+
+    // =========================================================================
+    // LÓGICA PARA NUEVOS CÁNTICOS
+    // =========================================================================
+    function abrirModalNuevoCantico() {
+      document.getElementById('nuevo-titulo').value = '';
+      document.getElementById('nuevo-tono').value = '';
+      document.getElementById('nuevo-letra').value = '';
+      document.getElementById('nuevo-cantico-modal').style.display = 'flex';
+    }
+
+    function cerrarModalNuevoCantico() {
+      document.getElementById('nuevo-cantico-modal').style.display = 'none';
+    }
+
+    async function guardarNuevoCantico() {
+      const titulo = document.getElementById('nuevo-titulo').value.trim();
+      const tono = document.getElementById('nuevo-tono').value.trim();
+      const letraCompleta = document.getElementById('nuevo-letra').value.trim();
+
+      if (!titulo || !letraCompleta) {
+        alert('Por favor, ingresa el título y la letra del cántico.');
+        return;
+      }
+
+      try {
+        const response = await fetch('/api/canticos/nuevo', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ titulo, tono, letraCompleta })
+        });
+        
+        const data = await response.json();
+        if (data.exito) {
+          cerrarModalNuevoCantico();
+          alert('¡Cántico guardado correctamente!');
+          
+          // Refrescar y mostrar el canto recién agregado
+          cambiarFuente('coros'); // Los nuevos van a coros
+          document.getElementById('search-input').value = titulo;
+          filterSongs(titulo);
+        } else {
+          alert('Error al guardar: ' + (data.error || 'Desconocido'));
+        }
+      } catch (err) {
+        console.error('Error:', err);
+        alert('Error de conexión al intentar guardar.');
+      }
+    }
+
+    // Cerrar modal si se hace clic fuera de él
+    window.addEventListener('click', (e) => {
+      const modalNuevo = document.getElementById('nuevo-cantico-modal');
+      if (e.target === modalNuevo) {
+        cerrarModalNuevoCantico();
+      }
+    });
+
+    // Cargar carpetas dinámicamente
+    async function cargarCarpetasOpenSong() {
+      try {
+        const response = await fetch('/api/carpetas-opensong');
+        const carpetas = await response.json();
+        
+        const tabsContainer = document.getElementById('himnario-tabs');
+        tabsContainer.innerHTML = ''; 
+        
+        // Botón "All"
+        const allBtn = document.createElement('button');
+        allBtn.className = 'himnario-tab active';
+        allBtn.dataset.carpeta = 'todas';
+        allBtn.textContent = '🌍 All (Todos)';
+        allBtn.onclick = () => cambiarFuente('opensong', 'todas', allBtn);
+        tabsContainer.appendChild(allBtn);
+        
+        // Botones por carpeta
+        carpetas.forEach(carpeta => {
+            if(carpeta === "Otras") return; // Omitir si quieres o mostrar
+            const btn = document.createElement('button');
+            btn.className = 'himnario-tab';
+            btn.dataset.carpeta = carpeta;
+            btn.textContent = '📁 ' + carpeta;
+            btn.onclick = () => cambiarFuente('opensong', carpeta, btn);
+            tabsContainer.appendChild(btn);
+        });
+        
+        // Inicializar
+        cambiarFuente('opensong', 'todas', allBtn);
+      } catch (e) {
+        console.error("Error al cargar carpetas:", e);
+      }
+    }
+
+    // Editar cántico logic
+    function abrirModalEditarCantico() {
+        if(!activeSong) return;
+        document.getElementById('edit-cantico-titulo').value = activeSong.titulo;
+        document.getElementById('edit-cantico-letra').value = activeSong.estrofas.map(e => e.texto).join('\n\n');
+        document.getElementById('editar-cantico-modal').style.display = 'flex';
+    }
+
+    function cerrarModalEditarCantico() {
+        document.getElementById('editar-cantico-modal').style.display = 'none';
+    }
+
+    async function guardarEdicionCantico() {
+        const nuevoTitulo = document.getElementById('edit-cantico-titulo').value.trim();
+        const nuevaLetra = document.getElementById('edit-cantico-letra').value;
+        
+        if (!nuevoTitulo || !nuevaLetra) return alert("El título y la letra no pueden estar vacíos.");
+        
+        // Parsear letra en estrofas
+        const parrafos = nuevaLetra.split(/\n\s*\n/);
+        const nuevasEstrofas = parrafos.map((p, i) => {
+            const texto = p.trim();
+            // Intentar detectar si es coro u estrofa basado en el contenido o formato previo
+            const tipo = texto.toLowerCase().startsWith('coro') ? 'coro' : 'estrofa';
+            return {
+                numero: i + 1,
+                texto: texto,
+                tipo: tipo
+            };
+        }).filter(e => e.texto.length > 0);
+
+        const payload = {
+            titulo: nuevoTitulo,
+            estrofas: nuevasEstrofas
+        };
+
+        try {
+            const res = await fetch('/api/canticos/' + encodeURIComponent(activeSong.titulo), {
+                method: 'PUT',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(payload)
+            });
+            const data = await res.json();
+            
+            if (data.exito) {
+                // Actualizar activeSong en el frontend
+                activeSong.titulo = data.cantico.titulo;
+                activeSong.estrofas = data.cantico.estrofas;
+                activeSong.letraCompleta = data.cantico.letraCompleta;
+                activeSong.cantidadEstrofas = data.cantico.cantidadEstrofas;
+                
+                // Refrescar lista y UI
+                loadSongs();
+                iniciarControlCantico();
+                cerrarModalEditarCantico();
+            } else {
+                alert("Error al guardar: " + data.error);
+            }
+        } catch (e) {
+            console.error(e);
+            alert("Hubo un error de conexión");
+        }
+    }
+
+    // Initialize
+    cargarCarpetasOpenSong();
   </script>
 </body>
-
 </html>

@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "Diosninchej Apachimonqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "\"Lluvias de bendición grandes,\"",
+        "Es la promesa de amor.",
+        "Hoy te pedimos las mandes",
+        "De tu presencia, Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Las lluvias grandes,",
+        "Mándanos, oh Salvador.",
+        "Haz. que sintamos de nuevo",
+        "Más de tu gracia y tu amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "\"Lluvias de bendición grandes,\"",
+        "¡Cuanta falta hacen aquí!",
+        "Las gotas ya recibimos,",
+        "Lluvias pedimos a Tí.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Aquí rogándote estamos,",
+        "Oye Tú nuestra oración.",
+        "Toda la gloria te damos",
+        "A Ti por tu bendición.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Ya vendrán las lluvias grandes,",
+        "Tu las darás sin tardar",
+        "Toda la gloria te damos",
+        "A Ti por tu bendición"
+      ]
+    }
+  ]
+}

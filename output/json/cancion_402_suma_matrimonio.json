@@ -1,0 +1,67 @@
+{
+  "numero": null,
+  "titulo": "SUMA MATRIMONIO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Matrimoniojj Diosan uchataw jaketaqui,",
+        "Cusisiñaw, cusisifiaw.",
+        "Huerto Edenatawa kalltasiniwayi,",
+        "Cusisiñaw, cusisimay.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cusisifiaw jumataqui, cusisifiaw nayataqui;",
+        "Acá matrimonior ufijasajj",
+        "Takeniya cusisifián, cusisifián. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cunj sumasa Diosan arupar phokhafiajja,",
+        "Cusisifián, cusisiflán.",
+        "Diosan arsutapar jaysafiajj sinti sumaw,",
+        "Cusisifián, cusisifián.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Janiw qhiti jakes jaljtaycanit siw Diosajj,",
+        "Cusisifiaw, cusisifiaw.",
+        "Sum sarnakapjjam sasaw sistu Tatitojja",
+        "Cusisifián, cusisifián.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Aqha suma Diosan jaytat arunacapjja,",
+        "Catokafián, catokafián.",
+        "Diosajj bendispan acá matrimoniorojja '",
+        "Cusisifián, cusisifián."
+      ]
+    }
+  ]
+}

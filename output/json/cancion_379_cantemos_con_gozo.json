@@ -1,0 +1,64 @@
+{
+  "numero": null,
+  "titulo": "CANTEMOS CON GOZO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jesucristo vino al mundo. El dejó su trono celestial.",
+        "Siendo Dios fue hecho hombre por amar a la humanidad.",
+        "¡Aleluya! ¡Aleluya! ¡Aleluya! ¡Aleluya!",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Con gran gozo entonemos",
+        "Esta gran canción.",
+        "Cristo, el Salvador, ya vino, alegrémonos.",
+        ":¡Aleluya! ¡Aleluya! (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "En pesebre, desechado, en Belén nació el Salvador.",
+        "Vino Cristo desde el cielo por amar al mundo pecador.",
+        "¡Aleluya! ¡Aleluya! ¡Aleluya! ¡Aleluya!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Los pastores del rebaño, todos juntos fueron a Belén;",
+        "Y con gozo rebosante alabaron viendo al Salvador.",
+        "¡Aleluya! ¡Aleluya! ¡Aleluya! ¡Aleluya!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Del oriente unos magos fueron a buscar al nuevo Rey.",
+        "En el cielo una multitud de ángeles cantando están.",
+        "¡Aleluya! ¡Aleluya! ¡Aleluya! ¡Aleluya!"
+      ]
+    }
+  ]
+}

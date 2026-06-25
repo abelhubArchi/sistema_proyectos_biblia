@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Sonqowan confíani (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Yo confío al Señor, mi vida enteramente.",
+        "Sólo Cristo salvó del pecado a mi alma.",
+        "/El Señor te invita con su Santa Palabra de amor./",
+        "/Siempre meditaré en mi Padre Dios./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Yo me gozo en vivir para Cristo el Señor.",
+        "A mi alma dará vida eterna mi Jesús.",
+        "/Dueño es de mi ser, me concede vida eternal./",
+        "/En el Evangelio seguiré por fe./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Los mandatos de- Dios guardemos de corazón,",
+        "Los preceptos de Dios guardemos sin desmayar.",
+        "/Con nuestro Salvador nos iremos hacia su mansión,/",
+        "/Cual oro y cual perlas reluciremos./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Al que no cree en El, Jesucristo le dirá:",
+        "\"Apártate de Mí, tú que no amas la verdad.",
+        "/Por negar mi perdón, al infierno tendrás que entrar./",
+        "/Ay, ay, ay, llorarás por la eternidad”/"
+      ]
+    }
+  ]
+}

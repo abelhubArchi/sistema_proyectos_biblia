@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "EN BUSCA DE OBREROS",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristo está buscando obreros hoy",
+        "Que quieran ir con El;",
+        "¿Quién dirá: \"Señor contigo voy;",
+        "Yo quiero serte fiel\"?",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "¡Oh! Señor, es mucha la labor,",
+        "Y obreros faltan ya;",
+        "Danos luz, ardiente fe y valor,",
+        "Y obreros siempre habrá.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cristo quiere mensajeros hoy,",
+        "Que anuncien su verdad;",
+        "¿Quién dirá: \"Señor yo listo estoy,",
+        "Haré tu voluntad\"?",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Hay lugar si quieres trabajar,",
+        "De Cristo en la labor;",
+        "Puedes de su gloria al mundo hablar,",
+        "De su bondad y amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "¿Vives ya salvado por Jesús",
+        "Su amor conoces ya?",
+        "¡Habla, pues, anuncia que en la luz",
+        "De Cristo vives ya!"
+      ]
+    }
+  ]
+}

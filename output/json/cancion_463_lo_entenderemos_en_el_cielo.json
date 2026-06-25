@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "LO ENTENDEREMOS EN EL CIELO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En este mundo ¿por qué algunos",
+        "Viven sin pruebas y dolor?",
+        "Mientras yo vivo lleno de pruebas.",
+        "Sin poder, nada qué hacer.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Allí en el cielo entenderemos",
+        "Nuestras angustias y dolor.",
+        "Hermano mío, nunca desmayes.",
+        "Que allá en el cielo, se sabrá.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "\"Hasta la muerte\" dijo el Maestro.",
+        "\"Sígueme fiel, sin desmayar",
+        "Todo pesar y toda angustia",
+        "Allí en el cielo ya no habrá.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cuando Jesús venga de su gloria,",
+        "Nos llevará a su gran mansión;",
+        "En aquel día comprenderemos,",
+        "Nuestras flaquezas y temor."
+      ]
+    }
+  ]
+}

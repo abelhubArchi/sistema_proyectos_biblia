@@ -1,0 +1,35 @@
+{
+  "numero": null,
+  "titulo": "LIBRE DE AFLICCIÓN",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "CUANDO ESTABA EN ANGUSTIA, TÚ ME HICISTE ENSANCHAR",
+        "ME LLENASTE DE GOZO, ME INUNDASTE DE PAZ",
+        "MI LAMENTO CAMBIASTE Y ME HICISTE DANZAR",
+        "MI CILICIO ROMPISTE Y AHORA PUEDO CANTAR"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "MI CORAZÓN AGRADECIDO ESTÁ POR TU BONDAD SEÑOR",
+        "SOY LIBRE DE AFLICCIÓN",
+        "Y TU PERDÓN HIZO NACER EN MÍ UNA NUEVA CANCIÓN",
+        "DESDE MI CORAZÓN"
+      ]
+    }
+  ]
+}

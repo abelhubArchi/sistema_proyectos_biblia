@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "JESÚS ES MI REY SOBERANO",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jesús es mi Rey soberano",
+        "Mi gozo es cantar su loor;",
+        "Es Rey y me ve cual hermano,",
+        "Es Rey y me imparte su amor.",
+        "Dejando su trono de gloria,",
+        "Me vino a sacar de la escoria,",
+        "Y yo soy feliz,",
+        "Y yo soy feliz por El.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Jesús es mi amigo anhelado,",
+        "Y en sombras o en luz siempre va;",
+        "Paciente y humilde a mi lado,",
+        "Y ayuda y consuelo me da.",
+        "Por eso constante lo sigo,",
+        "Porque El es mi Rey y mi amigo,",
+        "Y yo soy feliz,",
+        "Y yo soy feliz por El.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Señor, ¿qué pudiera yo darte",
+        "Por tanta bondad para mi?",
+        "¿Me basta servirte y amarte?",
+        "¿Es todo entregarme yo a ti?",
+        "Entonces acepta mi vida",
+        "Que a ti solo queda rendida,",
+        "Pues yo soy feliz,",
+        "Pues yo soy feliz por ti."
+      ]
+    }
+  ]
+}

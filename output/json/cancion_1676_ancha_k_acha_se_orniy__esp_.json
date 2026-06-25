@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "Ancha K’acha Señorniy (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Maravilla es el Señor, maravilla es el Señor.",
+        "Maravilla es el Señor de los señores./",
+        "En mi corazón, en mi corazón",
+        "He guardado, he guardado tus dichos,",
+        "Para no pecar, para no pecar.",
+        "Dame más tu poder, oh Jesús.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Maravilla es el Señor, maravilla es el Señor.",
+        "Poderoso es el Señor de los señores./",
+        "Dame más poder, dame más poder.",
+        "Dame más, dame más tu poder.",
+        "Para predicar, para predicar,",
+        "Para predicar más de tu amor."
+      ]
+    }
+  ]
+}

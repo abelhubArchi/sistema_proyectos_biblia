@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "Jesús Salvawajniy (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Mi Redentor, el Rey de gloria,",
+        "Que vive yo seguro estoy.",
+        "El da coronas de victoria,",
+        "A recibir la mía voy.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Que permanezca no pidáis",
+        "Entre el bullicio y el vaivén.",
+        "El mundo alegre hoy dejará",
+        "Aún cuando fuese algún edén.",
+        "La cita nada más aguardo,",
+        "Que el Rey me diga: \"Hijo, ven.\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "En mi Señor Jesús confío,",
+        "Su sangre clama a mi favor.",
+        "Es dueño El de mi albedrío,",
+        "Estar con El es lo mejor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Consuéleme en su larga ausencia",
+        "Pensando: \"Pronto volverá.",
+        "Entonces su gloriosa herencia,",
+        "A cada fiel Jesús dará.\""
+      ]
+    }
+  ]
+}

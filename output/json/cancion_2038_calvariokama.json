@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "Calvariokama",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Calvariokama noqarayku rerqa,",
+        "Señor Jesús noqarayku.",
+        "Calvariokama noqarayku rerqa,",
+        "Salvasqaña kani.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Juchasapapis noqa kashaspa, Pay",
+        "/Juchayta qhechuwan cruzpi wañuspa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Pay cielokamapis noqarayku rin,",
+        "Señor Jesús, noqarayku.",
+        "Pay cielokamapis noqarayku rin",
+        "Pay mañapushawan."
+      ]
+    }
+  ]
+}

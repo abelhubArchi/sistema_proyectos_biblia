@@ -1,0 +1,43 @@
+{
+  "numero": null,
+  "titulo": "DIRÉ A LA MONTAÑA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "DIRÉ A LA MONTAÑA DELANTE DE MÍ:",
+        "QUÍTATE Y EN EL MAR ÉCHATE",
+        "CREO YO QUE LAS COSAS QUE ASÍ DECLARÉ",
+        "PASARÁN SI YO CREO EN DIOS"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "CAMINARÉ CON EL SEÑOR AUNQUE NO PUEDA VER",
+        "ESTO ES SOLO TEMPORAL,",
+        "ÉL FIEL POR SIEMPRE ES"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "SOSTENDRÉ LO QUE DIRÉ, NO DUDARÉ AL HACER",
+        "DIOS PROMETIÓ Y ÉL CUMPLIÓ,",
+        "ÉL FIEL POR SIEMPRE ES"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "numero": null,
+  "titulo": "422 jesus jesus jesus",
+  "carpeta": "04 Poder del Evangelio",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "// Jesús, Jesús, Jesús. //",
+        ": Es el nombre que mi corazón ama",
+        "Que mi lengua proclama,",
+        "Es tu nombre Jesús."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Es el canto de un pueblo",
+        "Redimido.",
+        "Que canta agradecido",
+        "A tu nombre Jesús."
+      ]
+    }
+  ]
+}

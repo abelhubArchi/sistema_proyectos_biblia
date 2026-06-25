@@ -1,0 +1,39 @@
+{
+  "numero": null,
+  "titulo": "LAS BONDADES DE NUESTRO DIOS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "LAS BONDADES DE NUESTRO DIOS,",
+        "NUNCA SE ABARÁN",
+        "Y SU COMPASIÓN NO DESAPARECERÁ,",
+        "NUEVAS SON CADA MAÑANA,",
+        "NUEVAS SON DÍA A DÍA.",
+        "TU FIDELIDAD GRANDE  ES."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "ADMIRABLE ES SU GRACIA,",
+        "ABUNDANTE ELLA ES",
+        "Y SU MISERICORDIA NO DESAPARECERÁ,",
+        "NUEVAS SON CADA MAÑANA,",
+        "NUEVAS SON DÍA A DÍA",
+        "TU FIDELIDAD GRANDE ES."
+      ]
+    }
+  ]
+}

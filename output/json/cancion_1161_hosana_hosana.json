@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "HOSANA HOSANA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "HOSANA, HOSANA EN LAS ALTURAS//",
+        "TE EXALTO, SEÑOR, CON TODO MI SER",
+        "TE EXALTO, SEÑOR MI DIOS",
+        "HOSANA EN LAS ALTURAS."
+      ]
+    }
+  ]
+}

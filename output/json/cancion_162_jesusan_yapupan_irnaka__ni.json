@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "JESUSAN YAPUPAN IRNAKAÑÁNI",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jesusan arupat yatiyañani",
+        "Take jucharara jakenacaru.",
+        "Parlanas waquisiw Khespiyirita,",
+        "Munasir arupat yatiyasina.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "CORO:",
+        "Jesusan khanapan sarañan ucajja,",
+        "Wiñaya jacaña catokañani.",
+        "Jesusan thaquipan sarañan ucajja",
+        "Alajjpach marcana cusisiñani.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Jesusat parlañán take marcana,",
+        "Khespiyasiñanac utjatapata.",
+        "Cruzana jiwasin t'akhesiwayi",
+        "Take juchararar khespiyañ laycuw.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jesusar k'ochuñán take chuymampi",
+        "Jupawa juchasat khespiyasistu.",
+        "Yant'asa jutpana t'akhesiñasa,",
+        "Khespiyir Jesusaw arjjatistani."
+      ]
+    }
+  ]
+}

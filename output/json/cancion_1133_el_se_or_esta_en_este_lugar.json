@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "EL SEÑOR ESTA EN ESTE LUGAR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "//// EL SEÑOR ESTÁ EN ESTE LUGAR ////",
+        "",
+        "// PARA SANAR, PARA LIBRAR",
+        "",
+        "PARA ROMPER TODA OBRA DE MALDAD",
+        "",
+        "PARA SANAR, PARA LIBRAR MI ALMA //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "EL EJÉRCITO DE DIOS MARCHANDO ESTÁ",
+        "",
+        "SOBRE TODO PRINCIPADO Y POTESTAD",
+        "",
+        "EL EJÉRCITO DE DIOS MARCHANDO ESTÁ"
+      ]
+    }
+  ]
+}

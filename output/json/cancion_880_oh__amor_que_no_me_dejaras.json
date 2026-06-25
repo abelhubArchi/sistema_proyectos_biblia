@@ -1,0 +1,62 @@
+{
+  "numero": null,
+  "titulo": "OH, AMOR QUE NO ME DEJARAS",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¡Oh, amor que no me dejarás!",
+        "Descansa mi alma siempre en ti;",
+        "Es tuya, y tú la guardarás,",
+        "Y en el océano de tu amor",
+        "Más rico al fin será.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¡Oh Luz, que en mi sendero vas!",
+        "Mi antorcha débil rindo a ti;",
+        "Su luz apaga el corazón,",
+        "Seguro de encontrar en ti",
+        "Más bello resplandor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¡Oh Gozo, que a buscarme a mí,",
+        "Viniste con mortal dolor;",
+        "Tras la tormenta el arco vi,",
+        "Y ya el mañana, yo lo sé,",
+        "Sin lágrimas será.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "¡Oh Cruz, que miro sin cesar!",
+        "Mi orgullo, gloria y vanidad",
+        "Al polvo dejo por hallar",
+        "La vida que en su sangre dio",
+        "Jesús, mi Salvador."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Ch’aska K’anchamoj",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Ch'aska k'anchamojqa willan Jesusmanta,",
+        "Nacekusqantaña Belempi.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Takinku ángeis; \"Gloria kachun Diosman,",
+        "Allin kawsakuytaj runaspaj.\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Magospis qorqanku qhapaj regalosta;",
+        "Michejkunatajrí munayta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jesusqa saqespa chay k’anchaj llajtanta,",
+        "Kay pachata salvaj jamorqa."
+      ]
+    }
+  ]
+}

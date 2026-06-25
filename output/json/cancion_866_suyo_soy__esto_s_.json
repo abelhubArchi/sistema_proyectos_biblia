@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "SUYO SOY, ESTO SÉ",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Si vivo o muero yo, si ando o en cama estoy,",
+        "Si en tierra o sobre el mar, siempre con El yo voy.",
+        "Si hay calma o tempestad, en Dios teniendo fe",
+        "Nunca tendré temor; suyo soy, esto sé.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Si vivo pobre aquí o en casa palacial,",
+        "Si el mundo me hace bien o maldición me dé,",
+        "Aunque me trata bien o maldición me dé,",
+        "Me regocijo en Dios; suyo soy, esto sé.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Si vivo en mi país, o en tierra del oriol;",
+        "Si en ártica región, o donde brilla el sol;",
+        "Aunque en el monte hostil, o que en el valle esté,",
+        "Me cuida Dios doquier; suyo soy, esto sé.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Nada hay que del Señor me pueda separar;",
+        "Ni quien que de su amor me pueda segregar;",
+        "Lo alto no lo hará, ni la profundidad.",
+        "Suyo soy, esto sé para la eternidad."
+      ]
+    }
+  ]
+}

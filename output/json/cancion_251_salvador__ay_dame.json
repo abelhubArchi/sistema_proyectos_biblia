@@ -1,0 +1,66 @@
+{
+  "numero": null,
+  "titulo": "SALVADOR, AYÚDAME",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Oh Señor, Tú me has llamado",
+        "Muchas veces a servirte.",
+        "Desde ahora ya estoy listo",
+        "Para entrar en tu servicio.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Salvador, te pido que me ayudes a anunciar tu evangelio.",
+        "Salvador, te ruego que me guíes a servirte en tu obra.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Mucha gente no conoce",
+        "Tu gran salvación y gracia.",
+        "Si escuchan tu llamado",
+        "Serán limpios del pecado.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Oh Señor, tu obra es grande",
+        "Pero pocos los obreros.",
+        "Con tu Espíritu conmueve",
+        "Corazones a servirte.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Ya que somos redimidos",
+        "Por tu sangre derramada,",
+        "Predicando tu mensaje",
+        "Venceremos el pecado."
+      ]
+    }
+  ]
+}

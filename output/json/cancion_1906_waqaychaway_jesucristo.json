@@ -1,0 +1,41 @@
+{
+  "numero": null,
+  "titulo": "Waqaychaway Jesucristo",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Waqaychaway, Jesucristo pusakuway makiykipi,",
+        "/Yawarniykiwan mayllaway juchayta./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Mashkha kutis pruebasllapi pisi kallpa tarikojtiy,",
+        "/Qanllapiña kallpataqa tarisaj./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jamunayki ratokama sirvikusuyta munani,",
+        "/Qanllamanta willaraspa runasman./"
+      ]
+    }
+  ]
+}

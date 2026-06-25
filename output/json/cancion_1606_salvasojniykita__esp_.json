@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "Salvasojniykita (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¿Haz hallado en Cristo tu buen Salvador?",
+        "¿Eres salvo por la sangre de Jesús?",
+        "¿Del pecado eres siempre vencedor?",
+        "¿Eres salvo por la sangre de Jesús?",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "¡Lávame. ..Lávame...!",
+        "En tu sangre, Oh Cordero de Dios;",
+        "Y con alma limpia me presentaré",
+        "En tu hogar tan glorioso de amor",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¿Vives siempre al lado de tu Salvador?",
+        "¿Eres salvo por la sangre de Jesús?",
+        "¿Del pecado eres siempre vencedor?",
+        "¿Eres salvo por la sangre de Jesús?",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Si perdón y paz deseas, pecador,",
+        "Tu refugio es la sangre de Jesús;",
+        "Si librarte quieres de eternal dolor,",
+        "¡Oh, acude a la sangre de Jesús!"
+      ]
+    }
+  ]
+}

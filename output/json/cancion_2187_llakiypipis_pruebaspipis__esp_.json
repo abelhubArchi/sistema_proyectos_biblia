@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "Llakiypipis Pruebaspipis (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Por las luchas y las pruebas",
+        "La iglesia sigue caminando./",
+        "Siempre va adelante, sin mirar atrás.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Por los valles y montañas,",
+        "La iglesia sigue caminando./",
+        "Siempre va adelante, para predicar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/¡Oh Gloria! ¡Aleluya!",
+        "La iglesia sigue caminando./",
+        "Siempre va adelante, almas a salvar."
+      ]
+    }
+  ]
+}

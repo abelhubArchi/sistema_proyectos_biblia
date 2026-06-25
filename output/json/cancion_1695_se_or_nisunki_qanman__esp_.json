@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Señor Nisunki Qanman (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Hoy te dice el Señor, ¿dejarás seguirme fiel",
+        "Cuando buscas tu placer, sin pensar en Dios?",
+        "/Perderás tu gozo y paz, perderás felicidad",
+        "En tu corazón habrá sólo gran pesar./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Entrégate al Señor con sincera contrición,",
+        "Infinito Dios de amor te recibirá./",
+        "/Te dará felicidad, gozo y paz te aumentará,",
+        "Y a su lado te tendrá por la eternidad./"
+      ]
+    }
+  ]
+}

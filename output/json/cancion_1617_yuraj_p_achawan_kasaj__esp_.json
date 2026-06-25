@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "Yuraj P’achawan Kasaj (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Ropa blanca vestiré en casa de mi Dios,",
+        "En casa de mi Dios, en casa de mi Dios.",
+        "Ropa blanca vestiré en casa de mi Dios.",
+        "Qué feliz estaré./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Una corona obtendré en casa de mi Dios",
+        "En casa de mi Dios, en casa de mi Dios,",
+        "Una corona obtendré en casa de mi Dios.",
+        "Qué feliz estaré./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/En calles de oro yo andaré en casa de mi Dios",
+        "En casa de mi Dios, en casa de mi Dios.",
+        "En calles de oro yo andaré en casa de mi Dios.",
+        "Qué feliz estaré./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/En palacio habitaré en casa de mi Dios..."
+      ]
+    }
+  ]
+}

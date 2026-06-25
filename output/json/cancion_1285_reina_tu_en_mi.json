@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "REINA TU EN MI",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "SOBRE EL MUNDO ESTÁS, REINAS SOBRE ÉL",
+        "",
+        "CADA RÍO EN ÉL, CADA OCASO QUE HAY",
+        "",
+        "DIOS MI PETICIÓN Y MI META SON",
+        "",
+        "QUE REINES EN MÍ OTRA VEZ",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "REINA TÚ EN MÍ,",
+        "REINA CON PODER",
+        "EN TODOS MIS SUEÑOS",
+        "EN LA OSCURIDAD"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "TÚ ERES SEÑOR",
+        "DE TODO LO QUE SOY",
+        "PUEDES REINAR EN MÍ OTRA VEZ",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "REINA EN MI PENSAR,",
+        "REINA EN MI HABLAR",
+        "",
+        "QUE REFLEJE YO LA BELLEZA QUE HAY EN TI"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "SIGNIFICAS MÁS QUE CUALQUIER POSESIÓN",
+        "",
+        "PUEDES REINAR EN MI OTRA VEZ"
+      ]
+    }
+  ]
+}

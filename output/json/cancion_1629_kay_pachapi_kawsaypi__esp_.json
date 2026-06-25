@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Kay Pachapi Kawsaypi (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/En este mundo todas las gentes",
+        "Se alejaron del Señor./",
+        "/Tan grande es el amor de Dios",
+        "Y ellos rechazaron./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Esfuérzate pues, hermano mío,",
+        "A vencer a Satanás./",
+        "/El Señor Todopoderoso",
+        "Siempre te ayudará./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Anuncia, tú, de Dios su Palabra",
+        "A toda la humanidad./",
+        "/Allá en su gloria, el Salvador",
+        "Te coronará a tí./"
+      ]
+    }
+  ]
+}

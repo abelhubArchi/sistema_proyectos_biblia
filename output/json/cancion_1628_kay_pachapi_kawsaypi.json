@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Kay Pachapi Kawsaypi",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Kay pacha kawsaypi tukuy runas",
+        "Mask’anku mana kajta./",
+        "/Diospa j atún munakuyninta",
+        "Qhesachashallanku./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Munasqa hermano, kallpachakuy,",
+        "Supay atipanapaj./",
+        "/Jap'ikuy Señor Jesusmanta,",
+        "Pay yanapasonqa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Diospa Palabranta willaypuni",
+        "Tukuynejpi runasman./",
+        "/Janaj pachapi Cristo Jesús",
+        "Pilluta qosonqa./"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "numero": null,
+  "titulo": "CANSADO DEL CAMINO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "CANSADO DEL CAMINO,",
+        "SEDIENTO DE TI.",
+        "UN DESIERTO HE CRUZADO",
+        "SIN FUERZAS HE QUEDADO,",
+        "VENGO A TI."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "LUCHÉ COMO SOLDADO,",
+        "Y A VECES SUFRÍ,",
+        "Y AUNQUE LA LUCHA HE GANADO",
+        "MI ARMADURA HE DESGASTADO,",
+        "VENGO A TI."
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "SUMÉRGEME  EN EL RÍO DE TU ESPÍRITU,",
+        "NECESITO REFRESCAR  ÉSTE SECO CORAZÓN",
+        "SEDIENTO DE TI"
+      ]
+    }
+  ]
+}

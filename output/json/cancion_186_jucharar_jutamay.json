@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "JUCHARAR JUTAMAY",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jucharar jutamay Jesusar thakamay,",
+        "Muñas ir Jesusaw khespiyañ muntama.",
+        "Tatitun thaquipan sarañan jilata,",
+        "Jesusamp chict'ata alajjpach marcaru.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Jutamay jucharar Jesusar thakamay,",
+        "Júmatejj jicjjatát wiñayaw cusisit.",
+        "Janc'aqui jutamay cruzapar quillt'asir",
+        "Jesusar iyawsas khespiyasimaya.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Munasir Jesusajj cruzana jiwasin",
+        "Wilapwa wartaway juchanacas laycu.",
+        "Júmatejj juchamat khespiyasítajja,",
+        "Wiñayaw jacátajj alajjpach marcana.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jesusaw nayarus samaran churitu",
+        "Cusisiñ munasiñ Cristonwa jicjjatta.",
+        "Ñankhata irpsutu ch'amacat khanaru,",
+        "Jupawa irpitan alajjpach marcaru."
+      ]
+    }
+  ]
+}

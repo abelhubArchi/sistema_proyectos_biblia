@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "HAY DOS CAMINOS",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Si Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En este mundo de confusión el hombre vaga sin un ideal,",
+        "Busca valor en sendas humanas sin encontrar a Dios.",
+        "Mas Jesucristo con gran amor ordena al hombre a escoger",
+        "De dos caminos: uno a los cielos, otro a la perdición.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "El Señor (el Señor) nos guiará (nos guiará)",
+        "Al hogar celestial,",
+        "Si con fe (si con fe) vamos hoy (vamos hoy)",
+        "Por la senda del Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cuan bueno es el camino de Dios que nos conduce a la mansión.",
+        "Hay gozo eterno y paz infinita siguiendo al Señor.",
+        "Pero seguir la senda del mal es caminar a la perdición,",
+        "Con aflicciones, gran sufrimiento, lejos del Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Fortalecidos en el Señor vayamos al hogar celestial,",
+        "Pues trabajando en su iglesia con todo el corazón.",
+        "No tengas miedo, dice el Señor, yo te guiaré por la senda fiel.",
+        "Cristo así con dulces palabras consuela con su amor."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "Sonqoyqa Kusisqallapuni",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Sonqoyqa kusisqallapuni kashan,",
+        "Cristota qhatejtíy.",
+        "/Pi jark'awanqa Diosta qhatiyta?",
+        "Noqawan kashan Diosneyqa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Manchachikusajchu noqawan",
+        "Dios kajtin ?",
+        "/Sonqoyta qoni, nisqanta ruwaní,",
+        "Wiñaypaj Payyvan kawsasaj./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Diosqa wakichishan janaj pachapi",
+        "K’acha tiyanasta.",
+        "/Chayman ripusaj, chaypi tiyasaj;",
+        "Paywan wiñaypaj kawsasaj./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Chaymanchus riyta munanki, kawsaqe,",
+        "Wakichikullayña.",
+        "/Chayman ripuspa, chaypi kawsasun",
+        "Wiñay wiñaynintinkama./"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "Janaj Pachapi Señor Jesusqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Allá en el cielo el Señor Jesús/",
+        "/Preparado tiene moradas de oro./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Allá en el cielo el Señor Jesús/",
+        "/Gloriosas mansiones ya nos prepara./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Desde los cielos Jesús ya viene./",
+        "/A los que le esperan, arrebatará./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/A los salvados el Señor Jesús/",
+        "/En cualquier momento se los llevará./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "/Querido hermano, nunca desmayes./",
+        "/Preparado espera. El te llevará./"
+      ]
+    }
+  ]
+}

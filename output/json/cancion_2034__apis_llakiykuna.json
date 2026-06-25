@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "Ñapis Llakiykuna",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Napis Ilakiykuna tukukaponqaña.",
+        "Ñak'ariykuna kay pachapeqa",
+        "Tukukaponqaña noqapaj./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Nak'arinachaj Diosraykoqa./",
+        "/Janajpachapi kusikusun./",
+        "/Yuraj p 'achawan chaypi kasunJ",
+        "/Qori pilluta jap 'isunchej./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Sinch'i kusiy kanqa, sinch’i kusikuyila,",
+        "Señor Jesusniy wajyakuwajtín.",
+        "Kusikuyila noqapaj kanqa."
+      ]
+    }
+  ]
+}

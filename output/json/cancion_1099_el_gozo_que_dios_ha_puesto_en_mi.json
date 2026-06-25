@@ -1,0 +1,28 @@
+{
+  "numero": null,
+  "titulo": "EL GOZO QUE DIOS HA PUESTO EN MI",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "EL GOZO QUE EL SEÑOR",
+        "HA PUESTO EN MÍ",
+        "ES LA FUERZA DE MI VIDA/",
+        "POR ESO, YO ME GOZARÉ EN ÉL,",
+        "Y ÉL PONDRÁ SU RISA EN MI BOCA.",
+        "YO CANTARÉ, YO GRITARÉ",
+        "Y ME ALEGRARÉ SÓLO EN ÉL."
+      ]
+    }
+  ]
+}

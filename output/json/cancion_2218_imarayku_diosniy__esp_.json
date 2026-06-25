@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "Imarayku Diosniy (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¡Oh Dios mío! ¿Por qué me desamparaste hoy?",
+        "Implorándote estoy, ¿no me escuchas Tú?",
+        "Cuando en pena estoy, ¿quién me puede ayudar?",
+        "En tu amor y bondad, hoy recíbeme.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "A tu nombre oh Dios, siempre santificaré;",
+        "Tu inmenso amor, admirable es.",
+        "En tristeza y dolor, compasión tendrás de mí.",
+        "Con tu ayuda oh Dios te podré seguir.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tan indigno yo soy y cuan Santo eres Tú,",
+        "¿Quién soy yo, que tu ley pueda quebrantar?",
+        "De mi vano pensar, ¡oh, perdóname Señor!",
+        "En tu amor y pasión, debo meditar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Tu palabra oh Dios, hoy debemos predicar,",
+        "Al perdido en el mal, bajo Satanás,",
+        "Reinan penas aquí en el mundo de dolor,",
+        "Tu Palabra que es fiel, quiero obedecer.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Hoy tus hijos Señor, ya salvados por tu amor,",
+        "con el gozo etemal, en tu reino están;",
+        "¡Oh, mi buen Padre Dios! yo también quisiera estar,",
+        "En tu hogar celestial, de felicidad."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "// A que tú no sabes",
+        "Lo que en Damasco pasó,",
+        "Lo que pasó, lo que pasó.//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "// Fue el Espíritu Santo,",
+        "",
+        "Fue el Espíritu Santo,",
+        "",
+        "Fue el Espíritu Santo,",
+        "",
+        "Que sobre Pablo se derramó.//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "// A que tú no sabes",
+        "",
+        "Lo que en mi vida pasó,",
+        "",
+        "Lo que pasó, lo que pasó.//",
+        "",
+        "[V4",
+        "]",
+        "// Fue el Espíritu Santo,",
+        "",
+        "Fue el Espíritu Santo,",
+        "",
+        "Fue el Espíritu Santo,",
+        "",
+        "Que sobre mi vida se derramó.//"
+      ]
+    }
+  ]
+}

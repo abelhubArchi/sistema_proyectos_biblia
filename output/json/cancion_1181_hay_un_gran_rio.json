@@ -1,0 +1,29 @@
+{
+  "numero": null,
+  "titulo": "HAY UN GRAN RIO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "HAY UN GRAN RÍO",
+        "QUE VIENE DEL SEÑOR.",
+        "HAY UNA FUENTE",
+        "LLENA DE SU AMOR.",
+        "VEN A LAS AGUAS",
+        "PUES ABUNDANTES SON.",
+        "HAY UN GRAN RÍO",
+        "QUE NUNCA SE SECARÁ."
+      ]
+    }
+  ]
+}

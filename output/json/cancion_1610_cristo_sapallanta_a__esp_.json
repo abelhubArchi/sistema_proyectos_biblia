@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Cristo Sapallantaña (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Sólo a Cristo mi Señor siempre seguiré.",
+        "Sus palabras de amor me consolarán.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Siempre con su gran amor Dios me ayudará",
+        "Y en mi corazón habrá gozo eterna!.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Esta vida terrenal poco durará.",
+        "Más la vida celestial nunca acabará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Los que siguen al Señor salvos por la fe",
+        "En su amor unidos son llenos de poder.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Mientras tenga vida, aquí yo le seguiré.",
+        "En peligro y en dolor me ayudará."
+      ]
+    }
+  ]
+}

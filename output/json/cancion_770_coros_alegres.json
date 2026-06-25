@@ -1,0 +1,73 @@
+{
+  "numero": null,
+  "titulo": "COROS ALEGRES",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "//Oh Cristo Cristo Amado",
+        "Alumbra pues mi camino",
+        "Para llevar tu palabra",
+        "A pueblo desconocido.//",
+        "//Jehova es mi Padre",
+        "Cristo es mi salvador",
+        "y el Espiritu Santo es mi fortaleza//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "//Hasta las aves Alaban tu nombre //",
+        "//Toda tú Obra Alaba tu nombre//",
+        "//Así yo mismo quiero alabarte//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "La semilla, la semilla",
+        "Puedes tu sembrar",
+        "Por los cerrors y los valles",
+        "Puedes tu sembrar",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Nunca mires atrás",
+        "Solo mira a Jesús",
+        "Caminando en su senda",
+        "De amor y paz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Cuando estaba yo lejos del señor",
+        "Cayó la buena semilla en mi corazón",
+        "Esa semilla fue la palabra de Dios",
+        "Quien cambio mi vida para la gloria de Dios.",
+        "//Bendito Señor, Bendito Jesus//",
+        "//La gloria y la honra sea para ti//"
+      ]
+    }
+  ]
+}

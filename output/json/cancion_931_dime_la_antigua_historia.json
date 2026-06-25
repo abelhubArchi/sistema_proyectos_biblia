@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "DIME LA ANTIGUA HISTORIA",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Dime la antigua historia del celestial favor,",
+        "De Cristo y de su gloria, de Cristo y de su amor.",
+        "Dímela con llaneza propia de la niñez,",
+        "Porque es mi mente flaca y anhelo sencillez.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Dime la antigua historia,",
+        "Cuéntame la victoria,",
+        "Háblame de la gloria",
+        "De Cristo y de su amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Dime esa grata historia con lentitud, y así",
+        "Conoceré la obra que Cristo hizo por mí.",
+        "Dímela con frecuencia, pues soy dado a olvidar,",
+        "Y el matinal rocío suele el sol disipar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Dime tan dulce historia con tono claro y fiel;",
+        "Murió Jesús, y salvo yo quiero ser por El.",
+        "Dime esa historia siempre, si en tiempo de aflicción",
+        "Deseas a mi alma traer consolación.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Dime la misma historia, si crees que tal vez",
+        "Me ciega de este mundo la falsa brillantez.",
+        "Y cuando ya me alumbre de la gloria la luz,",
+        "Repíteme la historia: \"Quien te salva es Jesús\"."
+      ]
+    }
+  ]
+}

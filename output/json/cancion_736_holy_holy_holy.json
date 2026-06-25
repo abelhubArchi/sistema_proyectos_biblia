@@ -1,0 +1,66 @@
+{
+  "numero": null,
+  "titulo": "Holy Holy Holy",
+  "carpeta": "Holy Holy Holy",
+  "tono": null,
+  "compas": null,
+  "autor": "E.L. Ashford",
+  "compositor": "E.L. Ashford",
+  "copyright": null,
+  "ccli": "817404",
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ".D     Bm    A  D   G          D",
+        "Holy, holy, ho_ly, Lord God Almighty,",
+        ".A            Bm  A       E                  A",
+        "Early in the mor_ning my song shall rise to Thee;",
+        ".D     Bm    A  D   G            D       Bm  Bm/A     G  D     Em      A    D",
+        "Holy, holy, ho_ly, merciful and mighty,|God in three persons, blessed Trinity.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        ".D     Bm    A  D   G               D",
+        "Holy, holy, ho_ly, all the saints adore Thee,",
+        ".A                  Bm     A       E                A",
+        "Casting down their golden crowns around the glassy sea;",
+        ".D    Bm      A   D     G              D          Bm     Bm/A     G   D   Em   A          D",
+        "Cherubim and seraphim, falling down before Thee,|Which, wert and art and ever more shall be.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        ".D     Bm    A  D   G                   D",
+        "Holy, holy, ho_ly, though the darkness hide Thee,",
+        ".A                 Bm     A       E             A",
+        "Though the eye of sinful men Thy Glory may not see;",
+        ".D    Bm       A  D   G               D          Bm  Bm/A    G      D  Em       A   D",
+        "Only Thou art ho_ly, there is none beside Thee,|Per_fect in power, in love and purity.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        ".D     Bm    A  D   G          D",
+        "Holy, holy, ho_ly, Lord God Almighy,",
+        ".A                   Bm         A       E                 A",
+        "All Thy works shall praise Thy Name in earth and sky and sea;",
+        ".D     Bm    A  D   G            D       Bm  Bm/A     G  D     Em      A    D",
+        "Holy, holy, ho_ly, merciful and mighty,|God in three persons, blessed Trinity."
+      ]
+    }
+  ]
+}

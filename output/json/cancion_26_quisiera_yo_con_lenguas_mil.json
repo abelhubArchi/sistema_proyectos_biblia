@@ -1,0 +1,50 @@
+{
+  "numero": 26,
+  "titulo": "QUISIERA YO CON LENGUAS MIL",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Quisiera yo con lenguas mil a mi Señor cantar,",
+        "Y de mi Rey y Redentor, las glorias celebrar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Maestro mío, Dios de amor, anhelo proclamar",
+        "Por todo el mundo tu bondad, tu nombre ensalzar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¡Jesús! nombre encantador, que aleja mi temor;",
+        "Que trae salud y vida y paz, que salva al pecador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Los hierros del pecado vil su gran poder quebró,",
+        "Y con su sangre eficaz al pecador limpió."
+      ]
+    }
+  ]
+}

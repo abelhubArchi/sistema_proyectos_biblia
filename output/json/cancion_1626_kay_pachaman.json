@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "Kay Pachaman",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Kay pachaman Jesucristo",
+        "Salvaj Pay jamorqa.",
+        "Yawarninta Pay jich'arqa",
+        "Juchasninchejrayku./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Chimpaykuy ari Jesusman,",
+        "Payqa Sumaj Míchejníyki.",
+        "Yawarninyvan pichasonqa",
+        "Tukuy juchaykitaJ",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Kay pachapi may Ilakisqa",
+        "Juchapi qan kashanki.",
+        "Uyariytawan chimpaykuy",
+        "Salvawajniykiman./"
+      ]
+    }
+  ]
+}

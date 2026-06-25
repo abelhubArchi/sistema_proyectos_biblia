@@ -1,0 +1,54 @@
+{
+  "numero": null,
+  "titulo": "SE TOCARA LA TROMPETA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Muy pronto sonará la trompeta,",
+        "Y el mando del Señor;",
+        "Desde los cielos, el mismo Cristo,",
+        "Descenderá en poder.",
+        "Los que han muerto, salvos en Cristo,",
+        "Pues resucitarán;",
+        "Vivificados en cuerpo nuevo,",
+        "Con cuerpo celestial.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Estemos listos a recibirle,",
+        "A nuestro Redentor;",
+        "Limpios de corazón le veremos,",
+        "A Cristo nuestro Rey.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Los que vivimos salvos por Cristo,",
+        "Iremos junto a él;",
+        "Los pecadores y malhechores,",
+        "Todos se quedarán.",
+        "En medio cielo con Jesucristo,",
+        "Nos reuniremos ya;",
+        "Pues para siempre nos gozaremos,",
+        "Glorificando a Dios."
+      ]
+    }
+  ]
+}

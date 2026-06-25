@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "COMO EL CIERVO BUSCA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "COMO EL CIERVO BUSCA",
+        "POR LAS AGUAS,",
+        "ASÍ CLAMA MI ALMA POR TÍ SEÑOR.",
+        "DÍA Y NOCHE YO TENGO SED DE TI,",
+        "Y SÓLO A TÍ BUSCARÉ."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "LLÉNAME, LLÉNAME SEÑOR",
+        "DAME MÁS, MÁS DE TU AMOR",
+        "YO TENGO SED SÓLO DE TÍ",
+        "LLÉNAME SEÑOR."
+      ]
+    }
+  ]
+}

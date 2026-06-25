@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "IST’ITAY DIOS AWQUI",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Ist'itay Dios Awqui mayisitajjaru;",
+        "Uruy arumawa Jumat mayisma.",
+        "Jaltayitay Tata, khoru cancañata.",
+        "Take chuymampiwa Jumar iyawssma.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Kollan suma Awqui, irpaquitaya,",
+        "Wajcha sarirïtwa acapachana.",
+        "Uñjañpuni munta alajjpach marca,",
+        "Wiñay cusisiña, Cristojj thiyana.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Acá orakenjja janiw cunanictsa;",
+        "Alajjpach marcanquiw take cunajjas.",
+        "Cusisitaw jaca Khespiyirejjampi;",
+        "Ucanjj juch lurañajj janiw utjquiti.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Munata jilata: ¿cunatsa pachasta?",
+        "Yattas Cristow churi wiñay jacaña.",
+        "Cruzan jiwawayi juchanacas laycu;",
+        "Suma wilapampi alatätanwa."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "numero": null,
+  "titulo": "MI NOMBRE ESCRITO ESTA",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Allá en el libro eterno está",
+        "Mi nombre bien escrito;",
+        "Las dudas no molestan ya",
+        "Que en mi alma mora Cristo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Sé que mi nombre escrito está,",
+        "Escrito en el libro de la vida está.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Con pecadores iba yo",
+        "Cuando el Señor hallóme;",
+        "Mas ya mi nombre escribió,",
+        "Pues por su amor salvóme.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "A veces pruebas y dolor",
+        "Causaron tanto miedo,",
+        "Mas ya el poder del Salvador",
+        "Me inspira gran denuedo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Aunque otros busquen el honor",
+        "Que les ofrece el hombre,",
+        "Mi gozo está en que el Dios de amor",
+        "Allá escribió mi nombre."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "numero": null,
+  "titulo": "ALABADLE",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Nos hemos congregado en este día",
+        "para darle gloria",
+        "La música tocamos, las voces elevamos",
+        "para darte honra",
+        "Un son de júbilo ha llenado este lugar",
+        "Con el propósito de Su nombre levantar",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Alabadle, alabadle solo a Él",
+        "Adoradle, adoradle Él ha sido fiel",
+        "Cantad la gloria de Su nombre",
+        "pues es digno de exaltar",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Declaremos a los pueblos",
+        "de Su amor y majestad",
+        "Alabadle, adorad a Jesús el Rey",
+        "Las manos levantadas,",
+        "corazones hacia el cielo esperando",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Sin duda lo sabemos que Su presencia",
+        "se está manifestando",
+        "Al sentarse sobre el trono",
+        "de nuestra adoración",
+        "Dejamos que Él gobierne",
+        "sobre toda creación"
+      ]
+    }
+  ]
+}

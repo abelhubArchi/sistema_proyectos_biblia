@@ -1,0 +1,51 @@
+{
+  "numero": null,
+  "titulo": "VEN A MI",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Ten piedad ¡oh Padre Dios! te suplico con fervor.",
+        "Líbrame de todo mal para que pueda vivir feliz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Tú me dices: --Ven a mí",
+        "Ten valor, lleva tu cruz.",
+        "Oh Señor, te seguiré,",
+        "Con tu ayuda mi cruz llevaré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¡Oh Señor! con tanto amor, al perdido pecador",
+        "Vida nueva Tú le das para que pueda vivir feliz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Eres bueno, oh Señor, que con tu infinito amor,",
+        "Me has dado salvación, y por siempre yo feliz seré."
+      ]
+    }
+  ]
+}

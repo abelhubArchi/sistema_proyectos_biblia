@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Jesuspa Kutimuynenqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/La venida de mi Cristo",
+        "Será repentinamente./",
+        "/El viene con su poder y gloria,",
+        "A todos los suyos a llevar./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Cuando venga Jesucristo",
+        "Arrebatará a los suyos./",
+        "/Oh hermano ¿tú estas preparado?",
+        "Luego rendiremos cuentas a El./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Por la Biblia ya sabemos",
+        "Hambre y dolor, ya se acerca./",
+        "/Cuando ya estemos en su gloria,",
+        "Gozaremos por la eternidad./"
+      ]
+    }
+  ]
+}

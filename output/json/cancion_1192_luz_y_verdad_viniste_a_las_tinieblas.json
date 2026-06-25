@@ -1,0 +1,56 @@
+{
+  "numero": null,
+  "titulo": "LUZ Y VERDAD VINISTE A LAS TINIEBLAS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "LUZ Y VERDAD VINISTE A LAS TINIEBLAS",
+        "Y AHORA POR TI PUEDO VER",
+        "TU BELLEZA HA HECHO QUE MI ALMA TE ADORE",
+        "Y QUIERO VIVIR JUNTO A TI"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "– CORO –",
+        "VENGO A ADORARTE, VENGO A POSTRARME",
+        "VENGO A DECIR QUE ERES MI REY",
+        "SÓLO TÚ ERES SANTO, SÓLO TÚ ERES DIGNO",
+        "TÚ ERES PRECIOSO PARA MÍ"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "OH REY ETERNAL EXALTADO EN EL CIELO",
+        "GRANDE Y GLORIOSO ERES TÚ",
+        "BAJASTE A SERVIR A ESTE MUNDO PERDIDO",
+        "POBRE TE HICISTE POR AMOR"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "JAMÁS SABRÉ",
+        "CUÁNTO TE COSTÓ",
+        "LLEVAR MI MALDAD",
+        "SOBRE AQUELLA CRUZ"
+      ]
+    }
+  ]
+}

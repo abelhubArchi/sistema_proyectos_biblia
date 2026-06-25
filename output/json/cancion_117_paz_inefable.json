@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "PAZ INEFABLE",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En el seno de mi alma una dulce quietud",
+        "Se difunde embargando mi ser,",
+        "Una calma infinita que sólo podrán",
+        "Los amados de Dios comprender.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "¡Paz! ¡Paz! cuan dulce paz",
+        "Es aquella que el Padre me da.",
+        "Yo le ruego que inunde por siempre mi ser,",
+        "En sus ondas de amor celestial.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Esta paz inefable consuelo me da,",
+        "Descansando tan sólo en Jesús;",
+        "Y ningunos peligros mi vida tendrá",
+        "¡Si me hiento inundado en su luz!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Sin cesar yo medito en aquella ciudad",
+        "Do el Autor de la paz he de ver,",
+        "Y en que el himno más dulce que habré de cantar",
+        "De su paz nada más ha de ser.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Alma triste que en rudo conflicto te ves,",
+        "Sola y débil tu senda al seguir,",
+        "Haz de Cristo el amigo que fiel siempre es,",
+        "¡Y su paz tú podrás recibir!"
+      ]
+    }
+  ]
+}

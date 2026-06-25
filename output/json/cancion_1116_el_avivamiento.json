@@ -1,0 +1,65 @@
+{
+  "numero": null,
+  "titulo": "EL AVIVAMIENTO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "EL AVIVAMIENTO QUE ESPERAMOS",
+        "ESTA AQUI ES EL TIEMPO HA LLEGADO",
+        "DONDE TU GLORIA DERRAMARAS",
+        "DONDE LOS MUROS QUE RODEAN ESPAÑA",
+        "CAERAN",
+        "LEVANTAMOS TU NOMBRE EN ALTO",
+        "LEVANTAMOS TU NOMBRE JESUS"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "LOS SORDOS OYEN, LOS COJOS SALTAN",
+        "LOS MUDOS HABLAN, LOS CIEGOS VEN",
+        "LOS OPRIMIDOS SON LIBERADOS",
+        "CON TU GLORIA Y TU PODER"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "LAS ALMAS VIENEN ARREPENTIDAS",
+        "SE ROMPEN YUGOS DE MALDAD",
+        "BAUTIZANDO, SANANDO, SALVANDO",
+        "ES TU OBRA ESPIRITU SANTO"
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "//AVIVANOS, AVIVANOS",
+        "ESPAÑA ES TUYA Y MADRID",
+        "ES DE CRISTO EL SEÑOR//"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "CANTA ESPAÑA DA VOCES DE JUBILO",
+        "TU TIEMPO HA LLEGADO",
+        "ALABA A TU REY"
+      ]
+    }
+  ]
+}

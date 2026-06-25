@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "MI CRISTO MI REY",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "MI CRISTO, MI REY NADIE ES COMO TÚ",
+        "TODA MI VIDA QUIERO EXALTAR",
+        "LAS MARAVILLAS DE TU AMOR",
+        "CONSUELO REFUGIO TORRE DE FUERZA Y PODER",
+        "TODO MI SER LO QUE YO SOY",
+        "NUNCA CESE DE ADORAR."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "CANTE AL SEÑOR TODA LA CREACIÓN",
+        "HONRA Y PODER MAJESTAD SEAN AL REY",
+        "MONTES CAERÁN Y EL MAR RUGIRÁ",
+        "AL SONAR DE SU NOMBRE."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "CANTO CON GOZO AL MIRAR SU PODER",
+        "POR SIEMPRE YO LE AMARÉ Y DIRÉ",
+        "INCOMPARABLES PROMESAS ME DAS SEÑOR//"
+      ]
+    }
+  ]
+}

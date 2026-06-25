@@ -1,0 +1,52 @@
+{
+  "numero": null,
+  "titulo": "DIOS Y LOS ÍDOLOS",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "No a los hombres, Jehová,",
+        "Ni a los ídolos,",
+        "Sino a tu nombre doy loor",
+        "Por tu verdad y tu amor.",
+        "¿Por qué la gente exclamará:",
+        "--Dónde está tu Señor?",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Nuestro Dios está en los cielos,",
+        "Todo lo hizo El.",
+        "De plata son los ídolos.",
+        "O de oro pudieran ser.",
+        "Obra de manos también son,",
+        "Sin vida y sin poder.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Si amas tú a Jehová.",
+        "Alábale a El.",
+        "Porque El es tu ayuda fiel,",
+        "También tu Consolador.",
+        "Porque El es tu ayuda fiel,",
+        "También tu Consolador."
+      ]
+    }
+  ]
+}

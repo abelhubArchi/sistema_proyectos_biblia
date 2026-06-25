@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Jesucristo Jamonqaña",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jesucristo jamonqaña, Santa Biblia chayta nishan.",
+        "Wawasninman Pay jamonqa, nisqantaqa Payjunfanqa.",
+        "¡Qhawaychej, jamonqaña! Puñojkunaman jamonqa.",
+        "Mana ni uj puchuyojman jamonqa, Pay jamonqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cristo cruzpi wañushaspa, salvacionta qowarqanchej.",
+        "K'anchaynimpi Pay jamonqa, phuyuskama Pay jamonqa.",
+        "¡Qhawaychej, jamonqaña! Atiynimpi Pay jamonqa;",
+        "Atipajpa chay pillunwan jamonqa, Pay jamonqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Llakiy kanqa piskunachus chay manaraj jap'inkuchu,",
+        "Yuraj llimphu, chay p'achata, bodapaj k'achanchasqata.",
+        "¡Qhawaychej, jamonqaña! Iglesiampi kajkunapaj;",
+        "Kusiy kanqa paykunapaj. Jamonqa, Pay jamonqa."
+      ]
+    }
+  ]
+}

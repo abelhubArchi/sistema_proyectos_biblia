@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "Tukuyninchej Llank’ajtinchej",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tukuyninchej llank’ajtínchej, ujchasqas, ujchasqas,",
+        "Tukuyninchej llank’ajtínchej may kusiy kanman.",
+        "LIank'asqay Uank'asqayki, llank'asqanchej Diosllapaj.",
+        "Tukuyninchej llank'ajtinchej may kusiy kanman."
+      ]
+    }
+  ]
+}

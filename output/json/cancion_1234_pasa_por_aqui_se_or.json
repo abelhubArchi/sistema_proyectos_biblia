@@ -1,0 +1,34 @@
+{
+  "numero": null,
+  "titulo": "PASA POR AQUI SEÑOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Pasa por aqui Señor",
+        "Pasa por aqui/",
+        "Oh Señor Pasa por aqui/"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Espiritu Santo llaname de ti/",
+        "Oh Señor llename de ti/",
+        "Haz un milagro en mi Señor/",
+        "Oh Señor haz milagro en mi/"
+      ]
+    }
+  ]
+}

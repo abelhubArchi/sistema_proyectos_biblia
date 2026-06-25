@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "SE  OYE EN LAS NACIONES",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "SE OYE EN LAS NACIONES",
+        "HAY UN CANTO NUEVO",
+        "QUE SE ESTA CANTANDO HOY",
+        "SE ESCUCHA EN LOS LABIOS",
+        "DE GRANDES MULTITUDES"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "ES UN CANTO DE GRATITUD",
+        "HACIA EL QUE NO BRINDA",
+        "DE SU AMOR ETERNO",
+        "Y NOS HA TRAIDO PERDON",
+        "UNETE A LOS MILES",
+        "QUE LO ESTAS CANTANDO"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "CANTAN DE SU GRAN SALVACION",
+        "CANTEMOS CRISTO ES EL SEÑOR",
+        "DE LAS NACIONES",
+        "CRISTO ES EL SEÑOR DEL UNIVERSO",
+        "CADA LENGUA TRIBU Y CADA PUEBLO",
+        "EN SUS RODILLAS DECLARARAN QUE ES SEÑOR",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "//CRISTO, CRISTO JESUCRISTO JESUCRISTO",
+        "CRISTO  CRISTO ES SEÑOR//"
+      ]
+    }
+  ]
+}

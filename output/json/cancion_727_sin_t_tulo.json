@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Una cosa sé, que habiendo sido siego,",
+        "Ahora yo veo, la luz de mi Señor.",
+        "",
+        "La luz divina que me dió el Señor,",
+        "Cuando por la fe yo miré al Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Y los fariseos decian sin cesar",
+        "Ese hombre es pecador,",
+        "Eses hombre es pecador.",
+        "",
+        "Si es pecador, yo no lo sé",
+        "lo único que sé,",
+        "que Él ya me salvó."
+      ]
+    }
+  ]
+}

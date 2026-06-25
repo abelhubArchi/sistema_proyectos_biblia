@@ -1,0 +1,45 @@
+{
+  "numero": null,
+  "titulo": "Tus promesas",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Grandes son las promesas del Señor",
+        "promesas de verdad que nunca cambiarán",
+        "sus promesas son preciosas, avivan mi fé",
+        "cada una realidad serán"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Todas tus promesas son sí y amén, Jesús",
+        "promesas de verdad",
+        "Todas tus promesas son sí y amén, Jesús",
+        "Correremos hacia Ti"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Correrás y no te cansarás,",
+        "volarás más que el águila real",
+        "y en la presencia del Señor tú remontarás",
+        "y un día, su rostro allí verás"
+      ]
+    }
+  ]
+}

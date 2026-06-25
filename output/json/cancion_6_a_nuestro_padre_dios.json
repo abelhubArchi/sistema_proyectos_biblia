@@ -1,0 +1,58 @@
+{
+  "numero": 6,
+  "titulo": "A NUESTRO PADRE DIOS",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "A nuestro Padre Dios alcemos nuestra voz,",
+        "¡ Gloria a El!",
+        "Tal fue su amor que dio al Hijo que murió.",
+        "En quien confío yo, ¡Gloria a El!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "A nuestro Salvador demos con fe loor,",
+        "¡ Gloria a El!",
+        "Su sangre derramó; con ella me lavó,",
+        "Y el cielo me abrió, ¡Gloria a El!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Espíritu de Dios, elevo a Ti mi voz,",
+        "¡Gloria a Tí!",
+        "Con celestial fulgor me muestras el amor",
+        "De Cristo mi Señor: ¡Gloria a Ti!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Con gozo y amor cantemos con fervor",
+        "Al trino Dios.",
+        "En la eternidad mora la Trinidad;",
+        "¡Por siempre alabad al Trino Dios!"
+      ]
+    }
+  ]
+}

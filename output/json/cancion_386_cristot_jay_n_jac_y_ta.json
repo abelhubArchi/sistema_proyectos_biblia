@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "CRISTOT JAYÁN JACÁYÁTA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristot jayán jacáyáta,",
+        "Juchanacans phokfata,",
+        "Ucat Cristoruw arfasta,",
+        "Jupajj perdonjjetuwa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Jichhasti yuspagarsmawa,",
+        "Nayaru khespiyatamat.",
+        "Jucha jjsa k'omachistawa,",
+        "Jumar sirviñataqui.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Lup'itajjas, parlatajjas,",
+        "Jumar uw fiankhachána,",
+        "Suma k'oma wilamampiw,",
+        "Nayar k'omachfasjjesta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jumatejj Tatit Cristoru,",
+        "Jucham arsusismajja,",
+        "Khespiyataw uñjasisma,",
+        "Take juchanacata."
+      ]
+    }
+  ]
+}

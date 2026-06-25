@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Dios Wajyasunki",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Dios wajyasunki qanta, Palabranta uyariy.",
+        "Atípaytaj juchata, kusiypitaj kawsanki.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Cristo kutimonqaña mana qhepakusunchu.",
+        "Tukuy Paywan ripusun janajpacha llajtaman./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Jesusta sirvikuspa, munakuywan llank'asun.",
+        "Salvasqataj kasunchej Diospa tukuy wawasnin.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Kutirimuy, kawsaqéy, salvacionta mask'aspa.",
+        "Mana uyariwaj chay, nina larwayman rinki."
+      ]
+    }
+  ]
+}

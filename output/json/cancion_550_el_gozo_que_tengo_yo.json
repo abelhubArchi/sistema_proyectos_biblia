@@ -1,0 +1,71 @@
+{
+  "numero": null,
+  "titulo": "El gozo que tengo yo",
+  "carpeta": "03 Alabanza Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "El gozo que tengo yo, el mundo no me lo dio,",
+        "el mundo no me lo dio.",
+        ".",
+        "// Y como no me lo dio, no me lo puede quitar.//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Si empezamos a cantar, ésta tierra tiembla,",
+        "Si empezamos a orar, hablaremos nuevas lenguas.",
+        ".",
+        "// Elías oró y el fuego cayó",
+        "Oró Josué y el sol se paró.//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Este gozo que yo siento en mi alma",
+        "sólo Cristo me lo pudo dar",
+        "",
+        "// Sólo Cristo me lo pudo dar.//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "// Pero que felicidad, pero que felicidad",
+        "cantando todos en coro",
+        "a nuestro padre celestial.//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Yo no sé a que tú viniste",
+        "Pero yo vine a alabar a Dios.",
+        "",
+        "Yo vine, yo vine",
+        "Yo vine a alabar a Dios.",
+        ""
+      ]
+    }
+  ]
+}

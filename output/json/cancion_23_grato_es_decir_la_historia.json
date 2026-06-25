@@ -1,0 +1,60 @@
+{
+  "numero": 23,
+  "titulo": "GRATO ES DECIR LA HISTORIA",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Grato es decir la historia del celestial favor;",
+        "De Cristo y de su gloria, de Cristo y de su amor;",
+        "",
+        "Me agrada referirla, pues sé que es la verdad;",
+        "Y nada satisface cual ella mi ansiedad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "¡Cuan bella es esa historia!",
+        "Mi tema allá en la gloria",
+        "Será la antigua historia",
+        "De Cristo y de su amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Grato es decir la historia que brilla cual fanal,",
+        "Y en glorias y portentos no reconoce igual;",
+        "",
+        "Me agrada referirla, pues me hace mucho bien.",
+        "Por eso a ti deseo decírtela también.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Grato es decir la historia, que antigua, sin vejez;",
+        "Parece al repetirla más dulce cada vez;",
+        "",
+        "Me agrada referirla, pues hay quien nunca oyó",
+        "Que para hacerle salvo el buen Jesús murió."
+      ]
+    }
+  ]
+}

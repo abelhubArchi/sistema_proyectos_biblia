@@ -1,0 +1,45 @@
+{
+  "numero": null,
+  "titulo": "Mira lo que hizo mi Señor",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "//Mira lo que hizo mi Señor//",
+        "//me levanto y me libero",
+        "mira lo que hizo mi Señor//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "//caminando por la senda voy,//",
+        "//de prueba en prueba,victoria tras",
+        "victoria,",
+        "caminando por la senda voy//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "//El enemigo ya vencido esta//",
+        "//Jesús lo vencio muriendo en la cruz",
+        "¡El enemigo ya vencido está!//"
+      ]
+    }
+  ]
+}

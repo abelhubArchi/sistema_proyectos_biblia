@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Qayllakuna Jesusman (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Acudamos a Jesús, El nos llama con amor./",
+        "/Presurosos con placer acudamos sin temor./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Cristo llama con amor a toda la humanidad./",
+        "/Con su muerte en la cruz, sus maldades limpiará./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Mientras llama el Señor, acudamos sin tardar./",
+        "/Y si tu le negares, lamentable te será./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Acudamos a Jesús, obtendremos salvación./",
+        "/Y si le negáramos, nos espera el dolor./"
+      ]
+    }
+  ]
+}

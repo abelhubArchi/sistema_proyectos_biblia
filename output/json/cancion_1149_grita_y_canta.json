@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "GRITA Y CANTA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "TE ALABARÉ, TE EXALTARÉ,",
+        "Y TE AGRADECERÉ",
+        "TU GRANDE AMOR JESÚS,",
+        "CAMBIASTE MI LAMENTO EN ALABANZA,",
+        "SANASTE MI HERIDO CORAZÓN."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "GRITA, CANTA, DANZA ALEGREMENTE",
+        "EN SU PRESENCIA, GIRA, SALTA DANDO",
+        "VUELTAS PARA CRISTO, ÉL VIVE, VIVE",
+        "PARA SIEMPRE, ÉL ES EL REY."
+      ]
+    }
+  ]
+}

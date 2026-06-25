@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "Belén Llajtapi (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "N. Calani",
+  "compositor": "N. Calani",
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Cristo ha nacido allí en Belén de Judea./",
+        "/Virgen María dio luz a Cristo el Salvador./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/El rey Herodes al saberlo se enalteció./",
+        "/Supo que en Belén nació el Rey de los Judíos./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/El rey Herodes luego mandó a sus soldados/",
+        "/A que matasen a todo pequeño varón./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Nuestro Dios Padre en un sueño habló a José",
+        "/A que huyeran muy pronto al lugar de Egipto./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "/Así, el Señor Jesucristo vino al mundo./",
+        "/Acude hoy mismo que Jesús quiere salvarte./"
+      ]
+    }
+  ]
+}

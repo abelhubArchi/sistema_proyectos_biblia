@@ -1,0 +1,32 @@
+{
+  "numero": null,
+  "titulo": "ME GOZARÉ EN TU PRESENCIA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ME GOZARÉ EN TU PRESENCIA JEHOVÁ",
+        "CON TODAS MIS FUERZAS GRITARÉ, HEY!/"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "ANTE TI CON GOZO CANTARE",
+        "CON ALEGRE DANZA CELEBRARÉ",
+        "SALTARÉ Y ME GOZARÉ."
+      ]
+    }
+  ]
+}

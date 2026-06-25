@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Kusikuyniyojmin Kanku",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Kusikuyniyojmin kanku wajcha almayojkunaqa,",
+        "Janaj pacha paykunajta, Señor Jesús chayta nerqa.",
+        "/Kusikuyniyojmin kanku llimphu sonqoyojkunaqa.",
+        "Diosninchejta rikonqanku may jatun kusiytaj kanqa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Kusikuyniyojmin kanku llimphu sonqoyojkunaqa,",
+        "Herenciatajap'enqnku jaqay cielo llajtapeqa.",
+        "/Kusikuyniyojmin kanku persiguisqas kajkunaqa,",
+        "Janaj pacha paykunajta. Señor Jesús chayta nerqa./"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "Qanman Diosníy Oraciompi (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "A Tí, Dios mío, en oración,",
+        "Con mi cuidado terrenal",
+        "Allégame, y de corazón",
+        "Te manifestaré mi mal.",
+        "¡Oh, cuántas veces tuve en Ti",
+        "Refugio de mi tentación!",
+        "Y ¡cuántas cosas recibí",
+        "De Ti, Dios mío en oración!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "A Ti, Dios mío, en oración",
+        "Confiando en tu fidelidad",
+        "Elevaré mi petición",
+        "La voz de mi necesidad.",
+        "Yo sé que escucharás allá,",
+        "Que me darás tu bendición",
+        "Que fortaleza me vendrá",
+        "De Ti, Dios mío, en oración.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Ahora, oh Dios, en oración",
+        "Aliento y gozo a mi alma da.",
+        "En este mundo de aflicción",
+        "De orar necesidad habrá.",
+        "Mas desde el día en que yo esté",
+        "Contigo en suma perfección,",
+        "Mis oraciones cambiaré",
+        "En una eterna adoración."
+      ]
+    }
+  ]
+}

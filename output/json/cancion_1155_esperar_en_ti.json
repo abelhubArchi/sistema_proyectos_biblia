@@ -1,0 +1,43 @@
+{
+  "numero": null,
+  "titulo": "ESPERAR EN TI",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ESPERAR EN TI",
+        "DIFICIL SE QUE ES",
+        "MI MENTE DICE NO",
+        "NO ES POSIBLE",
+        "PERO MI CORAZÓN",
+        "CONFIADO ESTA EN TI",
+        "TU SIEMPRE HAS SIDO FIEL",
+        "ME HAS SOSTENIDO"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Y ESPERARE PACIENTEMENTE",
+        "AUNQUE LA DUDA ME ATORMENTE",
+        "YO NO CONFIO CON LA MENTE",
+        "LO HAGO CON EL CORAZON",
+        "Y ESPERARE EN LA TORMENTA",
+        "AUNQUE TARDARE TU RESPUESTA",
+        "YO CONFIARE EN TU PROVIDENCIA",
+        "TU SIEMPRE TIENES EL CONTROL"
+      ]
+    }
+  ]
+}

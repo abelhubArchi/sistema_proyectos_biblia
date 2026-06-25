@@ -1,0 +1,53 @@
+{
+  "numero": null,
+  "titulo": "033 TATIT JESUSAJJA MA URUW JUTANI",
+  "carpeta": "04 Poder del Evangelio",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ": Tatit Jesusajja,",
+        "Ma uruw jutani",
+        "Take ch’amapampi,",
+        "Kollan angelanacampi. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "CORO:",
+        ":Jank’o isincamaquiw",
+        "Uñstañan",
+        "Tatitun marcapan,",
+        "khespiyat  wawanacapajj. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jumasti jilata,",
+        "Waquichasisctati,",
+        "Chuymamajj asquiti",
+        "Cristor catokañataqui.",
+        "",
+        "Jumasti cullaca",
+        "wa cquichasisctati,",
+        "chuymamajj k’omati",
+        "Cristor catokañataqui."
+      ]
+    }
+  ]
+}

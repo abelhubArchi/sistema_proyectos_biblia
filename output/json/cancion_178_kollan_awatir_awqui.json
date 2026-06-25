@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "KOLLAN AWATIR AWQUI",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Kollan Awatir Awqui",
+        "Yupaychiriw jutapjjsma,",
+        "Jumaruw alabapjjsma,",
+        "Catokt'asipjjetaya.",
+        "Ist'apjjetay Awquejja",
+        "Arnakasinipjjsmawa.",
+        ":Qhuyapt'ayasipjjetay",
+        "Nayrakatamancapjjtwa. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Kollan Khespiyir Cristo",
+        "Jumaruw yupaychapjjsma.",
+        "Cruzan jiwatam laycuw",
+        "Khespiyasiñajj utji.",
+        "Mic'ayat waysupjjesta",
+        "Wiñay jacañ churasa.",
+        ":Takpach wawanacamaw",
+        "Jichhajj yuspagarapjjsma. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Asqui Kollan Ajayu",
+        "Yanapt'asipjjetaya.",
+        "Chuymajj k'omachapjjetay",
+        "Asquimampi phokt'asa.",
+        "Acá llaqui oraken,",
+        "Sapüruy irpapjjeta.",
+        ":Samarañam churasa",
+        "Marcamar puriñcama. (Bis)"
+      ]
+    }
+  ]
+}

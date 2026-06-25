@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "GARANTIZA VICTORIA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "GARANTIZA VICTORIA",
+        "GARANTIZA VICTORIA",
+        "GARANTIZA VICTORIA",
+        "GARANTIZA VICTORIA",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "YO FUI COMPRADO",
+        "POR UN PRECIO MUY MUY GRANDE,",
+        "ESE PRECIO FUE LA SANGRE",
+        "DERRAMADA ALLA EN LA CRUZ"
+      ]
+    }
+  ]
+}

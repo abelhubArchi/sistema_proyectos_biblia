@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "YO LE ALABO, ¡ALELUYA!",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Por comprarme al Salvador daré loores,",
+        "Busco patria célica de luz y amor;",
+        "Voy cantando, y siempre quiero yo cantarle",
+        "Ante el trono majestuoso del Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Yo le alabo, ¡Aleluya!",
+        "Siempre le daré loor;",
+        "Si tuviera lenguas mil con que loarlo,",
+        "Ni podría bien loar a mi Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Por su salvación a Cristo doy loores,",
+        "Es del hombre la más rica posesión;",
+        "Una vez vagaba solo, enfermo y triste,",
+        "Mas camino ya a la celestial mansión.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¡Aleluya! Siempre le daré loores,",
+        "Cada día siente mi alma dulce paz;",
+        "Cristo me salvó; El me ha purificado,",
+        "Su servicio trae placer y gran solaz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Por las fuerzas qué da Cristo doy loores,",
+        "Sólo premio suyo ahora buscaré;",
+        "Gozaré vida inmortal allá en el cielo,",
+        "Do con Cristo eternamente viviré."
+      ]
+    }
+  ]
+}

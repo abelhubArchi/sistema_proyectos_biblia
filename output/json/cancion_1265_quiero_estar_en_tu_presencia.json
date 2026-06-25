@@ -1,0 +1,35 @@
+{
+  "numero": null,
+  "titulo": "QUIERO ESTAR EN TU PRESENCIA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "QUIERO ESTAR EN TU PRESENCIA,",
+        "Y PODERTE CONTEMPLAR",
+        "NECESITO ESTAR CONTIGO",
+        "NECESITO ADORAR"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "DAME DE BEBER",
+        "DE TU MANANTIAL",
+        "DAME DE BEBER",
+        "NECESITO MÁS."
+      ]
+    }
+  ]
+}

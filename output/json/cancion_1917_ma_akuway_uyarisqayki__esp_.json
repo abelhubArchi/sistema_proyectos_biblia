@@ -1,0 +1,26 @@
+{
+  "numero": null,
+  "titulo": "Mañakuway Uyarisqayki (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "\"Clama a Mí, te responderé; clama a Mí, te enseñaré.",
+        "Cosas grandes que no sabes,\" dice nuestro Dios",
+        "Pues oremos sin dudar jamás,",
+        "Y tendremos bendición y paz.",
+        "Ganaremos la victoria. Gloria a Dios."
+      ]
+    }
+  ]
+}

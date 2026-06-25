@@ -1,0 +1,35 @@
+{
+  "numero": null,
+  "titulo": "CON MANOS LLENAS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "NO ME PRESENTARÉ CON MANOS VACIAS",
+        "PUES SOBRE AABUNDANTE ESTOY DE GRACIAS Y AMOR",
+        "NO ME PRESENTERÉ CON MANOS VACIAS",
+        "TRAIGO MI OFRENDA A TI RECIBELA OH DIOS"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "TU DAS SEMILLA A AQUEL QUE SIEMPRE",
+        "Y SOBRE ABUNDANTEMENTE COSECHARÁ",
+        "PORQUE LA LLUVIA DE GRACIA Y PROSPERIDAD",
+        "SOBRE TUS HIJOS DERRAMARÁS"
+      ]
+    }
+  ]
+}

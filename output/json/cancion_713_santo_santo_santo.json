@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "SANTO SANTO SANTO",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Santo, Santo, Santo",
+        "Santo es el Señor,",
+        "",
+        "Santo Santo, Santo",
+        "es El Señor Jesús.",
+        "Santo Santo, Santo",
+        "dicen los querubines",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Porque mi Dios es Santo",
+        "y la tierra",
+        "llena de su gloria está,",
+        "",
+        "Cielo y tierra pasarán",
+        "mas sus palabras no pasarán.//",
+        "",
+        "no, no, no pasarán",
+        "no, no, no pasarán"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "ALABANZA",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "La alegria está en el corazón,",
+        "De aquel que conoce a Jesús.",
+        "",
+        "La verdadera paz la tiene aquel",
+        "Que conoce a mi Jesús.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Los sentimientos más preciosos,",
+        "Que vienen del Señor, es el amor.",
+        "",
+        "De aquel que conoce a Jesús.",
+        "Aleluya Amén.",
+        "",
+        "\"Aleluya....Aleluya....\""
+      ]
+    }
+  ]
+}

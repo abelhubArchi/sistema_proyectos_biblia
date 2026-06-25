@@ -1,0 +1,54 @@
+{
+  "numero": null,
+  "titulo": "YO CANTARE TUS ALABANZAS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "YO CANTARÉ TUS ALABANZAS",
+        "",
+        "LLENO DE GOZO DANZARÉ",
+        "",
+        "ERES SEÑOR DE LAS NACIONES",
+        "",
+        "REINAS CON TODO PODER"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "POR SIEMPRE YO CELEBRARÉ",
+        "",
+        "CON ALEGRÍA DECLARARÉ",
+        "",
+        "ÉL HA SOLTADO MIS CADENAS",
+        "",
+        "ME HA HECHO LIBRE, ¡SÍ!"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "//EXALTAD AL SEÑOR",
+        "",
+        "EXALTAD A JESUCRISTO",
+        "",
+        "EXALTAD AL SEÑOR",
+        "",
+        "SU NOMBRE EXALTAD//"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "MEMORIA TENED EN MI",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jesús al sentarse a la mesa,",
+        "Dio gracias el pan al partir,",
+        "Y dijo El; \"Comed, esto es mi cuerpo, roto en la cruz:",
+        "Tened memoria de Mi,",
+        "Memoria tened de Mi.\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Teniendo en sus manos la copa",
+        "Dio gracias el vino al servir,",
+        "Dijo: \"Bebed mi sangre que fue derramada en la cruz;",
+        "Tened memoria de Mi,",
+        "Memoria tened de Mi\".",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Y cuando este pan y la copa",
+        "Podamos en paz compartir",
+        "Nos dice: \"Hasta que venga otra vez, mi muerte anuncias:",
+        "Tened memoria de Mi,",
+        "Memoria tened de Mi\"."
+      ]
+    }
+  ]
+}

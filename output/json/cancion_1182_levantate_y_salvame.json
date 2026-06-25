@@ -1,0 +1,72 @@
+{
+  "numero": null,
+  "titulo": "LEVANTATE Y SALVAME",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "AUNQUE UN EJERCITO",
+        "ACAMPE CONTRA MI NO TEMERE",
+        "AUNQUE HAYA GUERRA HOY",
+        "ALREDEDOR DE MI, EN TI CONFIARE"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "NO TEMERE A DIEZ MIL GENTES",
+        "QUE HAGAN SITIO CONTRA MI",
+        "AUNQUE LA TIERRA SE ESTREMEZCA",
+        "MI SALVACION ESTA EN TI"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "PORQUE TU ERES MIS ESCUDO",
+        "TU MI FORTALEZA",
+        "TU ERES MI GLORIA",
+        "QUIEN LEVANTA MI CABEZA"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "AUNQUE AFLIGIDO ESTE",
+        "TU PENSARAS EN MI, NO TEMERE",
+        "AUNQUE MI CORAZÓN",
+        "ESTREMECIDO ESTE, EN TI CONFIARE"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "NO TEMERE A NINGUN HOMBRE,",
+        "QUE SE JUNTE CONTRA MI",
+        "TU ERES MI DIOS MI FORTALEZA",
+        "MI SALVACIN ESTA EN TI."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 6,
+      "lineas": [
+        "///LEVANTATE Y SALVAME///"
+      ]
+    }
+  ]
+}

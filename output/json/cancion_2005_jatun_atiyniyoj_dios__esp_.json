@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "Jatun Atiyniyoj Dios (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Es el Dios de los ejércitos en quien yo confiaré,",
+        "Y con címbalos de gozo el Señor ensalzaré.",
+        "El despide con relámpagos, más nunca temeré,",
+        "El es mi protector.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "//Gloria, gloria, aleluya,//",
+        "A Cristo doy loor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Con ejércitos no gana sus victorias el Señor,",
+        "Ni con fuerza lucha en contra de Luzbel el tentador.",
+        "La potencia del espíritu, ha dicho el Dios de amor,",
+        "Es lo que vencerá.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "En Belén de Palestina el Señor Jesús nació",
+        "A los treinta y tres años, El en la cruenta cruz murió",
+        "Pero vive para siempre pues la tumba ya venció",
+        "Su nombre alabaré."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "numero": null,
+  "titulo": "BELLAS PALABRAS",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Al escuchar tus palabras. Señor,",
+        "Vengo a rendirme delante de tí.",
+        "Padre bendito y lleno de amor,",
+        "Solo recíbeme tal como soy.",
+        ":Tú solo eres el Padre eternal",
+        "Para los hijos salvados por fe. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Al escuchar tus palabras. Señor,",
+        "Hay paz profunda y completa en mi ser.",
+        "Pero desobedecer a tu voz",
+        "Trae a mi vida lamento y dolor.",
+        ":Dame tu Espíritu Santo, Señor,",
+        "Para vivir como tu hijo fiel. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Si yo me aparto de tí. ¡oh Señor!",
+        "Voy caminando hacia la perdición.",
+        "Mas tu palabra en mi corazón",
+        "Me ayudará a servirte. Señor.",
+        ":Tú eres mi único y buen Salvador,",
+        "Guíame siempre con tu gran amor. (Bis)"
+      ]
+    }
+  ]
+}

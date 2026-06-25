@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Cristo Sumaj Kausaqe (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¡Oh! qué amigo nos es Cristo, nuestras culpas El llevó,",
+        "Y nos manda que llevemos todo a Dios en oración.'",
+        "¿Somos tristes, agobiados y cargados de aflicción?",
+        "Esto es porque no llevamos todo a Dios en oración.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¿Te hallas débil y oprimido de cuidados y temor?",
+        "A Jesús, refugio eterno, dile todo en oración.",
+        "¿Te desprecian tus amigos? cuéntaselo en oración.",
+        "En sus brazos de amor tierno paz tendrá tu corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jesucristo es nuestro amigo, de esto pruebas nos mostró.",
+        "Pues para llevar consigo al culpable, se humanó.",
+        "El castigo de su pueblo en su muerte El sufrió.",
+        "Cristo en el amigo eterno, sólo en El confío ya."
+      ]
+    }
+  ]
+}

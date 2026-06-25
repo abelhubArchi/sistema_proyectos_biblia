@@ -1,0 +1,26 @@
+{
+  "numero": null,
+  "titulo": "JESÚS TU ERES",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "JESÚS TU ERES",
+        "JESÚS TÚ ERES LA PERSONA",
+        "MÁS IMPORTANTE EN ESTE LUGAR//",
+        "REY DE REYES, SEÑOR DE SEÑORES",
+        "TÚ ERES AQUEL QUE MI VIDA CAMBIÓ."
+      ]
+    }
+  ]
+}

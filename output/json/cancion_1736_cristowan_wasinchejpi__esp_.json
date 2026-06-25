@@ -1,0 +1,35 @@
+{
+  "numero": null,
+  "titulo": "Cristowan Wasinchejpi (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Con Cristo en la familia, un feliz hogar,",
+        "Un feliz hogar, un feliz hogar.",
+        "Con Cristo en la familia, un feliz hogar.",
+        "¡Qué felicidad!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Con Cristo en su viña, qué felicidad ..........",
+        "Con Cristo en el camino, qué felicidad ..........",
+        "Con Cristo por doquiera, qué felicidad .........."
+      ]
+    }
+  ]
+}

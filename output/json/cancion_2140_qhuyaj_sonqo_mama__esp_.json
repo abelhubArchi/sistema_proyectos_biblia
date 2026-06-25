@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Qhuyaj sonqo Mama (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Madre, madre /Dios te bendiga",
+        "Te deseamos de corazón,",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Madre, madre /madre paciente",
+        "Tú eres tierna de corazón./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Madre, madre /Madre estimada",
+        "Dios te consuele en tu sufrir.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Madre, madre /Madre prudente",
+        "Dios te conceda vida feliz./"
+      ]
+    }
+  ]
+}

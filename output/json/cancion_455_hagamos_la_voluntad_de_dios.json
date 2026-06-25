@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "HAGAMOS LA VOLUNTAD DE DIOS",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristo el Señor enseñó en el monte.",
+        "Palabras de verdad,",
+        "A mucha gente que prefería,",
+        "Un camino mejor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Vivamos todos tan dignamente,",
+        "Como nos manda Dios;",
+        "Pues, renunciamos a la inmundicia,",
+        "Para vivir con él.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "No todo aquel, que sólo en palabras",
+        "Dice: \"Señor, Señor\",",
+        "Podrá entrar al hogar glorioso,",
+        "Junto al Señor Jesús.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Muchos querrán en aquel gran dfa,",
+        "Vivir junto al Señor",
+        "Pero el Señor les dirá a ellos:",
+        "“Malditos apartaos\"."
+      ]
+    }
+  ]
+}

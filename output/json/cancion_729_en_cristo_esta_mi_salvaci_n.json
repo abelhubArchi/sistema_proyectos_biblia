@@ -1,0 +1,74 @@
+{
+  "numero": null,
+  "titulo": "En Cristo esta mi salvación",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En Cristo está mi salvación;",
+        "Él es mi fuerza, luz, canción.",
+        "La Roca Eterna, fundación;",
+        "Firme en prueba y tentación.",
+        "Oh, alto amor, profunda paz;",
+        "La lucha cesa y el temor.",
+        "Mi esperanza y protección.",
+        "En el amor de Cristo estoy.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "En Cristo está mi redención;",
+        "Dios infinito se humilló.",
+        "Su don de amor y libertad",
+        "El mundo entero despreció.",
+        "Allá en la cruz, mientras murió,",
+        "El justo Dios se conformó,",
+        "Y mi pecado Él cargó,",
+        "Hoy en Su muerte vivo yo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Fue sepultado al morir,",
+        "La luz del mundo se apagó.",
+        "Mas con poder resucitó:",
+        "De muerte Él se levantó.",
+        "¡Glorioso Rey! El Vencedor",
+        "De mi pecado me libró.",
+        "Pues Suyo soy y mío es Él.",
+        "Dios con Su sangre me compró.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Vivir sin culpa y sin temor,",
+        "Es el poder de Cristo en mí.",
+        "Desde nacer hasta morir,",
+        "Cristo conduce mi existir.",
+        "No hay poder ni voluntad",
+        "Que de Él me pueda apartar,",
+        "Hasta que vuelva o muera yo,",
+        "En el poder de Cristo estoy."
+      ]
+    }
+  ]
+}

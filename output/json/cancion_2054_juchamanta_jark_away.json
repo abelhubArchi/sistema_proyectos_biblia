@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Juchamanta Jark’away",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Juchamanta jark'away, Tatáy,",
+        "Tentaciompitaj atípasaj./",
+        "/Kallpata qoway sayanaypaj;",
+        "Qanllapipuni confíani./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Kallpay pisiyapojtín, Diosníy,",
+        "Atiyniyoj Qanllamin kanki./",
+        "/Sapa p'unchaypi kay noqawan;",
+        "Sonqoyta tíjray gustoykiman./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Sajra kayniyta qhechupuway,",
+        "Señor, waqaychay kawsayniyta./",
+        "/Cielo wasiyman Qan pusaway,",
+        "Guiaway; Qanta qhatísqayki./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Chimpaykamuyki, Señor, Qanman,",
+        "Cuentaypi wañoj Salvawajníy./",
+        "/Ni pi Qan jiña atiyniyoj;",
+        "Wañunaykama waqaychaway./"
+      ]
+    }
+  ]
+}

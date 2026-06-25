@@ -1,0 +1,56 @@
+{
+  "numero": null,
+  "titulo": "Jehovamin Michejniy",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jehovamin Michejniy, munakuywan michiwan",
+        "Q’omer pastosllapi Pay michishawan",
+        "Samachiwan llanthuspijark-awan sajramanta,",
+        "Ujyachiwan ch’uwa yakusllamanta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Jehovamin michejneyqa mana pisichiwanchu",
+        "Paywan khuska purisaj mana manchachikuspa",
+        "Munakuyninmanta ni t’aqakuspa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Michejniy waqaychawan, kallpatapis qowanqa",
+        "Chay cheqan ñanninta pusawanqa Pay",
+        "Llakiypi riqhurejtíy, Payllamin sonqochawan",
+        "Kusiytapis sonqoyman junfachenqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Nijayk’aj qonqawanchu, munakullawampuni",
+        "Bendicioneswan atípachiwan Pay.",
+        "Laqhapi rikhurispa, mana manchikusajchu",
+        "Diosmypa wasimpi tíyakamusaj."
+      ]
+    }
+  ]
+}

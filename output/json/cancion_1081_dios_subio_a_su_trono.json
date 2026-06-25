@@ -1,0 +1,32 @@
+{
+  "numero": null,
+  "titulo": "DIOS SUBIO A SU TRONO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "DIOS SUBIÓ A SU TRONO",
+        "ENTRE APLAUSOS Y JÚBILO",
+        "DIOS SUBIÓ A SU TRONO",
+        "LA TROMPETA SONANDO ESTÁ,",
+        "LA TIERRA LE ALABA",
+        "SUS HIJOS LE ADORAN",
+        "TODA SU CREACIÓN LE CANTA.",
+        "EL ES GRANDE, TU ERES SEÑOR",
+        "Y TODA LA TIERRA  RINDE ADORACION",
+        "TU NOMBRE EXALTAMOS,",
+        "NO HAY OTRO DIOS COMO TU JESUS."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "JUC'AMPI MUNAMA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tatitu, nayaw munsma; nayanctawa Jumajj;",
+        "Take juchanacajjsa pampacharaquistaw.",
+        ":Munata Jesucristo, Jumaw khespiyista;",
+        "Juc'ac munchi'yasmajja, juc'ampi munama. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Jumawa nayrakata nayaru munista;",
+        "T'akhesisaw cruzanjja naya laycu jiwtajj.",
+        ":T'akhesitamajj Tata, nayatac asquiwa;",
+        "Juc'ac munchiyasmajja, juc'ampi munama. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Janiwa ajjsarcati Jumata parlaña;",
+        "Take ch'amajjampiwa sutimjja khanancha.",
+        ":Wawamat uñt'asista, yuspagarsmaw Tata",
+        "Juc'ac munchtyasmajja, juc'ampi munama. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Acapach orakejja juc'ataquiquiwa;",
+        "Jaken munasiñapas tucusiriquiwa.",
+        ":Munasiñamajj Tata, wiñayataquiwa;",
+        "Juc'ac muñchiyasmajja, juc'ampi munama. (Bis)"
+      ]
+    }
+  ]
+}

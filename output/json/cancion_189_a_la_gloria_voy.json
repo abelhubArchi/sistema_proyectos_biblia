@@ -1,0 +1,66 @@
+{
+  "numero": null,
+  "titulo": "A LA GLORIA VOY",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Qué glorioso es andar hacia el cielo con Jesús",
+        "¿Quién me puede apartar de su eterno y fiel amor?",
+        "Desde que le conocí en mi corazón hay luz.",
+        "¿Quién me puede daño hacer? Cristo es mi Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "A la gloria yo voy, con mi buen Señor;",
+        "El las puertas abrirá, por su gran amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Con alegre corazón voy al cielo de mi Dios.",
+        "¿Quién me puede apartar de su eterno y fiel amor?",
+        "Yo consagro a El mi voz, su mensaje a proclamar.",
+        "¿Quién me puede daño hacer? Cristo es mi Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cristo me espera allá, en su gloria celestial.",
+        "¿Quién me puede apartar de su eterno y fiel amor?",
+        "Cara a cara le veré. ¡Qué gran gozo eternal!",
+        "¿Quién me puede daño hacer? Cristo es mi Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Vamos juntos en la luz, caminando con Jesús.",
+        "¿Quién me puede apartar de su eterno y fiel amor?",
+        "Aunque en este mundo vil encontremos pruebas mil.",
+        "¿Quién me puede daño hacer? Cristo es el Señor."
+      ]
+    }
+  ]
+}

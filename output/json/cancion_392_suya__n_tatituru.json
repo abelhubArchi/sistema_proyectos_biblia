@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "SUYAÑÁN TATITURU",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tatit Jesucristojj niyaw cutinini,",
+        "Khespitanacaru, irpasjjaniwa.",
+        "Jaquirinacarus, jiwatanacarus,",
+        "Irpjjaniw Cristojja alajjpacharu.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Suyañán Tatitur, Tatitur suyañán.",
+        "Jan páchasisaquiy jupar suyañán. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tatit Jesusampiw jiquisipjjañáni,",
+        "Ajllitanacapajj kenay taypina.",
+        "Jupampiw jacañán wiñay wifiayatac,",
+        "Diosar yupaychasa, c'ajquir marcana.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Tatit Jesusana cutiniñapajja,",
+        "Cuna ratoqui'cán, amuyfasifián.",
+        "Munat jilanaca, juchat jaltaquiñán.",
+        "Janirac pantjasis, suyapjjañáni."
+      ]
+    }
+  ]
+}

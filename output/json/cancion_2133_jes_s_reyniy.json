@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "Jesús Reyniy",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jesús Reyniy, Payllapaj takishani.",
+        "Jesús Reyniy, Pay jiña ni uj kanchu.",
+        "Tukuy p’nchaypi yupaychani Payllataña.",
+        "Aleluya, Pay Reyniy."
+      ]
+    }
+  ]
+}

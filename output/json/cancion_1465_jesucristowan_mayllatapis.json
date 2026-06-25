@@ -1,0 +1,66 @@
+{
+  "numero": null,
+  "titulo": "Jesucristowan Mayllatapis",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jesucristowan mayllatapis riyman,",
+        "Wiñay chikaymanta Salvawajniywan.",
+        "Maytachá pusawanman, chayman riyman,",
+        "Mañana manchachikuspa wañuyta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Ripusaj, ripusaj, ancha kusiywan,",
+        "Mayllatapis Jesús Salvawajniywan.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Mayllatapis sumaj Michejniywanqa,",
+        "Mana manchachikuspa noqa kasaj.",
+        "Paytaj ñanta k'anchaspa pusawanqa,",
+        "Qhepantataj noqa kusiywan risaj",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Tukuy kawsayniypi Pay pusawanqa.",
+        "Pantayman rishajtíy, kutichimuwan",
+        "Nampi misk’ajtiypis Pay sayachiwan",
+        "Kusikusaj noqawan kasqanrayku.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Jesucristowan maykamapis risaj.",
+        "Mana faqakoj amigoy Pay kawan.",
+        "Janaj pachamantaj Pay pusawanqa",
+        "Mana juchayojta jatun kusiywan"
+      ]
+    }
+  ]
+}

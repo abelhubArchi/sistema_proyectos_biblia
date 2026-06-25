@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "AYÚDAME ¡OH CRISTO!",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Dame fuerzas. Cristo mío,",
+        "A vencer en las tristezas.",
+        "Piensa en mí, cual hijo humilde,",
+        "Porque quiero andar contigo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Piensa en mí. ¡ oh Cristo mío!",
+        "Lléname con tu poder.",
+        "Nada soy sin tu presencia,",
+        "Vengo a tí con fe sincera. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Fortaléceme, Dios mío,",
+        "Con tu Espíritu Divino",
+        "Cuando estoy muy angustiado,",
+        "Pensaré en tu palabra.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Me libraste del pecado.",
+        "Dándome la vida eterna.",
+        "¡Oh, qué gozo estar contigo.",
+        "A tu lado eternamente 1"
+      ]
+    }
+  ]
+}

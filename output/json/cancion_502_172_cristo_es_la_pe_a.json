@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "172 CRISTO ES LA PEÑA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristo es la peña de horeb que está",
+        "brotando",
+        "Agua de vida saludable para ti.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Ven,a tomarla que es más dulce que la miel",
+        "refresca el alma,refresca tu ser",
+        "Cristo es la peña de horeb que está brotando",
+        "agua de vida saludable para ti",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cristo es el lirio del valle de las flores",
+        "Él es la rosa blanca y pura de sharon",
+        "Cristo es la vida y amor de los amores",
+        "Él es la eterna fuente de la salvación."
+      ]
+    }
+  ]
+}

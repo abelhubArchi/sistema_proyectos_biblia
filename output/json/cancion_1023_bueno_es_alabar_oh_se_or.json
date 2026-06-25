@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "BUENO ES ALABAR OH SEÑOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "BUENO ES ALABAR, OH SEÑOR",
+        "",
+        "TU NOMBRE",
+        "",
+        "DARTE GLORIA, HONRA Y HONOR",
+        "",
+        "POR SIEMPRE",
+        "",
+        "BUENO ES ALABARTE, JESÚS",
+        "",
+        "Y GOZARME EN TU PODER"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "PORQUE GRANDE ERES TÚ",
+        "",
+        "GRANDES SON TUS OBRAS",
+        "",
+        "PORQUE GRANDE ERES TÚ",
+        "",
+        "GRANDE ES TU AMOR",
+        "",
+        "GRANDE ES TU GLORIA"
+      ]
+    }
+  ]
+}

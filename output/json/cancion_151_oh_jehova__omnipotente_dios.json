@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "OH JEHOVA, OMNIPOTENTE DIOS",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Oh Jehová, Omnipotente Dios;",
+        "Tú que entre orbes reinas con poder;",
+        "Inclínate a oír la humilde voz;",
+        "Nuestra canción hoy dígnate a atender.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Eterno Padre, nuestro corazón;",
+        "A ti profesa un inefable amor;",
+        "Entre nosotros tu presencia pon;",
+        "Tiéndenos pues tu brazo protector.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "A nuestra patria da tu bendición;",
+        "Enséñanos tus leyes a guardar;",
+        "Alumbra la conciencia y la razón;",
+        "Domina siempre tú en todo hogar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Defiéndenos del enemigo cruel;",
+        "De nuestras faltas sé la corrección;",
+        "Nuestro servicio sea siempre fiel;",
+        "Y senos tú la grande salvación."
+      ]
+    }
+  ]
+}

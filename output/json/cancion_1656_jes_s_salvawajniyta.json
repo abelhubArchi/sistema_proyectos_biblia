@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Jesús Salvawajniyta",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Si Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Jesús Salvawajniyta rikuyta munashani;",
+        "Payqa tíyasqa kashan janaj pacha gloriampi./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Kutimuynín qayllaña, manachu suyashankí?",
+        "Jesusta qhesachaspa, waqayman qan ríshanki./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Pay glorianta saqespa, kay pachamanjamorqa,",
+        "Munakuyta rikuchin kay laqhayaj mundoman./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Calvario k'aspi cruzpi Diospa Churin wañorqa,",
+        "Chay cruzpi wañusqanwan Payqa rantiwarqanchej."
+      ]
+    }
+  ]
+}

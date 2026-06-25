@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "¿COMO TE PARECE EL SERVIR A CRISTO?",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¿Cuánto tiempo sigues a Jesús?",
+        "¿Corno te parece a tí?",
+        "¿Te dio gozo y paz?",
+        "O ¿vives de pena y dolor?",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Pues, sirvamos a Jesús,",
+        "Dicha eterna nos dará",
+        "Allí en los cielos,",
+        "Por toda la eternidad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¿Cuánto tiempo vives con Jesús?",
+        "¿El vive en tu corazón?",
+        "Muestra buenas obras",
+        "Cual buen siervo del Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¿Cuántas veces al Señor Jesús,",
+        "Le fallaste en tu vivir?",
+        "Reflexiona pronto,",
+        "Y obedece al Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "¡Oh bendito Salvador Jesús'.",
+        "Danos paz y tu perdón;",
+        "Con la fuerza tuya",
+        "Seguiremos fiel a ti."
+      ]
+    }
+  ]
+}

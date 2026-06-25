@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "ME GUSTA ALABARTE",
+  "carpeta": "Comunidad Cristiana",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Me gusta alabarte todos los días,",
+        "Mi Señor Jesús.",
+        "Cada mañana al despertar,",
+        "Pronunciar tu nombre.",
+        "",
+        "Porque eres mi seguridad",
+        "Eres mi gran amor,",
+        "El motivo de mi existir.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Mi Padre,",
+        "El es mi Dios, mi Rey.",
+        "El es Jesucristo, Mi consolador",
+        "Es el Espíritu Santo."
+      ]
+    }
+  ]
+}

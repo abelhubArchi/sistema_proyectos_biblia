@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Kawsarimporqa Cristoqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Kawsarimporqa Cristoqa, Aleluya.",
+        "Wañuyta Pay atiparqa, Aleluya.",
+        "Atíyninwan qhechorqa, Aleluya,",
+        "Juchaj kamachiyninmanta, Aleluya.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Jallp’akama Pay yaykorqa, Aleluya,",
+        "Chaywampis kawsarimporqa, Aleluya.",
+        "T\\ikuyninchej takisun, Aleluya.",
+        "Jatunchasqa Pay kachun, Aleluya.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Kawsayninta Pay jaywarqa, Aleluya,",
+        "Noqanchejta salvanampaj, Aleluya.",
+        "Kunan gloriampi kashan, Aleluya,",
+        "Atiynimpi kawsaspa, Aleluya.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Cristo Salvawajninchejqa, Aleluya,",
+        "Wañuyta Pay atiparqa, Aleluya.",
+        "Takinachej Payllaman, Aleluya,",
+        "Yupaychaykunasninta, Aleluya."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "numero": 2,
+  "titulo": "A TU CASA, PADRE, VENIMOS HOY",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "A tu casa, Padre, venimos hoy",
+        "Himnos para levantar,",
+        "Y ensalzar el nombre del Salvador,",
+        "Y en tus obras meditar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "A la casa tuya acudimos, Señor,",
+        "Do tu pueblo anhela estar;",
+        "Como enseña tu fiel palabra, así",
+        "Te queremos adorar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Hasta ahora has dado tu protección",
+        "En el diario caminar;",
+        "Por la noche fiel tú nos guiarás",
+        "Hasta ver la luz brillar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Que tu pueblo unido de corazón",
+        "Goce comunión aquí,",
+        "Que en la tierra se haga tu voluntad",
+        "Como en el cielo allí.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Como incienso a ti suba la oración.",
+        "Oh, recíbela Señor;",
+        "Nuestra gratitud te cantamos hoy",
+        "En tributo de loor."
+      ]
+    }
+  ]
+}

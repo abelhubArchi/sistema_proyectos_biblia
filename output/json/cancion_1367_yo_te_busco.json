@@ -1,0 +1,27 @@
+{
+  "numero": null,
+  "titulo": "YO TE BUSCO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "YO TE BUSCO, YO TE BUSCO",
+        "CON FUEGO EN MI CORAZÓN",
+        "YO TE BUSCO, YO TE BUSCO.",
+        "RECIBE MI ADORACIÓN.",
+        "TE ANHELO, TE NECESITO",
+        "TE AMO MÁS QUE A MI SER."
+      ]
+    }
+  ]
+}

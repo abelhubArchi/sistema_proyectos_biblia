@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "MEJOR ES UN DIA EN LA CASA DE DIOS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "MEJOR ES UN DIA EN LA CASA DE DIOS",
+        "QUE MIL AÑOS LEJOS DE EL",
+        "PREFIERO UN RINCON EN LA CASA DE DIOS",
+        "QUE TODO EL PALACIO DE UN REY",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "VEN CONMIGO A LA CASA DE DIOS",
+        "CELEBRAREMOS JUNTOS SU AMOR",
+        "HAREMOS FIESTA EN HONOR",
+        "DE AQUEL QUE NOS AMO",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "ESTANDO AQUI EN LA CASA DE DIOS",
+        "ALEGRAREMOS SU CORAZON",
+        "LE BRINDAREMOS OFRENDAS",
+        "DE OBEDIENCIA Y AMOR",
+        "EN LA CASA DE DIOS",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "ARDE MI ALMA, ARDE DE AMOR",
+        "POR AQUEL QUE ME DIO LA VIDA",
+        "POR ESO LE ANHELA MI CORAZON",
+        "ANHELA DE SU COMPAÑIA"
+      ]
+    }
+  ]
+}

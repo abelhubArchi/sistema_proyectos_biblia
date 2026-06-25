@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "Jatun kusiywan (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Gozo inefable siento en mi alma",
+        "Al dar mis diezmos y ofrendas a Dios.",
+        "Dale tu ofrenda para la obra,",
+        "Bendiciones recibirás."
+      ]
+    }
+  ]
+}

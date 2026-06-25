@@ -1,0 +1,38 @@
+{
+  "numero": null,
+  "titulo": "TEMPRANO YO TE BUSACARE",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "TEMPRANO YO TE BUSCARÉ,",
+        "DE MADRUGADA YO ME ACERCARE A TI.",
+        "MI ALMA TE ANHELA Y TIENE SED",
+        "PARA VER TU GLORIA Y TU PODER."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "MI SOCORRO HAS SIDO TU,",
+        "EN LAS SOMBRAS DE TUS ALAS,",
+        "YO ME GOZARÉ.",
+        "MI ALMA ESTA APEGADA A TI,",
+        "PORQUE TU DIESTRA,",
+        "ME HA SOSTENIDO.",
+        "OH, TU DIESTRA ME HA SOSTENIDO/ /"
+      ]
+    }
+  ]
+}

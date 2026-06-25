@@ -1,0 +1,30 @@
+{
+  "numero": null,
+  "titulo": "PODEROSO ERES JESUS",
+  "carpeta": "Comunidad Cristiana",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Nos has dado todo tu amor",
+        "Nos has llenado de poder,",
+        "Las tinieblas no han de permanecer",
+        "Porque has vencido con poder.",
+        "",
+        "// Poderoso eres Jesús,",
+        "Majestuoso eres mi Rey.//",
+        "// Tu vida has dado por mi",
+        "Nos has dado tu amor eterno. //"
+      ]
+    }
+  ]
+}

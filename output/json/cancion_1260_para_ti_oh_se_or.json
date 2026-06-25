@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "PARA TI OH SEÑOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Para ti oh Señor",
+        "para ti quiero cantar",
+        "siento gozo en mi alma",
+        "cuando canto para tí.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Por tu grande amor",
+        "eres lo maximo",
+        "y mi alma se goza",
+        "cuando canto para tí."
+      ]
+    }
+  ]
+}

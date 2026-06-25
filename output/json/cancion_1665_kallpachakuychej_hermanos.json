@@ -1,0 +1,42 @@
+{
+  "numero": null,
+  "titulo": "Kallpachakuychej Hermanos",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Kallpachakuychej, hermanos, conHaychej Señorpi.",
+        "Jesuspa jamunanqa qayllapiña kashan./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Munasqa hermano’ ama kasuychu.",
+        "Mashkha runaspis chejnisojtinku.",
+        "Tukuy sonqowan Cristopi confiay,",
+        "/Señor Jesusqa qanwanmin kashan./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Yupaychanachej Señoría oraspa, takispa.",
+        "Señorpa jamunanqa qayllapiña kashan./"
+      ]
+    }
+  ]
+}

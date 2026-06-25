@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Bibliataqa Leeypuni",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Bibliataqa leeypuni, /leeypuni,/",
+        "Bibliataqa leeypuni wiñanaykipaj.",
+        "Wiñanaykipaj Cristo Jesuspi,",
+        "Bibliataqa leeypuni wiñanaykipaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Diosmantaqa mañaypuni, /mañaypuni,/",
+        "Diosmantaqa mañaypuni wiñanaykipaj.",
+        "Wiñanaykipaj Cristo Jesuspi,",
+        "Diosmataqa mañaypuni wiñanaykipaj."
+      ]
+    }
+  ]
+}

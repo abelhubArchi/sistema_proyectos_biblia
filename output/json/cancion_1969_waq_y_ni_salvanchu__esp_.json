@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Waqáy Ni Salvanchu (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "El llorar no salva, aunque corra por mi faz.",
+        "Llanto amargo en profusión no me lavará jamás.",
+        "El llorar no salva.",
+        "/Lágrimas y vida dio, precio inmenso de mi paz,",
+        "Quién del cielo descendió. Es Jesús quién salva./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Obras no me salvan, cuanto yo pudiera hacer.",
+        "Es del todo ineficaz, pues no me hace renacer,",
+        "Obras no me salvan.",
+        "/Vida nueva tengo en El, quién la ley de Dios cumplió,",
+        "Quién en Gólgota expiró: es Jesús quién salva./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Aplazar no salva; delinquí, perdido estoy.",
+        "Oigo del amor la voz, muere mi alma si no voy;",
+        "Aplazar no salva.",
+        "/Por mi bien se apresuró Cristo, en quien confío yo.",
+        "El con mi maldad cargó; es Jesús quién salva./"
+      ]
+    }
+  ]
+}

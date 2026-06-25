@@ -1,0 +1,67 @@
+{
+  "numero": null,
+  "titulo": "Munakoj Salvador (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Oh bendito Señor, cuan sublime es tu amor",
+        "Para con nosotros./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/De gloria en gloria llévanos contigo",
+        "Por la eternidad./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Dulce es tu nombre, lleno de ternura,",
+        "De infinita bondad./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Tu Palabra es verdad y tu gracia nos das,",
+        "Bendición eternal./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Vivo yo ¡oh Señor! por tu gran redención,",
+        "Cariñoso Señor./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "/Vengo a Ti, oh Señor, con ferviente amor",
+        "A cantarte loor./"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "014 HASTA LAS AVES ALABAN 164",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/// Hasta las aves alaban tu nombre.///",
+        "Mi bendito Cristo",
+        "/// Hasta los ríos alaban tu nombre.///",
+        "Mi bendito Cristo",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/// Toda tu obra alaba tu nombre.///",
+        "Mi bendito Cristo",
+        "/// Así lo mismo quiero alabarte.///",
+        "Mi bendito Cristo."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "Jesucristojta Yawarnin (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Hay un precioso manantial, /manantial./",
+        "Hay un precioso manantial, de sangre de Emmanuel.",
+        "Que purifica a cada cual, /a cada cual,/",
+        "Que purifica a cada cual, que se sumerge en El.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Oh célica fuente, fuente carmesí,",
+        "Recuerdo que un día yo lavado fui./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "El malhechor se convirtió, /se convirtió./",
+        "El malhechor se convirtió, pendiente de una cruz.",
+        "El vio la fuente y se lavó, /y se lavó./",
+        "El vio la fuente y se lavó, creyendo en Jesús.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Y yo también mi pobre ser, / mi pobre ser,/",
+        "Y yo, también mi pobre ser, allí logré lavar.",
+        "Y lavará El por siempre en tí, /por siempre en tí,/",
+        "Y lavará El por siempre en tí, el pueblo del Señor."
+      ]
+    }
+  ]
+}

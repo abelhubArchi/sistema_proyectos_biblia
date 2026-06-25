@@ -1,0 +1,35 @@
+{
+  "numero": null,
+  "titulo": "AYUDAME A MIRAR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "AYÚDAME A MIRAR CON TUS  OJOS,",
+        "YO QUIERO SENTIR CON TU CORAZÓN.",
+        "NO QUIERO VIVIR MÁS SIENDO INSENSIBLE",
+        "TANTA NECESIDAD OH JESUCRISTO//"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "TE PIDO LA PAZ PARA MI CIUDAD.",
+        "TE PIDO PERDÓN POR MI CIUDAD",
+        "AHORA ME HUMILLO Y BUSCO TU ROSTRO",
+        "A QUIÉN IRÉ SEÑOR SINO A TÍ."
+      ]
+    }
+  ]
+}

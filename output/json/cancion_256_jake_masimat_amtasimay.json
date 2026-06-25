@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "JAKE MASIMAT AMTASIMAY",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jake masimat amtasimay",
+        "Juchan chhaktataw sarnakasqui.",
+        "Janc'ay yatiyanim jilata",
+        "Tatitun salvacionapata.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cunapachatejj Cristojj jutani,",
+        "Yatiyañajja tucusjjaniw.",
+        "Jichhüruw khespiyasiñajja",
+        "Takenitaquis utjasquejja. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Jake masimar parlamaya",
+        "Criston cruzana jiwatapat.",
+        "Ch'ama tucutamat jilata,",
+        "Diosaw jumarojj bendicitam."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "numero": null,
+  "titulo": "Santo Santo Señorniy (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Santo, Santo es el Señor, Consolador me dio a mí,",
+        "Mansedumbre y la humildad, Espíritu de Dios",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Gloria sea a tu nombre, Dios",
+        "Aleluya a mi Señor.",
+        "Abierto está mi corazón, Espíritu de Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Santo Espíritu de Dios, ya moras Tú en mi corazón.",
+        "Llena ya a mi pobre ser. Espíritu de Dios."
+      ]
+    }
+  ]
+}

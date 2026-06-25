@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "PREDICAD POR DOQUIER",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Predicad por doquier la verdad de Dios",
+        "Proclamando el mensaje de su amor.",
+        "Anunciad su perdón con alegre voz,",
+        "Alabando a Jesús nuestro Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Si en pos del Señor caminamos en luz,",
+        "Vida eterna y gozo El nos dará.",
+        "Si aquí le seguimos, llevando la cruz,",
+        "En el cielo Jesús nos coronará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Predicad por doquier de Cristo el Señor,",
+        "Anunciando a todos su salvación:",
+        "Que en su tierno amor por el pecador,",
+        "El murió en la cruz para dar perdón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Alabad al Señor por su gran amor",
+        "Que nos libra del mal por la redención.",
+        "En la lucha más cruel, Defensor es El,",
+        "Nos dará la victoria en la tentación."
+      ]
+    }
+  ]
+}

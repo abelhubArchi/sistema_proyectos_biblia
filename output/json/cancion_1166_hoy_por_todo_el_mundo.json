@@ -1,0 +1,29 @@
+{
+  "numero": null,
+  "titulo": "HOY POR TODO EL MUNDO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "HOY POR TODO EL MUNDO",
+        "EL ESPÍRITU DE DIOS SE MUEVE,",
+        "HOY POR TODO EL MUNDO",
+        "COMO JOEL PROFETIZÓ.",
+        "HOY POR TODO EL MUNDO",
+        "UNA GRAN REVELACIÓN",
+        "DE LA GLORIA DEL SEÑOR",
+        "COMO LAS AGUAS CUBREN LA MAR."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "numero": null,
+  "titulo": "Ujchasqas Chimpamuyku",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Ujchasqas chimpamuyku Qanman, Diosníy Tatáy,",
+        "Tukuy reverenciawan Qanmanta uyarikoj.",
+        "Salvasqasñamin kayku, kamachisniykitaj.",
+        "Noqaykuwan kawsakuy, bendeciwayku, Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Bendeciy creyentesta, bendeciwayku, Dios.",
+        "Kallpachariwaykutaj munakuyniykipi.",
+        "Fielesta ruwawayku kay wawasniykita.",
+        "Bendeciy creyentesta, bendeciwayku, Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tukuyninchej kusisqas Señorpi ujchasqas,",
+        "Uyarispa Bibliata tukuy uj sonqoíla.",
+        "Yupaychasqaykupuni Qan Diosniykutaqa,",
+        "Bendeciyku wiñaypaj Qan Señorniykuta.",
+        "Khuyakoj Dios Tatayku, mañakoj jamuyku;",
+        "Wawasniyki ukhupi munakuy kananta.",
+        "Perdonanakusqayku, nisqaykiman jiña.",
+        "Ajllasqasniyki kayku, munakojniyku Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Khuyakoj Dios Tatayku, mañakoj jamuyku;",
+        "Wawasniyki ukhupi munakuy kananta.",
+        "Perdonanakusqayku, nisqaykiman jiña.",
+        "Ajllasqasniyki kayku, munakojniyku Dios."
+      ]
+    }
+  ]
+}

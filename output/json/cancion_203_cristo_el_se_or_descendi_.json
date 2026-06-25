@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "CRISTO EL SEÑOR DESCENDIÓ",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "La gloria celestial dejó Jesús el Salvador,",
+        "Al mundo por nosotros descendió.",
+        "Y en un pesebre de Belén el Redentor nació",
+        "Para salvar al hombre pecador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cristo el Señor (Cristo el Señor)",
+        "Ya descendió (ya descendió)",
+        "Un bello astro su venir mostró",
+        "Al mundo sí (al mundo sí)",
+        "Para salvar (para salvar)",
+        "Recibe sin tardar al Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Los ángeles con alabanzas proclamaron ya",
+        "Que el Salvador Jesús nacido fue.",
+        "Y los pastores escuchando con temor y fe",
+        "Muy pronto fueron a adorar al Rey.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "El gran amor del Salvador maravilloso es.",
+        "El quiere darte su perdón y paz.",
+        "Recíbele de corazón y limpio ya serás,",
+        "Así con Cristo siempre vivirás."
+      ]
+    }
+  ]
+}

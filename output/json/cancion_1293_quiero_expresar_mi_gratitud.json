@@ -1,0 +1,39 @@
+{
+  "numero": null,
+  "titulo": "QUIERO EXPRESAR MI GRATITUD",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "QUIERO EXPRESAR MI GRATITUD",
+        "A TI QUE ME HAS DADO TODO",
+        "UNA ORACION NO BASTARIA",
+        "NI EL TIEMPO DE TODA UNA VIDA",
+        "ES MAS QUE PALABRAS",
+        "Y ES MAS QUE UNA ORACION"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "QUIERO VIVIR AGRADECIDO",
+        "EN TODO LO QUE SOY",
+        "QUE HAYA SIEMPRE LA PASION",
+        "DE AMARTE CON MI VIDA ENTERA",
+        "PORQUE ES MAS QUE PALABRAS",
+        "Y ES MAS QUE UNA CANCION"
+      ]
+    }
+  ]
+}

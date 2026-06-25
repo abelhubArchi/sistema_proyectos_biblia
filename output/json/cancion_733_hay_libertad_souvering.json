@@ -1,0 +1,85 @@
+{
+  "numero": null,
+  "titulo": "Hay Libertad souvering",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Las cadenas de la muerte me quito",
+        "para mi ya no hay condenación",
+        "Hay libertad, hay libertad",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Siendo esclavo del pecado me Libró",
+        "En la Cruz compro mi redención",
+        "Y libertad, libertad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Rompio mis cadenas",
+        "me dio vida nueva",
+        "y al fondo del mar hecho mi maldad",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "lavo mis pecados",
+        "y me ha perdonado",
+        "solo en el nombre de Jesus",
+        "Hay libertad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Yo proclamo al que en la cruz por mi murio",
+        "y cambio mi duro corazon",
+        "por libertad, libertad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 6,
+      "lineas": [
+        ".",
+        "El poder de su evangelio me salvo",
+        "y no me averguenzo del Señor",
+        "Mi libertad, libertad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 7,
+      "lineas": [
+        "//// Al que el Hijo hace libre,",
+        "es libre en verdad. ////"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "numero": 72,
+  "titulo": "OCIOSO NO PUEDO YO SER",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Nos manda Jesús, \"Hoy id a trabajar\".",
+        "Ocioso no puedo yo ser;",
+        "Ofrece pagamos un justo jornal",
+        "Llegando el atardecer.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Al trabajo en su campo saldré,",
+        "Iré a ayudar en la mies;",
+        "Con bellas gavillas que puedo segar",
+        "Vendré con gran gozo otra vez.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Esperan los campos, ya blancos están",
+        "Ocioso no puedo yo ser;",
+        "¡Cuan grande la pérdida si hay escasez!",
+        "De obreros que han de recoger.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Tan corto es el tiempo en que trabajar,",
+        "Ocioso no puedo yo ser;",
+        "A los que en pecado ya viven sin Dios",
+        "A Cristo yo quiero traer.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Aquí yo no espero poder descansar,",
+        "Ocioso no puedo yo ser;",
+        "Si espero corona que Dios me dará,",
+        "A Dios debo yo complacer."
+      ]
+    }
+  ]
+}

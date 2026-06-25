@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "NIYAW SARJJAÑÁNI",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Si Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Niyaw sarjjafiáni alajjpach marcaru",
+        "Wiñay wiñaya cusísiri.",
+        "Jupaw Reyisáni, qhá alajjpach marcan",
+        "Jach'anchatápanay sutipajj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Oh, aleluya gloria Tatit Diosaru",
+        "Jach'anchatápan sutipajj acapachan.",
+        "Suyt'apjjafián Tatit Cristor",
+        "Niy jac'anquiw jutañapajj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "K'onia chuymampiya, taken suyfapjjañán",
+        "Tatit Criston jutáwiparu.",
+        "Alajjpach marcanwa wiñay jacjjafiáni,",
+        "Diosar uw jach'achapjjañáni.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Qhá alajjpach marcajj cunja sumánisa,",
+        "Angelanacamp jacañajja.",
+        "Janiw llaquisifias, usufianacasa",
+        "Alajjpach marcan utj-jjaniti."
+      ]
+    }
+  ]
+}

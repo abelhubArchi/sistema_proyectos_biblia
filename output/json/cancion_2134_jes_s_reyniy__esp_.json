@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "Jesús Reyniy (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "El es mi Rey, por eso yo le canto.",
+        "El es mi Rey, no hay otro como El.",
+        "Todos los días alabanzas yo le canto",
+        "Oh aleluya. El es mi Rey."
+      ]
+    }
+  ]
+}

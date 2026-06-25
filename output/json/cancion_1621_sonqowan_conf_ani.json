@@ -1,0 +1,62 @@
+{
+  "numero": null,
+  "titulo": "Sonqowan confíani",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Sonqowan confíani Señorllapaj kawsayta.",
+        "Cristomin almayta juchamanta salvarqa.",
+        "/Señorqa wajyashan k'acha Santa",
+        "Palabrasninwan./",
+        "/Yuyarisajpuni Dios Tatamanta./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Kawsanay atikun Señor Jesucristopaj.",
+        "Payllamin almayta kawsachenqa wiñaypaj.",
+        "/Señorlla dueñoyqa almaymanta",
+        "Kawsachinampaj./",
+        "/Qhatisaj creespa Evangeliompi./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Dios Tataj nisqanta sonqonchejpi jap'isun.",
+        "Sumaj yachachiyta wiñaypajminjap'isun.",
+        "/Salvadorninchejwan tukuy risun",
+        "Janaj pachaman./",
+        "/Qori, perlas jiña k'anchamusunchej./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Juchayoj runasman nenqa Señorninchejqa:",
+        "\"Riychej Noqamanta juchata ruwajkuna.",
+        "/Millay ruwajkuna; q'olamuychej",
+        "Nina qhochapi.”/",
+        "/\"¡Ay! ¡ay! ¡ay!\" nenqanku chay infíernopi./"
+      ]
+    }
+  ]
+}

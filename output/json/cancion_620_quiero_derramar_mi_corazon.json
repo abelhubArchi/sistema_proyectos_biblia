@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "QUIERO DERRAMAR MI CORAZON",
+  "carpeta": "ADORACION3",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Quiero derramar mi corazón",
+        "delante de tí hoy quiero estar",
+        "levantar mis manos, para alabarte",
+        "y adorarte a Tí mi creador",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tu eres, Jesús, mi Dios mi Rey",
+        "soy una muestra de tu amor",
+        "un nuevo ser para alabarte",
+        "y adorarte a Tí mi creador",
+        "",
+        "Aleluya, Aleluya",
+        "Gloria a Jesús, Él es mi Rey",
+        "Aleluya"
+      ]
+    }
+  ]
+}

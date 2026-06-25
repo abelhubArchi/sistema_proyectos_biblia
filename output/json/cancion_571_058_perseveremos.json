@@ -1,0 +1,67 @@
+{
+  "numero": null,
+  "titulo": "058 PERSEVEREMOS",
+  "carpeta": "04 Poder del Evangelio",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ": Perseveremos hermanos (hermanas)",
+        "por  la fé hasta el fin,",
+        "la venida del Señor",
+        "cerca está, cerca está. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Hermano mío nunca  desmayes",
+        "aunque la gente hable contra ti,",
+        "Mejor procura mirar al cielo.",
+        "// Que el Señor Jesús",
+        "está contigo. //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "SUYASCAQUIÑAN",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        ":Suyascaquiñan jilata (cullaca)",
+        "iyawsaw chuymampi",
+        "tatitun jutañapajj",
+        "jac’anquiw, jac’anquiw. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Munat jilata Jan  thayaramti",
+        "Jakes jumaru Uñiscatamsa",
+        "Tatituquiwa  Arjjatirimajj",
+        "// Wiñayapuniw  Jumampiscani. //"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "numero": null,
+  "titulo": "Chinkasqa Almasta (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tráelas Señor, a Ti, tráelas a tu redil;",
+        "/A esas almas perdidas que andan",
+        "Sin vida. Señor, sin Ti./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tráelas, Señor, a Ti no las dejes jamás.",
+        "/Ellas andan alegres, pero en sus almas",
+        "No tienen paz./"
+      ]
+    }
+  ]
+}

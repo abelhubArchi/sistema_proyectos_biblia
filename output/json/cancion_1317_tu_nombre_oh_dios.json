@@ -1,0 +1,30 @@
+{
+  "numero": null,
+  "titulo": "TU NOMBRE OH DIOS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "TU NOMBRE OH DIOS EXALTARÉ",
+        "TU MAJESTAD LEVANTARÉ",
+        "Y POR SIEMPRE TE PROCLAMARÉ",
+        "MI ALABANZA ELEVARÉ.",
+        "",
+        "PORQUE DIGNO, DIGNO ERES TU,",
+        "A TI SEA HONOR Y PODER.",
+        "DIGNO, DIGNO ERES TU,",
+        "RECIBE ADORACIÓN, SEÑOR./"
+      ]
+    }
+  ]
+}

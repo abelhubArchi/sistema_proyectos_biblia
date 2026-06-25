@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "Kunampacha Willamuna",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Kunampacha willamuna tukuyman",
+        "Jesuspa cruzninmanta,",
+        "Sut’inchaspa Santo Evangeliota",
+        "Señorllata sirvispa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Purímuna usqhayllata",
+        "Willaramuspa runasman.",
+        "Salvadormanta willaspa,",
+        "Purimuna usqhayta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Yachachina Diospa tukuy nisqanta",
+        "Yawar jich’asqanmanta,",
+        "Juchastapis Paylla llimphuchasqanta",
+        "Paypi creejkunata.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Mundontinman willamuna kusiywan",
+        "Cruzpi wañusqanmanta.",
+        "Yupaychana Jesús Salvadorllata",
+        "Salvawasqanchejmanta."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "numero": null,
+  "titulo": "MI TORRE FUERTE",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "MI TORRE FUERTE, MI FORTALEZA,",
+        "ES MI SEÑOR, MI SALVADOR",
+        "Y MI BANDERA/",
+        "EL ME CIÑE DE PODER.",
+        "DE PERFECTO CAMINAR",
+        "Y MI PIÉ  HACE FIRME ESTAR."
+      ]
+    }
+  ]
+}

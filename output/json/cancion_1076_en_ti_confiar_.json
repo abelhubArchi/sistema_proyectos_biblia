@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "EN TI CONFIARÉ",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "CONTIGO PASARÉ AL OTRO LADO",
+        "CONTIGO JUNTOS EN EL MISMO BARCO",
+        "CUANDO VENGA LA TORMENTA, NO TEMERÉ",
+        "EN MEDIO DEL PELIGRO, YO TENGO FE"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "PORQUE TU REPRENDES AL VIENTO Y LAS OLAS",
+        "LA TIERRA Y SU PLENITUD SON TUYAS",
+        "CUANDO VENGA LA TORMENTA NO TEMERÉ",
+        "EN MEDIO DEL PELIGRO YO TENGO FE."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "//EN TI CONFIARÉ NO TEMERE JAMAS",
+        "POR QUE TU ERES JESUS, PRINCIPE DE PAZ",
+        "EN TI CONFIARÉ A PESAR DE MI DEREDOR",
+        "PORQUE TU ERES MI DIOS, SOBERANO SEÑOR//",
+        "EN TI CONFIARÉ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "numero": null,
+  "titulo": "CUAN GRANDE ES EL",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "SEÑOR MI DIOS, AL CONTEMPLAR LOS CIELOS",
+        "EL FIRMAMENTO Y LAS ESTRELLAS MIL",
+        "",
+        "AL OÍR TU VOZ EN LOS POTENTES TRUENOS",
+        "Y VER BRILLAR EL SOL EN SU CENIT",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "MI CORAZÓN ENTONA LA CANCIÓN,",
+        "¡CUÁN GRANDE ES ÉL, CUÁN GRANDE ES ÉL!",
+        "",
+        "MI CORAZÓN ENTONA LA CANCIÓN,",
+        "¡CUÁN GRANDE ES ÉL, CUÁN GRANDE ES ÉL!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "CUANDO EL SEÑOR ME LLAME A SU PRESENCIA",
+        "",
+        "AL DULCE HOGAR, AL CIELO DE ESPLENDOR",
+        "",
+        "LE ADORARÉ, CANTANDO LA GRANDEZA",
+        "",
+        "DE SU PODER Y SU INFINITO AMOR",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "MI CORAZÓN ENTONA LA CANCIÓN,",
+        "¡CUÁN GRANDE ES ÉL, CUÁN GRANDE ES ÉL!",
+        "",
+        "MI CORAZÓN ENTONA LA CANCIÓN,",
+        "¡CUÁN GRANDE ES ÉL, CUÁN GRANDE ES ÉL!",
+        "",
+        "¡CUÁN GRANDE ES ÉL, CUÁN GRANDE ES ÉL!"
+      ]
+    }
+  ]
+}

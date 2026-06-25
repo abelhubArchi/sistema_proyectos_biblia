@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "LÉVANTATE, LÉVANTATE SEÑOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "LÉVANTATE, LÉVANTATE SEÑOR//",
+        "HUYAN DELANTE DE TÍ  TUS ENEMIGOS,",
+        "SE DISPERSEN DELANTE  DE TÍ,",
+        "TODOS AQUELLOS",
+        "QUE ABORRECEN TU PRSENCIA/"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "TU PRESENCIA REINARÁ,",
+        "SOBRE TODO IMPERIO",
+        "TU PRESENCIA REINARÁ, GOBERNARÁ",
+        "SOBRE TODO PRINCIPADO."
+      ]
+    }
+  ]
+}

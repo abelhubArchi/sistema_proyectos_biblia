@@ -1,0 +1,38 @@
+{
+  "numero": null,
+  "titulo": "DEBO SER FIEL",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Debo ser fiel por los que en mi confían,",
+        "El alma pura siempre guardaré;",
+        "Fuerza tendré para sufrir las pruebas,",
+        "Y con valor el mal vencer podré,",
+        "Y con valor el mal vencer podré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Amigo fiel seré del desvalido,",
+        "Sin premio alguno hacer el bien sabré;",
+        "Como soy frágil debo ser humilde,",
+        "Y alta la frente alegre llevaré,",
+        "Y alta la frente alegre llevaré."
+      ]
+    }
+  ]
+}

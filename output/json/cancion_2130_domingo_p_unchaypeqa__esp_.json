@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "Domingo P’unchaypeqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "El domingo estoy contento, el lunes tengo paz,",
+        "El martes lleno de su amor y todo lo mejor.",
+        "El miércoles y el jueves yo ando en la luz.",
+        "El viernes y el sábado, yo vivo con Jesús."
+      ]
+    }
+  ]
+}

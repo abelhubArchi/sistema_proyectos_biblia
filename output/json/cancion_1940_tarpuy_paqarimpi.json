@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "Tarpuy Paqarimpi",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tarpuy paqarimpi Diospa Palabranta",
+        "Chawpi p'unchaypipis, ch’isiyaypipis.",
+        "Chajra oqhariypaj tiempo chamojtintaj,",
+        "Poqosqaña kajtin, oqharisunchej./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Tarpuy usqhayta, tarpuy usqhayta.",
+        "Poqojtinkamataj, oqharisunchej./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tarpunallapuni ima tíempopipis.",
+        "Q’oñipi, chiripi tarpullaypuni.",
+        "Kutírimusunchej kusiywan junfasqas,",
+        "Tarpusqakunata oqhariytawan.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Waqaspapis tarpuy, nanaypipis tarpuy,",
+        "Dios Tatapaj kachun chay ruwasqayki.",
+        "Pasanña Ilakiypis, nanaypis, waqaypis,",
+        "Kutírimusuntaj kusiywan junfa."
+      ]
+    }
+  ]
+}

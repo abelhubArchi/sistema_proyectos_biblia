@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "HIJO DE DIOS SOY YO",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En mi corazón tengo paz y gozo,",
+        "Hijo de Dios soy yo;",
+        "Mora en mí Jesús, mi Señor glorioso,",
+        "Hijo de Dios soy yo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Hijo de Dios soy yo,",
+        "Hijo de Dios soy yo;",
+        "Porque me entregué a mi Jesucristo,",
+        "Hijo de Dios soy yo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Del pecado vil quedo perdonado,",
+        "Hijo de Dios soy yo;",
+        "De mis vicios mil Cristo me ha librado,",
+        "Hijo de Dios soy yo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Viviré por El una vida santa,",
+        "Hijo de Dios soy yo;",
+        "De mi libertad mi alma siempre canta,",
+        "Hijo de Dios soy yo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Dondequier que esté siempre testifico,",
+        "Hijo de Dios soy yo;",
+        "Quiero compartir este don tan rico,",
+        "Hijo de Dios soy yo."
+      ]
+    }
+  ]
+}

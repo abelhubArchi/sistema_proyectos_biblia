@@ -1,0 +1,81 @@
+{
+  "numero": null,
+  "titulo": "CADENA DE COROS FELIZ",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "//EN EL PRINCIPIO EL ESPIRITU DE DIOS",
+        "SE MOVIA SOBRE LAS AGUAS//",
+        "//PERO AHORA SE ESTA MOVIENDO",
+        "DENTRO DE MI CORAZON//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "//VEN VEN VEN ESPIRITU DIVINO",
+        "VEN VEN VEN ACERCATE A MI//",
+        "//Y APODERATE APODERATE APODERATE",
+        "DE TODO MI SER//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "SI ME PREGUNTAN PORQUE ESTOY CONTENTO",
+        "SI ME PREGUNTAN PORQUE CANTO ASI",
+        "//ES PORQUE CRISTO ME HA LAVADO CON SU SANGRE",
+        "EN UNA NUBE BLANCA VOLVERA POR MI//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Te exaltaré mi Dios mi Rey",
+        "y bendeciré tu Nombre",
+        "Eternamente y para siempre",
+        "cada día te bendeciré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Y alabaré tu Nombre",
+        "eternamente y para siempre",
+        "Grande es Jehová",
+        "y digno de suprema alabanza,",
+        "Y su grandeza inescrutable",
+        "cada día te bendeciré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 6,
+      "lineas": [
+        "Naciones todas canten con jubilo",
+        "Pueblos todos alaben a Dios",
+        "//Bendecidle y Adoradle a Jesus el Señor//"
+      ]
+    }
+  ]
+}

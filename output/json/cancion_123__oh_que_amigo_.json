@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "¡OH.QUE AMIGO!",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¡Oh, qué amigo nos es Cristo!",
+        "El llevó nuestro dolor,",
+        "Y nos manda que llevemos",
+        "Todo a Dios en oración.",
+        "¿Vive el hombre desprovisto",
+        "De paz, gozo y santo amor?",
+        "Esto es porque no llevamos",
+        "Todo a Dios en oración.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¿Vives débil y cargado",
+        "De cuidados y temor?",
+        "A Jesús, refugio eterno,",
+        "Dile todo en oración.",
+        "¡Te desprecian tus amigos?",
+        "Cuéntaselo en oración;",
+        "En sus brazos de amor tierno",
+        "Paz tendrá tu corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jesucristo es nuestro amigo",
+        "De esto pruebas El nos dio",
+        "Al sufrir el cruel castigo",
+        "Que el culpable mereció.",
+        "Y su pueblo redimido",
+        "Hallará seguridad",
+        "Fiando en este Amigo eterno",
+        "Y esperando en su bondad."
+      ]
+    }
+  ]
+}

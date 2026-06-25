@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "TE AMARE MAS",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Señor Jesús, yo te amo. Tú eres mi Señor,",
+        "Y Tú me has perdonado de toda mi maldad.",
+        ":Mi amado Jesucristo, soy salvo por tu amor,",
+        "Si poco te he amado, hoy quiero amarte más. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Primero Tú me amaste, aún siendo pecador,",
+        "También por mí sufriste, muriendo en la cruz.",
+        ":Tu muerte en el Calvario me dio la salvación",
+        "Si poco te he amado, hoy quiero amarte más. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "De tu perdón y gracia yo testificaré,",
+        "Y sin temor alguno, tu amor proclamaré.",
+        ":Señor, te doy las gracias, por ser tu hijo ya,",
+        "Si poco te he amado, hoy quiero amarte más. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "La vida en esta tierra muy pronto pasará,",
+        "Y todo amor humano también terminará.",
+        ":Mas tu amor, Oh Cristo, por siempre durará,",
+        "Si poco te he amado, hoy quiero amarte más. (Bis)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "UN SACRIFICIO VIVO",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Has buscado la paz y divino solaz,",
+        "Y deseas que crezca tu fe;",
+        "Pero te es menester alma y cuerpo traer",
+        "Al altar cual ofrenda a tu Rey.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "¿Te has puesto en el santo altar de tu Dios?",
+        "¿Te has entregado al Señor?",
+        "Sólo así tú tendrás su descanso y solaz,",
+        "Y sus ricas delicias de amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Para andar con Jesús y gozarte en la luz",
+        "Y vivir libre de maldad;",
+        "Lleva presto al altar para sacrificar",
+        "Lo que tengas a su voluntad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "No podemos saber, ni por gracia tener,",
+        "La dulzura de su bendición;",
+        "De colmarnos de amor del bendito Señor,",
+        "Sin rendirnos en consagraciÓn.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Satisfecho estarás, paz y gozo tendrás,",
+        "Un amor cual las ondas del mar;",
+        "Y verás lo que es el sentarte a sus pies",
+        "Cuando traigas tu todo al altar."
+      ]
+    }
+  ]
+}

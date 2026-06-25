@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "CRISTO SAPAQUIWA KHESPIYI",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristo sapaquiwa juchararar khespiyi.",
+        "Cruzan jiwasina wilapa wartawayi.",
+        "Janiw yakha sutin khespiyasiñajj utjquit.",
+        "Cristo sapanacwa khespiyasiñajj utji.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cristo sapaquiwa cusisiña churirejj,",
+        "Llaquitanacaru juchata k'omachasa.",
+        "Janiw yakha sutin khespiyasiñajj utjquit,",
+        "Cristo sapanacwa khespiyasiñajj utji."
+      ]
+    }
+  ]
+}

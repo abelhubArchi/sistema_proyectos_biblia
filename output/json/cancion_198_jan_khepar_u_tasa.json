@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "JAN KHEPAR UÑTASA",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Alajjpach marcajja Diosan marcapawa.",
+        "Jan tucusquiriwa, wiñayataquiwa.",
+        "Ch'iwir uñtasita, urpur uñtasita,",
+        "Pasiriquiraquiw acapach marcajja.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Jan khepar uñtasa, jan juchar cutt'asa,",
+        "Waquisiw sarañajj alajjpach marcaru. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Cristor arcasajja arcañaw waquisi,",
+        "Munañap lurasa, arsutap phokhasa.",
+        "Take ch'amasampi jupar arcañáni,",
+        "Cruzapar uñtasa jutáwip suyt'asa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jiwar atipañas, juchar atipañas,",
+        "Cristonaquiw utji. Jupaquiw ch'amani.",
+        "Take chuymasampi wawanacapajja",
+        "Yuspagarañáni munasiñapata."
+      ]
+    }
+  ]
+}

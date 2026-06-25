@@ -1,0 +1,35 @@
+{
+  "numero": null,
+  "titulo": "Kusisqa Kani (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Estoy contento, estoy contento con el Señor.",
+        "Me dio su gozo, me dio su paz y me dio su amor.",
+        "Estoy feliz, estoy feliz porque el Señor",
+        "Me dio su gozo, me dio su paz, me dio su amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Que linda vida, que linda vida con el Señor.",
+        "Estoy contento, siempre contento para el Señor.",
+        "Que linda vida, que linda vida con el Señor.",
+        "Me dio la vida, la eterna vida y su perdón."
+      ]
+    }
+  ]
+}

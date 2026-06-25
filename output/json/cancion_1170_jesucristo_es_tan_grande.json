@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "JESUCRISTO ES TAN GRANDE",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "//JESUCRISTO ES TAN GRANDE",
+        "NO HAY OTRO COMO ÉL",
+        "ES EL DIOS DE LO IMPOSIBLE",
+        "EL TODO LO PUEDE HACER//"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "YO SOY TU DIOS Y TE AMO",
+        "COMO ME VOY A OLVIDAR",
+        "YO DE TI",
+        "SI EN MIS MANOS TE LLEVO GRABADO",
+        "SI MI SANGRE POR TI HE DERRAMADO",
+        "COMO ME VOY A OLVIDAR",
+        "YO DE TI"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "//NO TE DEJARÉ, NI TE ABANDONARÉ",
+        "CONTIGO ESTARÉ, HASTA EL FIN//"
+      ]
+    }
+  ]
+}

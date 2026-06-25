@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Q'oñi Jallp'aspi (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Por las llanuras, por las alturas siempre con Dios./",
+        "/Vengo de día, vengo de noche, siempre con Dios./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Pasando ríos, pasando cerros siempre con Dios./",
+        "/Y tú, hermano andar anhelas siempre con Dios?/",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/En duras pruebas y tentaciones siempre con Dios,/",
+        "/Yo seguiré fiel hasta la muerte siempre con Dios./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Estés sufriendo dolor y llanto, sé fiel a Dios./",
+        "/Por eso, hermano, canta y canta siempre a Dios./"
+      ]
+    }
+  ]
+}

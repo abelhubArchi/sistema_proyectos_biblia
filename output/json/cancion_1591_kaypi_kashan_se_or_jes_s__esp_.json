@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Kaypi Kashan Señor Jesús (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Está aquí, está aquí,",
+        "Nos gozamos porque El está aquí.",
+        "Está aquí, está aquí.",
+        "Aleluya, nuestro Dios está aquí.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Nos habla hoy Cristo Jesús,",
+        "Por la Biblia la Palabra del Señor.",
+        "Meditemos orando a El,",
+        "Aleluya, nos ayudará el Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Del buen Jesús, el Salvador,",
+        "Por los valles y los cerros anunciad.",
+        "Solo en Jesús hay Salvación.",
+        "Aleluya, anunciemos su verdad."
+      ]
+    }
+  ]
+}

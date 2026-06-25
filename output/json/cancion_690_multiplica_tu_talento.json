@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Multiplica tu talento",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cuando venga el Señor",
+        "y te pregunte por tu talento",
+        "Que dirás al señor",
+        "del talento que Cristo te dió.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Multiplícalo, multiplícalo",
+        "multiplica hermano tu talebto",
+        "multiplícalo, multiplícalo",
+        "el talento que Cristo te dió."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "008 JERUSALEN",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jerusalén que bonita eres,",
+        "Jerusalén que bonita eres.",
+        "// Calles de oro, puertas de perla,",
+        "Calles de oro, puertas de perla. //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Por esas calles voy a caminar,",
+        "Por esas calles voy a caminar,",
+        "// Calles de oro,",
+        "puertas de perla. //"
+      ]
+    }
+  ]
+}

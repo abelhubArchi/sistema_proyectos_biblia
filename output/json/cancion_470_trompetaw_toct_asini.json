@@ -1,0 +1,54 @@
+{
+  "numero": null,
+  "titulo": "TROMPETAW TOCT'ASINI",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Acatjamatwa ist'apjjañáni.",
+        "Trompet toct’asiri;",
+        "Tatit pachpawa alajjpachata,",
+        "Ch'amamp sarakanin.",
+        "Cristomp khespita jiwirinacajj.",
+        "Takew jactapjjani.",
+        "Machak cuerponiw jactapjjanejja,",
+        "Alajjpach cuerponi.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Waquichasita suyt’apjjañáni",
+        "Tatit Jesusaru;",
+        "K'oma chuymampiw uñcatañáni",
+        "Cristo Reyisaru.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Criston khespita jaquirinacajj,",
+        "Aptatápjjañániw;",
+        "Juchaninacajj acapacharuw,",
+        "Kheparawayjjapjjan.",
+        "Chica cielona Tatit Cristompi",
+        "Jiquisipjjañáni.",
+        "Wiñayataquiw jacapjjañáni,",
+        "Diosar jach'achasa."
+      ]
+    }
+  ]
+}

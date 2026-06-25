@@ -1,0 +1,35 @@
+{
+  "numero": null,
+  "titulo": "Diosninchejta Kusikuywan (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Siervo soy de Jesucristo, siervo soy./",
+        "Siervo soy de Jesucristo. Lunes, martes",
+        "Miércoles, jueves, viernes, sábado",
+        "Y domingo siervo soy.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Templo soy de Jesucristo, templo soy ..........",
+        "/Oremos cada día a Jesús ..........",
+        "/Cada día en la Biblia meditad .........."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "002 KOTA TAYPIN UTJATAYNA",
+  "carpeta": "04 Poder del Evangelio",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Kota taypin utjatayna",
+        "Suma achunaca, suma evangelio",
+        "Yatichirinaca, munasiñ arinac",
+        "Khanañchirinaca. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "CORO",
+        "Yatichitay arunacamata",
+        "Chuymajjaru munasiñ churita",
+        "Cawquirusa jumajj irpitata",
+        "Jumar jaysir nayar tuct’ayita. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cawqui chekans utjapiniw",
+        "Wawanacamajja irpitay Awquejja",
+        "Jumat khanañchiri,",
+        "Junac’ac jutawimat yatiyañataqui. (bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Kollanapjjew arunacap",
+        "Yatiyirinacajj, jupanacanquiwa",
+        "Alajjpach marcajja,",
+        "Cawquirus irpistpan jan’ac sarañani. (bis)"
+      ]
+    }
+  ]
+}

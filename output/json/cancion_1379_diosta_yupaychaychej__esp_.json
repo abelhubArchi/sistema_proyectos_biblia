@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Diosta Yupaychaychej (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Alabad al Señor, a Jesús el Salvador.",
+        "Con el fuego celestial por su pueblo bajará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Ese día cerca está,",
+        "/Aquél día al pecado vencerá./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Bajará el Señor a su pueblo a llevar.",
+        "En el cielo con El viviremos por siempre.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "El gran Rey bajará y la tierra temblará.",
+        "Esperad al Señor, la corona nos dará."
+      ]
+    }
+  ]
+}

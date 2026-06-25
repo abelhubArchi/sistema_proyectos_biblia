@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "ESTEMOS FIRMES",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "El que a Jesús sigue sin desmayar,",
+        "Gozo tendrá por la eternidad.",
+        "Si hasta la muerte le sigue con fe",
+        "Vida eterna recibirá.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Bendito Cristo, dame tu fuerza,",
+        "Manda tu Espíritu hoy.",
+        "Pido tu ayuda, en tí confío",
+        "De todo corazón. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Si le amamos con sinceridad,",
+        "En todo tiempo nos socorrerá.",
+        "Aún en las pruebas o en el dolor,",
+        "Cristo, el Señor, nos ayudará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¿Quieres tú ver a tu buen Salvador?",
+        "Debes seguirle con fe y valor.",
+        "¿Quieres llegar al hogar celestial?",
+        "Camina firme sin vacilar."
+      ]
+    }
+  ]
+}

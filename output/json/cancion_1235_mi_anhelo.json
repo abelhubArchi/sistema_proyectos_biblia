@@ -1,0 +1,28 @@
+{
+  "numero": null,
+  "titulo": "MI ANHELO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "MI ANHELO ES BUSCARTE DIA Y NOCHE",
+        "DE TU AMOR Y LA TERNURA",
+        "DE TU ESPIRITU SEÑOR",
+        "EN TU PRESENCIA HAY PLENITUD DE GOZO",
+        "EN TU PRESENCIA DELICIAS A TU DIESTRA",
+        "POR SIEMPRE Y PARA SIEMPRE",
+        "ME GOZO, EN TU PRESENCIA"
+      ]
+    }
+  ]
+}

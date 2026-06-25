@@ -1,0 +1,67 @@
+{
+  "numero": null,
+  "titulo": "Tukuy kayniyta qopuspa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Consagrarme todo entero; alma, vida y corazón.",
+        "Es el íntimo deseo, que hoy me anima, buen Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Heme aquí Señor, a tus plantas hoy.",
+        "Pues a Tí consagrar quiero, Todo lo que soy.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Al contrito has prometido, que de Ti no arrojarás.",
+        "Hoy propicio eres conmigo, y tu Espíritu me das.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Confesando mis pecados, que sin número han de ser,",
+        "Y arrojando todo a un lado, a servirte aprenderé.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Mi canción constante sea, y mi sola inspiración,",
+        "Proclamar la dicha eterna, del que vive para Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "¡Oh qué gozo llena mi alma, al pensar que Suyo soy,",
+        "Y que pronto en las moradas, estaré de mi Señor!"
+      ]
+    }
+  ]
+}

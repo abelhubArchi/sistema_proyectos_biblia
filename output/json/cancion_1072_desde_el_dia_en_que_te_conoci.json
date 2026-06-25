@@ -1,0 +1,48 @@
+{
+  "numero": null,
+  "titulo": "DESDE EL DIA EN QUE TE CONOCI",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": "Ruben Abert Sainz",
+  "compositor": "Ruben Abert Sainz",
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Desde el día en que te conocí",
+        "todo cambió para mí",
+        "supe que eras algo especial",
+        "y te comencé a amar",
+        "y en Tu presencia pude conocer",
+        "como era Tu corazón",
+        "y la inocencia que me dejaste ver",
+        "fue lo que me cautivó"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tú eres mi Dios y te alabaré",
+        "desde lo más profundo de mi ser",
+        "yo te buscaré"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Y hoy no sabría vivir yo sin Tí",
+        "en la Verdad quiero persistir",
+        "siento Tu amor en mi corazón",
+        "que me hace volar y volver a soñar"
+      ]
+    }
+  ]
+}

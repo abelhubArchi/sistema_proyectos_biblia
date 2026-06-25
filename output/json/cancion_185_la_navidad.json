@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "LA NAVIDAD",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En la Navidad alegrémonos,",
+        "En Belén nació el niño Jesús.",
+        "Hijo del gran Dios, de mujer nació.",
+        "Del pecado atroz, es el Salvador.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Y al escuchar ángeles cantar,",
+        "Pronto los pastores fueron a ver,",
+        "Y al encontrar al niño Jesús",
+        "Le adoraron con gratitud y amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Magos tres también iban con placer",
+        "Del astro en pos, buscando a Jesús.",
+        "Ante el Redentor, en adoración",
+        "Ofrecieron le, cada cual su don.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "El Señor Jesús su trono dejó,",
+        "Vino a sufrir por el pecador.",
+        "En la cruz pagó nuestras deudas ya,",
+        "Aceptemos hoy al gran Salvador."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Hermanóy Waturikuy (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/¡Oh hermanos! meditad, si vivís bien con Jesús.",
+        "¿Sirviendo estáis al Señor con amor y devoción?/",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/En la viña del Señor trabajemos con amor.",
+        "La venida del Señor, cerca, muy cerca, está./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/¡Oh hermanos! nunca más demos vuelta hacia atrás.",
+        "Con Jesús el Capitán derrotemos a Satán./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/¡Oh hermanos! esperad, Jesús está a las puertas.",
+        "Cual ladrón en la noche, así vendrá el Señor./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/¡Oh hermanos! desechad, al mal que nos acedia.",
+        "Meditemos la Biblia y oremos sin cesar./"
+      ]
+    }
+  ]
+}

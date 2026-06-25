@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Los carros del Faraon",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cantaré a Jehová por siempre",
+        "Su diestra es todo poder,",
+        "//Hecho a la mar los que perseguían",
+        "Jinete y caballo hecho a la mar//",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        ".",
+        "//Hecho a la mar",
+        "los carros del Faraón //",
+        ".",
+        "La, ra , la, ra . . .",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Mi Padre es Dios y yo le exalto",
+        "Mi Padre es Dios y le exaltaré //",
+        ".",
+        "//Hecho a la mar",
+        "los carros del Faraón //"
+      ]
+    }
+  ]
+}

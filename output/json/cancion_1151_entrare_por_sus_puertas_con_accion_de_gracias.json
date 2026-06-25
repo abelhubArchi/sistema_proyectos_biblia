@@ -1,0 +1,41 @@
+{
+  "numero": null,
+  "titulo": "ENTRARE POR SUS PUERTAS CON ACCION DE GRACIAS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ENTRARÉ POR SUS PUERTAS CON ACCIÓN DE GRACIAS",
+        "A SUS ATRIOS CON ALABANZA"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Y DIRÉ ÉSTE ES EL DÍA QUE HIZO DIOS,",
+        "ME GOZARÉ PORQUE ÉL ME HA HECHO FELIZ",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "// ÉL ME HA HECHO FELIZ, ÉL ME HA HECHO FELIZ",
+        "",
+        "ME GOZARÉ PORQUE ÉL ME HA HECHO FELIZ //"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "numero": null,
+  "titulo": "EMANUEL, SU NOMBRE ES EMANUEL",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "EMANUEL//",
+        "SU NOMBRE ES EMANUEL//",
+        "DIOS CON NOSOTROS,",
+        "CRISTO EN NOSOTROS",
+        "SU NOMBRE ES EMANUEL!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "numero": null,
+  "titulo": "CRISTO ES EL CAMINO FIEL",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Hay muchas sendas del mal. en este mundo sin paz;",
+        "Del hombre sus obras son vanas sin meta final.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Cristo el Señor es el camino fiel,",
+        "Sigámosle siempre a El,",
+        "A la mansión de gloria y esplendor",
+        "Nos llevará el Señor. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Dios el Señor nos trazó, dos sendas para escoger:",
+        "La senda ancha sin paz, y la estrecha de salud.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "La senda ancha del mal nos llevará a sufrir;",
+        "La senda estrecha del bien conduce al gozo eternal."
+      ]
+    }
+  ]
+}

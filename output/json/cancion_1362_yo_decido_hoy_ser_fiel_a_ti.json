@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "YO DECIDO HOY SER FIEL A TI",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "YO DECIDO HOY SER FIEL A TI",
+        "",
+        "YO DECIDO HOY CONSAGRARME A TI"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "// TODA MI VIDA ES TUYA //"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Y TE ADORARÉ",
+        "",
+        "CON TODA MI MENTE",
+        "",
+        "Y TE ADORARÉ",
+        "",
+        "CON TODAS MIS FUERZAS",
+        "",
+        "Y TE ADORARÉ",
+        "",
+        "CON TODA MI ALMA",
+        "",
+        "SEÑOR"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Cristota Suyanachej",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "F. Paredes",
+  "compositor": "F. Paredes",
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Cristota suyanachej, jayk'ajchus Pay jamonqa.",
+        "Jamojtín chaypacharí, Paywan tukuy ripusun./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Kusisqa kawsamusun Tatanchejpa wasimpi.",
+        "Kayjallp'api Ilakiyila, sayk'uyllapi purina,",
+        "Waqayllataj kawanchej./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Cristo makinmantaqa ni pi qhechuwasunchu.",
+        "Wiñaypaj qhatikuna Diosninchejpaj kawsaspa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Diosta qhatejkunaqa payllata suyanachej.",
+        "Pruebaspisjamojtenqa, Paylla waqaychawasun./"
+      ]
+    }
+  ]
+}

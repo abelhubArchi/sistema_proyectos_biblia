@@ -1,0 +1,69 @@
+{
+  "numero": null,
+  "titulo": "SANTO ESPÍRITU, DESCIENDE",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Santo Espíritu desciende a mi pobre corazón,",
+        "Llénalo de tu presencia, y haz en él tu habitación.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "¡Llena hoy, llena hoy,",
+        "Llena hoy mi corazón!",
+        "¡Santo Espíritu, desciende",
+        "Y haz en mí tu habitación!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "De tu gracia puedes darme inundando el corazón",
+        "Ven, que mucho necesito, dame hoy tu bendición.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Débil soy, ¡oh! sí, muy débil, y a tus pies postrado estoy,",
+        "Esperando que tu gracia con poder me llene hoy.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Dame paz, consuelo y gozo, cúbreme hoy en tu perdón;",
+        "Tú confortas y redimes, tú das grande salvación.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Santo Espíritu, tú eres, ese prometido don;",
+        "Mucho anhelo recibirte, dame hoy tu santa unción."
+      ]
+    }
+  ]
+}

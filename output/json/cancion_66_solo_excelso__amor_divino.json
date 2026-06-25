@@ -1,0 +1,59 @@
+{
+  "numero": 66,
+  "titulo": "SOLO EXCELSO, AMOR DIVINO",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Sólo excelso, amor divino,",
+        "Gozo, ven del cielo a nos;",
+        "Fija en nos tu hogar humilde,",
+        "De fe danos rico don.",
+        "Cristo, tú eres compasivo;",
+        "Puro y abundante amor,",
+        "Con tu salvación visita",
+        "Al contrito corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Que tu Espíritu aliente",
+        "Todo pecho en su penar;",
+        "Que en ti seamos ingeridos",
+        "Pudiendo el descanso hallar",
+        "Ven ¡ oh Altísimo! a librarnos;",
+        "Haznos tu valor tomar;",
+        "Tu venida apresta, y nunca",
+        "Tu mansión dejemos más.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cumple ahora tu promesa",
+        "Danos purificación;",
+        "En ti bien asegurados",
+        "Veamos plena salvación.",
+        "Llévanos de gloria en gloria",
+        "A la celestial mansión;",
+        "Y ante ti allí postrados",
+        "Te rindamos devoción."
+      ]
+    }
+  ]
+}

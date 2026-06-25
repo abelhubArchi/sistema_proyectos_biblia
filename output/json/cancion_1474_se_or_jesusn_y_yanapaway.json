@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Señor Jesusníy Yanapaway",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "C. López",
+  "compositor": "C. López",
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Señor Jesusníy, yanapaway,",
+        "Tentaciompi kallpa qoway./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Janaj pachaman. Señor,",
+        "Qanwan khuska noqa risaj,",
+        "Jaqay cielopeqa qori wasiy tiyapuwan./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Señorllapajña llank’apusaj,",
+        "Evangeliota willaspa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Qori pilluta qopuwanqa,",
+        "Jesusniy, llank'asqaymanta."
+      ]
+    }
+  ]
+}

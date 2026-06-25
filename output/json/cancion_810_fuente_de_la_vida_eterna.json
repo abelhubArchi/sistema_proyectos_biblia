@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "FUENTE DE LA VIDA ETERNA",
+  "carpeta": "xAniversario 2017",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Fuente de la vida eterna y de toda bendición;",
+        "Ensalzar tu gracia tierna debe cada corazón.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tu piedad inagotable, abundante en perdonar,",
+        "Único Ser adorable, gloria a ti debemos dar. '",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "De los cánticos celestes te quisiéramos cantar;",
+        "Entonados por las huestes, que lograste rescatar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Almas que a buscar viniste, porque le tuviste amor,",
+        "De ellas te compadeciste, con tiernísimo favor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Toma nuestros corazones, llénalos de tu verdad;",
+        "De tu Espíritu los dones, y de toda santidad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 6,
+      "lineas": [
+        "Guíanos en obediencia, humildad, amor y fe;",
+        "Nos ampare tu clemencia; Salvador, propicio sé."
+      ]
+    }
+  ]
+}

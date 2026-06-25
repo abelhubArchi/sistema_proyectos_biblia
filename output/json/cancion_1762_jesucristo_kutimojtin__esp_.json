@@ -1,0 +1,27 @@
+{
+  "numero": null,
+  "titulo": "Jesucristo Kutimojtin (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Cuando Cristo venga en gloria,",
+        "Yo no me voy a quedar./",
+        "//Seremos levantados con poder//",
+        "Para la Nueva Jerusalen.",
+        "//Ah, que tu te vas yo también,..//",
+        "Para la Nueva Jerusalen."
+      ]
+    }
+  ]
+}

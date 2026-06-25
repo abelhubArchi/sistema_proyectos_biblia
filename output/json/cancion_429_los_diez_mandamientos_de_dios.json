@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "LOS DIEZ MANDAMIENTOS DE DIOS",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Yo soy el Señor tu Dios de poder,",
+        "Nunca tengas dioses aparte de mí.",
+        "No tomes en vano el nombre de Dios,",
+        "Para el que lo hace hay condenación.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Nos dio mandamientos el Padre Dios",
+        "Para que andemos en la rectitud.",
+        "Si le obedecemos de corazón",
+        "Viviremos siempre con felicidad.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Del día sagrado te acordarás,",
+        "Para consagrarlo al Señor tu Dios;",
+        "A tus padres honrarás con amor,",
+        "También Dios te dice: Nunca matarás.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Nunca el adulterio cometerás,",
+        "También Dios te dice: Nunca robarás.",
+        "Nunca contra nadie debes mentir,",
+        "Ni palabras falsas debes repetir.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "En tu corazón no codiciarás,",
+        "Los bienes ajenos de tu vecindad;",
+        "Solamente a Cristo siempre amarás",
+        "Con sinceridad y limpio corazón."
+      ]
+    }
+  ]
+}

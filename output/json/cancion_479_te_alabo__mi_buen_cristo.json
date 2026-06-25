@@ -1,0 +1,63 @@
+{
+  "numero": null,
+  "titulo": "TE ALABO, MI BUEN CRISTO",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Mi alma y cuerpo los consagro,",
+        "A mi Salvador;",
+        "Con su sangre derramada,",
+        "Me limpió del mal.",
+        "",
+        "[C] Yo te alabo, mi buen Cristo,",
+        "Con todo mi ser;",
+        "En la cruenta cruz moriste,",
+        "Para darme salvación.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "El camino del pecado,",
+        "Ya todo dejé;",
+        "Mas ahora cada día,",
+        "Vivo en la luz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Mi ser todo, hoy te entrego,",
+        "¡Oh! mi buen Jesús;",
+        "Para que yo cada día",
+        "Viva en tu ley.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Ahora espero ir con gozo,",
+        "Al celeste hogar;",
+        "A morar eternamente,",
+        "Con mi buen Jesús."
+      ]
+    }
+  ]
+}

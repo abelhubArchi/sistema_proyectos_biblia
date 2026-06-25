@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "Jesucristo Salvadorqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jesucristo Salvadorqa may sumaj amigoy;",
+        "Ruwasqasninmanta willaramusaj.",
+        "Juchasniywan may sayk'usqa chinkasqa kashajtíy,",
+        "Pay salvawarqa, kunan waqaychawan.",
+        "Juchamanta jark'awan chay Supaymantapis,",
+        "Noqawantaj wiñaynintímpaj kashan.",
+        "Llakiyniypi sonqochawan, samarichiwantaj.",
+        "Sumaj imasta Señor ruwapuwan.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Jesusneyqa manapuni saqepuwanqachu,",
+        "Sinch’i jatun atíyninwan jark’awan.",
+        "Mundopi kusikuymanta faqakapuniña,",
+        "Llimphu kawsayniyta Señorman qosaj.",
+        "Mundo chejnikuwajtín, pruebas jamojtimpis,",
+        "Cristollapi confíaspa kawsasaj.",
+        "Pay atípachiwampuni, chayrayku takisaj:",
+        "\"Sumaj imasta Señor ruwapuwan.\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jesucristo Señorneyqa kutímonqañamin,",
+        "Wasiyta wakichiyta tukuytawan.",
+        "Dios Tataypa llajtampeqa kusiyilamin kanqa;",
+        "T\\ikuy wawasnin chaypi kawsamusun.",
+        "Jaqay cieloman rispa, Paywan kusikusaj,",
+        "Diospa uyanta rikusaj wiñaypaj.",
+        "'nikuy santoswan ujchasqa takisaj Diosniyman:",
+        "\"Sumaj imasta Señor ruwapuwan.\""
+      ]
+    }
+  ]
+}

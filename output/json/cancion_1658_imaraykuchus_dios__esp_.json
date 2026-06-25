@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "Imaraykuchus Dios (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Porque tanto Dios amó al mundo entero",
+        "A su Hijo nos mandó.",
+        "Todo aquel que en Jesucristo hoy creyere,",
+        "Salvado él será.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/No se pierda aquél que cree en Jesús,",
+        "Más bien tenga la vida eterna./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "A su Hijo Cristo, Dios mandó al mundo",
+        "Para darnos salvación.",
+        "Acéptale a Cristo como a tu Salvador,",
+        "Salvado serás.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Al mundo ya demostró Dios su grande amor",
+        "Por su muerte en la cruz.",
+        "Y también amemos a nuestros hermanos,",
+        "Gozo tendremos."
+      ]
+    }
+  ]
+}

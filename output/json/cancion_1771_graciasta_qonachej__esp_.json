@@ -1,0 +1,27 @@
+{
+  "numero": null,
+  "titulo": "Graciasta Qonachej (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Demos gracias al Señor, demos gracias,",
+        "Demos gracias por su amor./",
+        "Por la mañana las aves cantan",
+        "Las alabanzas de Cristo el Salvador.",
+        "Y tú, amigo, ¿por qué no cantas",
+        "Las alabanzas de Cristo el Salvador?"
+      ]
+    }
+  ]
+}

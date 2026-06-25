@@ -1,0 +1,62 @@
+{
+  "numero": 10,
+  "titulo": "¡CUAN FIRME CIMIENTO!",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¡Cuan firme cimiento se ha dado a la fe,",
+        "De Dios en su eterna palabra de amor!",
+        "",
+        "¿Qué más El pudiera en su libro añadir,",
+        "Si todo a sus hijos lo ha dicho el Señor?",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "No temas por nada, contigo yo soy;",
+        "Tu Dios yo soy solo, tu ayuda seré;",
+        "",
+        "Tu fuerza y firmeza en mi diestra estarán,",
+        "Y en ella sostén y poder te daré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "La llama no puede dañarte jamás,",
+        "Si en medio del fuego te ordeno pasar;",
+        "",
+        "El oro de tu alma más puro será,",
+        "Pues sólo la escoria se habrá de quemar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Al alma que anhele la paz que hay en mí,",
+        "Jamás en sus luchas habré de dejar;",
+        "",
+        "Si todo el infierno la quiere perder,",
+        "¡Yo nunca, no, nunca la puedo olvidar!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "numero": null,
+  "titulo": "CAMBIARE MI TRISTEZA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "CAMBIARE MI TRISTEZA",
+        "CAMBIARE MI VERGÜENZA",
+        "LOS ENTREGARE POR EL GOZO DE DIOS",
+        "CAMBIARE MI DOLOR",
+        "Y MI ENFERMEDAD",
+        "LOS ENTREGARE POR EL GOZO DE DIOS"
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "SI SEÑOR…. SI SI SEÑOR, AMEN"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "ESTANDO ATRIBULADO",
+        "PERO NUNCA DERROTADO",
+        "Y PERSEGUIDO NO HAY TEMOR",
+        "MALDICIONES NO ME AFECTAN",
+        "PUES YO SE A QUIEN VOY",
+        "EN SU GOZO FUERTE SOY"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "AUNQUE TRISTE",
+        "EN LA NOCHE YO ESTE",
+        "SU GOZO VIENE EN LA MAÑANA.",
+        "",
+        "CAMBIARE MI TRISTEZA…"
+      ]
+    }
+  ]
+}

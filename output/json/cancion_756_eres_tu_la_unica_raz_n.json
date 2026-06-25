@@ -1,0 +1,51 @@
+{
+  "numero": null,
+  "titulo": "ERES TU LA UNICA RAZÓN",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ERES TU LA ÚNICA RAZÓN",
+        "DE MI ADORACIÓN, OH JESÚS.",
+        "ERES TÚ LA ESPERANZA",
+        "QUE ANHELÉ TENER,  OH, JESÚS."
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "CONFIO EN TÍ, ME HAS AYUDADO,",
+        "TU SALVACIÓN ME HAS REGALADO,",
+        "HOY HAY GOZO EN MI CORAZÓN",
+        "CON MI CANTO TE ALABARÉ"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "TE ALABARÉ, TE GLORIFICARÉ",
+        "TE ALABARÉ, MI BUEN JESÚS/"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "EN TODO TIEMPO, TE ALABARÉ",
+        "EN TODO TIEMPO, TE ADORARÉ."
+      ]
+    }
+  ]
+}

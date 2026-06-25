@@ -1,0 +1,61 @@
+{
+  "numero": null,
+  "titulo": "Jehova es mi guerrero",
+  "carpeta": "03 Alabanza Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jehová es mi guerrero.",
+        "Oh...",
+        "",
+        "Jehová es mi guerrero.",
+        "Oh...",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Con mi Alabanza pelearé,",
+        "(pues no es mi guerra sino la de Dios)",
+        "",
+        "Danza y pandero yo daré,",
+        "(pues no es mi guerra sino la de Dios)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Címbalo y trompeta sonaré,",
+        "(pues no es mi guerra sino la de Dios)",
+        "",
+        "Y con fuerte y alta voz yo gritaré...",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Le llaman guerrero.",
+        "Le llaman guerrero.",
+        "",
+        "Le llaman guerrero.",
+        "Jehová de los ejércitos."
+      ]
+    }
+  ]
+}

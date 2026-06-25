@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "LLEVAME ALLÁ",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "LLEVAME ALLÁ,  DONDE SÉ  QUE HABRÁ PAZ,",
+        "DONDE TENGO QUE  CALLAR",
+        "PARA ESCUCHARTE HABLAR",
+        "DONDE TODO ES REALIDAD",
+        "Y EL TIEMPO NO  EXISTE MÁS.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "UNA Y OTRA VEZ,  AL ESTAR YO JUNTO A TÍ",
+        "NO ME PUEDO CONTENER,",
+        "CUANDO ME MIRAS ASÍ",
+        "Y A NO HAY NADA QUE DECIR,",
+        "ERES TODO PARA MI.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "JESÚS MI FIEL AMIGO,  MI DULCE CAMINAR",
+        "QUÉDATE CONMIGO,  NO VOY A VOLVER ATRÁS/"
+      ]
+    }
+  ]
+}

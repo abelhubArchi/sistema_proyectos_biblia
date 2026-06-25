@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Qayllakuna Jesusman",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Qayllakuna Jesusman, Paymin wajyashawanchej./",
+        "/Chimpaykuna kusiywan mana manchachikuspa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Jesusllamin wajyashan tukuy runakunata,/",
+        "/Qhapaj yawarnillanwan juchasta mayllananpaj./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Jesús wajyashajtenqa usqayta chimpananchej./",
+        "/Qhesachasunman chayqa, punku wisk’aponqa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Chimpaykuna Jesusman tarinapaj kawsayta./",
+        "/Mana chimpasun chayqa, nina larwayman risun./"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "Amaña Ari",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Amaña ari Ilakikuychejchu",
+        "Kay pachapi kawsay manta,",
+        "Mikhunasmanta, ujyanasmanta",
+        "P’achallinasmanta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Aswan ñawpajta mask'anachejraj",
+        "Cielopi kaj imastaraj.",
+        "Pisiwasqanchejta Dios qowasun",
+        "Ujyápala jiña.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Phawaj p’isqosta qhawarinachej,",
+        "Paykuna ni tarpunkuchu.",
+        "Chaywampis Dios uywan paykunata,",
+        "Mikhuyta churapun.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Chay campo fikasta qhawariychej,",
+        "Sapa p’unchaypi fikanku.",
+        "Paykunapajqabios parachimun",
+        "Wiñaranankupaj."
+      ]
+    }
+  ]
+}

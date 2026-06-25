@@ -1,0 +1,27 @@
+{
+  "numero": null,
+  "titulo": "Santo Espíritu (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Santo Espíritu, llena mi vida,",
+        "Pues por Cristo yo quiero brillar.",
+        "Santo Espíritu, llena mi vida,",
+        "Úsame a las almas a salvar.",
+        "//Alabanzas//, doy a Cristo el Rey",
+        "//Alabanzas// doy al Rey."
+      ]
+    }
+  ]
+}

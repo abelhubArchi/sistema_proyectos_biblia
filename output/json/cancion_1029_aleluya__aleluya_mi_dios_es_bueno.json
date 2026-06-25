@@ -1,0 +1,33 @@
+{
+  "numero": null,
+  "titulo": "ALELUYA, ALELUYA MI DIOS ES BUENO",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "ALELUYA, ALELUYA//",
+        "MI DIOS ES BUENO, ALELUYA",
+        "ME HA RESCATADO,",
+        "ALELUYA, ALELUYA,  ALELUYA//",
+        "ME HA PERDONADO",
+        "ALELUYA ME HA SALVADO",
+        "ALELUYA,  ALELUYA, ALELUYA//",
+        "AMO A CRISTO/",
+        "EL ES MI DIOS,  MI SALVADOR",
+        "AMO A CRISTO//",
+        "PORQUE EL ME AMÓ  PRIMERO A MI//",
+        "ALELUYA, ALELUYA//"
+      ]
+    }
+  ]
+}

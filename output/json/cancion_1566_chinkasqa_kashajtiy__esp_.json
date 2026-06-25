@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Chinkasqa Kashajtiy (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "R. Veizaga",
+  "compositor": "R. Veizaga",
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Cuando yo vagaba, Jesús me ha llamado./",
+        "/Derramó su sangre para rescatarme./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Cuando yo medito en su amor tan grande./",
+        "/Jamás yo quisiera de Cristo alejarme./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Sí en cualquier momento Jesús me llamara,/",
+        "/El me ha prometido, recompensa darme./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Allá en el cielo con todos los salvos,/",
+        "/De la vida eterna gozaré por siempre./"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "numero": null,
+  "titulo": "Tukuy Suyanachej",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Un poco, un poquito de tiempo esperamos,",
+        "Jesús de los cielos muy pronto vendrá;",
+        "Orando, leyendo y cantando velemos,",
+        "Pues pronto oiremos el grito: \"¡Aquí está!\"",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "El Señor Jesús ya pronto vendrá,",
+        "y no tardará, y no tardará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Con mando y con voz de arcángel del cielo,",
+        "Y al son de trompeta el Señor bajará.",
+        "Así le esperamos con ansia y deseo,",
+        "Y muertos o vivos nos recogerá.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "A los que en Jesús han dormido sabemos",
+        "Que Dios juntamente con El traerá,",
+        "Y no antes de ellos nosotros iremos:",
+        "Mas todos unidos El nos llamará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Aquellos que han muerto serán los primeros,",
+        "Que Cristo a su mando resucitará.",
+        "Nosotros los vivos seremos postreros,",
+        "Mas juntos Jesús nos arrebatará.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Arriba en los cielos, visible y glorioso,",
+        "Jesús a nosotros se revelará;",
+        "Consigo en la gloria de eterno reposo,",
+        "Por El rescatados. Jesús nos pondrá."
+      ]
+    }
+  ]
+}

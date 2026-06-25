@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "Jesusqa Bautizakorqa (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En las aguas de la muerte sumergido fue Jesús,",
+        "Mas su amor no fue apagado por sus penas en la cruz.",
+        "Levantóse de la tumba, sus cadenas quebrantó.",
+        "Y triunfante y victorioso a los cielos ascendió.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "En las aguas del bautismo, hoy confieso yo mi fe:",
+        "\"Jesucristo me ha salvado y en su amor me gozaré.",
+        "En las aguas humillantes, a Jesús siguiendo estoy.\"",
+        "Desde ahora para el mundo y el pecado muerto estoy.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Ya que estoy crucificado, ¿cómo más podré pecar?",
+        "Ya que estoy resucitado, Santa Vida he de llevar.",
+        "Pues, no reine, no en mi cuerpo el pecado engañador.",
+        "Mi deber es presentarlo al servicio del Señor."
+      ]
+    }
+  ]
+}

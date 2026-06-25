@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "A DIOS EL PADRE",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "A Dios el Padre celestial,",
+        "Al Hijo nuestro Redentor,",
+        "Y al eterno Consolador,",
+        "Unidos todos alabad."
+      ]
+    }
+  ]
+}

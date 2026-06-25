@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "Señorníy Yanapaway",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "E. Guarachi",
+  "compositor": "E. Guarachi",
+  "copyright": "Do Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Señorníy, yanapaway. Qanllapi confíakuni.",
+        "/Llakiyniypi sonqochaway. Chimpakamuyki./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Señorníy, perdonaway tukuy juchasniymanta.",
+        "/Chay yawar jich'asqaykiwan pichay juchayta./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Señorníy, chimpamuyki. Makiymanta pusaway.",
+        "/Laqhayaypi k'anchaykuway. Qhatikusqayki./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Señorníy, mañakuyki kallpachanawaykita.",
+        "/Santo Espíritu k'anchawan pusakuwantaj./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Graciasta qoyki, Señor, mañasqayta uyarinki.",
+        "/Kunan kusisqaña kani. Gloria Qanllaman."
+      ]
+    }
+  ]
+}

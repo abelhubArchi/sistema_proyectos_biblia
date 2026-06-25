@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "Jesucristo Atiyniyoj",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Jesucristo atiyniyoj, kay mundota atipaj.",
+        "Wañuy manta kutirimoj; tukuy yupaychanachej.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Pilluchaychej, Reyninchejta. Jesusllamin Reyninchejqa",
+        "Yupaychayta jaywapuychej, Atipaj Salvadorman.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Juchasapas asikunku, qhesachaspa Señoría.",
+        "Salvasqasña wawasnintaj, yupaychanku Jesusta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Jatunchaychej Jesusllata, atipasqasninmanta.",
+        "Janaj pachapi tiyashan, lliphirishaj k’anchaypi.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Yupaychayta uyariychej, Payman takiykunaswan.",
+        "Noqanchejpaj ñak'arerqa; chayrayku yupaychana"
+      ]
+    }
+  ]
+}

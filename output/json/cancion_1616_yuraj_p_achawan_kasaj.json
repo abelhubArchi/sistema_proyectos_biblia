@@ -1,0 +1,55 @@
+{
+  "numero": null,
+  "titulo": "Yuraj P’achawan Kasaj",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Yuraj p'achawan kasaj janaj pachapi,",
+        "Diospa wasimpi, janaj pachapi.",
+        "Yuraj p’achawan kasaj janaj pachapi",
+        "Kusiypi kamusaj./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Pilluta Dios qowanqa janaj pachapi,",
+        "Diospa wasimpi, janaj pachapi./",
+        "/Pilluta Dios qowanqa janaj pachapi,",
+        "Kusiypi kamusaj./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Qori ñampi purisaj janaj pachapi,",
+        "Diospa wasimpi, janaj pachapi.",
+        "Qori ñampi purisaj janaj pachapi,",
+        "Kusiypi kamusaj./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Jatun wasiy kapuwan janaj pachapi..."
+      ]
+    }
+  ]
+}

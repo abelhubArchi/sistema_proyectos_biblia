@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "DIOS BENDIGA LAS ALMAS UNIDAS",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Dios bendiga las almas unidas",
+        "Por los lazos de amor sacrosanto,",
+        "Y las guarde de todo quebranto",
+        "En el mundo de espinas erial,",
+        "Que el hogar que al formarse comienza",
+        "Con la unión de estos dos corazones,",
+        "Goce siempre de mil bendiciones",
+        "Al amparo del Dios de Israel.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Que el Señor, con su dulce presencia,",
+        "Cariñoso estas bodas presida,",
+        "Y conduzca por sendas de vida",
+        "A los que hoy se han jurado lealtad.",
+        "Les recuerda que nada en el mundo",
+        "Es eterno, que todo termina",
+        "Y por tanto con gracia divina,",
+        "Cifrar deben la dicha en su Dios.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Que los dos que al altar se aproximan",
+        "A jurarse su fe mutuamente,",
+        "Busquen siempre de Dios en la fuente",
+        "El secreto de dicha inmortal.",
+        "Y si acaso de duelo y tristeza",
+        "Se empañasen sus sendas un día,",
+        "En Jesús hallarán dulce guía",
+        "Que otra senda les muestre mejor."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "HOY ESTAMOS AQUI ADORÁNDOTE",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "HOY ESTAMOS AQUÍ ADORÁNDOTE",
+        "CANTÁNDOTE A TI MI GRAN SEÑOR,",
+        "QUIERO SUBIR A TU MONTE SANTO",
+        "Y VERTE  ALLÍ  MI  ÚNICO  REY/"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "TE ALABAMOS SEÑOR CON EL CORAZÓN",
+        "Y RINDO MI SER ANTE TI",
+        "OH GRAN SEÑOR",
+        "HOY TE DAMOS LOOR PODEROSO SEÑOR",
+        "SÓLO A TI, MI ÚNICO SEÑOR."
+      ]
+    }
+  ]
+}

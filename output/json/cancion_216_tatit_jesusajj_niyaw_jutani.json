@@ -1,0 +1,53 @@
+{
+  "numero": null,
+  "titulo": "TATIT JESUSAJJ NIYAW JUTANI",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tatit Jesusajj niyaw jutani;",
+        "Khespiyatanacaw catokañani.",
+        "Uca urojja jach'a urüniw;",
+        "Cusisiñampiya suyapjjañani.",
+        "Wiñay jacaña coronampiwa jupajj jutani.",
+        "Salvatanacaw uca corona catokañani.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tatitump chicajj walpachaniwa",
+        "Angelanacasa jutapjjanejja;",
+        "Trompet toct'ancan ucapachajja,",
+        "Acá orakejja qhathatiniwa.",
+        "Uc ist'asajja, sarjjañániwa acá oraket.",
+        "Chica cieloruw Tatiturojja jicjjatañáni.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Tatit Jesusajj kenayjjaruwa",
+        "Take ch'amapampi sarakanini.",
+        "Take juchata k'omañasajja",
+        "Waquisipuniwa ucürutaqui.",
+        "Khespitanacajj jank'ocamaquiw uñstapjjañáni.",
+        "Tatitusajja uqham uñjasajj cusisiniwa."
+      ]
+    }
+  ]
+}

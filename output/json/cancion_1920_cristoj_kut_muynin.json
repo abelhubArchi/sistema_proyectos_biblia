@@ -1,0 +1,56 @@
+{
+  "numero": null,
+  "titulo": "Cristoj Kutímuynin",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cristoj kutimuynin mayk’ajchus kananta",
+        "Manapuni ni pi yachanchu.",
+        "Angelkunapis nillataj yachankuchu;",
+        "Dios Tatallanchejpuni yachan.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Jesucristo Señor kutimonqañamin",
+        "Jatun atiyninwan.",
+        "Salvo kajkunata Payqa pusarenqa",
+        "/Wiñay kusikuyman./Wiñaypaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Noepa p’unchaynimpi runas jinallataj",
+        "Señorwan jap'ichikusunchej.",
+        "Ujninta pusanqa salvo kasqanrayku,",
+        "Chay ujnintarí saqeponqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Diospa Palabran nin wakichikunata",
+        "Cristota taripamunapaj.",
+        "Wiñaypaj kawsayta Jesús qowasunchej"
+      ]
+    }
+  ]
+}

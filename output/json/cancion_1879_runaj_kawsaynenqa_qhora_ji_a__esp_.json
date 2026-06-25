@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Runaj Kawsaynenqa Qhora Jiña (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Es cuál una hierba, esta vida aquí,",
+        "Todo es temporal, la gloria terrenal.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Cuál una neblina es nuestra vida aquí.",
+        "Allá en el cielo hay la vida eterna!./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "La hierba se seca cuando sale el sol.",
+        "También esta vida, todo es temporal.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Acude hoy a Cristo, El te salvará,",
+        "En su amor te dará vida eternal."
+      ]
+    }
+  ]
+}

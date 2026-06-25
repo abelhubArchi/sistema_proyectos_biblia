@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Jinallachu Diosman Risaj (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¿He de ir sin ningún fruto que presente a mi Señor?",
+        "No le llevo ni un trofeo, ¡Ni servicio de valor!",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "¿He de ir sin ningún fruto? ¿He de ver a Cristo así?",
+        "Con el tiempo mal gastado, ¿He de presentarme allí?",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "De la muerte no me asusto; Cristo es ya mi Salvador.",
+        "Para El nada yo he hecho; esto, sí, me da dolor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Darle todo yo quisiera de los años que perdí,",
+        "Caminando en la ceguera; pero a Satanás los di."
+      ]
+    }
+  ]
+}

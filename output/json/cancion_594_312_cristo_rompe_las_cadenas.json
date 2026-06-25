@@ -1,0 +1,32 @@
+{
+  "numero": null,
+  "titulo": "312 CRISTO ROMPE LAS CADENAS",
+  "carpeta": "04 Poder del Evangelio",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ": Cristo rompe las cadenas...",
+        "Aleluya gloria a Dios. (bis)",
+        "",
+        "Libre, libre Cristo me hizo libre,",
+        "Libre Cristo me hizo libre,",
+        ": Muriendo en la cruz",
+        "Jesús me libertó. (bis)",
+        "",
+        "//Gloria, gloria aleluya. //",
+        ": Jesús me libertó",
+        "Muriendo en la cruz. (bis)"
+      ]
+    }
+  ]
+}

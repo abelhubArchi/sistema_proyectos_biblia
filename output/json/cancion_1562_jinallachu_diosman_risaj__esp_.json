@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Jinallachu Diosman Risaj (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Jesucristo el Señor, El te llama con amor./",
+        "/Ven a Cristo sin tardar, salvación El te dará./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Satanás nunca duerme y trabaja sin cesar,",
+        "/Asechando a los fieles, los que sirven al Señor./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Sólo en Cristo encontrarás fortaleza en tu ser./",
+        "/Con la ayuda del Señor, venceremos a Satán./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Meditando en la Biblia y orando más al Señor,/",
+        "/Venceremos todo el mal, confiando en el Señor./"
+      ]
+    }
+  ]
+}

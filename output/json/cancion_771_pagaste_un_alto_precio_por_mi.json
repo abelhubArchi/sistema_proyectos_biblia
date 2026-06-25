@@ -1,0 +1,67 @@
+{
+  "numero": null,
+  "titulo": "PAGASTE UN ALTO PRECIO POR MI",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Pagaste un alto precio por mi",
+        "Ofreciste tu vida misma por mi",
+        "Me consolaste cuando mas necesite",
+        "Como no voy a servirte mi Señor",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Permiteme elevarte en Adoración",
+        "Entregarte hoy todo mi ser",
+        "Y siempre, siempre, siempre te alabare",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Quiero derramar mi corazón",
+        "delante de ti hoy quiero estar",
+        "Levantar mis manos, para alabarte",
+        "y adorarte mi Creador",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Tu eres Jesus mi Dios mi Rey",
+        "Soy una muestra de tu amor",
+        "Un nuevo ser para alabarte",
+        "Y adorarte a ti mi creador",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Aleluya, Aleluya",
+        "Gloria a Jesus",
+        "Él es mi Rey, Aleluya"
+      ]
+    }
+  ]
+}

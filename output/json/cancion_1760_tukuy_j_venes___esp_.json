@@ -1,0 +1,28 @@
+{
+  "numero": null,
+  "titulo": "Tukuy Jóvenes  (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Canten, jóvenes; canten, jóvenes,",
+        "Canten todos al Señor./",
+        "Si tentado te sientes tú,",
+        "No, no dejes de cantar.",
+        "Y si quieres tu alabar",
+        "Pues empieza a cantar.",
+        "Canten jóvenes .........."
+      ]
+    }
+  ]
+}

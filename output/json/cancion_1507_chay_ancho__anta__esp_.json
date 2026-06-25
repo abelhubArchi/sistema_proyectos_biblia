@@ -1,0 +1,56 @@
+{
+  "numero": null,
+  "titulo": "Chay Ancho Ñanta (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "La senda ancha dejaré,",
+        "Yo quiero por la angosta andar.",
+        "Y muchos no sabrán por qué,",
+        "Más voy a mi celeste hogar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/No puede el mundo ser mi hogar:/",
+        "En gloria tengo mi mansión.",
+        "/No puede el mundo ser mi hogar./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Algunos quieren verme ir,",
+        "Por el sendero de maldad,",
+        "Oír no puedo su llamar,",
+        "Pues voy a mi celeste hogar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Oh, ven conmigo, pecador,",
+        "Y sigue en pos del Salvador.",
+        "¿Por qué no quieres tú buscar",
+        "La hermosa tierra más allá?"
+      ]
+    }
+  ]
+}

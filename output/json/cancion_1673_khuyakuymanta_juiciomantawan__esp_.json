@@ -1,0 +1,50 @@
+{
+  "numero": null,
+  "titulo": "Khuyakuymanta Juiciomantawan (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/De tu juicio y misericordia yo cantaré./",
+        "/A Tí sólo, oh Jehová, cantaré./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/En camino de perfección yo entenderé./",
+        "/En mi hogar yo feliz viviré./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Lo impuro. Señor, jamás pondré junto a mí./",
+        "/Me alejaré de todo lo infiel./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/Del pecado atroz, oh Señor, me alejaré.",
+        "/Líbrame, oh Señor, Te imploro./"
+      ]
+    }
+  ]
+}

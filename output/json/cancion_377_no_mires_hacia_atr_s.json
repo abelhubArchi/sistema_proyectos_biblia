@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "NO MIRES HACIA ATRÁS",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Hermano en la fe, sigamos al Señor,",
+        "Porque El nos redimió de toda la maldad.",
+        "Muriendo en la cruz. El nos justificó,",
+        "Y por su Hijo fiel, nos dio la salvación.",
+        ":No mires hacia atrás, nunca desmayes más.",
+        "Cristo te ayudará, te sostendrá. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Hermana en la fe, en este mundo infiel,",
+        "Sufrimos aflicción, llanto, y gran dolor;",
+        "Cuando lleguemos ya a la mansión de Dios,",
+        "Gozo y paz habrá por la eternidad.",
+        ":Allí no habrá dolor, ni muerte ni afán,",
+        "Es un lugar de gozo con Jesús. (Bis)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Cristoj Chakisninman",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "J Parihuancollo",
+  "compositor": "J Parihuancollo",
+  "copyright": "Mi Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Cristoj chakisninman chimpaykamusaj,",
+        "Salvacionninmanta graciasta qospa./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Diosman takisaj yupaychayninta.",
+        "Runasman mllasaj salvacionmanta./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Diosniypa chajrampi noqa llank'asaj",
+        "Kay laqha mundopi kawsanaykama./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Espíritu Santo pusawasunchej",
+        "Señorpa chajrampi llank'ajkunata./"
+      ]
+    }
+  ]
+}

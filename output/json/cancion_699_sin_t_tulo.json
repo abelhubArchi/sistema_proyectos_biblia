@@ -1,0 +1,40 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "No hay Dios tan grande como Tú",
+        "No lo hay, no lo hay.",
+        "",
+        "No hay Dios que puede hacer las obras",
+        "como las que haces Tú.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "No es con espada, ni con ejército",
+        "mas con tu Santo Espíritu.",
+        "",
+        "Y muchas almas se salvarán",
+        "y muchas almas se salvarán",
+        "y muchas almas se salvarán",
+        "con tu Santo Espíritu."
+      ]
+    }
+  ]
+}

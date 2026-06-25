@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "AGRADECIDO SEA NUESTRO DIOS",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Agradecido sea nuestro Dios,",
+        "Por todo lo que El nos concedió.",
+        "En cada día gozo El nos da,",
+        "Nos llena de su bendición y luz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Pues alabemos al eterno Dios,",
+        "Por su piedad y su fidelidad.",
+        "Nos da su guía y su protección,",
+        "Y su bondad y su infinito amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Agradecido sea nuestro Dios,",
+        "Por su preciosa y grata salvación;",
+        "Nos ha librado del pecado atroz,",
+        "De perdición al gozo sin igual.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Agradecido sea nuestro Dios,",
+        "Nos concedió la vida eternal;",
+        "Pues viviremos juntos en su amor,",
+        "Sigámosle sin volver a pecar.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Agradecido sea nuestro Dios,",
+        "Por su amor que nos manifestó;",
+        "Pues El murió en una cruenta cruz,",
+        "Sirvámosle con más sinceridad."
+      ]
+    }
+  ]
+}

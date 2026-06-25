@@ -1,0 +1,49 @@
+{
+  "numero": null,
+  "titulo": "Punkusqa kichaskasña kanku (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Francas las puertas encontrarán, unos sí; otros no.",
+        "De alguien las glorias serán sin fin /¿y tú? ¿y yo?/",
+        "\"Calles de oro\", mar de cristal, Pleno reposo, perfecto amor;",
+        "unos tendrán celestial hogar, /¿y tú? ¿y yo?/",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Fieles discípulos de Jesús, unos si; otros no;",
+        "Logran corona en vez de cruz, /¿y tú? ¿y yo?/",
+        "Mora el Señor en gloriosa luz;",
+        "Con Él no puede haber dolor;",
+        "De alguien es esta beatitud, /¿y tú? ¿y yo?/",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Llegan a tiempo pasando bien; unos sí, otros no;",
+        "Unos las puertas cerradas ven /¿y tú? ¿y yo?/",
+        "Ciegos y sordos hoy nada creen.",
+        "Tarde lamentarán tal error",
+        "El que desdeña será su juez; /¿y tú? ¿y yo?/"
+      ]
+    }
+  ]
+}

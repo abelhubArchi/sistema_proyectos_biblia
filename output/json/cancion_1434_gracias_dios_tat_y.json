@@ -1,0 +1,63 @@
+{
+  "numero": null,
+  "titulo": "Gracias Dios Tatáy",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Gracias, gracias, Dios Tatáy",
+        "Juchayta llimphuchanki",
+        "Cruzpi wañusqaykiwan./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Yachachiway orayta,",
+        "Nisqaykita kasuyta.",
+        "Jark'away tukuy tentación manta./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Gracias, gracias, Dios Tatáy,",
+        "Wawaykiñamin kani",
+        "Qampi creesqayrayku./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Gracias, gracias, Dios Tatáy",
+        "Mañakususqaytapis,",
+        "Uyariwankipuni./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Gracias, gracias, Dios Tatáy,",
+        "K'acha Palabraykiwan",
+        "Nanniytapis k'anchanki./"
+      ]
+    }
+  ]
+}

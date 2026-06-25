@@ -1,0 +1,60 @@
+{
+  "numero": null,
+  "titulo": "Señor Jesusníy Pusaway (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "C. López",
+  "compositor": "C. López",
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Oh, Señor Jesús, guíame en tu poder,",
+        "Quiero trabajar en tu viña, oh Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Pronto gozaré con mi Padre Dios,",
+        "Junto al Señor en su mansión.",
+        "Jesús me dará una corona.",
+        "Allí yo tendré gozo eternal.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "En tu amor. Señor, Tu me das vida eternal,",
+        "Pronto gozaré en la patria celestial.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Gloria sea a Ti por tu grande redención,",
+        "Cantaré a Ti, ¡Gloria, gloria al Redentor!",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Tuyo soy. Señor, te consagro hoy mi ser.",
+        "Gozoso seré, trabajando en tu labor."
+      ]
+    }
+  ]
+}

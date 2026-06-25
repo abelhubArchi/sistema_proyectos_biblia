@@ -1,0 +1,57 @@
+{
+  "numero": null,
+  "titulo": "JESUSAJJ JIWAS LAYCU JUTI",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "La Bemol",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Suma Khespiyir Jesusajj gloriap jaytanisaw",
+        "Jiwas laycu acapachar juti.",
+        "Jan yakataw Tatitusajj mä chhujilarojj naci,",
+        "Jakenacar khespiyañataqui.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Jesusajja (Jesusajja) sarakaniw (sarakaniw)",
+        "C'ajquir warawaraw yatiyasqui.",
+        "Acapachar (acapachar) khespiyiri (khespiyiri)",
+        "Khespiyirimarojj catokamay.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Angelanacasa k'ochupjjew alajjpachana,",
+        "Khespiyasiñajj utjatapata.",
+        "Awatirinacas cusisitaw sarapjjejja,",
+        "Niño Jesusar alaberejja.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Musparcañaw Tatitojjan munasiñapajja.",
+        "Juma laycuw Wawapar qhithani.",
+        "uca Jesusarojj catokamay chuymamarojj.",
+        "Wiñayataquiw jumampejj jacan."
+      ]
+    }
+  ]
+}

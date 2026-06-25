@@ -1,0 +1,54 @@
+{
+  "numero": null,
+  "titulo": "TÚ HABITAS AQUÍ",
+  "carpeta": "ADORACION",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "transición",
+      "lineas": [
+        "*",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tú habitas aquí",
+        "En medio de esta alabanza,",
+        "Tú presencia adoro hoy",
+        "Tú recibe el honor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tú me llenas aquí",
+        "De aliento y fortaleza,",
+        "Tú presencia adoro hoy",
+        "Tú recibe el poder. Mi Señor",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "// Santo, Santo,",
+        "Santo es el Señor,",
+        "Vives para siempre,",
+        "Santo, Santo. //"
+      ]
+    }
+  ]
+}

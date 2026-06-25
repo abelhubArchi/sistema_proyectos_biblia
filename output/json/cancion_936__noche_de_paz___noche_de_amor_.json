@@ -1,0 +1,53 @@
+{
+  "numero": null,
+  "titulo": "¡NOCHE DE PAZ! ¡NOCHE DE AMOR!",
+  "carpeta": "zAzul",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¡Noche de paz, noche de amor!",
+        "Todo duerme en derredor,",
+        "Entre los astros que esparcen su luz,",
+        "Bella anunciando al niñito Jesús,",
+        "Brilla la estrella de paz,",
+        "Brilla la estrella de paz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "¡Noche de paz, noche de amor!",
+        "Oye humilde el fiel pastor,",
+        "Coros celestes que anuncian salud,",
+        "Gracias y glorias en gran plenitud,",
+        "Por nuestro buen Redentor,",
+        "Por nuestro buen Redentor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¡Noche de paz, noche de amor!",
+        "Ved que bello resplandor",
+        "Luce en el rostro del niño Jesús,",
+        "En el pesebre, del mundo la luz,",
+        "Astro de eterno fulgor,",
+        "Astro de eterno fulgor."
+      ]
+    }
+  ]
+}

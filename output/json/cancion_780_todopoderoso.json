@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "Todopoderoso",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "La única razón de mi adoración,",
+        "Eres Tú mi Jesús.",
+        "Mi único motivo para vivir,",
+        "Eres Tú mi Señor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Mi única verdad está en ti",
+        "Eres mi luz y mi salvación;",
+        "Mi único amor eres Tú Señor",
+        "Y por siempre te alabaré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Tú eres todopoderoso",
+        "Eres grande y majestuoso,",
+        "Eres fuerte, invencible",
+        "Y no hay nadie como Tú."
+      ]
+    }
+  ]
+}

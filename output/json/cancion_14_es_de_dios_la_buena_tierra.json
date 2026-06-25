@@ -1,0 +1,50 @@
+{
+  "numero": 14,
+  "titulo": "ES DE DIOS LA BUENA TIERRA",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Es de Dios la buena tierra y su plenitud;",
+        "Mayordomos fíeles quiere de la juventud.'",
+        "",
+        "¡Oh Señor, contigo estamos en la gran labor!",
+        "En tu nombre trabajamos, llenos de fervor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Al arado pon la mano, sin mirar atrás;",
+        "Es el noble llamamiento que Tú, Dios, nos das.",
+        "",
+        "Seguiré en las huellas tuyas, y terminaré;",
+        "La cosecha prometida te la entregaré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Plantan unos, riegan otros, Dios bendecirá;",
+        "La semilla que sembramos fruto llevará.",
+        "",
+        "Cristo ofrece vida a todos, luz y paz sin par;",
+        "¡Nuestra patria y todo el mundo deben aceptar!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "Cristo Noqawan Kashan (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Alguien cerca está de mí./",
+        "Alguien cerca está, alguien cerca está,",
+        "Alguien cerca está de mi./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Es mi Salvador Jesús./",
+        "Es mi Salvador, es mi Salvador,",
+        "Es mi Salvador Jesús.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/Mora en mi corazón./",
+        "En mi corazón, en mi corazón,",
+        "Mora en mi corazón."
+      ]
+    }
+  ]
+}

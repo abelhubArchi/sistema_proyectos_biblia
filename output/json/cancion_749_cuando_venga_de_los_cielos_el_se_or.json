@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "cuando venga de los cielos el Señor",
+  "carpeta": "Vida Nueva",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "// Cuando venga de los cielos el Señor",
+        "Estés vivo o estes muerto,",
+        "",
+        "¿Que cuenta le vas a dar? //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Amigo ya no peques más",
+        "Jesús te dice: \"Ven a Mí\"",
+        "",
+        "Recuerda que es tu Salvador",
+        "Recuerda que murió por ti.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "// Oh vienen los ángeles",
+        "vienen los ángeles",
+        "a alabar al Rey. //"
+      ]
+    }
+  ]
+}

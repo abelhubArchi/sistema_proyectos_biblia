@@ -1,0 +1,77 @@
+{
+  "numero": null,
+  "titulo": "VEDLE AHORA A EL",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "// Vedle ahora a Él, el Cordero hermoso es",
+        "Nacido sin mancha y para salvar",
+        "el Cordero hermoso es //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "// Santo Santo es, el Cordero hermoso es",
+        "Porque me amaste siempre yo diré",
+        "que el Cordero hermoso es //",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Cuando mi camino se empieza a torcer,",
+        "Tú mi Dios me guías en fe",
+        "Y por eso estoy aquí entre lágrimas para decir",
+        "que el Cordero hermoso es",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Gracias oh Señor, el Cordero hermoso es",
+        "Yo se que por gracia hasta el fin llegaré,",
+        "el Cordero hermoso es",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "Siempre que yo hiero tu corazón,",
+        "a cambio das gracia y perdón",
+        "Y por eso estoy aquí entre lágrimas para decir",
+        "que el Cordero hermoso es",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 6,
+      "lineas": [
+        "Vida nueva pude tener, cuando me lavaste,",
+        "me lavaste cada pecado que había en mí",
+        "Pues si el Hijo te hace libre, eres libre de verdad,",
+        "el Cordero hermoso, hermoso es"
+      ]
+    }
+  ]
+}

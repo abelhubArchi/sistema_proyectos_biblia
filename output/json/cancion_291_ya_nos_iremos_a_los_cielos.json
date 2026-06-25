@@ -1,0 +1,53 @@
+{
+  "numero": null,
+  "titulo": "YA NOS IREMOS A LOS CIELOS",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "¿ Listo, hermano, estás tú para entrar",
+        "En los cielos a morar con Dios?",
+        "¿Y hermana, preparada estás",
+        "Para ver a Cristo el Salvador?",
+        ":En el santo hogar. Cristo te dará",
+        "Gozo sin igual y vida eternal. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Todos vamos juntos con Jesús",
+        "Animándonos con mucho amor.",
+        "Si tu hermano en pecado está,",
+        "Pronto ayúdale a volver a Dios.",
+        ":Ya vendrá Jesús, el glorioso rey,",
+        "Recompensa a dar al que sigue fiel. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "¡Qué gozoso y feliz será",
+        "El encuentro con Cristo, el Señor",
+        "Las tristezas se terminarán,",
+        "Siempre gozaremos con Jesús.",
+        ": Adelante, pues, al celeste hogar",
+        "A vivir con Dios por la eternidad. (Bis)"
+      ]
+    }
+  ]
+}

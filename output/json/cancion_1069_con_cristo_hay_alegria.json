@@ -1,0 +1,31 @@
+{
+  "numero": null,
+  "titulo": "CON CRISTO HAY ALEGRIA",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Con Cristo hay alegría",
+        "Lo puedes comprobar,",
+        "entrégale tu  vida",
+        "Y jamás serás igual",
+        "Adórale que  él vive y con",
+        "nosotros está",
+        "Él vino para darte paz y felicidad",
+        "Ya no tienes que sufrir",
+        "Ya no tienes que llorar",
+        "Él vino para darte paz y felicidad."
+      ]
+    }
+  ]
+}

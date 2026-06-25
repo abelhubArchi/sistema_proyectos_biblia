@@ -1,0 +1,67 @@
+{
+  "numero": null,
+  "titulo": "NADIE ME PODRA SEPARAR DE DIOS",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Nadie me podrá separar de Dios,",
+        "Ni de su presencia;",
+        "Con los vencedores quisiera estar,",
+        "Y gozar con Cristo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "A la gloria eterna yo voy,",
+        "A morar con Cristo el Señor,",
+        "Por la eternidad. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "En el cielo, millares de ángeles,",
+        "Alaban a Cristo.",
+        "Con tal grupo de ángeles celestes,",
+        "Cantaré a mi Cristo.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Los planes del sutil Engañador,",
+        "No me atemorizan;",
+        "Pues no temeré al dolor fatal,",
+        "Ni a la muerte oscura.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "¿Quién podrá dañarme? ¡con Cristo estoy;",
+        "El es mi refugio;",
+        "El va fiel conmigo, no temeré,",
+        "Su guía es segura."
+      ]
+    }
+  ]
+}

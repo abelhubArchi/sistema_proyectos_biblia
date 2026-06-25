@@ -1,0 +1,38 @@
+{
+  "numero": null,
+  "titulo": "Mayllawan Jesusniy",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Do Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Mayllawan Jesusyniy juchayta.",
+        "Chichi sonqoyta Pay mayllawarqa./",
+        "Jesusniy llimphuchan cruzpi yawarninwan.",
+        "Mayllawan Jesusniy juchayta,",
+        "Yawarninwan Jesús mayllawarqa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Salvawan Jesusniy wiñaypaj,",
+        "Kusisqa kani, Jesús salvawan./",
+        "Kawsayta Pay qowan cruzpi wañusqanwan.",
+        "Salvawan Jesusniy wiñaypaj,",
+        "Kusisqa kani Jesús salvawan."
+      ]
+    }
+  ]
+}

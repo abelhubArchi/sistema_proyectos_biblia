@@ -1,0 +1,51 @@
+{
+  "numero": null,
+  "titulo": "SERVIRÉ A MI DIOS",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Aunque otros no quisieran a Jesús servir fielmente,",
+        "Serviré aunque esté solo en la iglesia y dondequiera.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Oh Señor, tu ayuda imploro,",
+        "Tu poder divino y santo,",
+        "Solo así podré servirte",
+        "Hasta estar en tu presencia. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "No quisiera yo cansarme de servirte. Dios viviente.",
+        "Siempre quiero obedecerte y hacer lo que me mandes.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Siempre debo yo seguirte, alabándote con gozo.",
+        "Porque tú me has redimido con tu sangre tan precioso."
+      ]
+    }
+  ]
+}

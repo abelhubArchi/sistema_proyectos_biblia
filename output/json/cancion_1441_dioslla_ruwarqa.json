@@ -1,0 +1,66 @@
+{
+  "numero": null,
+  "titulo": "Dioslla Ruwarqa",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Dioslla ruwarqa tukuy imasta;",
+        "Nawiyojkuna qhawanankupaj",
+        "Tukuy qorita, tukuy qolqeta,",
+        "Mayus kajtapis, orqos kajtapis,",
+        "Chay mar qochapi challwas kajtapis,",
+        "Intí, killata, chanta ch'askasta.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Tukuy runasta atiyniykiwan",
+        "Qhari-warmita Qan ruwarqanki",
+        "Rijch’ayniykiman rijch’ayniyojta.",
+        "Paraisomantaj churaykorqanki",
+        "Chaypi kusisqas kawsanankupaj,",
+        "Rikunas kajwan, mikhunas kajwan.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Makisniyojta Qan ruwarqanki",
+        "Nisqasniykita qhelqanankupaj.",
+        "Ñawisniyojta Qan ruwarqanki",
+        "Palabraykita leenankupaj.",
+        "Sonqosninkuta Qan ruwarqanki",
+        "Qan sapaykipi creenankupaj.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Chakisniyojta Qan ruwarqanki",
+        "Kamachiykita apanankupaj.",
+        "Siminkutapis Qan ruwarqanki",
+        "Palabraykita willanankupaj,",
+        "Sapa p'unchaypi yupaychanapaj,",
+        "Qan Diosllapitaj creenankupaj."
+      ]
+    }
+  ]
+}

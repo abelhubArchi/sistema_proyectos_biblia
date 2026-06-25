@@ -1,0 +1,68 @@
+{
+  "numero": null,
+  "titulo": "EN LA LUZ DE DIOS",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Anduve en sendas de pecar,",
+        "Sin rayo de esperanza hallar,",
+        "Busqué doquier hasta encontrar",
+        "En Cristo la vida y luz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "En la luz de Dios",
+        "Canta ahora mi alma, ya tengo luz;",
+        "En la luz de Dios,",
+        "Ya vivo en la luz de Dios",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Mi noche oscura al fin pasó,",
+        "Perfecto día mi alma halló,",
+        "Consuelo y paz pues gozo yo",
+        "Ya que Cristo trajo luz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Es dulce el nombre del Señor,",
+        "Su libro es tan consolador,",
+        "Feliz es con el Salvador",
+        "Andar en su dulce luz.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "De Cristo el nombre ensalzaré",
+        "Su santa voluntad haré,",
+        "Y su favor recibiré",
+        "Andando en su santa luz."
+      ]
+    }
+  ]
+}

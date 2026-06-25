@@ -1,0 +1,44 @@
+{
+  "numero": null,
+  "titulo": "DiosTataman qopunachej (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": "J. Aguilar",
+  "compositor": "J. Aguilar",
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "A nuestro Dios démosle hoy",
+        "Esta ofrenda por su amor.",
+        "Inagotable es su bondad.",
+        "Gracias a El por su amor.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Gracias a Dios, gracias a Dios,",
+        "Con esta ofrenda por su amor./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "A nuestro Dios démosle hoy",
+        "De corazón, gozo y amor,",
+        "Para extender la obra de Dios.",
+        "Gracias a El por su amor."
+      ]
+    }
+  ]
+}

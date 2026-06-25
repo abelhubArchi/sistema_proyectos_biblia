@@ -1,0 +1,67 @@
+{
+  "numero": null,
+  "titulo": "SAPA MAYNIW DIOSAR UÑSTAÑÁNI",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Khespiyasiñajj waquichatawa,",
+        "Criston cruzan jiwatap laycu.",
+        "Wilap wartasaw waquichawayi,",
+        "Wiñay mutuñat jaltañataqui.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Sapa mayniw Diosar uñstañán",
+        "Waquisiw jichhajj Jupar jaysaña;",
+        "Khespiyasiñajj waquichatawa. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Janiw qhitisa jayanccaniti",
+        "Criston taripañ urupanjja.",
+        "Sapa mayniw cuenta churañáni",
+        "Ucajj Diosan khananchatapawa.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Awquejj janiw wawat a r sea ni tí",
+        "Wawas taycapatjj janiraquiw;",
+        "Sapa mayniw quicpa almapata",
+        "Criston taripat-unjas iñáni.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Jumas nayas ucancañaniwa",
+        "Janiw jaltañajj utjcaniti;",
+        "Parlatamasa, luratamasa,",
+        "Ucan suma khana yatisini."
+      ]
+    }
+  ]
+}

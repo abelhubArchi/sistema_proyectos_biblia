@@ -1,0 +1,58 @@
+{
+  "numero": null,
+  "titulo": "TU ME SALVASTE",
+  "carpeta": "02 Himnario Cala",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Tú me salvaste, oh Señor,",
+        "Te seguiré hasta el fin.",
+        ": Aunque yo tenga pruebas mil,",
+        "Te seguiré sin desmayar. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "En tu palabra tengo fe,",
+        "Porque da vida y salud.",
+        ":Ven a mi lado, oh Señor,",
+        "Nunca me dejes sin tu amor. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Yo sufriré por mi Señor,",
+        "Y su verdad proclamaré.",
+        ": Cristo me guía con su amor",
+        "Y por doquier le seguiré. (Bis)",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Te seguiré. Señor Jesús",
+        "Y llevaré mi propia cruz.",
+        ": Hasta la muerte, oh Señor,",
+        "De corazón te serviré. (Bis)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "numero": null,
+  "titulo": "Nothing But The Blood",
+  "carpeta": "Nothing But The Blood",
+  "tono": null,
+  "compas": null,
+  "autor": "Robert Lowry",
+  "compositor": "Robert Lowry",
+  "copyright": "Public Domain",
+  "ccli": "21332",
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        ".E              C#m7        A2                       Bsus E",
+        "What can wash away my sin? Nothing but the blood of Je___sus;",
+        ".E                C#m7         A2                       Bsus E",
+        "What can make me whole again? Nothing but the blood of Je___sus.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        ".E           C#m7",
+        "Oh precious is the flow,",
+        ".Bsus",
+        "That makes me white as snow;",
+        ".E        C#m7",
+        "No other fount I know,",
+        ".A2                       Bsus E",
+        "Nothing but the blood of Je___sus.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        ".E             C#m7        A2                       Bsus E",
+        "For my pardon this I see, nothing but the blood of Je___sus;",
+        ".E                C#m7          A2                       Bsus E",
+        "For my cleansing this my plea, nothing but the blood of Je___sus.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        ".E              C#m7            A2                       Bsus E",
+        "This is all my hope and peace, nothing but the blood of Je___sus;",
+        ".E              C#m7           A2                       Bsus E",
+        "This is all my righteousness, nothing but the blood of Je___sus."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "numero": null,
+  "titulo": "VENGO A TI OH SEÑOR",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "VENGO A TI, HOY SEÑOR",
+        "A RENDIR MI CORAZÓN",
+        "QUIERO MÁS DE TI",
+        "TOMA MI NECESIDAD,",
+        "DAME TU PRECIOSA PAZ,",
+        "QUIERO MÁS DE TI"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "DAME, DAME, DAME MÁS DE TI",
+        "BENDITO SEÑOR.",
+        "DAME, DAME, DAME MÁS DE TI,",
+        "QUIERO MÁS DE TI."
+      ]
+    }
+  ]
+}

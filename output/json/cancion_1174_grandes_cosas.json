@@ -1,0 +1,62 @@
+{
+  "numero": null,
+  "titulo": "GRANDES COSAS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Hoy podemos soñar",
+        "Hoy podemos reír",
+        "El llenó nuestra boca de alabanza",
+        "Las naciones dirán",
+        "¿Quién es como su Dios?",
+        "El llenó nuestras vidas de gozo y danza.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Grandes cosas ha hecho el Señor",
+        "Grandes cosas ha hecho el Señor",
+        "Nos alegraremos en El",
+        "Nos alegraremos en El",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "En los pueblos sabrán",
+        "Cristo es el Señor",
+        "En su nombre se encuentra la paz y la vida",
+        "Hoy queremos cantar",
+        "Con regocijo gritar",
+        "El nos dio una canción de refugio y danza",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "Iré plantando con regocijo,",
+        "Iré sembrando semillas de amor,",
+        "Iré cantando de Tu belleza,",
+        "Grandeza eterna en Cristo Jesús"
+      ]
+    }
+  ]
+}

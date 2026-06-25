@@ -1,0 +1,29 @@
+{
+  "numero": null,
+  "titulo": "DAME UN NUEVO CORAZÓN",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "DAME UN NUEVO CORAZÓN",
+        "HAZME SIEMPRE FIEL.",
+        "DAME UN NUEVO CORAZÓN",
+        "QUIERO SER COMO TU//",
+        "TU ERES EL ALFARERO",
+        "YO EL BARRO SOY",
+        "FÓRMAME A TU IMAGEN",
+        "ESTA ES MI ORACIÓN."
+      ]
+    }
+  ]
+}

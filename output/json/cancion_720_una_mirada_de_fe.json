@@ -1,0 +1,29 @@
+{
+  "numero": null,
+  "titulo": "UNA MIRADA DE FE",
+  "carpeta": "COROS",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Una mirada de fe",
+        "una mirada al Señor",
+        "Es la que puede salvar al pecador.",
+        "",
+        "Y si tu vienes a Cristo Jesús",
+        "Él te perdonará",
+        "porque una mirada de fe",
+        "es la que te puede salvar."
+      ]
+    }
+  ]
+}

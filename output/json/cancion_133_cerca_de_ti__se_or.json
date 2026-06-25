@@ -1,0 +1,47 @@
+{
+  "numero": null,
+  "titulo": "CERCA DE TI, SEÑOR",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Cerca de Ti, Señor, quiero morar;",
+        "Tu grande, tierno amor quiero gozar.",
+        "Llena mi pobre ser, limpia mi corazón,",
+        "Hazme tu rostro ver en comunión.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Pasos inciertos doy; el sol se va;",
+        "Mas si contigo estoy, no temo ya.",
+        "Himnos de gratitud ferviente cantaré.",
+        "Y fiel a ti, Jesús, siempre seré.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "Día feliz veré, creyendo en ti,",
+        "En que yo habitaré, cerca de ti.",
+        "Mi voz alabará, tu dulce nombre allí,",
+        "Y mi alma gozará, cerca de ti."
+      ]
+    }
+  ]
+}

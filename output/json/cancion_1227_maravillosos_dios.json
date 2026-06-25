@@ -1,0 +1,28 @@
+{
+  "numero": null,
+  "titulo": "MARAVILLOSOS DIOS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "MARAVILLOSO DIOS",
+        "TÚ PERMANECES SIEMPRE FIEL.",
+        "TU GLORIA Y TU PODER,",
+        "LLENAN MI VIDA DE TU SER.",
+        "SOSTÉNME CON TU AMOR",
+        "CON LA VICTORIA Y TU PERDÓN",
+        "DESDE MI CORAZÓN  TE CANTO HOY//"
+      ]
+    }
+  ]
+}

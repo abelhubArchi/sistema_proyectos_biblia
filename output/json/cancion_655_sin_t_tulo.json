@@ -1,0 +1,51 @@
+{
+  "numero": null,
+  "titulo": "Sin Título",
+  "carpeta": "Comunidad Cristiana",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "En el nombre maravilloso de Jesús,",
+        "Hoy me acerco ante ti Señor.",
+        "Para darte adoración",
+        "Y entregarte mi corazón, mi Padre Dios.",
+        "",
+        "Por me has hecho entender",
+        "Que sólo en ti hay vida,",
+        "Porque me has hecho conocer",
+        "Tu fidelidad cada día,",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Y te doy mi amor",
+        "Y te doy mi amor",
+        "Y te doy mi amor",
+        "",
+        "Gracias por llenarme",
+        "Gracias por amarme, Señor",
+        "Gracias por llenarme con tu Espíritu Santo",
+        "Gracias por amarme.",
+        "",
+        "Gracias por llenarme Señor,",
+        "Gracias por amarme",
+        "Y te doy mi amor",
+        "Y te doy mi amor",
+        "Y te doy mi amor"
+      ]
+    }
+  ]
+}

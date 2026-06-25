@@ -1,0 +1,36 @@
+{
+  "numero": null,
+  "titulo": "Chimpamuyku Señorniy",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Mi Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Chimpamuyku, Señorniy,",
+        "Qanllata yupaychakoj.",
+        "/Kusiy p’unchayniykipi",
+        "Yupaychaj Chimpamuyku./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Palabrayki willaraj",
+        "Kachawayku, Señorniy.",
+        "/Yacháy qowasqaykuwan",
+        "Sirvisqayku, Señorniy./"
+      ]
+    }
+  ]
+}

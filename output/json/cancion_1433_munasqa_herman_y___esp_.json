@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "Munasqa Hermanóy  (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Sol Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Mi querido hermano, tendrás que trabajar.",
+        "En Cristo busca siempre tu amigo y Salvador...",
+        "Pero nunca tú desmayes en la obra.",
+        "Y sigue siempre amante con Cristo mi Señor...",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Y tendrás, y tendrás,",
+        "Y tendrás la dicha de servir,",
+        "De servir, de servir,",
+        "De servir a nuestro Salvador",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Porque la mies es mucha y pocos los obreros,",
+        "Tenemos que luchar y almas rescatar.",
+        "Cristo nos mandó a predicar a todos,",
+        "A todos los que quieran a Cristo recibir."
+      ]
+    }
+  ]
+}

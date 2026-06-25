@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "Kay Pachaman (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Fa Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/El Salvador vino al mundo,",
+        "Por su grande amor.",
+        "Y al morir en el Calvario",
+        "Su sangre derramó./",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "/Ven al Señor, oh pecador.",
+        "El es tu amigo y Buen Pastor.",
+        "Con tu sangre El te lavará",
+        "De toda tu maldad./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/En el mundo sin consuelo",
+        "Vagas, pobre pecador.",
+        "Oye su voz y acude",
+        "A Cristo, salvo serás."
+      ]
+    }
+  ]
+}

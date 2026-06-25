@@ -1,0 +1,25 @@
+{
+  "numero": null,
+  "titulo": "Kay P'unchaypi",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Mayor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Kay p’unchaypi noqanchejwan Dios kashan./",
+        "/Sapa p'unchay, killas, watas",
+        "Noqanchejwan Pay kashan.",
+        "Makisnimpi waqaychashawanchej Pay./"
+      ]
+    }
+  ]
+}

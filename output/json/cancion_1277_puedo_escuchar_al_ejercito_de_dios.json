@@ -1,0 +1,37 @@
+{
+  "numero": null,
+  "titulo": "PUEDO ESCUCHAR AL EJERCITO DE DIOS",
+  "carpeta": "zContemporaneo",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "PUEDO ESCUCHAR AL EJÉRCITO DE DIOS",
+        "",
+        "MARCHANDO POR LA TIERRA EN PLAN DE GUERRA VA"
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "SE OYE LA ALABANZA ES EL ARMA DE VICTORIA",
+        "",
+        "EL EJÉRCITO DE DIOS,",
+        "",
+        "EL EJÉRCITO DE DIOS,",
+        "",
+        "EL EJÉRCITO DE DIOS MARCHANDO VA"
+      ]
+    }
+  ]
+}

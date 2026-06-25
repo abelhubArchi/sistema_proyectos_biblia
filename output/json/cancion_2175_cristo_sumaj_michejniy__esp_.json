@@ -1,0 +1,59 @@
+{
+  "numero": null,
+  "titulo": "Cristo Sumaj Michejniy (Esp)",
+  "carpeta": "zVerde Quechua",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": "Re Menor",
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "/Jesucristo es mi Buen Pastor,",
+        "En su senda Él me guía./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "/Ya he dejado toda la maldad",
+        "Y ando en la luz de Cristo./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 3,
+      "lineas": [
+        "/En mi vida. Él me alumbrará,",
+        "Mi bendito Jesucristo./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 4,
+      "lineas": [
+        "/¡0h! amigo cuan perdido estás,",
+        "Ven hoy mismo a Jesucristo./",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 5,
+      "lineas": [
+        "/Si tú acudes al Señor Jesús,",
+        "Quitará Él tus pecados./"
+      ]
+    }
+  ]
+}

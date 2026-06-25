@@ -1,0 +1,46 @@
+{
+  "numero": null,
+  "titulo": "CRISTO ME HA TOCADO",
+  "carpeta": "01 Himnario Iglesia de Dios",
+  "tono": null,
+  "compas": null,
+  "autor": null,
+  "compositor": null,
+  "copyright": null,
+  "ccli": null,
+  "tempo": null,
+  "referencias_biblicas": [],
+  "secciones": [
+    {
+      "tipo": "estrofa",
+      "numero": 1,
+      "lineas": [
+        "Como esclavo del pecado",
+        "Carga enorme me oprimió;",
+        "Todo ahora es diferente,",
+        "La mano del Señor me tocó.",
+        ""
+      ]
+    },
+    {
+      "tipo": "coro",
+      "lineas": [
+        "Sí, Cristo me ha tocado,",
+        "De gozo mi alma se inundó;",
+        "Bien sé que algo me aconteció;",
+        "Su toque me transformó.",
+        ""
+      ]
+    },
+    {
+      "tipo": "estrofa",
+      "numero": 2,
+      "lineas": [
+        "Ya que Cristo me ha hallado,",
+        "Y mi vida transformó,",
+        "Quisiera siempre honrarle,",
+        "Por siglos cantaré gloria yo."
+      ]
+    }
+  ]
+}
