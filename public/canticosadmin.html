@@ -1146,26 +1146,43 @@
 
     <!-- Sidebar for search and selection -->
     <div class="sidebar">
-      <!-- Tabs de Himnario -->
-      <div class="himnario-tabs" id="himnario-tabs" style="flex-wrap: wrap;">
-        <!-- Se cargarán dinámicamente -->
+      <div style="display:flex; gap:10px; margin-bottom:10px;">
+        <button class="himnario-tab active" id="tab-himnarios" style="flex:1;" onclick="mostrarSeccion('himnarios')">Himnarios</button>
+        <button class="himnario-tab" id="tab-mixes" style="flex:1;" onclick="mostrarSeccion('mixes')">Mis Mixes</button>
       </div>
-      <div class="search-container">
-        <input type="text" id="search-input" class="search-input" placeholder="Buscar por título, número o letra..."
-          autocomplete="off">
-      </div>
-      <div id="mix-panel" style="display:none; padding: 12px; background: rgba(226, 196, 117, 0.1); border-bottom: 1px solid var(--border-active);">
-        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
-           <span style="font-weight:bold; color:var(--gold); font-size: 0.9rem;">🎼 Mix Actual</span>
-           <button class="btn btn-primary" style="padding:4px 8px; font-size:0.7rem; height:auto; border-radius:4px;" onclick="cargarMix()">Cargar Mix</button>
+
+      <div id="seccion-himnarios" style="display: flex; flex-direction: column; flex: 1; min-height: 0;">
+        <!-- Tabs de Himnario -->
+        <div class="himnario-tabs" id="himnario-tabs" style="flex-wrap: wrap;">
+          <!-- Se cargarán dinámicamente -->
         </div>
-        <div id="mix-list" style="display:flex; flex-direction:column; gap:6px; max-height: 150px; overflow-y:auto; font-size:0.8rem;">
-            <div style="color:var(--text-muted); text-align:center; padding: 4px;">Haz clic en los cánticos de abajo para añadirlos.</div>
+        <div class="search-container">
+          <input type="text" id="search-input" class="search-input" placeholder="Buscar por título, número o letra..."
+            autocomplete="off">
+        </div>
+        <div id="mix-panel" style="display:none; padding: 12px; background: rgba(226, 196, 117, 0.1); border-bottom: 1px solid var(--border-active);">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
+             <span style="font-weight:bold; color:var(--gold); font-size: 0.9rem;">🎼 Mix Actual</span>
+             <button class="btn btn-primary" style="padding:4px 8px; font-size:0.7rem; height:auto; border-radius:4px;" onclick="cargarMix()">Proyectar Mix</button>
+          </div>
+          <div style="display:flex; gap: 4px; margin-bottom: 8px;">
+              <input type="text" id="mix-name-input" placeholder="Nombre del mix (ej. Culto Domingo)" style="flex:1; padding:4px; font-size:0.8rem; border-radius:4px; border:1px solid var(--border-color); background:rgba(0,0,0,0.3); color:white;">
+              <button class="btn btn-secondary" style="padding:4px 8px; font-size:0.7rem;" onclick="guardarMixActual()">Guardar</button>
+          </div>
+          <div id="mix-list" style="display:flex; flex-direction:column; gap:6px; max-height: 150px; overflow-y:auto; font-size:0.8rem;">
+              <div style="color:var(--text-muted); text-align:center; padding: 4px;">Haz clic en los cánticos de abajo para añadirlos.</div>
+          </div>
+        </div>
+        <div id="song-list" class="song-list">
+          <!-- Songs dynamically loaded here -->
+          <div style="text-align: center; padding: 20px; color: var(--text-muted)">Cargando cánticos...</div>
         </div>
       </div>
-      <div id="song-list" class="song-list">
-        <!-- Songs dynamically loaded here -->
-        <div style="text-align: center; padding: 20px; color: var(--text-muted)">Cargando cánticos...</div>
+
+      <div id="seccion-mixes" style="display:none; flex-direction:column; flex: 1; min-height: 0;">
+        <div id="saved-mixes-list" class="song-list" style="flex:1; overflow-y:auto; padding-right:8px;">
+          <div style="text-align: center; padding: 20px; color: var(--text-muted)">Cargando mixes guardados...</div>
+        </div>
       </div>
     </div>
 
@@ -1486,11 +1503,11 @@ Mi corazón entona la canción..."></textarea>
         }
       });
 
-      activeSong = {
-        titulo: "Mix: " + currentMix.map(s => s.titulo).join(" + "),
-        tono: currentMix[0].tono || '',
-        numero: null,
-        fuente: 'mix',
+        activeSong = {
+          titulo: document.getElementById('mix-name-input') && document.getElementById('mix-name-input').value.trim() !== '' ? document.getElementById('mix-name-input').value.trim() : "Mix de Alabanzas",
+          tono: currentMix[0].tono || '',
+          numero: null,
+          fuente: 'mix',
         estrofas: estrofasCombinadas,
         letraCompleta: estrofasCombinadas.map(e => e.texto).join('\n')
       };
@@ -2510,6 +2527,135 @@ Mi corazón entona la canción..."></textarea>
             alert("Hubo un error de conexión");
         }
     }
+
+    // ==================== MIXES GUARDADOS ====================
+    async function guardarMixActual() {
+        const nombre = document.getElementById('mix-name-input').value.trim();
+        if (!nombre) {
+            alert('Por favor, ingresa un nombre para el mix.');
+            return;
+        }
+        if (currentMix.length === 0) {
+            alert('Añade al menos una canción al mix.');
+            return;
+        }
+
+        try {
+            const res = await fetch('/api/mixes', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                // Si el mix ya estaba guardado, actualizamos enviando el mismo ID que hayamos cargado
+                // Como no guardamos el ID en el UI actual, se creará uno nuevo o podemos hacer que currentMixId sea una variable global
+                body: JSON.stringify({ id: window.currentMixId, nombre, canciones: currentMix })
+            });
+            const data = await res.json();
+            if (data.exito) {
+                alert('Mix guardado correctamente.');
+                cargarListaMixes(); // Refrescar la lista
+            } else {
+                alert('Error al guardar el mix.');
+            }
+        } catch (e) {
+            console.error('Error guardando mix:', e);
+            alert('Error de conexión al guardar.');
+        }
+    }
+
+    function mostrarSeccion(seccion) {
+        if (seccion === 'himnarios') {
+            document.getElementById('seccion-himnarios').style.display = 'flex';
+            document.getElementById('seccion-mixes').style.display = 'none';
+            document.getElementById('tab-himnarios').classList.add('active');
+            document.getElementById('tab-mixes').classList.remove('active');
+        } else {
+            document.getElementById('seccion-himnarios').style.display = 'none';
+            document.getElementById('seccion-mixes').style.display = 'flex';
+            document.getElementById('tab-himnarios').classList.remove('active');
+            document.getElementById('tab-mixes').classList.add('active');
+            cargarListaMixes();
+        }
+    }
+
+    async function cargarListaMixes() {
+        try {
+            const res = await fetch('/api/mixes');
+            const mixes = await res.json();
+            const container = document.getElementById('saved-mixes-list');
+            
+            if (mixes.length === 0) {
+                container.innerHTML = '<div style="text-align:center; padding:20px; color:var(--text-muted);">No hay mixes guardados.</div>';
+                return;
+            }
+            
+            container.innerHTML = mixes.map(mix => `
+              <div class="song-card" style="margin-bottom:8px; position:relative;">
+                <div class="song-card-title">${mix.nombre}</div>
+                <div class="song-card-meta">
+                  <span>${mix.canciones.length} canciones</span>
+                  <span>${new Date(mix.fecha).toLocaleDateString()}</span>
+                </div>
+                <div style="margin-top: 10px; display:flex; gap:8px;">
+                    <button class="btn btn-primary" style="padding:4px 8px; font-size:0.75rem;" onclick="cargarMixGuardado('${mix.id}')">Cargar Mix</button>
+                    <button class="btn btn-secondary" style="padding:4px 8px; font-size:0.75rem; color:var(--danger);" onclick="eliminarMix('${mix.id}')">Eliminar</button>
+                </div>
+              </div>
+            `).join('');
+            
+            window.mixesGuardadosEnMemoria = mixes;
+        } catch (e) {
+            console.error('Error cargando mixes:', e);
+            document.getElementById('saved-mixes-list').innerHTML = '<div style="text-align:center; padding:20px; color:var(--danger);">Error cargando mixes.</div>';
+        }
+    }
+
+    function cargarMixGuardado(id) {
+        const mix = window.mixesGuardadosEnMemoria.find(m => m.id === id);
+        if (mix) {
+            currentMix = [...mix.canciones];
+            window.currentMixId = mix.id;
+            document.getElementById('mix-name-input').value = mix.nombre;
+            
+            // Si el panel de mix no está visible, abrirlo
+            if (!isMixMode) {
+                toggleModoMix();
+            } else {
+                renderMixList();
+            }
+            
+            // Volver a la sección Himnarios para ver y proyectar el mix
+            mostrarSeccion('himnarios');
+        }
+    }
+
+    async function eliminarMix(id) {
+        if (!confirm('¿Estás seguro de eliminar este mix guardado?')) return;
+        try {
+            const res = await fetch('/api/mixes/' + id, { method: 'DELETE' });
+            const data = await res.json();
+            if (data.exito) {
+                if (window.currentMixId === id) {
+                    window.currentMixId = null;
+                }
+                cargarListaMixes();
+            }
+        } catch (e) {
+            console.error('Error al eliminar mix:', e);
+            alert('Error de conexión al eliminar.');
+        }
+    }
+
+    // Al limpiar el mix con 'isMixMode = !isMixMode', limpiemos el ID también si se desactiva
+    const originalToggleModoMix = toggleModoMix;
+    toggleModoMix = function() {
+        originalToggleModoMix();
+        if (isMixMode) {
+            // Cuando se abre vacío
+            if (currentMix.length === 0) {
+                window.currentMixId = null;
+                document.getElementById('mix-name-input').value = '';
+            }
+        }
+    };
 
     // Initialize
     cargarCarpetasOpenSong();

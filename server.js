@@ -419,6 +419,28 @@ function guardarNuevosCanticos() {
     });
 }
 
+// ==================== MIXES DE ALABANZAS ====================
+const mixesPath = process.pkg
+    ? path.join(path.dirname(process.execPath), "mixes.json")
+    : path.join(__dirname, "src", "himnarios", "mixes.json");
+let mixesGuardados = [];
+
+try {
+    if (fs.existsSync(mixesPath)) {
+        mixesGuardados = JSON.parse(fs.readFileSync(mixesPath, "utf-8"));
+        console.log(`🎵 Cargados ${mixesGuardados.length} mixes guardados.`);
+    }
+} catch (e) {
+    console.error("❌ Error al cargar mixes.json:", e);
+    mixesGuardados = [];
+}
+
+function guardarMixes() {
+    fs.writeFile(mixesPath, JSON.stringify(mixesGuardados, null, 2), "utf-8", (err) => {
+        if (err) console.error("❌ Error al guardar mixes.json:", err);
+    });
+}
+
 // Función para dividir un cántico en líneas individuales (para el modo por líneas)
 function dividirEnLineas(cantico) {
     const key = cantico.titulo;
@@ -637,6 +659,15 @@ app.get("/canticosadmin", (req, res) => {
 app.get("/canticospantalla", (req, res) => {
     res.sendFile(path.join(__dirname, "public", "canticospantalla.html"));
 });
+
+// Endpoint de información del sistema
+app.get("/api/info", (req, res) => {
+    res.json({
+        ip: ipLocal,
+        puerto: puerto
+    });
+});
+
 
 // Endpoint para obtener los fondos dinámicamente desde el directorio de assets
 app.get("/api/fondos", (req, res) => {
@@ -876,6 +907,41 @@ app.post("/api/canticos/nuevo", express.json(), (req, res) => {
     cancionero.unshift(nuevoCantico);
     
     res.json({ exito: true, cantico: nuevoCantico });
+});
+
+// ==================== API DE MIXES ====================
+app.get("/api/mixes", (req, res) => {
+    res.json(mixesGuardados);
+});
+
+app.post("/api/mixes", express.json(), (req, res) => {
+    const { id, nombre, canciones } = req.body;
+    if (!nombre || !canciones) {
+        return res.status(400).json({ error: 'Nombre y canciones son obligatorios' });
+    }
+    
+    // Si viene con ID, actualizamos el existente, si no, creamos uno nuevo
+    if (id) {
+        const index = mixesGuardados.findIndex(m => m.id === id);
+        if (index !== -1) {
+            mixesGuardados[index] = { id, nombre, canciones, fecha: Date.now() };
+        } else {
+            mixesGuardados.push({ id, nombre, canciones, fecha: Date.now() });
+        }
+    } else {
+        const nuevoId = 'mix_' + Date.now();
+        mixesGuardados.push({ id: nuevoId, nombre, canciones, fecha: Date.now() });
+    }
+    
+    guardarMixes();
+    res.json({ exito: true, mixes: mixesGuardados });
+});
+
+app.delete("/api/mixes/:id", (req, res) => {
+    const id = req.params.id;
+    mixesGuardados = mixesGuardados.filter(m => m.id !== id);
+    guardarMixes();
+    res.json({ exito: true, mixes: mixesGuardados });
 });
 
 // ==================== SUBIR FONDO ====================

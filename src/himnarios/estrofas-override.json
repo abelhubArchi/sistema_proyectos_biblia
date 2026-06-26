@@ -28,7 +28,7 @@
     },
     {
       "numero": 2,
-      "texto": "¡Oh, cuan grata /nuestra reunión                                                               Cuando allá Se/ñor, en tu mansión,\nConPgo estemos /en comunión\nGozando eterno /bien!\nPiensa que Él sólo puede colmar",
+      "texto": "¡Oh, cuan grata nuestra reunión                                                               Cuando allá Señor, en tu mansión,\nConPgo estemos en comunión\nGozando eterno bien!\nPiensa que Él sólo puede colmar",
       "tipo": "coro"
     },
     {
@@ -72,6 +72,14 @@
       "numero": 6,
       "texto": "¡Silencio! que ha llegado del culto la oración.\nDios se halla a nuestro lado: ¡Silencio y devoción!",
       "tipo": "estrofa"
+    }
+  ],
+  "EL HOMBRE DE GALILEA": [
+    {
+      "numero": 1,
+      "texto": "El hombre de Galilea\nva pasando ya,\nEl hombre de Galilea\nva pasando ya,\n\nDéjalo que te toque\nDéjalo que te toque\nDéjalo que te toque\nY te dé su bendición.",
+      "tipo": "estrofa",
+      "seleccionada": false
     }
   ]
 }

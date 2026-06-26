@@ -280,7 +280,15 @@
         <div class="control-panel-extras" style="margin-top: 30px; border-top: 1px solid #eee; padding-top: 20px;">
             <h3 style="font-size: 16px; color: #444; margin-bottom: 12px; text-align: center; font-family: inherit;">
                 Panel de Control Adicional</h3>
+            <div id="info-conexion" style="text-align: center; margin-bottom: 15px; font-size: 14px; color: #666; font-weight: bold; background: #f0f0f0; padding: 10px; border-radius: 8px;">
+                Cargando IP de conexión...
+            </div>
             <div style="display: flex; gap: 10px; justify-content: center; margin-bottom: 20px; flex-wrap: wrap;">
+                <button class="ejemplo-btn"
+                    style="background: #10b981; color: white; padding: 10px 16px; font-weight: 600;"
+                    onclick="window.location.href='/panel'">
+                    ⚙️ PANEL DE CONTROL
+                </button>
                 <button class="ejemplo-btn"
                     style="background: #667eea; color: white; padding: 10px 16px; font-weight: 600;"
                     onclick="irAAdminCanticos()">
@@ -904,6 +912,17 @@
                 }, 1500);
             }
         });
+
+        // Cargar IP para control remoto
+        fetch('/api/info')
+            .then(res => res.json())
+            .then(data => {
+                const infoDiv = document.getElementById('info-conexion');
+                if (infoDiv) {
+                    infoDiv.innerHTML = `📡 Para control remoto, conéctate a: <span style="color: #667eea;">http://${data.ip}:${data.puerto}</span>`;
+                }
+            })
+            .catch(err => console.error('Error obteniendo IP:', err));
     </script>
 </body>
 

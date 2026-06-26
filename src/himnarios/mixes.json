@@ -1,0 +1,330 @@
+[
+  {
+    "id": "mix_1782433705792",
+    "nombre": "grupo 1",
+    "canciones": [
+      {
+        "numero": 1,
+        "titulo": "DEL CULTO EL TIEMPO LLEGA",
+        "carpeta": "01 Himnario Iglesia de Dios",
+        "tono": null,
+        "idioma": "es",
+        "fuente": "opensong",
+        "cantidadEstrofas": 6,
+        "estrofas": [
+          {
+            "numero": 1,
+            "texto": "Del culto el tiempo llega, comienza la oración.\nEl alma a Dios se entrega; ¡Silencio y atención!",
+            "tipo": "estrofa"
+          },
+          {
+            "numero": 2,
+            "texto": "Si al santo Dios la mente queremos elevar,\nSilencio reverente habremos de guardar.\n",
+            "tipo": "coro"
+          },
+          {
+            "numero": 3,
+            "texto": "Mil coros celestiales a Dios cantando están,\nA ellos los mortales sus voces unirán.\n",
+            "tipo": "estrofa"
+          },
+          {
+            "numero": 4,
+            "texto": "Alcemos, pues, el alma con santa devoción,\nGozando en dulce calma de Dios la comunión.\n",
+            "tipo": "estrofa"
+          },
+          {
+            "numero": 5,
+            "texto": "La Biblia bendecida, de Dios revelación,\nA meditar convida en nuestra condición.\n",
+            "tipo": "estrofa"
+          },
+          {
+            "numero": 6,
+            "texto": "¡Silencio! que ha llegado del culto la oración.\nDios se halla a nuestro lado: ¡Silencio y devoción!",
+            "tipo": "estrofa"
+          }
+        ],
+        "letraCompleta": "Del culto el tiempo llega, comienza la oración.\nEl alma a Dios se entrega; ¡Silencio y atención!\nSi al santo Dios la mente queremos elevar,\nSilencio reverente habremos de guardar.\n\nMil coros celestiales a Dios cantando están,\nA ellos los mortales sus voces unirán.\n\nAlcemos, pues, el alma con santa devoción,\nGozando en dulce calma de Dios la comunión.\n\nLa Biblia bendecida, de Dios revelación,\nA meditar convida en nuestra condición.\n\n¡Silencio! que ha llegado del culto la oración.\nDios se halla a nuestro lado: ¡Silencio y devoción!",
+        "opensongData": {
+          "numero": 1,
+          "titulo": "DEL CULTO EL TIEMPO LLEGA",
+          "carpeta": "01 Himnario Iglesia de Dios",
+          "tono": null,
+          "compas": null,
+          "autor": null,
+          "compositor": null,
+          "copyright": null,
+          "ccli": null,
+          "tempo": null,
+          "referencias_biblicas": [],
+          "secciones": [
+            {
+              "tipo": "estrofa",
+              "numero": 1,
+              "lineas": [
+                "Del culto el tiempo llega, comienza la oración.",
+                "El alma a Dios se entrega; ¡Silencio y atención!",
+                ""
+              ]
+            },
+            {
+              "tipo": "estrofa",
+              "numero": 2,
+              "lineas": [
+                "Si al santo Dios la mente queremos elevar,",
+                "Silencio reverente habremos de guardar.",
+                ""
+              ]
+            },
+            {
+              "tipo": "estrofa",
+              "numero": 3,
+              "lineas": [
+                "Mil coros celestiales a Dios cantando están,",
+                "A ellos los mortales sus voces unirán.",
+                ""
+              ]
+            },
+            {
+              "tipo": "estrofa",
+              "numero": 4,
+              "lineas": [
+                "Alcemos, pues, el alma con santa devoción,",
+                "Gozando en dulce calma de Dios la comunión.",
+                ""
+              ]
+            },
+            {
+              "tipo": "estrofa",
+              "numero": 5,
+              "lineas": [
+                "La Biblia bendecida, de Dios revelación,",
+                "A meditar convida en nuestra condición.",
+                ""
+              ]
+            },
+            {
+              "tipo": "estrofa",
+              "numero": 6,
+              "lineas": [
+                "¡Silencio! que ha llegado del culto la oración.",
+                "Dios se halla a nuestro lado: ¡Silencio y devoción!"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "numero": 2,
+        "titulo": "A TU CASA, PADRE, VENIMOS HOY",
+        "carpeta": "01 Himnario Iglesia de Dios",
+        "tono": null,
+        "idioma": "es",
+        "fuente": "opensong",
+        "cantidadEstrofas": 5,
+        "estrofas": [
+          {
+            "numero": 1,
+            "texto": "A tu casa, Padre, venimos hoy\nHimnos para levantar,\nY ensalzar el nombre del Salvador,\nY en tus obras meditar.\n",
+            "tipo": "estrofa"
+          },
+          {
+            "numero": 1,
+            "texto": "A la casa tuya acudimos, Señor,\nDo tu pueblo anhela estar;\nComo enseña tu fiel palabra, así\nTe queremos adorar.\n",
+            "tipo": "coro"
+          },
+          {
+            "numero": 2,
+            "texto": "Hasta ahora has dado tu protección\nEn el diario caminar;\nPor la noche fiel tú nos guiarás\nHasta ver la luz brillar.\n",
+            "tipo": "estrofa"
+          },
+          {
+            "numero": 3,
+            "texto": "Que tu pueblo unido de corazón\nGoce comunión aquí,\nQue en la tierra se haga tu voluntad\nComo en el cielo allí.\n",
+            "tipo": "estrofa"
+          },
+          {
+            "numero": 4,
+            "texto": "Como incienso a ti suba la oración.\nOh, recíbela Señor;\nNuestra gratitud te cantamos hoy\nEn tributo de loor.",
+            "tipo": "estrofa"
+          }
+        ],
+        "letraCompleta": "A tu casa, Padre, venimos hoy\nHimnos para levantar,\nY ensalzar el nombre del Salvador,\nY en tus obras meditar.\n\nA la casa tuya acudimos, Señor,\nDo tu pueblo anhela estar;\nComo enseña tu fiel palabra, así\nTe queremos adorar.\n\nHasta ahora has dado tu protección\nEn el diario caminar;\nPor la noche fiel tú nos guiarás\nHasta ver la luz brillar.\n\nQue tu pueblo unido de corazón\nGoce comunión aquí,\nQue en la tierra se haga tu voluntad\nComo en el cielo allí.\n\nComo incienso a ti suba la oración.\nOh, recíbela Señor;\nNuestra gratitud te cantamos hoy\nEn tributo de loor.",
+        "opensongData": {
+          "numero": 2,
+          "titulo": "A TU CASA, PADRE, VENIMOS HOY",
+          "carpeta": "01 Himnario Iglesia de Dios",
+          "tono": null,
+          "compas": null,
+          "autor": null,
+          "compositor": null,
+          "copyright": null,
+          "ccli": null,
+          "tempo": null,
+          "referencias_biblicas": [],
+          "secciones": [
+            {
+              "tipo": "estrofa",
+              "numero": 1,
+              "lineas": [
+                "A tu casa, Padre, venimos hoy",
+                "Himnos para levantar,",
+                "Y ensalzar el nombre del Salvador,",
+                "Y en tus obras meditar.",
+                ""
+              ]
+            },
+            {
+              "tipo": "coro",
+              "lineas": [
+                "A la casa tuya acudimos, Señor,",
+                "Do tu pueblo anhela estar;",
+                "Como enseña tu fiel palabra, así",
+                "Te queremos adorar.",
+                ""
+              ]
+            },
+            {
+              "tipo": "estrofa",
+              "numero": 2,
+              "lineas": [
+                "Hasta ahora has dado tu protección",
+                "En el diario caminar;",
+                "Por la noche fiel tú nos guiarás",
+                "Hasta ver la luz brillar.",
+                ""
+              ]
+            },
+            {
+              "tipo": "estrofa",
+              "numero": 3,
+              "lineas": [
+                "Que tu pueblo unido de corazón",
+                "Goce comunión aquí,",
+                "Que en la tierra se haga tu voluntad",
+                "Como en el cielo allí.",
+                ""
+              ]
+            },
+            {
+              "tipo": "estrofa",
+              "numero": 4,
+              "lineas": [
+                "Como incienso a ti suba la oración.",
+                "Oh, recíbela Señor;",
+                "Nuestra gratitud te cantamos hoy",
+                "En tributo de loor."
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "numero": 3,
+        "titulo": "¡OH QUE GRANDE ES NUESTRO DIOS!",
+        "carpeta": "01 Himnario Iglesia de Dios",
+        "tono": null,
+        "idioma": "es",
+        "fuente": "opensong",
+        "cantidadEstrofas": 5,
+        "estrofas": [
+          {
+            "numero": 1,
+            "texto": "Por su poder Dios pudo crear\nEl gran cielo, tierra y mar;\nSostiene al mundo con bondad\nY suprema majestad.\n",
+            "tipo": "estrofa"
+          },
+          {
+            "numero": 1,
+            "texto": "¡Oh, qué grande es nuestro Dios!\n¡Oh, qué grande es nuestro Dios!\n\nReina en majestad, reina con bondad;\n¡Oh, qué es nuestro Dios!\n",
+            "tipo": "coro"
+          },
+          {
+            "numero": 2,
+            "texto": "El mundo de la nada creó;\nLas montañas El formó;\nSu mano mide extenso mar,\nY los astros puede guiar\n",
+            "tipo": "estrofa"
+          },
+          {
+            "numero": 3,
+            "texto": "Su voz aquieta el turbio mar,\nCalma fiera tempestad;\nLos cielos cantan su loor,\nLo proclaman el Señor.\n",
+            "tipo": "estrofa"
+          },
+          {
+            "numero": 4,
+            "texto": "Para salvar la humanidad\nA su Hijo Dios nos dio;\nLa vida del creyente en El\nSe convierte en un Edén.",
+            "tipo": "estrofa"
+          }
+        ],
+        "letraCompleta": "Por su poder Dios pudo crear\nEl gran cielo, tierra y mar;\nSostiene al mundo con bondad\nY suprema majestad.\n\n¡Oh, qué grande es nuestro Dios!\n¡Oh, qué grande es nuestro Dios!\n\nReina en majestad, reina con bondad;\n¡Oh, qué es nuestro Dios!\n\nEl mundo de la nada creó;\nLas montañas El formó;\nSu mano mide extenso mar,\nY los astros puede guiar\n\nSu voz aquieta el turbio mar,\nCalma fiera tempestad;\nLos cielos cantan su loor,\nLo proclaman el Señor.\n\nPara salvar la humanidad\nA su Hijo Dios nos dio;\nLa vida del creyente en El\nSe convierte en un Edén.",
+        "opensongData": {
+          "numero": 3,
+          "titulo": "¡OH QUE GRANDE ES NUESTRO DIOS!",
+          "carpeta": "01 Himnario Iglesia de Dios",
+          "tono": null,
+          "compas": null,
+          "autor": null,
+          "compositor": null,
+          "copyright": null,
+          "ccli": null,
+          "tempo": null,
+          "referencias_biblicas": [],
+          "secciones": [
+            {
+              "tipo": "estrofa",
+              "numero": 1,
+              "lineas": [
+                "Por su poder Dios pudo crear",
+                "El gran cielo, tierra y mar;",
+                "Sostiene al mundo con bondad",
+                "Y suprema majestad.",
+                ""
+              ]
+            },
+            {
+              "tipo": "coro",
+              "lineas": [
+                "¡Oh, qué grande es nuestro Dios!",
+                "¡Oh, qué grande es nuestro Dios!",
+                "",
+                "Reina en majestad, reina con bondad;",
+                "¡Oh, qué es nuestro Dios!",
+                ""
+              ]
+            },
+            {
+              "tipo": "estrofa",
+              "numero": 2,
+              "lineas": [
+                "El mundo de la nada creó;",
+                "Las montañas El formó;",
+                "Su mano mide extenso mar,",
+                "Y los astros puede guiar",
+                ""
+              ]
+            },
+            {
+              "tipo": "estrofa",
+              "numero": 3,
+              "lineas": [
+                "Su voz aquieta el turbio mar,",
+                "Calma fiera tempestad;",
+                "Los cielos cantan su loor,",
+                "Lo proclaman el Señor.",
+                ""
+              ]
+            },
+            {
+              "tipo": "estrofa",
+              "numero": 4,
+              "lineas": [
+                "Para salvar la humanidad",
+                "A su Hijo Dios nos dio;",
+                "La vida del creyente en El",
+                "Se convierte en un Edén."
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "fecha": 1782433705792
+  }
+]

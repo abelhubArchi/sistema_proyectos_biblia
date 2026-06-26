@@ -144,21 +144,66 @@ async function iniciar() {
 
   // ─── Paso 6: Abrir navegador ──────────────────────────────────────
   if (config.servidor.abrirNavegador) {
-    const panelUrl = `http://${infoRed.ip === "localhost" ? "localhost" : infoRed.ip}:${config.servidor.puerto}/panel`;
-    console.log(" Abriendo panel en el navegador...");
+    const baseUrl = `http://${infoRed.ip === "localhost" ? "localhost" : infoRed.ip}:${config.servidor.puerto}`;
+    console.log(" Detectando pantallas para abrir ventanas...");
 
+    const { execSync, exec } = require("child_process");
+    let screens = [];
     try {
-      // Dynamic import for ESM 'open' package
-      const open = (await import("open")).default;
-      await open(panelUrl);
+      const output = execSync('powershell -Command "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.Screen]::AllScreens | ConvertTo-Json"', { encoding: 'utf8' });
+      const parsed = JSON.parse(output);
+      screens = Array.isArray(parsed) ? parsed : [parsed];
     } catch (e) {
-      // Fallback: usar start de Windows
+      console.log("  No se pudo detectar múltiples pantallas.");
+    }
+
+    const chromePaths = [
+        "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+        "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    ];
+    let browserPath = null;
+    for (const p of chromePaths) {
+        if (fs.existsSync(p)) {
+            browserPath = p;
+            break;
+        }
+    }
+
+    if (screens.length > 1 && browserPath) {
+      console.log("  Múltiples pantallas detectadas.");
+      const primary = screens.find(s => s.Primary) || screens[0];
+      const secondary = screens.find(s => !s.Primary) || screens[1];
+
+      // Usar perfiles temporales para forzar nuevas instancias y que respeten la posición
+      const os = require("os");
+      const path = require("path");
+      const userDataDirPrimary = path.join(os.tmpdir(), "church-utils-primary");
+      const userDataDirSecondary = path.join(os.tmpdir(), "church-utils-secondary");
+
+      // Abrir en laptop (Principal) -> /
+      const primaryCmd = `"${browserPath}" --app="${baseUrl}/" --window-position=${primary.Bounds.X},${primary.Bounds.Y} --user-data-dir="${userDataDirPrimary}"`;
+      exec(primaryCmd);
+      console.log("  -> Abierto controlador (/) en pantalla principal");
+
+      // Abrir en HDMI (Secundaria) -> /pantalla (F11)
+      const secondaryCmd = `"${browserPath}" --app="${baseUrl}/pantalla" --window-position=${secondary.Bounds.X},${secondary.Bounds.Y} --start-fullscreen --user-data-dir="${userDataDirSecondary}"`;
+      exec(secondaryCmd);
+      console.log("  -> Abierta proyección (/pantalla) en pantalla secundaria (F11)");
+
+    } else {
+      // Fallback a abrir solo el principal (/) si hay 1 pantalla o falló detectar
+      console.log("  Abriendo controlador en el navegador (1 pantalla detectada)...");
       try {
-        const { exec } = require("child_process");
-        exec(`start "" "${panelUrl}"`);
-      } catch (e2) {
-        console.log("  No se pudo abrir el navegador automáticamente.");
-        console.log("   Abre manualmente: " + panelUrl);
+        const open = (await import("open")).default;
+        await open(baseUrl + "/");
+      } catch (e) {
+        try {
+          exec(`start "" "${baseUrl}/"`);
+        } catch (e2) {
+          console.log("  No se pudo abrir el navegador automáticamente.");
+          console.log("   Abre manualmente: " + baseUrl + "/");
+        }
       }
     }
   }
